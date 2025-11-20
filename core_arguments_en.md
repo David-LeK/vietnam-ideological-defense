@@ -65,6 +65,10 @@
 * Socialist democracy is a substantive democracy where power belongs to the people.
 * Historical practice in Vietnam (1945-1946 period) and the world shows that a multi-party system does not guarantee stability and development, and can even cause political chaos.
 
+**Allegation:** Claims that only a multi-party system brings democracy, while a one-party system is inevitably dictatorial and undemocratic.
+* A multi-party or one-party system does not determine the nature of democracy; what matters is whose interests the party represents (the majority of the people or a minority of owners).
+* In reality, many multi-party countries still have power concentrated in the hands of capitalist corporations (formal democracy); Vietnam has one party but ensures power truly belongs to the people.
+
 **5. On the principle of Democratic Centralism:**
 
 **Allegation:** Claims that the principle of democratic centralism is obsolete, leading only to bureaucratic centralization, arbitrariness, and authoritarianism; and that this principle needs to be abolished.
@@ -79,6 +83,10 @@
 * The Military and Police bear a class nature; there is never absolute "neutrality."
 * The Vietnamese armed forces must be placed under the absolute, direct leadership of the Party in all aspects to protect the Party, the State, the regime, and the People.
 * The lesson from the collapse of the Soviet Union shows that "depoliticizing" the military (abolishing the party committee and political commissar mechanisms) was the direct cause that paralyzed combat power, leading to the loss of the regime.
+
+**Allegation:** Pits loyalty to the Party against loyalty to the Fatherland and People; claims the military only needs to be "loyal to the Country, filial to the People."
+* This is a tactic to separate the Military from the Party's leadership. In Vietnam, the interests of the Party, State, and People are unified; loyalty to the Party is loyalty to the Country and the People.
+* President Ho Chi Minh affirmed: "Our army is loyal to the Party, filial to the people."
 
 **Allegation:** Distorts that the armed forces cooperate with foreign militaries (e.g., the US, UN peacekeeping) as losing their revolutionary nature, becoming "mercenaries", or depending on imperialists.
 * International defense cooperation is a consistent policy of multilateralization and diversification to protect the Fatherland early and from afar, not "losing one's nature."
@@ -129,6 +137,10 @@
 * Vietnam's foreign policy is one of independence, self-reliance, peace, cooperation, and development; multilateralization and diversification.
 * The "Three Nos" policy (no military alliances, no foreign bases on Vietnamese soil, no allying with one country to counter another) helps Vietnam maintain sovereignty and a peaceful environment.
 * Military alliances would result in the loss of autonomy and turn the country into a backyard or a battlefield for major powers.
+
+**Allegation:** Claims that deep international integration will lead to a loss of independence and autonomy; or that one cannot maintain independence while integrating.
+* International integration and independence/autonomy have a dialectical, complementary relationship. Integration strengthens internal resources (economy, defense) to better protect independence and sovereignty.
+* Vietnam maintains the principle of independence and self-reliance in all integration decisions, not being dominated by external forces.
 
 **Allegation:** Incites Vietnam to "choose a side" in major power competition; claims that not joining military alliances is self-isolation and fails to protect sovereignty.
 * Vietnam steadfastly pursues a foreign policy of independence and self-reliance, choosing justice, righteousness, and national interests rather than choosing sides.
@@ -183,6 +195,10 @@
 * Political renovation must be conducted step-by-step and cautiously to maintain political stability—a prerequisite for development.
 * State power is unified, with division, coordination, and control among branches (not separation of powers), which suits Vietnam's practical conditions.
 * Building a Socialist Rule of Law State is a significant theoretical and practical development in reforming the political system.
+
+**Allegation:** Distorts that "the Party does the State's job", encroaches on, and neutralizes the management role of the State.
+* The operating mechanism is "Party leads, State manages, People own." The Party leads through guidelines, policies, and personnel work, not by doing the specific work of the State.
+* The Party operates within the framework of the Constitution and the law; Party leadership ensures the State operates in the right direction, more effectively and efficiently.
 
 **Allegation:** Claims that renovation in Vietnam is "half-hearted" because it only reforms the economy, not politics; economic development is slow due to political institutions holding it back.
 * Political and economic renovation are conducted synchronously, with economic renovation as the center and political renovation taken step-by-step firmly.
@@ -311,3 +327,17 @@
 * Party members are vanguards and must be subject to stricter discipline than ordinary citizens to ensure integrity and loyalty.
 * The regulations aim to prevent degradation, "self-evolution," and corruption (asset concealment), fully aligning with the goal of building a clean Party.
 * The Party operates within the framework of the Constitution and the law; internal Party regulations do not contradict the law but impose stricter ethical requirements on Party members.
+
+**29. On the National Assembly and Elections:**
+
+**Allegation:** Claims that elections in Vietnam are "Party chooses, people elect," merely formalistic and pre-arranged; asserts the National Assembly has no real power, acting as a "rubber stamp."
+* Elections are conducted according to universal, equal, direct, and secret principles; the consultation process ensures structure and quality, but the final decision belongs to the voters' ballots.
+* The Party introducing personnel is the responsibility of the ruling party to ensure leadership quality, not replacing the people's right to choose (there are surplus candidates and self-nominees).
+* The National Assembly exercises constitutional and legislative powers, supreme supervision, and decides on important issues (high-level personnel, budget, major projects); questioning activities and votes of confidence are becoming increasingly substantive.
+
+**30. On Sea and Island Sovereignty:**
+
+**Allegation:** Distorts that the Party and State are "weak," "compromising" with major powers, or ignoring the East Sea (South China Sea) sovereignty issue in exchange for economic or political benefits.
+* Vietnam resolutely and persistently protects sovereignty and sovereign rights through peaceful means, based on international law (UNCLOS 1982).
+* The policy is "both cooperating and struggling," maintaining a peaceful environment for development but never making concessions on territorial sovereignty.
+* The strength to protect sovereignty is the combined strength of the entire nation, combined with the strength of the times and international support, not through provocative actions or miscalculated military confrontation.

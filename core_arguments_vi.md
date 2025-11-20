@@ -65,6 +65,10 @@
 * Dân chủ XHCN là nền dân chủ thực chất, quyền lực thuộc về nhân dân.
 * Thực tiễn lịch sử Việt Nam (giai đoạn 1945-1946) và thế giới cho thấy đa đảng không đảm bảo sự ổn định và phát triển, thậm chí gây rối loạn chính trị. 
 
+**Luận điệu:** Cho rằng cứ đa đảng mới có dân chủ, còn một đảng duy nhất cầm quyền là độc tài, mất dân chủ.
+* Đa đảng hay một đảng không quyết định bản chất dân chủ; quan trọng là đảng đó đại diện cho lợi ích của ai (đa số nhân dân hay thiểu số giới chủ).
+* Thực tế nhiều nước đa đảng nhưng quyền lực vẫn nằm trong tay các tập đoàn tư bản (dân chủ hình thức); Việt Nam một đảng nhưng đảm bảo quyền lực thực sự thuộc về nhân dân.
+
 **5. Về nguyên tắc tập trung dân chủ:**
 
 **Luận điệu:** Cho rằng nguyên tắc tập trung dân chủ đã lỗi thời, chỉ dẫn đến tập trung quan liêu, độc đoán, chuyên quyền; cần xóa bỏ nguyên tắc này.
@@ -79,6 +83,10 @@
 * Quân đội và Công an mang bản chất giai cấp, không bao giờ có sự "trung lập" tuyệt đối.
 * Lực lượng vũ trang Việt Nam phải đặt dưới sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng để bảo vệ Đảng, Nhà nước, chế độ và Nhân dân.
 * Bài học từ sự sụp đổ của Liên Xô cho thấy việc "phi chính trị hóa" quân đội (xóa bỏ cơ chế đảng ủy, chính ủy) là nguyên nhân trực tiếp làm tê liệt sức chiến đấu, dẫn đến mất chế độ.
+
+**Luận điệu:** Đối lập việc trung thành với Đảng và trung thành với Tổ quốc, Nhân dân; cho rằng quân đội chỉ cần "trung với nước, hiếu với dân" là đủ.
+* Đây là thủ đoạn tách rời Quân đội khỏi sự lãnh đạo của Đảng. Tại Việt Nam, lợi ích của Đảng, Nhà nước, và Nhân dân là thống nhất; trung với Đảng chính là trung với Nước, hiếu với Dân.
+* Chủ tịch Hồ Chí Minh đã khẳng định: "Quân đội ta trung với Đảng, hiếu với dân".
 
 **Luận điệu:** Xuyên tạc việc quân đội tham gia hợp tác quốc tế (như gìn giữ hòa bình LHQ, hợp tác với Mỹ) là "mất chất", là "lính đánh thuê" hay "phụ thuộc".
 * Hợp tác quốc phòng là xu thế tất yếu để bảo vệ Tổ quốc từ sớm, từ xa; thực hiện đường lối đối ngoại đa phương hóa, đa dạng hóa.
@@ -129,6 +137,10 @@
 * Đường lối đối ngoại của Việt Nam là độc lập, tự chủ, hòa bình, hợp tác và phát triển; đa phương hóa, đa dạng hóa.
 * Chính sách "ba không" (không tham gia liên minh quân sự, không cho nước ngoài đặt căn cứ, không liên minh với nước này chống nước kia) giúp Việt Nam giữ vững chủ quyền và môi trường hòa bình.
 * Liên minh quân sự sẽ làm mất quyền tự chủ và biến đất nước thành sân sau hoặc chiến trường của các nước lớn.
+
+**Luận điệu:** Cho rằng hội nhập quốc tế sâu rộng sẽ làm mất độc lập, tự chủ; hoặc đã hội nhập thì không thể giữ được độc lập.
+* Hội nhập quốc tế và độc lập tự chủ có mối quan hệ biện chứng, bổ trợ nhau. Hội nhập giúp tăng cường nội lực (kinh tế, quốc phòng) để bảo vệ tốt hơn độc lập, chủ quyền.
+* Việt Nam giữ vững nguyên tắc độc lập, tự chủ trong mọi quyết sách hội nhập, không bị chi phối bởi bên ngoài.
 
 **Luận điệu:** Kích động Việt Nam phải "chọn bên" trong cạnh tranh nước lớn; cho rằng không liên minh quân sự là tự cô lập, không bảo vệ được chủ quyền.
 * Việt Nam kiên trì đường lối độc lập, tự chủ, không chọn bên mà chọn chính nghĩa, lẽ phải và lợi ích quốc gia - dân tộc.
@@ -183,6 +195,10 @@
 * Đổi mới chính trị phải tiến hành từng bước vững chắc, thận trọng để giữ vững ổn định chính trị - điều kiện tiên quyết để phát triển.
 * Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp và kiểm soát (không phải tam quyền phân lập), phù hợp với thực tiễn Việt Nam.
 * Xây dựng Nhà nước pháp quyền XHCN là bước phát triển quan trọng về lý luận và thực tiễn trong đổi mới hệ thống chính trị.
+
+**Luận điệu:** Xuyên tạc rằng "Đảng làm thay Nhà nước", bao biện, lấn sân, vô hiệu hóa vai trò quản lý của Nhà nước.
+* Cơ chế vận hành là "Đảng lãnh đạo, Nhà nước quản lý, Nhân dân làm chủ". Đảng lãnh đạo bằng đường lối, chủ trương, công tác cán bộ, không làm thay công việc cụ thể của Nhà nước.
+* Đảng hoạt động trong khuôn khổ Hiến pháp và pháp luật; sự lãnh đạo của Đảng đảm bảo Nhà nước hoạt động đúng định hướng, hiệu lực và hiệu quả hơn.
 
 **Luận điệu:** Cho rằng đổi mới ở Việt Nam là "nửa vời" vì chỉ đổi mới kinh tế, không đổi mới chính trị; kinh tế phát triển chậm do thể chế chính trị kìm hãm.
 * Đổi mới chính trị và kinh tế được tiến hành đồng bộ, trong đó đổi mới kinh tế là trọng tâm, đổi mới chính trị là từng bước vững chắc.
@@ -311,3 +327,17 @@
 * Đảng viên là chiến sĩ tiên phong, phải chịu sự ràng buộc kỷ luật cao hơn công dân bình thường để đảm bảo sự liêm chính và trung thành.
 * Quy định nhằm ngăn chặn suy thoái, "tự diễn biến", phòng chống tham nhũng (tẩu tán tài sản), hoàn toàn phù hợp với mục tiêu xây dựng Đảng trong sạch.
 * Đảng hoạt động trong khuôn khổ Hiến pháp và pháp luật; quy định nội bộ Đảng không trái luật mà bổ sung yêu cầu khắt khe hơn về đạo đức cho đảng viên.
+
+**29. Về Quốc hội và Bầu cử:**
+
+**Luận điệu:** Cho rằng bầu cử tại Việt Nam là "Đảng cử, dân bầu", chỉ là hình thức, sắp đặt trước; Quốc hội không có thực quyền, chỉ là "nghị gật".
+* Bầu cử thực hiện theo nguyên tắc phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín; quy trình hiệp thương chặt chẽ đảm bảo cơ cấu và chất lượng, nhưng quyền quyết định cuối cùng thuộc về lá phiếu của cử tri.
+* Việc Đảng giới thiệu nhân sự là trách nhiệm của đảng cầm quyền nhằm đảm bảo chất lượng lãnh đạo, không thay thế quyền lựa chọn của dân (có số dư, có tự ứng cử).
+* Quốc hội thực hiện quyền lực lập hiến, lập pháp và giám sát tối cao, quyết định các vấn đề quan trọng (nhân sự cấp cao, ngân sách, dự án lớn); hoạt động chất vấn và lấy phiếu tín nhiệm ngày càng thực chất.
+
+**30. Về Chủ quyền Biển, Đảo:**
+
+**Luận điệu:** Xuyên tạc rằng Đảng và Nhà nước "nhu nhược", "thỏa hiệp" với nước lớn, làm ngơ trước vấn đề chủ quyền Biển Đông để đổi lấy lợi ích kinh tế hoặc chính trị.
+* Việt Nam kiên quyết, kiên trì bảo vệ chủ quyền, quyền chủ quyền bằng các biện pháp hòa bình, dựa trên luật pháp quốc tế (UNCLOS 1982).
+* Chủ trương "vừa hợp tác, vừa đấu tranh", giữ vững môi trường hòa bình để phát triển nhưng không bao giờ nhân nhượng về chủ quyền lãnh thổ.
+* Sức mạnh bảo vệ chủ quyền là sức mạnh tổng hợp của toàn dân tộc, kết hợp sức mạnh thời đại và sự ủng hộ quốc tế, không phải là những hành động khiêu khích hay đối đầu quân sự thiếu tính toán.
