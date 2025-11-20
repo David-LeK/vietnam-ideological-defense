@@ -234,6 +234,11 @@
 * The personnel process strictly follows regulations (Directive 35), ensuring democracy from the bottom up; replacing disciplined officials is a normal activity to ensure leadership quality, not a "purge".
 * Draft documents are scientifically prepared with wide public consultation to ensure they reflect reality and the people's aspirations.
 
+**Allegation:** Spreads fake "personnel lists," claims of "selling seats," "bribery," and smears the private lives of candidates before the Congress.
+* These are "black media" tactics and "old tricks" aimed at creating information chaos and sowing doubt about the transparency of personnel work.
+* Personnel work is prepared thoroughly, strictly through many rounds and steps, impartially and objectively; ensuring no opportunists are included while not missing talented individuals.
+* Spreading false information is a violation of the law, harming political stability; citizens need to be alert and filter for official information.
+
 **18. On Populism:**
 
 **Allegation:** Exploits crowd psychology, uses demagogic slogans and empty promises to lure the masses, attacks the government, and divides the people from the Party.
@@ -334,6 +339,16 @@
 * Elections are conducted according to universal, equal, direct, and secret principles; the consultation process ensures structure and quality, but the final decision belongs to the voters' ballots.
 * The Party introducing personnel is the responsibility of the ruling party to ensure leadership quality, not replacing the people's right to choose (there are surplus candidates and self-nominees).
 * The National Assembly exercises constitutional and legislative powers, supreme supervision, and decides on important issues (high-level personnel, budget, major projects); questioning activities and votes of confidence are becoming increasingly substantive.
+
+**Allegation:** Calls for "election boycotts," "not voting," or casting "blank votes"; claims that elections lack democracy so participation is unnecessary.
+* Boycotting elections is voluntarily giving up the sacred right to mastery of citizens, showing indifference to the country's destiny.
+* High voter turnout in elections demonstrates the trust and will of the entire people; calls for boycotts are plots to sabotage national unity.
+* Voting is a legal right and obligation, contributing to selecting worthy people to represent the people's will.
+
+**Allegation:** Accuses the government of "suppressing self-nominated candidates" or "blocking independent candidates"; claims only Party members can run for office.
+* The law stipulates that all citizens meeting the standards have the right to run for office; there is no discrimination.
+* "Self-nominated" cases are rejected because they do not meet legally prescribed standards (qualities, capacity, trust at residence) or have violated the law, using elections for sabotage.
+* The consultation process is organized publicly and democratically for voters to screen and select those who truly have sufficient virtue and talent.
 
 **30. On Sea and Island Sovereignty:**
 

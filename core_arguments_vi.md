@@ -234,6 +234,11 @@
 * Quy trình nhân sự tuân thủ nghiêm ngặt quy định (Chỉ thị 35), đảm bảo dân chủ từ dưới lên; việc thay thế cán bộ bị kỷ luật là hoạt động bình thường để đảm bảo chất lượng lãnh đạo, không phải là "thanh trừng".
 * Văn kiện được chuẩn bị công phu, khoa học, lấy ý kiến rộng rãi của nhân dân để đảm bảo tính thực tiễn và khả thi.
 
+**Luận điệu:** Tung ra các "danh sách nhân sự" giả mạo, rêu rao về "định giá ghế", "chạy chức chạy quyền", bôi nhọ đời tư ứng viên trước thềm Đại hội.
+* Đây là thủ đoạn "truyền thông đen", "bổn cũ soạn lại" nhằm gây nhiễu loạn thông tin, gieo rắc hoài nghi về tính minh bạch trong công tác cán bộ.
+* Công tác nhân sự được chuẩn bị kỹ lưỡng, chặt chẽ qua nhiều vòng, nhiều bước, công tâm và khách quan; không để lọt kẻ cơ hội, nhưng cũng không bỏ sót người tài.
+* Việc tán phát thông tin sai sự thật là hành vi vi phạm pháp luật, gây phương hại đến ổn định chính trị; người dân cần tỉnh táo sàng lọc thông tin chính thống.
+
 **18. Về Chủ nghĩa dân túy:**
 
 **Luận điệu:** Lợi dụng tâm lý đám đông, đưa ra các khẩu hiệu mị dân, hứa hẹn viển vông để lôi kéo quần chúng, công kích chính quyền, chia rẽ nhân dân với Đảng.
@@ -334,6 +339,16 @@
 * Bầu cử thực hiện theo nguyên tắc phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín; quy trình hiệp thương chặt chẽ đảm bảo cơ cấu và chất lượng, nhưng quyền quyết định cuối cùng thuộc về lá phiếu của cử tri.
 * Việc Đảng giới thiệu nhân sự là trách nhiệm của đảng cầm quyền nhằm đảm bảo chất lượng lãnh đạo, không thay thế quyền lựa chọn của dân (có số dư, có tự ứng cử).
 * Quốc hội thực hiện quyền lực lập hiến, lập pháp và giám sát tối cao, quyết định các vấn đề quan trọng (nhân sự cấp cao, ngân sách, dự án lớn); hoạt động chất vấn và lấy phiếu tín nhiệm ngày càng thực chất.
+
+**Luận điệu:** Kêu gọi "tẩy chay bầu cử", "không đi bỏ phiếu" hoặc "bỏ phiếu trắng"; cho rằng bầu cử thiếu dân chủ nên không cần tham gia.
+* Tẩy chay bầu cử là tự từ bỏ quyền làm chủ thiêng liêng của công dân, thể hiện thái độ thờ ơ với vận mệnh đất nước.
+* Tỷ lệ cử tri đi bầu cao qua các kỳ bầu cử thể hiện niềm tin và ý chí của toàn dân; kêu gọi tẩy chay là âm mưu phá hoại khối đại đoàn kết dân tộc.
+* Đi bầu cử là quyền và nghĩa vụ pháp lý, góp phần lựa chọn người xứng đáng đại diện cho ý chí nhân dân.
+
+**Luận điệu:** Vu cáo chính quyền "đàn áp người tự ứng cử", "ngăn cản ứng viên độc lập"; cho rằng chỉ người của Đảng mới được ứng cử.
+* Pháp luật quy định mọi công dân đủ tiêu chuẩn đều có quyền ứng cử; không có sự phân biệt đối xử.
+* Các trường hợp "tự ứng cử" bị loại bỏ là do không đáp ứng đủ tiêu chuẩn pháp luật quy định (về phẩm chất, năng lực, tín nhiệm nơi cư trú) hoặc có hành vi vi phạm pháp luật, lợi dụng bầu cử để chống phá.
+* Quy trình hiệp thương được tổ chức công khai, dân chủ để cử tri sàng lọc, lựa chọn những người thực sự đủ đức, đủ tài.
 
 **30. Về Chủ quyền Biển, Đảo:**
 
