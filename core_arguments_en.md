@@ -257,6 +257,11 @@
 * Personnel work is prepared thoroughly, strictly through many rounds and steps, impartially and objectively; ensuring no opportunists are included while not missing talented individuals.
 * Spreading false information is a violation of the law, harming political stability; citizens need to be alert and filter for official information.
 
+**Allegation:** Claims that soliciting public opinion on the 14th Party Congress draft documents is "formalistic," "fake democracy," or "demagogic"; asserts the documents are "copied," "clichéd," and "ignore limitations."
+* Soliciting opinions is organized systematically, widely, and substantively (including via the VNeID app), demonstrating the Party's receptiveness and the people's mastery.
+* The documents are built on scientific foundations, looking straight at the truth, acknowledging limitations, and proposing strategic breakthroughs for the new era.
+* Denying the value of the documents is a tactic to lower the Party's prestige and sabotage the Congress.
+
 **18. On Populism:**
 
 **Allegation:** Exploits crowd psychology, uses demagogic slogans and empty promises to lure the masses, attacks the government, and divides the people from the Party.
@@ -270,6 +275,11 @@
 * Land is a special national resource and a crucial resource for development, belonging to the entire people with the State acting as the representative owner.
 * This ownership regime prevents land accumulation by a few, prevents the impoverishment of farmers, and ensures equitable access to land.
 * The State protects land use rights; disputes are resolved according to the law, not due to the nature of the ownership regime.
+
+**Allegation:** Distorts land disputes involving national defense land (e.g., the Dong Tam incident) as "government land grabbing" or "suppressing the people"; portrays law-breaking rioters as "heroes."
+* Defense land (like Mieu Mon airport) is state property, clearly documented, and its recovery is for national defense purposes, not for economic projects or interest groups.
+* Authorities persistently engaged in dialogue and persuasion for years before enforcement.
+* The use of force is a last resort to enforce the law against organized, violent criminal acts (using weapons, grenades) to protect the strictness of the law and social order; it is not "suppression of the people."
 
 **20. On "Civil Disobedience":**
 
@@ -320,6 +330,11 @@
 * The sacrifice of many officers and soldiers during floods is the clearest proof of the spirit of "sacrificing oneself for the people," refuting the callousness of distorted arguments.
 * Vietnam is always proactive in disaster prevention plans; the evacuation and rescue of tens of thousands of people is a massive effort of the entire political system, not "passivity."
 
+**Allegation:** Pits military parades against disaster relief duties; claims the military is "busy parading" and neglects the people; mocks the non-use of helicopters in bad weather as "weakness" or "virtual arrogance."
+* Parades (ceremonial) and disaster relief (combat mission in peacetime) are simultaneous tasks; protecting the people is always the top priority.
+* The decision to use helicopters depends on strict safety and weather conditions; forces always use flexible means (boats, foot) to reach isolated areas.
+* Thousands of troops and militia are deployed on the ground, proving that the army never "abandons" the people.
+
 **24. On Building Culture:**
 
 **Allegation:** Claims that the policy of building an advanced culture imbued with national identity is "unrealistic", "formalistic", "demagogic"; that the Party does not truly care about developing culture and people.
@@ -337,6 +352,11 @@
 **Allegation:** Exploits foreign visa policies (e.g., US student visas) to distort diplomatic relations or disparage domestic education, claiming people are "fleeing" abroad.
 * Studying abroad is a legitimate need in a globalized world and does not imply a rejection of domestic education.
 * Adjustments to visa policies are internal matters of other nations and do not reflect diplomatic rifts. Domestic education is constantly innovating and integrating.
+
+**Allegation:** Exploits isolated incidents of teacher misconduct to claim "degradation of the teaching profession" or "moral crisis"; attacks the dignity of the teaching force.
+* The majority of teachers remain dedicated and overcome difficulties to teach; individual violations do not represent the entire sector.
+* Violations are strictly handled without cover-ups to purify the environment.
+* Protecting the image and dignity of teachers is protecting the foundation of culture and the future of the country.
 
 **26. On Freedom of Speech and Cyberspace:**
 
@@ -456,3 +476,10 @@
 **Allegation:** Distorts the policy of increasing the base salary and wage reform in 2026 as "demagoguery," causing "high inflation," or "prices rising before wages do"; claims the State "abandons" freelance workers.
 * Wage reform is an investment in human resources, enabling officials and public servants to live on their salaries, thereby reducing petty corruption and improving service quality for the people.
 * The Government has price management scenarios to control inflation. Along with raising public sector wages, the State also adjusts regional minimum wages to protect workers in the business sector.
+
+**38. On Counterfeit Goods and Food Safety:**
+
+**Allegation:** Attributes the prevalence of counterfeit goods and dirty food to the "nature of the regime" or a "strategy of officials"; claims that a socialist society nurtures these evils.
+* Counterfeit goods and dirty food are global issues driven by profit and greed, existing in all political regimes (including developed capitalist countries).
+* The Government directs drastic action with the motto "no forbidden zones," strictly handling violations to deter others.
+* Attributing these crimes to the regime's nature is a malicious distortion; the State is constantly perfecting the legal framework and applying technology to protect consumers.

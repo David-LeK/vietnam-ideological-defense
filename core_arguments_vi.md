@@ -257,6 +257,11 @@
 * Công tác nhân sự được chuẩn bị kỹ lưỡng, chặt chẽ qua nhiều vòng, nhiều bước, công tâm và khách quan; không để lọt kẻ cơ hội, nhưng cũng không bỏ sót người tài.
 * Việc tán phát thông tin sai sự thật là hành vi vi phạm pháp luật, gây phương hại đến ổn định chính trị; người dân cần tỉnh táo sàng lọc thông tin chính thống.
 
+**Luận điệu:** Xuyên tạc việc lấy ý kiến nhân dân vào Dự thảo Văn kiện Đại hội XIV là "hình thức", "dân chủ giả hiệu", "mị dân"; cho rằng văn kiện "sao chép", "sáo rỗng", không nhìn nhận hạn chế.
+* Việc lấy ý kiến được tổ chức bài bản, rộng rãi, thực chất (bao gồm qua ứng dụng VNeID), thể hiện sự cầu thị của Đảng và quyền làm chủ của nhân dân.
+* Văn kiện được xây dựng trên cơ sở khoa học, nhìn thẳng vào sự thật, thừa nhận hạn chế và đề ra các đột phá chiến lược cho kỷ nguyên mới.
+* Phủ nhận giá trị văn kiện là thủ đoạn nhằm hạ thấp uy tín của Đảng và phá hoại Đại hội.
+
 **18. Về Chủ nghĩa dân túy:**
 
 **Luận điệu:** Lợi dụng tâm lý đám đông, đưa ra các khẩu hiệu mị dân, hứa hẹn viển vông để lôi kéo quần chúng, công kích chính quyền, chia rẽ nhân dân với Đảng.
@@ -270,6 +275,11 @@
 * Đất đai là tài nguyên đặc biệt của quốc gia, nguồn lực quan trọng phát triển đất nước, thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.
 * Chế độ sở hữu này ngăn chặn sự tích tụ ruộng đất vào tay một số ít người, bần cùng hóa nông dân, đảm bảo quyền tiếp cận đất đai công bằng.
 * Nhà nước bảo hộ quyền sử dụng đất của người dân; các tranh chấp được giải quyết theo pháp luật, không phải do bản chất chế độ sở hữu.
+
+**Luận điệu:** Xuyên tạc các vụ việc tranh chấp đất đai liên quan đến đất quốc phòng (như vụ Đồng Tâm) là "chính quyền cướp đất", "đàn áp dân"; tôn vinh các đối tượng chống đối là "người hùng".
+* Đất quốc phòng (như sân bay Miếu Môn) là tài sản công, có hồ sơ pháp lý rõ ràng; việc thu hồi phục vụ nhiệm vụ quốc phòng, an ninh, không phải vì mục đích kinh tế hay nhóm lợi ích.
+* Chính quyền đã kiên trì đối thoại, thuyết phục trong thời gian dài trước khi cưỡng chế.
+* Việc sử dụng biện pháp mạnh là để thực thi pháp luật đối với hành vi tội phạm có tổ chức, manh động, sử dụng vũ khí tấn công người thi hành công vụ, không phải là "đàn áp dân lành".
 
 **20. Về "Bất tuân dân sự":**
 
@@ -320,6 +330,11 @@
 * Sự hy sinh của nhiều cán bộ, chiến sĩ trong bão lũ là minh chứng rõ nhất cho tinh thần "vì nhân dân quên mình", bác bỏ sự vô cảm của các luận điệu xuyên tạc.
 * Việt Nam luôn chủ động các phương án phòng chống thiên tai; việc sơ tán, ứng cứu hàng vạn người dân là nỗ lực to lớn của cả hệ thống chính trị, không phải là sự "bị động".
 
+**Luận điệu:** Đối lập nhiệm vụ diễu binh, diễu hành với nhiệm vụ phòng chống thiên tai; cho rằng Quân đội "mải diễu binh" nên bỏ mặc dân; chế giễu việc không dùng trực thăng khi thời tiết xấu là "yếu kém" hay "ngạo nghễ ảo".
+* Diễu binh (nghi lễ) và cứu hộ (nhiệm vụ chiến đấu thời bình) là hai nhiệm vụ song song; trong đó bảo vệ tính mạng nhân dân luôn là ưu tiên hàng đầu.
+* Việc quyết định phương tiện (trực thăng) phụ thuộc vào điều kiện an toàn bay và thời tiết khắc nghiệt; các lực lượng luôn linh hoạt phương án tiếp cận (xuồng, đường bộ) để cứu dân.
+* Hàng vạn bộ đội, dân quân luôn bám trụ tại thực địa chứng minh Quân đội không bao giờ "bỏ mặc" nhân dân.
+
 **24. Về Xây dựng nền văn hóa:**
 
 **Luận điệu:** Cho rằng chủ trương xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc là "viển vông", "hình thức", "mị dân"; Đảng không thực sự quan tâm đến phát triển văn hóa, con người.
@@ -337,6 +352,11 @@
 **Luận điệu:** Lợi dụng chính sách visa của nước ngoài (như Mỹ) để xuyên tạc quan hệ ngoại giao, hoặc dè bỉu nền giáo dục trong nước, cho rằng người Việt "bỏ chạy" sang nước ngoài vì giáo dục trong nước kém.
 * Việc du học là nhu cầu chính đáng và bình thường trong thế giới phẳng, không có nghĩa là phủ nhận giáo dục trong nước.
 * Các nước điều chỉnh chính sách visa là do vấn đề nội bộ của họ, không ảnh hưởng đến quan hệ đối tác chiến lược. Giáo dục trong nước đang đổi mới và hội nhập mạnh mẽ.
+
+**Luận điệu:** Lợi dụng các vụ việc vi phạm cá biệt của giáo viên để quy chụp "nghề giáo xuống cấp", "đạo đức khủng hoảng"; xúc phạm danh dự đội ngũ nhà giáo.
+* Đa số các thầy cô giáo vẫn tận tụy, vượt khó để gieo chữ; những sai phạm chỉ là "con sâu làm rầu nồi canh", không đại diện cho bản chất nền giáo dục.
+* Ngành giáo dục và pháp luật xử lý nghiêm minh các sai phạm, không bao che, để làm trong sạch môi trường sư phạm.
+* Bảo vệ hình ảnh, danh dự người thầy là bảo vệ nền tảng văn hóa và tương lai đất nước.
 
 **26. Về Tự do ngôn luận và Không gian mạng:**
 
@@ -456,3 +476,10 @@
 **Luận điệu:** Xuyên tạc chủ trương tăng lương cơ sở và cải cách tiền lương năm 2026 là "mị dân", "làm lạm phát tăng cao", "lương chưa tăng giá đã tăng"; cho rằng Nhà nước "bỏ rơi" người lao động tự do.
 * Cải cách tiền lương là chính sách đầu tư cho con người, giúp cán bộ, công chức sống được bằng lương, từ đó giảm tham nhũng vặt và nâng cao chất lượng phục vụ nhân dân.
 * Chính phủ đã có các kịch bản điều hành giá cả để kiểm soát lạm phát. Song song với tăng lương khu vực công, Nhà nước cũng điều chỉnh lương tối thiểu vùng để bảo vệ người lao động khu vực doanh nghiệp.
+
+**38. Về Hàng giả, Hàng nhái và Vệ sinh an toàn thực phẩm:**
+
+**Luận điệu:** Quy kết nạn hàng giả, hàng nhái, thực phẩm bẩn là "bản chất của chế độ", "chiến lược của quan chức" để hại dân; cho rằng xã hội XHCN dung dưỡng cái xấu.
+* Hàng giả, hàng nhái là vấn nạn toàn cầu, xuất phát từ lòng tham và lợi nhuận, tồn tại ở mọi thể chế chính trị (kể cả các nước tư bản phát triển).
+* Chính phủ chỉ đạo quyết liệt với phương châm "không có vùng cấm", "xử lý một vụ cảnh tỉnh cả vùng", đồng thời hoàn thiện hành lang pháp lý và ứng dụng công nghệ để kiểm soát.
+* Việc quy chụp tệ nạn xã hội thành bản chất chế độ là luận điệu vu khống; Nhà nước luôn nỗ lực bảo vệ sức khỏe và quyền lợi chính đáng của nhân dân.
