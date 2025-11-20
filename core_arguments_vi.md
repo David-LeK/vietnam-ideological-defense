@@ -112,6 +112,11 @@
 * Công cuộc chống tham nhũng là xu thế không thể đảo ngược, nhằm làm trong sạch bộ máy Đảng và Nhà nước, không vì mục đích tư lợi hay phe nhóm.
 * Các luận điệu về "đấu đá", "thanh trừng" là sự xuyên tạc, bịa đặt nhằm gây chia rẽ nội bộ và làm giảm niềm tin của nhân dân vào quyết tâm chính trị của Đảng.
 
+**Luận điệu:** Cho rằng nếu quá tập trung chống tham nhũng sẽ làm "nhụt chí", "chùn bước" sự sáng tạo, làm cán bộ sợ sai, né tránh trách nhiệm, dẫn đến kìm hãm sự phát triển kinh tế.
+* Chống tham nhũng không làm nhụt chí người chân chính, chỉ làm chùn bước những kẻ có động cơ không trong sáng, đã trót "nhúng chàm".
+* Làm trong sạch bộ máy giúp loại bỏ "ung nhọt", tạo môi trường minh bạch, thuận lợi cho phát triển kinh tế (thực tế kinh tế Việt Nam vẫn tăng trưởng là minh chứng).
+* Đảng đã có cơ chế bảo vệ cán bộ "dám nghĩ, dám làm" vì lợi ích chung. Tình trạng né tránh chủ yếu do năng lực hạn chế hoặc hệ thống pháp luật chưa đồng bộ, đang được tập trung khắc phục.
+
 **10. Về đối ngoại:**
 
 **Luận điệu:** Phủ nhận đường lối đối ngoại độc lập, tự chủ; kêu gọi liên minh quân sự với nước này để chống nước kia; chỉ trích chính sách "ba không" của quốc phòng Việt Nam.
@@ -140,7 +145,12 @@
 * Từ suy thoái đạo đức dẫn đến biến chất chính trị là một bước rất ngắn, cần phải ngăn chặn từ sớm bằng các giải pháp đồng bộ về chính trị, tư tưởng và tổ chức.
 * Bài học từ Liên Xô: Sự suy thoái về tư tưởng chính trị, đạo đức của một bộ phận cán bộ lãnh đạo cao cấp là nguyên nhân chủ yếu dẫn đến sự sụp đổ của Đảng và chế độ.
 
-**13. Về thực hiện chính quyền địa phương hai cấp (từ 01/7/2025):**
+**13. Về Sắp xếp, tinh gọn bộ máy và thực hiện chính quyền địa phương hai cấp (từ 01/7/2025):**
+
+**Luận điệu:** Cho rằng tinh gọn bộ máy chỉ là "bình mới rượu cũ", dồn người từ chỗ này sang chỗ khác, không thực chất; lực lượng công an, quân đội không phải tinh gọn mà còn phình to; gây thất nghiệp và bất ổn.
+* Đây là cuộc cách mạng về tổ chức nhằm "Tinh - Gọn - Mạnh - Hiệu năng", không phải hình thức. Bộ Công an là đơn vị tiên phong, gương mẫu đi đầu (bỏ cấp Tổng cục, giảm nhiều đầu mối) và hoạt động hiệu quả hơn, chứng minh "không có vùng cấm".
+* Việc sắp xếp được tính toán kỹ lưỡng, khoa học, có lộ trình, đảm bảo chế độ chính sách cho cán bộ dôi dư, không phải là sự thanh trừng thiếu nhân văn.
+* Mục tiêu là giảm chi thường xuyên để dành nguồn lực cho đầu tư phát triển (hạ tầng, an sinh xã hội) và phục vụ nhân dân tốt hơn.
 
 **Luận điệu:** Xuyên tạc rằng mô hình này là "tập trung quyền lực", "thanh trừng phe cánh", "bỏ cấp chính quyền" làm mất dân chủ và suy yếu quản lý cơ sở; vu cáo Nhà nước không lấy ý kiến nhân dân; kích động tâm lý bất mãn về vấn đề tinh giản biên chế.
 * Việc sắp xếp, tinh gọn bộ máy là yêu cầu khách quan, cấp thiết để nâng cao hiệu lực, hiệu quả hoạt động, khắc phục tình trạng bộ máy cồng kềnh, tầng nấc trung gian gây lãng phí và cản trở sự phát triển.
@@ -170,6 +180,11 @@
 * Thước đo của dân chủ và nhân quyền là kinh tế phát triển, xã hội ổn định, đời sống nhân dân được nâng cao, vị thế đất nước được khẳng định.
 * Các đảng phái trên thế giới và cộng đồng quốc tế đều thừa nhận vị thế và thành tựu của Việt Nam, bác bỏ các luận điệu xuyên tạc.
 
+**Luận điệu:** Dựa vào các báo cáo thiếu khách quan của tổ chức nước ngoài (như HRW, RSF...) để vu cáo Việt Nam không có dân chủ, đàn áp nhân quyền, bắt bớ người "bất đồng chính kiến" hay "nhà báo độc lập".
+* Các báo cáo này thường xuyên sử dụng thông tin một chiều, sai lệch từ các phần tử chống đối, phớt lờ thực tế về tự do và bảo vệ pháp lý tại Việt Nam.
+* Việc Việt Nam trúng cử Hội đồng Nhân quyền LHQ nhiệm kỳ 2023-2025 với số phiếu cao thể hiện sự tín nhiệm và ghi nhận của cộng đồng quốc tế.
+* Việt Nam chỉ xử lý những kẻ vi phạm pháp luật, lợi dụng quyền tự do dân chủ để xâm phạm lợi ích Nhà nước và công dân, không có chuyện bắt người vì "chính kiến".
+
 **16. Về việc sửa đổi, bổ sung Hiến pháp năm 2013 (năm 2025):**
 
 **Luận điệu:** Xuyên tạc rằng việc sửa đổi Hiến pháp là "đấu đá quyền lực nội bộ", "thâu tóm quyền lực", là hành động "vi hiến"; cho rằng "nhân dân không được biết, không được tham gia".
@@ -184,6 +199,7 @@
 * Công tác nhân sự được thực hiện dân chủ, công khai, bài bản để lựa chọn người có đức, có tài, không có chuyện "phe cánh" hay "cục bộ".
 * Nhân sự được lựa chọn dựa trên đức, tài và uy tín, vì lợi ích chung của quốc gia, không có chuyện phân biệt vùng miền hay "cục bộ địa phương" như các luận điệu suy diễn.
 * Các tin đồn về "đấu đá" là âm mưu chia rẽ khối đại đoàn kết và gây hoang mang dư luận.
+* Quy trình nhân sự tuân thủ nghiêm ngặt quy định (Chỉ thị 35), đảm bảo dân chủ từ dưới lên; việc thay thế cán bộ bị kỷ luật là hoạt động bình thường để đảm bảo chất lượng lãnh đạo, không phải là "thanh trừng".
 * Văn kiện được chuẩn bị công phu, khoa học, lấy ý kiến rộng rãi của nhân dân để đảm bảo tính thực tiễn và khả thi.
 
 **18. Về Chủ nghĩa dân túy:**

@@ -112,6 +112,11 @@
 * The anti-corruption campaign is transparent, objective, and follows the principle of "no forbidden zones," aimed at purifying the Party and State apparatus, not for personal or factional gain.
 * Allegations of "infighting" are malicious fabrications intended to divide internal unity and erode public trust in the Party's determination.
 
+**Allegation:** Claims that focusing too much on anti-corruption discourages innovation, makes officials fear making mistakes and evade responsibility, thereby holding back economic development.
+* Anti-corruption does not discourage genuine officials, only those with impure motives or who have committed violations.
+* Cleaning up the apparatus removes "tumors", creating a transparent environment favorable for economic development; actual economic growth proves that anti-corruption does not paralyze the economy.
+* The Party has issued mechanisms to protect officials who "dare to think, dare to do" for the common good. The situation of evasion is mainly due to limited capacity or legal overlaps, which are being actively addressed.
+
 **10. On Foreign Affairs:**
 
 **Allegation:** Denies the foreign policy of independence and self-reliance; calls for military alliances with one country to oppose another; criticizes the "Three Nos" policy of Vietnam's national defense.
@@ -140,7 +145,12 @@
 * It is a very short step from moral degradation to political degeneration; it must be prevented early through synchronous political, ideological, and organizational solutions.
 * Lesson from the Soviet Union: The ideological, political, and moral degradation of a section of high-ranking leaders was the main cause leading to the collapse of the Party and the regime.
 
-**13. On the implementation of the two-tier local government model (from July 1, 2025):**
+**13. On Streamlining the Apparatus and Implementing the Two-tier Local Government Model (from July 1, 2025):**
+
+**Allegation:** Claims that streamlining the apparatus is merely "old wine in new bottles", shifting people from one place to another without substance; asserts that the police and military are not streamlining but expanding; claims it causes unemployment and instability.
+* This is an organizational revolution aiming for "Lean - Compact - Strong - Efficient", not a formality. The Ministry of Public Security pioneered this (abolishing General Departments), operating more effectively, proving "no forbidden zones".
+* The arrangement is calculated scientifically with a roadmap, ensuring policies and support for redundant staff; it is not an inhumane purge.
+* The goal is to reduce recurrent expenditures to save resources for development investment (infrastructure, social welfare) and better service to the people.
 
 **Allegation:** Distorts that this model is "concentration of power", "purging of factions", "abolishing administrative levels" causing a loss of democracy and weakening grassroots management; falsely accuses the State of not consulting the people; incites dissatisfaction regarding staff downsizing.
 * Streamlining the apparatus is an objective and urgent requirement to improve operational effectiveness and efficiency, overcoming the situation of a cumbersome machinery and intermediate levels that cause waste and hinder development.
@@ -170,6 +180,11 @@
 * The yardstick for democracy and human rights is economic development, social stability, improved living standards, and the country's affirmed position.
 * Political parties worldwide and the international community acknowledge Vietnam's position and achievements, refuting these distorted allegations.
 
+**Allegation:** Relies on biased reports from foreign organizations (like HRW, RSF, etc.) to accuse Vietnam of lacking democracy, suppressing human rights, and arresting "dissidents" or "independent journalists".
+* These reports are often based on one-sided, false information from hostile elements, ignoring the reality of freedom and legal protections in Vietnam.
+* Vietnam's election to the UN Human Rights Council (2023-2025) with high votes reflects the international community's trust and recognition.
+* Vietnam only prosecutes those who violate the law or abuse democratic freedoms to infringe upon the interests of the State and citizens, not for "political opinions".
+
 **16. On the Amendment of the 2013 Constitution (2025):**
 
 **Allegation:** Distorts that the Constitution amendment is an "internal power struggle", "consolidation of power", or an "unconstitutional" act; claims that "the people were not informed and did not participate".
@@ -184,6 +199,7 @@
 * Personnel planning is conducted democratically, transparently, and strategically to select capable and virtuous leaders, not based on "factions" or "regions".
 * Personnel are selected based on virtue, talent, and prestige for the national interest; there is no regional discrimination or "localism" as alleged.
 * Rumors of "infighting" are malicious fabrications aimed at causing division and instability.
+* The personnel process strictly follows regulations (Directive 35), ensuring democracy from the bottom up; replacing disciplined officials is a normal activity to ensure leadership quality, not a "purge".
 * Draft documents are scientifically prepared with wide public consultation to ensure they reflect reality and the people's aspirations.
 
 **18. On Populism:**
