@@ -402,3 +402,21 @@
 * Vietnam is the first nation in ASEAN to waive tuition through high school, demonstrating significant effort despite budget constraints.
 * In reality, public enrollment quotas and the number of newly built schools have increased (e.g., in Hanoi, HCMC), completely refuting the claim of "pushing to private schools."
 * The policy brings practical benefits, reducing the financial burden for millions of families and motivating poor students to attend school.
+
+**35. On Emission Reduction and Gasoline Vehicle Restriction Policies (Green Transition):**
+
+**Allegation:** Claims that banning gasoline vehicles is "robbing the poor of their livelihood," "forcing the people," and hindering travel; asserts that gasoline vehicles are vital assets and banning them leaves people with no recourse.
+* This is a correct policy aimed at protecting public health against severe air pollution (Hanoi's PM2.5 pollution is 9 times the WHO recommendation, with vehicles accounting for 70% of emissions).
+* The transition has a specific roadmap, piloted step-by-step (in Ring Road 1 from 2026), and is not implemented abruptly or extremely on a large scale immediately.
+* The Government and the city have practical support policies: support for exchanging old vehicles, incentives on registration fees and license plates for electric vehicles, and development of public transport to provide people with alternative choices.
+* The ultimate goal is for the community's benefit, protecting the living environment for future generations, not to trouble the people.
+
+**Allegation:** Distorts that this policy is "collusion" between the Government and businesses (like VinFast) to sell electric vehicles; forcing people to buy cars from a specific manufacturer.
+* The electric vehicle market is an open, equal playing field with many domestic and foreign brands competing; people have the right to choose a suitable car brand, and no one is forced to buy from VinFast.
+* Preferential policies (charging station infrastructure, taxes/fees) apply generally to green vehicle types, not exclusively to any single enterprise.
+* Businesses launching vehicle exchange support programs is a normal business activity aligned with the general policy, contributing to accelerating the green transition.
+
+**Allegation:** Claims that banning gasoline vehicles violates citizens' "freedom of movement"; obstructing the right to earn a living.
+* Freedom of movement is not restricted; people can still travel by public transport or green vehicles. Restricting polluting vehicles in specific areas is a necessary administrative management measure to protect the common interest (clean environment).
+* The Constitution and international law do not stipulate that freedom of movement equates to the right to use any type of vehicle that harms the community.
+* Developing green transport helps reduce dependence on imported gasoline and saves operating costs for people and society in the long run.

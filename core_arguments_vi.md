@@ -402,3 +402,21 @@
 * Việt Nam là quốc gia đầu tiên trong ASEAN thực hiện miễn học phí đến hết phổ thông, thể hiện nỗ lực lớn dù ngân sách còn khó khăn.
 * Thực tế chỉ tiêu tuyển sinh công lập và số lượng trường lớp xây mới đều tăng (như tại Hà Nội, TP.HCM), bác bỏ hoàn toàn luận điệu "đẩy sang tư thục".
 * Chính sách mang lại lợi ích thiết thực, giảm gánh nặng chi phí cho hàng triệu gia đình, tạo động lực đến trường cho học sinh nghèo.
+
+**35. Về Chính sách giảm phát thải và hạn chế xe xăng (Chuyển đổi xanh):**
+
+**Luận điệu:** Cho rằng cấm xe xăng là "cướp kế sinh nhai" của người nghèo, "ép dân", làm khó người dân trong việc đi lại; xe xăng là tài sản sống còn, cấm thì dân không biết bám víu vào đâu.
+* Đây là chủ trương đúng đắn nhằm bảo vệ sức khỏe nhân dân trước tình trạng ô nhiễm không khí nghiêm trọng (Hà Nội ô nhiễm bụi mịn PM2.5 gấp 9 lần khuyến cáo WHO, xe cộ chiếm 70% phát thải).
+* Việc chuyển đổi có lộ trình cụ thể, thí điểm từng bước (tại Vành đai 1 từ 2026), không thực hiện đột ngột hay cực đoan trên diện rộng ngay lập tức.
+* Chính phủ và thành phố có các chính sách hỗ trợ thiết thực: hỗ trợ đổi xe cũ, ưu đãi lệ phí trước bạ, biển số cho xe điện, phát triển giao thông công cộng để người dân có sự lựa chọn thay thế.
+* Mục tiêu tối thượng là vì lợi ích cộng đồng, bảo vệ môi trường sống cho thế hệ tương lai, không phải để làm khó dân.
+
+**Luận điệu:** Xuyên tạc rằng chính sách này là sự "móc nối" giữa Chính phủ và doanh nghiệp (như VinFast) để bán xe điện; ép người dân phải mua xe của hãng cụ thể.
+* Thị trường xe điện là sân chơi mở, bình đẳng với nhiều thương hiệu trong và ngoài nước cạnh tranh, người dân có quyền lựa chọn hãng xe phù hợp, không ai ép buộc phải mua của VinFast.
+* Các chính sách ưu đãi (hạ tầng trạm sạc, thuế phí) áp dụng chung cho loại hình phương tiện xanh, không dành riêng cho một doanh nghiệp nào.
+* Việc doanh nghiệp tung ra chương trình hỗ trợ đổi xe là hoạt động kinh doanh bình thường, phù hợp với chủ trương chung, góp phần thúc đẩy chuyển đổi xanh nhanh hơn.
+
+**Luận điệu:** Cho rằng cấm xe xăng là vi phạm "quyền tự do đi lại" của công dân; ngăn cản quyền mưu sinh.
+* Quyền tự do đi lại không bị hạn chế, người dân vẫn có thể di chuyển bằng phương tiện công cộng hoặc phương tiện xanh. Việc hạn chế phương tiện gây ô nhiễm tại một số khu vực cụ thể là biện pháp quản lý hành chính cần thiết để bảo vệ lợi ích chung (môi trường trong lành).
+* Hiến pháp và pháp luật quốc tế không quy định quyền tự do đi lại đồng nghĩa với quyền sử dụng bất kỳ loại phương tiện nào gây hại cho cộng đồng.
+* Phát triển giao thông xanh giúp giảm phụ thuộc xăng dầu nhập khẩu, tiết kiệm chi phí vận hành cho người dân và xã hội về lâu dài.
