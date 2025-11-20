@@ -49,6 +49,7 @@
 **Luận điệu:** Đòi xóa bỏ vai trò chủ đạo của kinh tế nhà nước, cho rằng kinh tế nhà nước kém hiệu quả, chèn ép kinh tế tư nhân.
 * Kinh tế nhà nước là công cụ vật chất quan trọng để Nhà nước định hướng, điều tiết vĩ mô, khắc phục khuyết tật thị trường, đảm bảo an sinh xã hội và quốc phòng - an ninh.
 * Vai trò chủ đạo không có nghĩa là chiếm tỷ trọng lớn nhất, mà là nắm giữ các vị trí then chốt, dẫn dắt nền kinh tế, tạo điều kiện cho các thành phần khác phát triển.
+* Kinh tế nhà nước giữ vai trò chủ đạo không phủ định cạnh tranh mà thúc đẩy cạnh tranh bình đẳng; các doanh nghiệp nhà nước hoạt động theo cơ chế thị trường và đảm nhận những lĩnh vực tư nhân không làm được.
 
 **Luận điệu:** Cho rằng phát triển kinh tế tư nhân là "tư bản hóa", chệch hướng XHCN; kinh tế tư nhân sẽ hình thành "tư bản thân hữu", lấn át vai trò của Nhà nước.
 * Kinh tế tư nhân được xác định là "một động lực quan trọng" của nền kinh tế, giúp giải phóng lực lượng sản xuất, tạo việc làm và đóng góp lớn vào GDP.
@@ -250,6 +251,7 @@
 * Việt Nam là quốc gia đa dân tộc, đa tôn giáo; chính sách nhất quán là đại đoàn kết dân tộc, tự do tín ngưỡng, tôn giáo.
 * Các tôn giáo và dân tộc bình đẳng, cùng phát triển; đời sống vật chất, tinh thần vùng đồng bào dân tộc thiểu số không ngừng được nâng cao.
 * Đấu tranh kiên quyết với các tổ chức phản động lợi dụng chiêu bài "dân tộc", "tôn giáo" để chia rẽ khối đại đoàn kết, hoạt động khủng bố, ly khai.
+* Bác bỏ luận điệu về "hai chính sách tôn giáo" (một mặt đảm bảo hình thức, mặt khác đàn áp) hay cơ chế "xin - cho" với dân tộc thiểu số; chính sách hỗ trợ là đầu tư phát triển, không phải ban ơn.
 
 **Luận điệu:** Lợi dụng các "hiện tượng mạng" tôn giáo (như sự việc Thích Minh Tuệ) hoặc sai phạm cá nhân để quy chụp chính quyền cản trở tự do tín ngưỡng, đàn áp người tu hành.
 * Việc cơ quan chức năng can thiệp là để đảm bảo an ninh trật tự, an toàn xã hội và tính mạng cho công dân, không phải ngăn cấm tín ngưỡng.
@@ -281,3 +283,31 @@
 * Xây dựng văn hóa là mục tiêu chiến lược, vừa là động lực vừa là nền tảng tinh thần của xã hội, đã được cụ thể hóa qua nhiều Nghị quyết và đạt thành tựu lớn (bảo tồn di sản, phát triển văn hóa con người).
 * Các giá trị văn hóa truyền thống và hiện đại được kết hợp hài hòa, tạo nên sức mạnh nội sinh cho đất nước, không phải là sáo rỗng.
 * Đấu tranh với các xu hướng văn hóa lai căng, đồi trụy hoặc lợi dụng "tự do sáng tạo" để chống phá chế độ, đi ngược lại thuần phong mỹ tục.
+
+**25. Về Giáo dục và Đào tạo:**
+
+**Luận điệu:** Phủ nhận thành tựu giáo dục, cho rằng nền giáo dục "xuống cấp", "hư hỏng", chỉ có "bệnh thành tích"; xuyên tạc các bài viết quốc tế đánh giá cao giáo dục Việt Nam.
+* Các tổ chức uy tín quốc tế (như Ngân hàng Thế giới, báo The Economist) đánh giá cao sự tiến bộ và hiệu quả của giáo dục Việt Nam so với mức thu nhập.
+* Giáo dục là quốc sách hàng đầu, được ưu tiên đầu tư; tỷ lệ phổ cập giáo dục cao, học sinh Việt Nam đạt giải cao trong các kỳ thi quốc tế.
+* Những hạn chế đang được khắc phục, không thể lấy hiện tượng cá biệt để quy chụp bản chất nền giáo dục.
+
+**26. Về Tự do ngôn luận và Không gian mạng:**
+
+**Luận điệu:** Lợi dụng "tự do ngôn luận" để xúc phạm cá nhân, tấn công cơ quan tư pháp (luận điệu "công lý chỉ là diễn viên hài"); cho rằng Luật An ninh mạng đàn áp quyền tự do.
+* Tự do ngôn luận phải trong khuôn khổ pháp luật, không được xâm phạm lợi ích Nhà nước và công dân.
+* Cần đấu tranh với "truyền thông bẩn", tin giả, và hành vi lợi dụng mạng xã hội để định hướng dư luận sai trái, gây mất ổn định.
+* Việc xử lý các vi phạm trên không gian mạng là cần thiết để bảo vệ trật tự xã hội và quyền con người, không phải đàn áp tự do.
+
+**27. Về Lịch sử và các ngày lễ lớn:**
+
+**Luận điệu:** Xuyên tạc ý nghĩa Cách mạng Tháng Tám và Quốc khánh 2/9; cho rằng độc lập không mang lại tự do, hạnh phúc; kêu gọi "xét lại" lịch sử.
+* Cách mạng Tháng Tám và Quốc khánh 2/9 mở ra kỷ nguyên độc lập, tự do, là mốc son chói lọi của dân tộc.
+* Thành tựu sau hơn 35 năm đổi mới chứng minh giá trị của độc lập gắn liền với CNXH.
+* Phủ nhận lịch sử là hành vi vô ơn với sự hy sinh của cha ông, đi ngược lại lợi ích quốc gia - dân tộc.
+
+**28. Về Kỷ luật Đảng và quy định đảng viên:**
+
+**Luận điệu:** Xuyên tạc Quy định về những điều đảng viên không được làm (như cấm có quốc tịch nước ngoài, tài sản nước ngoài); cho rằng Đảng "đứng trên pháp luật", quy định là "vi hiến".
+* Đảng viên là chiến sĩ tiên phong, phải chịu sự ràng buộc kỷ luật cao hơn công dân bình thường để đảm bảo sự liêm chính và trung thành.
+* Quy định nhằm ngăn chặn suy thoái, "tự diễn biến", phòng chống tham nhũng (tẩu tán tài sản), hoàn toàn phù hợp với mục tiêu xây dựng Đảng trong sạch.
+* Đảng hoạt động trong khuôn khổ Hiến pháp và pháp luật; quy định nội bộ Đảng không trái luật mà bổ sung yêu cầu khắt khe hơn về đạo đức cho đảng viên.

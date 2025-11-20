@@ -49,6 +49,7 @@
 **Allegation:** Demands the abolition of the leading role of the state economy, claiming it is inefficient and crowds out the private sector.
 * The state economy is a vital material tool for the State to direct and regulate the macro-economy, correct market failures, and ensure social welfare and national defense-security.
 * The leading role does not mean occupying the largest proportion, but holding key positions, leading the economy, and creating conditions for other sectors to develop.
+* The leading role of the state economy does not eliminate competition but promotes equal competition; state-owned enterprises operate under market mechanisms and handle areas the private sector cannot or will not undertake.
 
 **Allegation:** Claims that developing the private economy is "capitalization" and deviating from Socialism; that the private economy will create "crony capitalism" and overshadow the State's role.
 * The private economy is defined as "an important driving force" of the economy, helping to liberate productive forces, create jobs, and contribute significantly to GDP.
@@ -250,6 +251,7 @@
 * Vietnam is a multi-ethnic, multi-religious nation; its consistent policy is great national unity and freedom of belief and religion.
 * All religions and ethnic groups are equal and develop together; the material and spiritual life of ethnic minority areas is constantly being improved.
 * Resolutely fight against reactionary organizations that abuse the guise of "ethnicity" and "religion" to divide the great national unity and conduct terrorist or separatist activities.
+* Refute the claim of "two religious policies" (one for show, one for suppression) or the "beg-give" mechanism for minorities; support policies are developmental investments, not favors.
 
 **Allegation:** Exploits religious "online phenomena" (like the Thich Minh Tue case) or individual misconduct to accuse the government of obstructing freedom of belief and suppressing practitioners.
 * The intervention of authorities is to ensure security, order, social safety, and the lives of citizens, not to prohibit belief.
@@ -281,3 +283,31 @@
 * Building culture is a strategic goal, both a driving force and a spiritual foundation of society, concretized through many Resolutions and achieving great achievements (heritage preservation, human cultural development).
 * Traditional and modern cultural values are harmoniously combined, creating endogenous strength for the country, not empty words.
 * Struggle against hybrid, depraved cultural trends or the abuse of "creative freedom" to oppose the regime and go against good customs and traditions.
+
+**25. On Education and Training:**
+
+**Allegation:** Denies educational achievements, claims the education system is "degraded", "ruined", driven only by "achievement disease"; distorts international articles praising Vietnamese education.
+* International organizations (World Bank, The Economist) highly rate the progress and efficiency of Vietnam's education relative to income levels.
+* Education is a top national policy with priority investment; universal education rates are high, and Vietnamese students achieve high results in international competitions.
+* Limitations are being addressed; isolated incidents cannot be used to categorize the nature of the entire education system.
+
+**26. On Freedom of Speech and Cyberspace:**
+
+**Allegation:** Abuses "freedom of speech" to insult individuals and attack the judiciary (claims "justice is a comedian"); asserts that the Cybersecurity Law suppresses freedom.
+* Freedom of speech must be within the legal framework and must not infringe upon the interests of the State or citizens.
+* It is necessary to fight against "dirty media," fake news, and the use of social media to mislead public opinion and cause instability.
+* Handling violations in cyberspace is necessary to protect social order and human rights, not to suppress freedom.
+
+**27. On History and Major Holidays:**
+
+**Allegation:** Distorts the significance of the August Revolution and National Day (Sep 2); claims independence did not bring freedom or happiness; calls for a "revision" of history.
+* The August Revolution and National Day opened an era of independence and freedom, a brilliant milestone for the nation.
+* Achievements after more than 35 years of renovation prove the value of independence associated with Socialism.
+* Denying history is an act of ingratitude towards the sacrifices of ancestors, going against national interests.
+
+**28. On Party Discipline and Party Member Regulations:**
+
+**Allegation:** Distorts regulations on what Party members are forbidden to do (e.g., ban on foreign nationality, foreign assets); claims the Party "stands above the law" and regulations are "unconstitutional".
+* Party members are vanguards and must be subject to stricter discipline than ordinary citizens to ensure integrity and loyalty.
+* The regulations aim to prevent degradation, "self-evolution," and corruption (asset concealment), fully aligning with the goal of building a clean Party.
+* The Party operates within the framework of the Constitution and the law; internal Party regulations do not contradict the law but impose stricter ethical requirements on Party members.
