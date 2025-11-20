@@ -188,6 +188,11 @@
 * The military is built towards "lean, compact, strong" and modernization to protect the Fatherland in the new situation, not "reducing troops" due to lack of missions.
 * The arrangement is based on democratic centralism and national interest, absolutely not a personal or factional plot.
 
+**Allegation:** Claims that the streamlining is merely the "subjective will" of leaders to "consolidate power" or "purge opponents"; asserts that "merging will eventually lead to splitting again" causing instability.
+* Streamlining is not a subjective will but an objective requirement of the revolution and a consistent Party policy based on Marxism-Leninism ("Better Fewer, But Better").
+* It is an urgent economic necessity: currently, nearly 70% of the budget is for recurrent expenditure (salaries, operations); streamlining is required to free up resources for development investment, national defense, and social welfare.
+* The apparatus must be flexible and suitable for each development stage; maintaining a cumbersome machinery hinders the country's rise in the new era.
+
 **Allegation:** Distorts that the support policy for officials retiring early (Decree 178) is unfair, "excessively favoring" them compared to laborers, causing internal division.
 * This is a specific, humane policy to encourage officials who suffer disadvantages when retiring early due to organizational arrangement, not a standard pension regime or privilege.
 * Comparing it to unemployment insurance is inappropriate; this policy ensures harmonious benefits and stable livelihoods for those leaving to help streamline the apparatus more effectively.
@@ -373,3 +378,27 @@
 * Congestion is due to infrastructure and vehicle density; strict adherence to the law actually improves traffic flow and reduces accidents (proven by statistics reducing deaths and injuries).
 * "Hitting the pocketbook" is a necessary measure to change bad habits; civilized nations use strict laws to ensure order.
 * The safety of life and property of the people is the highest priority; ignoring the law leads to tragic consequences that money cannot fix.
+
+**32. On New Tax Policies and Electronic Invoices:**
+
+**Allegation:** Claims the State "abandons lump-sum tax, leaving people no way to survive," "maximizes collection," "imposes tax upon tax," or "forces households to become enterprises."
+* Switching from lump-sum tax to tax based on actual revenue (electronic invoices) ensures fairness and transparency among business entities.
+* Tax rates have not increased; this is an inevitable step in international integration, helping to avoid trade barriers and economic sanctions.
+* Preventing tax loss provides the State with resources to reinvest in infrastructure, healthcare, education, and social welfare.
+* Contributes to eliminating counterfeit and smuggled goods, protecting the interests of consumers and genuine businesses.
+
+**33. On the "New Era - Era of the Nation's Rise":**
+
+**Allegation:** Claims the concept of a "New Era" is "vague," "subjective," "illusory," or lacks a practical basis for realization.
+* The "New Era" has clear connotations: an era of breakthrough development, prosperity, people's well-being, and the country standing shoulder-to-shoulder with great powers.
+* Solid practical basis rests on the immense achievements after 40 years of Renovation (economic scale and international position have never been greater).
+* This is the moment of convergence of favorable factors (opportunities from Industry 4.0, geopolitical position, national aspiration) to create a leap forward.
+* Frank identification of bottlenecks (institutions, infrastructure, human resources) to provide breakthrough solutions demonstrates a scientific approach, not subjective will.
+
+**34. On Universal Free Tuition Policy:**
+
+**Allegation:** Distorts it as a "populist trick," "patchwork solution," or fabricates that "tuition is free but public school quotas are cut to push students to private schools."
+* This is a humane policy reflecting the superior nature of the regime, realizing the goal of "leaving no one behind" in education.
+* Vietnam is the first nation in ASEAN to waive tuition through high school, demonstrating significant effort despite budget constraints.
+* In reality, public enrollment quotas and the number of newly built schools have increased (e.g., in Hanoi, HCMC), completely refuting the claim of "pushing to private schools."
+* The policy brings practical benefits, reducing the financial burden for millions of families and motivating poor students to attend school.

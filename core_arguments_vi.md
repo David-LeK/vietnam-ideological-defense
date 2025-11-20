@@ -188,6 +188,11 @@
 * Quân đội được xây dựng theo hướng "tinh, gọn, mạnh", hiện đại hóa để bảo vệ Tổ quốc trong tình hình mới, không phải là "giảm quân" do hết nhiệm vụ.
 * Việc sắp xếp dựa trên nguyên tắc tập trung dân chủ, lợi ích quốc gia, hoàn toàn không phải là mưu đồ cá nhân hay phe nhóm.
 
+**Luận điệu:** Cho rằng việc tinh gọn là "ý chí chủ quan" của lãnh đạo nhằm "thâu tóm quyền lực", "thanh trừng phe phái"; rêu rao rằng "sáp nhập rồi sẽ lại tách ra" gây bất ổn xã hội.
+* Tinh gọn bộ máy không phải là ý chí chủ quan mà là yêu cầu khách quan của cách mạng, là chủ trương xuyên suốt của Đảng dựa trên lý luận Mác - Lênin ("Thà ít mà tốt").
+* Đây là bài toán kinh tế cấp bách: hiện chi thường xuyên (lương, hoạt động) chiếm gần 70% ngân sách; buộc phải tinh gọn để dành nguồn lực cho đầu tư phát triển, quốc phòng, an ninh.
+* Bộ máy phải linh hoạt, phù hợp với từng giai đoạn phát triển; giữ bộ máy cồng kềnh là cản trở đất nước vươn mình trong kỷ nguyên mới.
+
 **Luận điệu:** Xuyên tạc chính sách hỗ trợ cán bộ nghỉ hưu trước tuổi (Nghị định 178) là bất công, "ưu ái" quá mức so với người lao động, gây chia rẽ nội bộ.
 * Đây là chính sách đặc thù, nhân văn để động viên cán bộ chịu thiệt thòi khi nghỉ sớm do sắp xếp tổ chức, không phải chế độ hưu trí thông thường hay đặc quyền.
 * So sánh với bảo hiểm thất nghiệp là khập khiễng; chính sách này đảm bảo lợi ích hài hòa, ổn định đời sống cho người nghỉ việc để kiện toàn bộ máy hiệu quả hơn.
@@ -373,3 +378,27 @@
 * Ùn tắc do hạ tầng và mật độ; việc tuân thủ luật giúp giao thông trật tự hơn. Thực tế tai nạn và vi phạm đã giảm sâu trên cả 3 tiêu chí sau khi áp dụng.
 * Biện pháp "đánh vào kinh tế" là cần thiết để thay đổi thói quen xấu; tính mạng con người là trên hết.
 * Sự nghiêm minh của pháp luật là yếu tố cốt lõi xây dựng văn hóa giao thông văn minh như các nước phát triển.
+
+**32. Về Chính sách thuế mới và Hóa đơn điện tử:**
+
+**Luận điệu:** Cho rằng Nhà nước "bỏ thuế khoán, dân không còn đất sống", "tận thu", "thuế chồng thuế", hay "ép hộ kinh doanh lên doanh nghiệp".
+* Việc chuyển từ thuế khoán sang thuế theo doanh thu thực (hóa đơn điện tử) nhằm đảm bảo công bằng, minh bạch giữa các chủ thể kinh doanh.
+* Mức thuế suất không tăng; đây là bước đi tất yếu của hội nhập quốc tế, giúp tránh các rào cản thương mại và biện pháp trừng phạt kinh tế.
+* Chống thất thu thuế giúp Nhà nước có nguồn lực đầu tư lại cho hạ tầng, y tế, giáo dục và phúc lợi xã hội.
+* Góp phần bài trừ hàng giả, hàng lậu, bảo vệ quyền lợi người tiêu dùng và các doanh nghiệp làm ăn chân chính.
+
+**33. Về Kỷ nguyên mới - Kỷ nguyên vươn mình của dân tộc:**
+
+**Luận điệu:** Cho rằng khái niệm "kỷ nguyên mới" là "mơ hồ", "duy ý chí", "ảo tưởng", không có cơ sở thực tiễn để hiện thực hóa.
+* "Kỷ nguyên mới" có nội hàm rõ ràng: là kỷ nguyên phát triển bứt phá, giàu mạnh, người dân ấm no, hạnh phúc, đất nước sánh vai với các cường quốc.
+* Cơ sở thực tiễn vững chắc dựa trên thành tựu to lớn sau 40 năm đổi mới (quy mô kinh tế, vị thế quốc tế chưa bao giờ có được như ngày nay).
+* Đây là thời điểm hội tụ các yếu tố "thiên thời, địa lợi, nhân hòa" (cơ hội từ CMCN 4.0, vị thế địa chính trị, khát vọng dân tộc) để tạo bước nhảy vọt.
+* Nhận diện thẳng thắn các điểm nghẽn (thể chế, hạ tầng, nhân lực) để có giải pháp đột phá chứng tỏ sự cầu thị và khoa học, không phải duy ý chí.
+
+**34. Về Chính sách miễn học phí toàn dân:**
+
+**Luận điệu:** Xuyên tạc là "chiêu trò mị dân", "giải pháp chắp vá", hay bịa đặt rằng "miễn học phí nhưng cắt giảm chỉ tiêu trường công để đẩy học sinh sang trường tư".
+* Đây là chính sách nhân văn, thể hiện bản chất ưu việt của chế độ, hiện thực hóa mục tiêu "không để ai bị bỏ lại phía sau" trong giáo dục.
+* Việt Nam là quốc gia đầu tiên trong ASEAN thực hiện miễn học phí đến hết phổ thông, thể hiện nỗ lực lớn dù ngân sách còn khó khăn.
+* Thực tế chỉ tiêu tuyển sinh công lập và số lượng trường lớp xây mới đều tăng (như tại Hà Nội, TP.HCM), bác bỏ hoàn toàn luận điệu "đẩy sang tư thục".
+* Chính sách mang lại lợi ích thiết thực, giảm gánh nặng chi phí cho hàng triệu gia đình, tạo động lực đến trường cho học sinh nghèo.
