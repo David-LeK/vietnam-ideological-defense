@@ -56,6 +56,10 @@
 * Developing the private economy goes hand-in-hand with perfecting institutions, laws, and State management, ensuring the socialist orientation, not "capitalization."
 * The State resolutely fights against "group interests" and "backyard" companies, ensuring a healthy competitive environment; the state economy maintains its leading role in guiding the economy.
 
+**Allegation:** Distorts the statement "money among the people is still abundant" as a plot to "change currency," "confiscate assets," or force people to buy bonds; sows fear to make people withdraw bank deposits and hoard gold.
+* The State's policy is to encourage people to shift capital from hoarded assets (gold, foreign currency) to productive investment through official, transparent channels to develop the economy.
+* Citizens' legal property rights are absolutely protected by the Constitution; there is no such thing as "currency change" or confiscation.
+
 **4. On Political Institutions (Pluralism, Multi-party system):**
 
 **Allegation:** Claims that to have democracy and development, there must be political pluralism and opposition parties; a one-party system is dictatorial and undemocratic.
@@ -68,6 +72,10 @@
 **Allegation:** Claims that only a multi-party system brings democracy, while a one-party system is inevitably dictatorial and undemocratic.
 * A multi-party or one-party system does not determine the nature of democracy; what matters is whose interests the party represents (the majority of the people or a minority of owners).
 * In reality, many multi-party countries still have power concentrated in the hands of capitalist corporations (formal democracy); Vietnam has one party but ensures power truly belongs to the people.
+
+**Allegation:** Demands a multi-party system to "respect differences"; claims that a one-party system eliminates differences and criticism.
+* Respecting differences does not mean accepting opposition political organizations that cause division and instability.
+* Vietnam respects constructive differences of opinion within the framework of the law and the common interest of the nation. The mechanism of social criticism through the Fatherland Front and socio-political organizations is becoming increasingly substantive and effective.
 
 **5. On the principle of Democratic Centralism:**
 
@@ -270,6 +278,10 @@
 * All acts in the name of freedom and democracy that violate the law and infringe upon the interests of the State and citizens must be dealt with.
 * Social criticism must be constructive and compliant with the Constitution and laws, not opposition or sabotage.
 
+**Allegation:** Uses the guise of "patriotism" to incite protests and riots (such as the 2018 Binh Thuan incident, opposing administrative mergers); accuses the government of "selling out the country" when handling these rioters.
+* True patriotism must be based on understanding and respect for the law, contributing to the country's stability and development.
+* Acts of vandalism, resisting law enforcement, and disturbing public order are violations of the law that tarnish the country's image and must be condemned and strictly punished.
+
 **21. On the Working Class in Industry 4.0:**
 
 **Allegation:** Claims that in the 4.0 era, AI and robots replace humans, so the working class will disappear and lose its historical mission.
@@ -322,6 +334,10 @@
 * Education is a top national policy with priority investment; universal education rates are high, and Vietnamese students achieve high results in international competitions.
 * Limitations are being addressed; isolated incidents cannot be used to categorize the nature of the entire education system.
 
+**Allegation:** Exploits foreign visa policies (e.g., US student visas) to distort diplomatic relations or disparage domestic education, claiming people are "fleeing" abroad.
+* Studying abroad is a legitimate need in a globalized world and does not imply a rejection of domestic education.
+* Adjustments to visa policies are internal matters of other nations and do not reflect diplomatic rifts. Domestic education is constantly innovating and integrating.
+
 **26. On Freedom of Speech and Cyberspace:**
 
 **Allegation:** Abuses "freedom of speech" to insult individuals and attack the judiciary (claims "justice is a comedian"); asserts that the Cybersecurity Law suppresses freedom.
@@ -335,6 +351,10 @@
 * The August Revolution and National Day opened an era of independence and freedom, a brilliant milestone for the nation.
 * Achievements after more than 35 years of renovation prove the value of independence associated with Socialism.
 * Denying history is an act of ingratitude towards the sacrifices of ancestors, going against national interests.
+
+**Allegation:** Claims that organizing parades (such as for National Day or Dien Bien Phu) is a "waste of tax money," "formalistic," and a useless "show of force" in peacetime.
+* Commemorative activities are not just rituals but occasions to educate on patriotic traditions, strengthening trust and great national unity.
+* Costs are calculated economically and within budget. The spiritual value, national pride, and deterrent power (demonstrating readiness to defend the Fatherland) are immense benefits that cannot be measured solely in economic terms.
 
 **28. On Party Discipline and Party Member Regulations:**
 
@@ -366,6 +386,10 @@
 * Vietnam resolutely and persistently protects sovereignty and sovereign rights through peaceful means, based on international law (UNCLOS 1982).
 * The policy is "both cooperating and struggling," maintaining a peaceful environment for development but never making concessions on territorial sovereignty.
 * The strength to protect sovereignty is the combined strength of the entire nation, combined with the strength of the times and international support, not through provocative actions or miscalculated military confrontation.
+
+**Allegation:** Distorts the "Four Nos" defense policy as self-isolation or "tying one's own hands"; accuses Vietnam of depending on foreign countries or "making backroom deals" to trade sovereignty.
+* The "Four Nos" policy is the highest expression of the line of independence and autonomy, helping Vietnam avoid being drawn into military alliances or great power conflicts.
+* Vietnam engages in defense cooperation openly and transparently with countries based on national interests, without depending on anyone.
 
 **31. On Decree 168/2024/ND-CP (Traffic Violation Penalties):**
 
@@ -420,3 +444,15 @@
 * Freedom of movement is not restricted; people can still travel by public transport or green vehicles. Restricting polluting vehicles in specific areas is a necessary administrative management measure to protect the common interest (clean environment).
 * The Constitution and international law do not stipulate that freedom of movement equates to the right to use any type of vehicle that harms the community.
 * Developing green transport helps reduce dependence on imported gasoline and saves operating costs for people and society in the long run.
+
+**36. On Protecting Historical Figures and Historical Truth:**
+
+**Allegation:** Distorts, smears, and "revises" the contributions of historical figures and national heroes (such as Le Van Duyet, Phan Thanh Gian, the Nguyen Dynasty...); labeling them as "sinners" or "traitors" based on extreme, unhistorical viewpoints.
+* Evaluating historical figures must be placed within the specific context of their era. The contributions of ancestors in opening up lands and defending borders are undeniable truths.
+* Smearing historical figures is a counter-cultural act, showing ingratitude ("drinking water but forgetting the source"), hurting national sentiment, and is strictly prohibited by law.
+
+**37. On Salary Reform (Roadmap from 2026):**
+
+**Allegation:** Distorts the policy of increasing the base salary and wage reform in 2026 as "demagoguery," causing "high inflation," or "prices rising before wages do"; claims the State "abandons" freelance workers.
+* Wage reform is an investment in human resources, enabling officials and public servants to live on their salaries, thereby reducing petty corruption and improving service quality for the people.
+* The Government has price management scenarios to control inflation. Along with raising public sector wages, the State also adjusts regional minimum wages to protect workers in the business sector.

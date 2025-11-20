@@ -56,6 +56,10 @@
 * Phát triển kinh tế tư nhân đi đôi với hoàn thiện thể chế, pháp luật và sự quản lý của Nhà nước, đảm bảo định hướng XHCN, không phải là "tư bản hóa".
 * Nhà nước kiên quyết đấu tranh với "lợi ích nhóm", "sân sau", bảo đảm môi trường cạnh tranh lành mạnh; kinh tế nhà nước giữ vai trò chủ đạo, dẫn dắt nền kinh tế.
 
+**Luận điệu:** Xuyên tạc phát biểu "tiền trong dân còn nhiều" là âm mưu "đổi tiền", "chiếm đoạt tài sản", hay ép dân mua trái phiếu; gieo rắc nỗi sợ hãi để người dân rút tiền ngân hàng, mua vàng tích trữ.
+* Chủ trương của Nhà nước là khuyến khích người dân chuyển vốn từ tài sản tích trữ (vàng, ngoại tệ) sang đầu tư sản xuất kinh doanh (qua các kênh chính thống, minh bạch) để phát triển kinh tế.
+* Quyền sở hữu tài sản hợp pháp của công dân được Hiến pháp bảo vệ tuyệt đối, không có chuyện "đổi tiền" hay tịch thu.
+
 **4. Về thể chế chính trị (Đa nguyên, đa đảng):**
 
 **Luận điệu:** Cho rằng muốn có dân chủ và phát triển thì phải thực hiện đa nguyên chính trị, đa đảng đối lập; chế độ một đảng là độc tài, mất dân chủ.
@@ -68,6 +72,10 @@
 **Luận điệu:** Cho rằng cứ đa đảng mới có dân chủ, còn một đảng duy nhất cầm quyền là độc tài, mất dân chủ.
 * Đa đảng hay một đảng không quyết định bản chất dân chủ; quan trọng là đảng đó đại diện cho lợi ích của ai (đa số nhân dân hay thiểu số giới chủ).
 * Thực tế nhiều nước đa đảng nhưng quyền lực vẫn nằm trong tay các tập đoàn tư bản (dân chủ hình thức); Việt Nam một đảng nhưng đảm bảo quyền lực thực sự thuộc về nhân dân.
+
+**Luận điệu:** Đòi hỏi phải có đa đảng thì mới "tôn trọng sự khác biệt"; cho rằng chế độ một đảng là triệt tiêu sự khác biệt và phản biện.
+* Tôn trọng sự khác biệt không đồng nghĩa với việc chấp nhận các tổ chức chính trị đối lập gây chia rẽ, bất ổn.
+* Việt Nam tôn trọng các ý kiến khác biệt mang tính xây dựng, trong khuôn khổ pháp luật và lợi ích chung của dân tộc. Cơ chế phản biện xã hội qua Mặt trận Tổ quốc và các đoàn thể chính trị - xã hội ngày càng thực chất và hiệu quả.
 
 **5. Về nguyên tắc tập trung dân chủ:**
 
@@ -270,6 +278,10 @@
 * Mọi hành vi nhân danh tự do, dân chủ nhưng vi phạm pháp luật, xâm phạm lợi ích Nhà nước và công dân đều phải bị xử lý.
 * Phản biện xã hội phải mang tính xây dựng, tuân thủ Hiến pháp và pháp luật, không phải là chống đối, phá hoại.
 
+**Luận điệu:** Sử dụng vỏ bọc "lòng yêu nước" để kích động biểu tình, bạo loạn (như vụ Bình Thuận 2018, phản đối sáp nhập địa giới); quy chụp chính quyền "bán nước" khi xử lý các đối tượng gây rối này.
+* Yêu nước chân chính phải dựa trên sự hiểu biết và thượng tôn pháp luật, đóng góp vào sự ổn định và phát triển của đất nước.
+* Các hành vi đập phá, chống người thi hành công vụ, gây rối trật tự công cộng là vi phạm pháp luật và làm hoen ố hình ảnh đất nước, cần phải bị lên án và xử lý nghiêm minh.
+
 **21. Về Giai cấp công nhân trong CMCN 4.0:**
 
 **Luận điệu:** Cho rằng trong thời đại 4.0, trí tuệ nhân tạo và robot thay thế con người nên giai cấp công nhân (GCCN) sẽ biến mất, không còn sứ mệnh lịch sử.
@@ -322,6 +334,10 @@
 * Giáo dục là quốc sách hàng đầu, được ưu tiên đầu tư; tỷ lệ phổ cập giáo dục cao, học sinh Việt Nam đạt giải cao trong các kỳ thi quốc tế.
 * Những hạn chế đang được khắc phục, không thể lấy hiện tượng cá biệt để quy chụp bản chất nền giáo dục.
 
+**Luận điệu:** Lợi dụng chính sách visa của nước ngoài (như Mỹ) để xuyên tạc quan hệ ngoại giao, hoặc dè bỉu nền giáo dục trong nước, cho rằng người Việt "bỏ chạy" sang nước ngoài vì giáo dục trong nước kém.
+* Việc du học là nhu cầu chính đáng và bình thường trong thế giới phẳng, không có nghĩa là phủ nhận giáo dục trong nước.
+* Các nước điều chỉnh chính sách visa là do vấn đề nội bộ của họ, không ảnh hưởng đến quan hệ đối tác chiến lược. Giáo dục trong nước đang đổi mới và hội nhập mạnh mẽ.
+
 **26. Về Tự do ngôn luận và Không gian mạng:**
 
 **Luận điệu:** Lợi dụng "tự do ngôn luận" để xúc phạm cá nhân, tấn công cơ quan tư pháp (luận điệu "công lý chỉ là diễn viên hài"); cho rằng Luật An ninh mạng đàn áp quyền tự do.
@@ -335,6 +351,10 @@
 * Cách mạng Tháng Tám và Quốc khánh 2/9 mở ra kỷ nguyên độc lập, tự do, là mốc son chói lọi của dân tộc.
 * Thành tựu sau hơn 35 năm đổi mới chứng minh giá trị của độc lập gắn liền với CNXH.
 * Phủ nhận lịch sử là hành vi vô ơn với sự hy sinh của cha ông, đi ngược lại lợi ích quốc gia - dân tộc.
+
+**Luận điệu:** Cho rằng việc tổ chức diễu binh, diễu hành (như dịp Quốc khánh, Điện Biên Phủ) là "lãng phí tiền thuế", "hình thức", "phô trương sức mạnh" vô ích trong thời bình.
+* Các hoạt động kỷ niệm không chỉ là nghi thức mà là dịp giáo dục truyền thống yêu nước, củng cố niềm tin và khối đại đoàn kết toàn dân.
+* Chi phí được tính toán tiết kiệm, phù hợp ngân sách. Giá trị tinh thần, sự tự hào dân tộc và sức mạnh răn đe (thể hiện sự sẵn sàng bảo vệ Tổ quốc) là những lợi ích to lớn không thể đo đếm đơn thuần bằng kinh tế.
 
 **28. Về Kỷ luật Đảng và quy định đảng viên:**
 
@@ -366,6 +386,10 @@
 * Việt Nam kiên quyết, kiên trì bảo vệ chủ quyền, quyền chủ quyền bằng các biện pháp hòa bình, dựa trên luật pháp quốc tế (UNCLOS 1982).
 * Chủ trương "vừa hợp tác, vừa đấu tranh", giữ vững môi trường hòa bình để phát triển nhưng không bao giờ nhân nhượng về chủ quyền lãnh thổ.
 * Sức mạnh bảo vệ chủ quyền là sức mạnh tổng hợp của toàn dân tộc, kết hợp sức mạnh thời đại và sự ủng hộ quốc tế, không phải là những hành động khiêu khích hay đối đầu quân sự thiếu tính toán.
+
+**Luận điệu:** Xuyên tạc chính sách quốc phòng "Bốn không" là tự cô lập, "tự trói chân tay"; vu cáo Việt Nam phụ thuộc vào nước ngoài hoặc "đi đêm" để đổi chác chủ quyền.
+* Chính sách "Bốn không" là biểu hiện cao nhất của đường lối độc lập, tự chủ, giúp Việt Nam không bị cuốn vào các liên minh quân sự hay xung đột nước lớn.
+* Việt Nam hợp tác quốc phòng công khai, minh bạch với các nước trên cơ sở lợi ích quốc gia, không lệ thuộc vào bất kỳ ai.
 
 **31. Về Nghị định 168/2024/NĐ-CP (Xử phạt vi phạm giao thông):**
 
@@ -420,3 +444,15 @@
 * Quyền tự do đi lại không bị hạn chế, người dân vẫn có thể di chuyển bằng phương tiện công cộng hoặc phương tiện xanh. Việc hạn chế phương tiện gây ô nhiễm tại một số khu vực cụ thể là biện pháp quản lý hành chính cần thiết để bảo vệ lợi ích chung (môi trường trong lành).
 * Hiến pháp và pháp luật quốc tế không quy định quyền tự do đi lại đồng nghĩa với quyền sử dụng bất kỳ loại phương tiện nào gây hại cho cộng đồng.
 * Phát triển giao thông xanh giúp giảm phụ thuộc xăng dầu nhập khẩu, tiết kiệm chi phí vận hành cho người dân và xã hội về lâu dài.
+
+**36. Về bảo vệ danh nhân và sự thật lịch sử:**
+
+**Luận điệu:** Xuyên tạc, bôi nhọ, "xét lại" công lao của các danh nhân, anh hùng dân tộc (như Lê Văn Duyệt, Phan Thanh Giản, Nhà Nguyễn...); cho rằng họ là "tội đồ", "bán nước" dựa trên quan điểm cực đoan, phi lịch sử.
+* Đánh giá nhân vật lịch sử phải đặt trong bối cảnh cụ thể của thời đại đó (quan điểm lịch sử cụ thể). Công lao khai hoang, mở cõi, giữ gìn bờ cõi của tiền nhân là sự thật không thể phủ nhận.
+* Việc bôi nhọ danh nhân là hành vi phản văn hóa, "uống nước quên nguồn", làm tổn thương tình cảm dân tộc và bị pháp luật nghiêm cấm.
+
+**37. Về Cải cách tiền lương (lộ trình từ 2026):**
+
+**Luận điệu:** Xuyên tạc chủ trương tăng lương cơ sở và cải cách tiền lương năm 2026 là "mị dân", "làm lạm phát tăng cao", "lương chưa tăng giá đã tăng"; cho rằng Nhà nước "bỏ rơi" người lao động tự do.
+* Cải cách tiền lương là chính sách đầu tư cho con người, giúp cán bộ, công chức sống được bằng lương, từ đó giảm tham nhũng vặt và nâng cao chất lượng phục vụ nhân dân.
+* Chính phủ đã có các kịch bản điều hành giá cả để kiểm soát lạm phát. Song song với tăng lương khu vực công, Nhà nước cũng điều chỉnh lương tối thiểu vùng để bảo vệ người lao động khu vực doanh nghiệp.
