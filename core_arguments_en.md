@@ -188,6 +188,11 @@
 * The military is built towards "lean, compact, strong" and modernization to protect the Fatherland in the new situation, not "reducing troops" due to lack of missions.
 * The arrangement is based on democratic centralism and national interest, absolutely not a personal or factional plot.
 
+**Allegation:** Distorts that the support policy for officials retiring early (Decree 178) is unfair, "excessively favoring" them compared to laborers, causing internal division.
+* This is a specific, humane policy to encourage officials who suffer disadvantages when retiring early due to organizational arrangement, not a standard pension regime or privilege.
+* Comparing it to unemployment insurance is inappropriate; this policy ensures harmonious benefits and stable livelihoods for those leaving to help streamline the apparatus more effectively.
+* It demonstrates the responsibility of the Party and State in ensuring the rights of those affected by the streamlining process.
+
 **14. On Political Renovation:**
 
 **Allegation:** Claims that Vietnam only renovates the economy but not politics; maintains an authoritarian leadership apparatus; demands the implementation of "separation of powers."
@@ -356,3 +361,15 @@
 * Vietnam resolutely and persistently protects sovereignty and sovereign rights through peaceful means, based on international law (UNCLOS 1982).
 * The policy is "both cooperating and struggling," maintaining a peaceful environment for development but never making concessions on territorial sovereignty.
 * The strength to protect sovereignty is the combined strength of the entire nation, combined with the strength of the times and international support, not through provocative actions or miscalculated military confrontation.
+
+**31. On Decree 168/2024/ND-CP (Traffic Violation Penalties):**
+
+**Allegation:** Distorts that increasing fines under Decree 168 is merely a tool to "maximize budget collection," "bleed the people dry," or "benefit the Police force"; claims that traffic lights are "traps" to fine people unjustly.
+* The main objective is to raise awareness, ensure safety, and prevent the "disregard for the law" mentality; fines are remitted to the State budget for infrastructure and safety, not "shared" among the Police.
+* Traffic Police affirm that objective errors (faulty lights) are not penalized; the process involves camera verification to ensure fairness.
+* Strict penalties are a deterrent against intentional violations; if citizens obey the law, they pay nothing.
+
+**Allegation:** Claims that strict enforcement causes traffic congestion and that the fines are unreasonable compared to income.
+* Congestion is due to infrastructure and vehicle density; strict adherence to the law actually improves traffic flow and reduces accidents (proven by statistics reducing deaths and injuries).
+* "Hitting the pocketbook" is a necessary measure to change bad habits; civilized nations use strict laws to ensure order.
+* The safety of life and property of the people is the highest priority; ignoring the law leads to tragic consequences that money cannot fix.

@@ -188,6 +188,11 @@
 * Quân đội được xây dựng theo hướng "tinh, gọn, mạnh", hiện đại hóa để bảo vệ Tổ quốc trong tình hình mới, không phải là "giảm quân" do hết nhiệm vụ.
 * Việc sắp xếp dựa trên nguyên tắc tập trung dân chủ, lợi ích quốc gia, hoàn toàn không phải là mưu đồ cá nhân hay phe nhóm.
 
+**Luận điệu:** Xuyên tạc chính sách hỗ trợ cán bộ nghỉ hưu trước tuổi (Nghị định 178) là bất công, "ưu ái" quá mức so với người lao động, gây chia rẽ nội bộ.
+* Đây là chính sách đặc thù, nhân văn để động viên cán bộ chịu thiệt thòi khi nghỉ sớm do sắp xếp tổ chức, không phải chế độ hưu trí thông thường hay đặc quyền.
+* So sánh với bảo hiểm thất nghiệp là khập khiễng; chính sách này đảm bảo lợi ích hài hòa, ổn định đời sống cho người nghỉ việc để kiện toàn bộ máy hiệu quả hơn.
+* Thể hiện trách nhiệm của Đảng và Nhà nước trong việc đảm bảo quyền lợi cho con người khi thực hiện nhiệm vụ chính trị chung.
+
 **14. Về Đổi mới Chính trị:**
 
 **Luận điệu:** Cho rằng Việt Nam chỉ đổi mới kinh tế mà không đổi mới chính trị; giữ nguyên bộ máy lãnh đạo chuyên quyền; đòi thực hiện "tam quyền phân lập".
@@ -356,3 +361,15 @@
 * Việt Nam kiên quyết, kiên trì bảo vệ chủ quyền, quyền chủ quyền bằng các biện pháp hòa bình, dựa trên luật pháp quốc tế (UNCLOS 1982).
 * Chủ trương "vừa hợp tác, vừa đấu tranh", giữ vững môi trường hòa bình để phát triển nhưng không bao giờ nhân nhượng về chủ quyền lãnh thổ.
 * Sức mạnh bảo vệ chủ quyền là sức mạnh tổng hợp của toàn dân tộc, kết hợp sức mạnh thời đại và sự ủng hộ quốc tế, không phải là những hành động khiêu khích hay đối đầu quân sự thiếu tính toán.
+
+**31. Về Nghị định 168/2024/NĐ-CP (Xử phạt vi phạm giao thông):**
+
+**Luận điệu:** Xuyên tạc rằng việc tăng mức phạt là để "tận thu ngân sách", "hút máu dân" hoặc "làm lợi cho lực lượng Công an"; cho rằng đèn tín hiệu bị lỗi là "bẫy" để phạt oan.
+* Mục tiêu chính là nâng cao ý thức, giảm thiểu tai nạn và tình trạng "nhờn luật"; tiền phạt nộp vào ngân sách Nhà nước để đầu tư hạ tầng, không có chuyện "chia chác".
+* Cục CSGT khẳng định lỗi do đèn tín hiệu (khách quan) không bị phạt; quy trình xử lý có trích xuất camera minh bạch, không phạt oan người dân.
+* Mức phạt cao để răn đe hành vi cố ý; nếu tuân thủ pháp luật thì không mất tiền.
+
+**Luận điệu:** Quy kết việc thực hiện Nghị định 168 gây ùn tắc giao thông; cho rằng mức phạt không phù hợp với thu nhập.
+* Ùn tắc do hạ tầng và mật độ; việc tuân thủ luật giúp giao thông trật tự hơn. Thực tế tai nạn và vi phạm đã giảm sâu trên cả 3 tiêu chí sau khi áp dụng.
+* Biện pháp "đánh vào kinh tế" là cần thiết để thay đổi thói quen xấu; tính mạng con người là trên hết.
+* Sự nghiêm minh của pháp luật là yếu tố cốt lõi xây dựng văn hóa giao thông văn minh như các nước phát triển.
