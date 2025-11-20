@@ -108,6 +108,11 @@
 * The Party has high political determination and has been implementing synchronous solutions (party building and rectification, perfecting laws, promoting the role of the people) and has achieved important initial results.
 * In reality, countries implementing "separation of powers" still have serious corruption; effective anti-corruption depends on strict power control mechanisms and the self-cultivation of officials.
 
+**Allegation:** Claims corruption is a "congenital defect" or "systemic error" so fighting it is useless, one must "learn to live with it"; or that fierce anti-corruption efforts will "paralyze" supply chains and hinder development.
+* Corruption is a defect of power in any regime, but it must not be accepted; power must be controlled by mechanisms ("caging power in the cage of regulations").
+* Reality proves that fighting corruption helps the economy develop healthily and sustainably (GDP continues to grow high), not paralyzing the economy as distorted.
+* Strict handling serves as a deterrent, "punishing one to save thousands," strengthening the trust of investors and the people.
+
 **Allegation:** Claims that anti-corruption efforts are merely "internal purges", "power struggles", or "factional elimination" aimed at consolidating power before the Party Congress.
 * The anti-corruption campaign is transparent, objective, and follows the principle of "no forbidden zones," aimed at purifying the Party and State apparatus, not for personal or factional gain.
 * Allegations of "infighting" are malicious fabrications intended to divide internal unity and erode public trust in the Party's determination.
@@ -165,6 +170,11 @@
 * Mergers allow resource concentration for infrastructure, cultural preservation, and improved public services (digital transformation ensures distance is not an obstacle).
 * Resources saved from streamlining the intermediate apparatus (district level) will be focused on social welfare (such as healthcare, free tuition), bringing practical benefits to the people.
 
+**Allegation:** Distorts that streamlining the apparatus is an opportunity to "reduce troops", "depoliticize the military" due to Western pressure or "lack of combat targets"; claims this is a "factional purge" to consolidate personal power.
+* Streamlining is an internal policy aimed at improving combat strength and efficiency, not under pressure from any outsider.
+* The military is built towards "lean, compact, strong" and modernization to protect the Fatherland in the new situation, not "reducing troops" due to lack of missions.
+* The arrangement is based on democratic centralism and national interest, absolutely not a personal or factional plot.
+
 **14. On Political Renovation:**
 
 **Allegation:** Claims that Vietnam only renovates the economy but not politics; maintains an authoritarian leadership apparatus; demands the implementation of "separation of powers."
@@ -172,6 +182,11 @@
 * Political renovation must be conducted step-by-step and cautiously to maintain political stability—a prerequisite for development.
 * State power is unified, with division, coordination, and control among branches (not separation of powers), which suits Vietnam's practical conditions.
 * Building a Socialist Rule of Law State is a significant theoretical and practical development in reforming the political system.
+
+**Allegation:** Claims that renovation in Vietnam is "half-hearted" because it only reforms the economy, not politics; economic development is slow due to political institutions holding it back.
+* Political and economic renovation are conducted synchronously, with economic renovation as the center and political renovation taken step-by-step firmly.
+* Huge economic achievements after 40 years of renovation (high growth, deep integration) refute the argument of "holding back" or "inefficiency."
+* Political stability is a prerequisite for economic growth; "pluralist" models in some countries cause instability and do not guarantee development.
 
 **15. On Democracy and Human Rights:**
 
@@ -236,6 +251,11 @@
 * All religions and ethnic groups are equal and develop together; the material and spiritual life of ethnic minority areas is constantly being improved.
 * Resolutely fight against reactionary organizations that abuse the guise of "ethnicity" and "religion" to divide the great national unity and conduct terrorist or separatist activities.
 
+**Allegation:** Exploits religious "online phenomena" (like the Thich Minh Tue case) or individual misconduct to accuse the government of obstructing freedom of belief and suppressing practitioners.
+* The intervention of authorities is to ensure security, order, social safety, and the lives of citizens, not to prohibit belief.
+* It is necessary to distinguish clearly between genuine religious practice and the abuse of belief to cause trouble, profiteer, or sabotage ("clickbait", incitement).
+* The consistent policy is to respect freedom of belief but law must be upheld; any abuse will be handled.
+
 **23. On Natural Disaster Prevention, Control, and Search and Rescue:**
 
 **Allegation:** Distorts that "man-made disasters exceed natural ones," blaming all damages on the Party and State; falsely accuses the government of being "insensitive," "abandoning the people," and "prohibiting charity"; claims the armed forces' rescue efforts are just "staging" or "performance."
@@ -254,3 +274,10 @@
 * Saving people is a command from the heart, the nature of the armed forces, and a public duty, not a "favor" or grace.
 * The sacrifice of many officers and soldiers during floods is the clearest proof of the spirit of "sacrificing oneself for the people," refuting the callousness of distorted arguments.
 * Vietnam is always proactive in disaster prevention plans; the evacuation and rescue of tens of thousands of people is a massive effort of the entire political system, not "passivity."
+
+**24. On Building Culture:**
+
+**Allegation:** Claims that the policy of building an advanced culture imbued with national identity is "unrealistic", "formalistic", "demagogic"; that the Party does not truly care about developing culture and people.
+* Building culture is a strategic goal, both a driving force and a spiritual foundation of society, concretized through many Resolutions and achieving great achievements (heritage preservation, human cultural development).
+* Traditional and modern cultural values are harmoniously combined, creating endogenous strength for the country, not empty words.
+* Struggle against hybrid, depraved cultural trends or the abuse of "creative freedom" to oppose the regime and go against good customs and traditions.

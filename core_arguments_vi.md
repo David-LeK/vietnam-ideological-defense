@@ -108,6 +108,11 @@
 * Đảng có quyết tâm chính trị cao, đã và đang thực hiện đồng bộ các giải pháp (xây dựng chỉnh đốn Đảng, hoàn thiện pháp luật, phát huy vai trò nhân dân) và đã đạt được những kết quả bước đầu quan trọng.
 * Thực tế các nước thực hiện "tam quyền phân lập" vẫn tồn tại tham nhũng nghiêm trọng; phòng chống tham nhũng hiệu quả phụ thuộc vào cơ chế kiểm soát quyền lực chặt chẽ và sự tu dưỡng của cán bộ.
 
+**Luận điệu:** Cho rằng tham nhũng là "khuyết tật bẩm sinh", "lỗi hệ thống" nên chống cũng vô ích, phải "học cách sống chung"; hoặc chống quyết liệt sẽ làm "tê liệt" chuỗi cung ứng, cản trở phát triển.
+* Tham nhũng đúng là khuyết tật của quyền lực ở mọi chế độ, nhưng không vì thế mà chấp nhận "sống chung"; phải kiểm soát quyền lực bằng cơ chế (nhốt quyền lực vào lồng cơ chế).
+* Thực tiễn chứng minh chống tham nhũng giúp kinh tế phát triển lành mạnh, bền vững (GDP vẫn tăng trưởng cao), không làm tê liệt nền kinh tế như luận điệu xuyên tạc.
+* Việc xử lý nghiêm minh mang tính răn đe, "xử một người cứu muôn người", củng cố niềm tin của nhà đầu tư và nhân dân.
+
 **Luận điệu:** Cho rằng công cuộc chống tham nhũng, tiêu cực thực chất chỉ là "đấu đá nội bộ", "tranh giành quyền lực", "thanh trừng phe cánh" trước thềm Đại hội Đảng.
 * Công cuộc chống tham nhũng là xu thế không thể đảo ngược, nhằm làm trong sạch bộ máy Đảng và Nhà nước, không vì mục đích tư lợi hay phe nhóm.
 * Các luận điệu về "đấu đá", "thanh trừng" là sự xuyên tạc, bịa đặt nhằm gây chia rẽ nội bộ và làm giảm niềm tin của nhân dân vào quyết tâm chính trị của Đảng.
@@ -165,6 +170,11 @@
 * Sáp nhập giúp tập trung nguồn lực để đầu tư phát triển hạ tầng, bảo tồn văn hóa và nâng cao chất lượng dịch vụ công (chuyển đổi số giúp người dân không ngại khoảng cách địa lý).
 * Nguồn lực tiết kiệm được từ việc tinh giản bộ máy trung gian (cấp huyện) sẽ được tập trung đầu tư cho an sinh xã hội (như khám chữa bệnh, miễn học phí), mang lại lợi ích thiết thực cho nhân dân.
 
+**Luận điệu:** Xuyên tạc rằng tinh gọn bộ máy là cơ hội để "giảm quân", "phi chính trị hóa quân đội" do sức ép từ phương Tây hoặc do "hết đối tượng tác chiến"; cho rằng đây là cuộc "thanh trừng phe phái" để củng cố quyền lực cá nhân.
+* Tinh gọn tổ chức là chủ trương nội tại nhằm nâng cao sức chiến đấu và hiệu quả, không chịu sức ép từ bất kỳ bên ngoài nào.
+* Quân đội được xây dựng theo hướng "tinh, gọn, mạnh", hiện đại hóa để bảo vệ Tổ quốc trong tình hình mới, không phải là "giảm quân" do hết nhiệm vụ.
+* Việc sắp xếp dựa trên nguyên tắc tập trung dân chủ, lợi ích quốc gia, hoàn toàn không phải là mưu đồ cá nhân hay phe nhóm.
+
 **14. Về Đổi mới Chính trị:**
 
 **Luận điệu:** Cho rằng Việt Nam chỉ đổi mới kinh tế mà không đổi mới chính trị; giữ nguyên bộ máy lãnh đạo chuyên quyền; đòi thực hiện "tam quyền phân lập".
@@ -172,6 +182,11 @@
 * Đổi mới chính trị phải tiến hành từng bước vững chắc, thận trọng để giữ vững ổn định chính trị - điều kiện tiên quyết để phát triển.
 * Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp và kiểm soát (không phải tam quyền phân lập), phù hợp với thực tiễn Việt Nam.
 * Xây dựng Nhà nước pháp quyền XHCN là bước phát triển quan trọng về lý luận và thực tiễn trong đổi mới hệ thống chính trị.
+
+**Luận điệu:** Cho rằng đổi mới ở Việt Nam là "nửa vời" vì chỉ đổi mới kinh tế, không đổi mới chính trị; kinh tế phát triển chậm do thể chế chính trị kìm hãm.
+* Đổi mới chính trị và kinh tế được tiến hành đồng bộ, trong đó đổi mới kinh tế là trọng tâm, đổi mới chính trị là từng bước vững chắc.
+* Thành tựu kinh tế to lớn sau 40 năm đổi mới (tăng trưởng cao, hội nhập sâu rộng) bác bỏ luận điệu về sự "kìm hãm" hay "kém hiệu quả".
+* Ổn định chính trị là tiền đề tiên quyết cho tăng trưởng kinh tế; các mô hình "đa nguyên" ở một số nước gây bất ổn, không đảm bảo phát triển.
 
 **15. Về Dân chủ và Nhân quyền:**
 
@@ -236,6 +251,11 @@
 * Các tôn giáo và dân tộc bình đẳng, cùng phát triển; đời sống vật chất, tinh thần vùng đồng bào dân tộc thiểu số không ngừng được nâng cao.
 * Đấu tranh kiên quyết với các tổ chức phản động lợi dụng chiêu bài "dân tộc", "tôn giáo" để chia rẽ khối đại đoàn kết, hoạt động khủng bố, ly khai.
 
+**Luận điệu:** Lợi dụng các "hiện tượng mạng" tôn giáo (như sự việc Thích Minh Tuệ) hoặc sai phạm cá nhân để quy chụp chính quyền cản trở tự do tín ngưỡng, đàn áp người tu hành.
+* Việc cơ quan chức năng can thiệp là để đảm bảo an ninh trật tự, an toàn xã hội và tính mạng cho công dân, không phải ngăn cấm tín ngưỡng.
+* Cần phân biệt rõ giữa thực hành tín ngưỡng chân chính với việc lợi dụng tín ngưỡng để gây rối, trục lợi hoặc chống phá ("câu view", kích động).
+* Chính sách nhất quán là tôn trọng tự do tín ngưỡng nhưng phải thượng tôn pháp luật; mọi hành vi lợi dụng đều bị xử lý.
+
 **23. Về công tác phòng, chống thiên tai và cứu hộ, cứu nạn:**
 
 **Luận điệu:** Xuyên tạc rằng "thiên tai ít, nhân tai nhiều", quy chụp mọi thiệt hại là lỗi của Đảng, Nhà nước; vu cáo chính quyền "vô cảm", "bỏ mặc dân", "ngăn cấm thiện nguyện"; cho rằng lực lượng vũ trang đi cứu hộ chỉ để "làm màu".
@@ -254,3 +274,10 @@
 * Cứu dân là mệnh lệnh từ trái tim, là bản chất của lực lượng vũ trang và trách nhiệm công vụ, không phải là "ân huệ" hay sự ban ơn.
 * Sự hy sinh của nhiều cán bộ, chiến sĩ trong bão lũ là minh chứng rõ nhất cho tinh thần "vì nhân dân quên mình", bác bỏ sự vô cảm của các luận điệu xuyên tạc.
 * Việt Nam luôn chủ động các phương án phòng chống thiên tai; việc sơ tán, ứng cứu hàng vạn người dân là nỗ lực to lớn của cả hệ thống chính trị, không phải là sự "bị động".
+
+**24. Về Xây dựng nền văn hóa:**
+
+**Luận điệu:** Cho rằng chủ trương xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc là "viển vông", "hình thức", "mị dân"; Đảng không thực sự quan tâm đến phát triển văn hóa, con người.
+* Xây dựng văn hóa là mục tiêu chiến lược, vừa là động lực vừa là nền tảng tinh thần của xã hội, đã được cụ thể hóa qua nhiều Nghị quyết và đạt thành tựu lớn (bảo tồn di sản, phát triển văn hóa con người).
+* Các giá trị văn hóa truyền thống và hiện đại được kết hợp hài hòa, tạo nên sức mạnh nội sinh cho đất nước, không phải là sáo rỗng.
+* Đấu tranh với các xu hướng văn hóa lai căng, đồi trụy hoặc lợi dụng "tự do sáng tạo" để chống phá chế độ, đi ngược lại thuần phong mỹ tục.
