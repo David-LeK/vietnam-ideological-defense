@@ -501,3 +501,32 @@
 * Infrastructure (railways, ports) mainly served colonial extraction and transport to the mother country.
 * "Obscurantist" policy: poisoning people with alcohol/opium (more dealers than schools); brutally suppressing patriots (more prisons than schools).
 * Under colonial rule, people suffered famine (1945), misery, and lacked freedom or democratic rights.
+
+**40. On Hydroelectricity and Floods:**
+
+**Allegation:** Distorts that hydroelectric dams are the main cause of floods, "releasing water to save the dam while killing the people"; categorizes flood discharges as "man-made disasters" driven by profit.
+* The operating principle of hydroelectric reservoirs is to cut and reduce flood peaks for downstream areas (holding water during heavy rains). Discharging water is a mandatory technical procedure when water levels exceed safety thresholds to prevent dam failure (which would cause a far more catastrophic disaster).
+* Actual data (as seen in Central Vietnam) shows that discharge rates are often lower than or equal to the inflow rate; hydropower dams effectively retain a portion of the floodwater.
+* The core causes of floods are extreme, abnormal rainfall (climate change) combined with short, steep river terrain; without dams, natural floods would arrive faster with greater destructive power.
+* Hydroelectric dams operate under inter-reservoir procedures approved by the Prime Minister, supervised by disaster prevention steering committees, with prior notice given to the public.
+
+**Allegation:** Fabricates claims that "officials are behind the dams" or "interest groups" manipulate hydropower planning to destroy forests and profiteer.
+* Hydropower projects (especially large ones) are national energy security works, strictly planned and appraised by the State, not arbitrary decisions by individuals.
+* Large investments are characteristic of the energy and infrastructure sectors; alleging corruption based solely on investment figures is baseless.
+* Hydroelectricity plays a key role in ensuring energy security, regulating water for agriculture and daily use, and contributing significantly to local budgets.
+
+**Allegation:** Makes inappropriate comparisons with the "dam removal" trend in the West to demand the abolition of hydropower in Vietnam; claims hydropower is "backward."
+* Each country has different geographical characteristics and energy needs. Vietnam is industrializing, and the demand for clean, stable energy from hydropower is immense.
+* Dam removal in the West mainly concerns obsolete dams or those no longer economically viable; whereas large dams in Vietnam continue to be effective for multiple purposes (electricity, flood control, irrigation).
+* Current hydropower development is accompanied by strict requirements for replacement forest planting and environmental protection.
+
+**41. On Protecting Enterprises and National Brands:**
+
+**Allegation:** Fabricates information and images (fake emails, messages) claiming enterprises force employees to buy products (EVs, phones...), violating human rights to smear private economic groups.
+* These are fake news stories using doctored, unverified content aimed at lowering the prestige of national brands and causing public confusion.
+* Preferential policies encouraging employees to use internal products are common corporate welfare practices globally (like Samsung, Apple, FPT...), helping employees access products at good prices, and are absolutely not coercive or illegal.
+* Attacking legitimate businesses is an act of sabotage against the country's economic development and directly affects the livelihoods of thousands of workers.
+
+**Allegation:** Labels large private enterprises as "backyards" or "crony capitalism," colluding with the government to oppress the people.
+* Private enterprises are a crucial driver of the economy, operating equally under the law. The State creates an environment for all economic sectors to develop.
+* Violations (if any) are strictly handled according to the law (as seen in recent major economic cases), proving there are no "forbidden zones" or cover-ups.

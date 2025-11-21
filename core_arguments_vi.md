@@ -501,3 +501,32 @@
 * Cơ sở hạ tầng (đường sắt, cảng biển) chủ yếu phục vụ khai thác thuộc địa và vận chuyển về chính quốc.
 * Chính sách "ngu dân", đầu độc bằng rượu và thuốc phiện (đại lý rượu nhiều hơn trường học); đàn áp dã man các phong trào yêu nước (nhà tù nhiều hơn trường học).
 * Dưới ách cai trị thực dân, nhân dân chịu cảnh đói khổ (nạn đói 1945), không có quyền tự do, dân chủ.
+
+**40. Về Thủy điện và Lũ lụt:**
+
+**Luận điệu:** Xuyên tạc rằng thủy điện là nguyên nhân chính gây lũ lụt, "xả lũ để cứu đập, giết dân"; quy kết việc xả lũ là "nhân tai", "thảm họa nhân tạo" do lợi nhuận.
+* Nguyên tắc vận hành của hồ chứa thủy điện là cắt và giảm đỉnh lũ cho hạ du (giữ lại nước khi mưa lớn). Việc xả lũ là quy trình kỹ thuật bắt buộc khi nước vượt ngưỡng an toàn để đảm bảo không vỡ đập (nếu vỡ sẽ gây thảm họa thảm khốc hơn nhiều).
+* Thực tế số liệu (như tại miền Trung) cho thấy lưu lượng xả thường nhỏ hơn hoặc bằng lưu lượng nước về hồ; thủy điện đã đóng góp cắt giảm một phần lượng nước lũ.
+* Nguyên nhân cốt lõi của lũ lụt là do mưa cực đoan bất thường (biến đổi khí hậu) kết hợp với địa hình sông ngắn, dốc; nếu không có thủy điện, lũ tự nhiên sẽ về nhanh và sức tàn phá lớn hơn.
+* Các hồ thủy điện vận hành theo Quy trình liên hồ chứa được Thủ tướng phê duyệt, có sự giám sát của ban chỉ huy phòng chống thiên tai và thông báo trước cho người dân.
+
+**Luận điệu:** Bịa đặt rằng "quan chức đứng sau các đập thủy điện", "nhóm lợi ích" thao túng quy hoạch thủy điện để phá rừng, trục lợi.
+* Các dự án thủy điện (đặc biệt là các công trình lớn) là công trình an ninh năng lượng quốc gia, được quy hoạch và thẩm định chặt chẽ bởi Nhà nước, không phải quyết định tùy tiện của cá nhân.
+* Việc đầu tư lớn là đặc thù của ngành năng lượng và hạ tầng; quy chụp tham nhũng dựa trên con số vốn đầu tư là vô căn cứ.
+* Thủy điện đóng vai trò then chốt đảm bảo an ninh năng lượng, điều tiết nước cho nông nghiệp và sinh hoạt, đóng góp lớn cho ngân sách địa phương.
+
+**Luận điệu:** So sánh khập khiễng với xu hướng "phá đập" ở phương Tây để đòi xóa bỏ thủy điện tại Việt Nam; cho rằng thủy điện là "lạc hậu".
+* Mỗi quốc gia có đặc điểm địa lý và nhu cầu năng lượng khác nhau. Việt Nam đang trong giai đoạn phát triển công nghiệp hóa, nhu cầu năng lượng sạch và ổn định từ thủy điện là rất lớn.
+* Việc tháo dỡ đập ở phương Tây chủ yếu là các đập quá cũ, hết hạn sử dụng hoặc không còn hiệu quả kinh tế; trong khi các đập lớn ở Việt Nam vẫn đang phát huy hiệu quả đa mục tiêu (điện, cắt lũ, tưới tiêu).
+* Phát triển thủy điện hiện nay đi đôi với các yêu cầu nghiêm ngặt về trồng rừng thay thế và bảo vệ môi trường.
+
+**41. Về Bảo vệ Doanh nghiệp và Thương hiệu Quốc gia:**
+
+**Luận điệu:** Bịa đặt thông tin, hình ảnh (email giả, tin nhắn giả) về việc doanh nghiệp ép buộc nhân viên mua sản phẩm (xe điện, điện thoại...), vi phạm nhân quyền để bôi nhọ tập đoàn kinh tế tư nhân.
+* Đây là tin giả, cắt ghép thiếu kiểm chứng nhằm hạ thấp uy tín thương hiệu quốc gia và gây hoang mang dư luận.
+* Các chính sách ưu đãi, khuyến khích nhân viên sử dụng sản phẩm nội bộ là phúc lợi doanh nghiệp phổ biến trên toàn cầu (như Samsung, Apple, FPT...), giúp nhân viên tiếp cận sản phẩm với giá tốt, hoàn toàn không mang tính ép buộc hay vi phạm pháp luật.
+* Tấn công doanh nghiệp làm ăn chân chính là hành vi phá hoại sự phát triển kinh tế đất nước và ảnh hưởng trực tiếp đến đời sống của hàng ngàn người lao động.
+
+**Luận điệu:** Quy chụp doanh nghiệp tư nhân lớn là "sân sau", "tư bản thân hữu", cấu kết với chính quyền để chèn ép người dân.
+* Doanh nghiệp tư nhân là động lực quan trọng của nền kinh tế, hoạt động bình đẳng trước pháp luật. Nhà nước kiến tạo môi trường để mọi thành phần kinh tế phát triển.
+* Những sai phạm (nếu có) đều bị xử lý nghiêm minh theo pháp luật (như các vụ án kinh tế lớn gần đây), chứng minh không có vùng cấm hay sự bao che.
