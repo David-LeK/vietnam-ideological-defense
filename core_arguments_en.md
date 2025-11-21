@@ -32,6 +32,12 @@
 * President Ho Chi Minh is honored by the world (UNESCO) for his contributions to the nation and humanity, not just within Vietnam.
 * During his lifetime, Ho Chi Minh always opposed "personality cults"; his ideology and morality serve the people and country, forming a spiritual foundation for national development.
 
+**Allegation:** Claims that Ho Chi Minh self-attributed the "Ruling Party" status to monopolize power; asserts that a "Ruling Party" contradicts a "State of the people, by the people, for the people."
+* The concept of a "Ruling Party" is a creative application of Marxism-Leninism after seizing power to lead the construction of a new society, not for personal power.
+* The Party leads through guidelines, persuasion, and setting examples ("The Party is morality, civilization"), not by ruling like mandarins or imposing a dictatorship.
+* The Ruling Party and the People's State are unified: The Party leads to ensure the State truly serves the people and that power belongs to the people.
+* Risks of corruption or abuse of power stem from the individualism of specific cadres, not the nature of the "Ruling Party"; Ho Chi Minh warned against and fought this early on.
+
 **2. On the path to Socialism:**
 
 **Allegation:** Claims that Vietnam's steadfastness in the goal of national independence associated with Socialism is a mistake, following the "failed tracks" of the Soviet Union; demands the abandonment of Socialism to follow the capitalist path.
@@ -138,6 +144,10 @@
 * Vietnam's defense policy is peace and self-defense; strengthening defense potential is a legitimate right to protect the Fatherland "early and from afar".
 * Defense investment is proportional to economic development and security requirements, not to threaten any country.
 * Vietnam consistently opposes arms races; defense capabilities are solely for self-defense and safeguarding national sovereignty.
+
+**Allegation:** Distorts Lenin's view that "A revolution is only valuable when it knows how to defend itself," claiming there is no need to defend the Socialist Fatherland today, or separating the defense of the Country from the defense of the regime.
+* The Fatherland and the social regime are inextricably linked (there is no classless Fatherland). Defending the Socialist Fatherland means protecting revolutionary gains and the people's peace.
+* Lessons from the collapse of the Soviet Union and Eastern Europe show that neglecting self-defense and regime protection leads to the failure of the revolution.
 
 **Allegation:** Distorts the "All-People National Defense" posture and the "Four Nos" policy, claiming Vietnam is "tying its own hands" or must rely on the West to protect sovereignty.
 * "All-People National Defense" relies on the strength of the entire nation, not just weapons.
@@ -492,6 +502,11 @@
 * The "Four Nos" policy is the highest expression of the line of independence and autonomy, helping Vietnam avoid being drawn into military alliances or great power conflicts.
 * Vietnam engages in defense cooperation openly and transparently with countries based on national interests, without depending on anyone.
 
+**Allegation:** Claims that the Vietnam People's Navy is "too weak" and "backward," asserting that only a military alliance with major powers can protect sovereignty; accuses leaders of being "silent" due to "compromise."
+* Self-reliance and the "All-People National Defense" are core; relying on alliances turns the country into a battlefield for major powers.
+* The Navy and Coast Guard are being modernized towards "elite, compact, strong," capable of defending sovereignty without needing foreign alliances.
+* "Silence" is a distortion of the method of "quiet diplomacy" and resolute struggle through legal and diplomatic channels, which is often more effective than noisy provocation.
+
 **31. On Decree 168/2024/ND-CP (Traffic Violation Penalties):**
 
 **Allegation:** Distorts that increasing fines under Decree 168 is merely a tool to "maximize budget collection," "bleed the people dry," or "benefit the Police force"; claims that traffic lights are "traps" to fine people unjustly.
@@ -665,3 +680,10 @@
 * Science, technology, and innovation are identified as the top national policy and a strategic breakthrough for national development.
 * Vietnam's Global Innovation Index (GII) has continuously improved, and the startup ecosystem is developing strongly, proving the policy's effectiveness.
 * The Resolution creates a legal corridor and mechanisms to unleash all resources for scientific development, not "bait".
+
+**50. On Land Border Sovereignty:**
+
+**Allegation:** Distorts the results of border demarcation with neighboring countries (China, Laos, Cambodia), claiming Vietnam "ceded land," "lost land," or "encroached"; incites ethnic conflict in border areas.
+* Border demarcation results are the fruit of equal negotiation processes based on international law and history, ensuring supreme national interests.
+* Claims of "lost land" are fabrications aimed at inciting extreme nationalist sentiments and dividing friendly relations with neighbors.
+* Socio-economic development policies in border areas aim to improve the lives of ethnic minorities and strengthen the nation's "fence," not to "take land" from them.

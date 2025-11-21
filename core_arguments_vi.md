@@ -32,6 +32,12 @@
 * Chủ tịch Hồ Chí Minh được UNESCO và thế giới tôn vinh là danh nhân văn hóa, anh hùng giải phóng dân tộc, không chỉ riêng Việt Nam.
 * Sinh thời, Bác luôn phản đối sùng bái cá nhân; tư tưởng và đạo đức của Bác phục vụ nhân dân, đất nước, là nền tảng tinh thần để phát triển dân tộc.
 
+**Luận điệu:** Cho rằng khái niệm "Đảng cầm quyền" là do Hồ Chí Minh tự gán ghép để độc quyền lãnh đạo; xuyên tạc "Đảng cầm quyền" mâu thuẫn với "Nhà nước của dân, do dân, vì dân".
+* "Đảng cầm quyền" là sự vận dụng sáng tạo chủ nghĩa Mác - Lênin sau khi giành được chính quyền để lãnh đạo xây dựng xã hội mới.
+* Đảng lãnh đạo bằng đường lối, thuyết phục và nêu gương ("Đảng là đạo đức, là văn minh"), không phải cai trị kiểu quan lại.
+* Đảng cầm quyền và Nhà nước của dân là thống nhất: Đảng lãnh đạo để đảm bảo Nhà nước thực sự phục vụ nhân dân, quyền lực thuộc về nhân dân.
+* Nguy cơ tham nhũng, lạm quyền là do chủ nghĩa cá nhân của cán bộ, không phải do bản chất của "Đảng cầm quyền"; Bác Hồ đã cảnh báo và đấu tranh quyết liệt từ sớm.
+
 **2. Về con đường đi lên CNXH:** 
 
 **Luận điệu:** Cho rằng Việt Nam kiên định mục tiêu độc lập dân tộc gắn liền với CNXH là sai lầm, là đi vào "vết xe đổ" của Liên Xô; đòi từ bỏ CNXH để đi theo con đường tư bản chủ nghĩa.
@@ -138,6 +144,10 @@
 * Chính sách quốc phòng của Việt Nam là hòa bình, tự vệ; việc tăng cường tiềm lực quốc phòng là quyền chính đáng để bảo vệ Tổ quốc "từ sớm, từ xa".
 * Đầu tư quốc phòng tương xứng với phát triển kinh tế và yêu cầu bảo vệ an ninh, không nhằm đe dọa bất cứ nước nào.
 * Việt Nam kiên quyết phản đối chạy đua vũ trang; sức mạnh quân sự chỉ để tự vệ và giữ gìn chủ quyền quốc gia.
+
+**Luận điệu:** Xuyên tạc quan điểm "Cách mạng chỉ có giá trị khi biết tự vệ", cho rằng hiện nay không cần bảo vệ Tổ quốc XHCN, hoặc chỉ bảo vệ Tổ quốc chứ không cần bảo vệ chế độ.
+* Tổ quốc và chế độ xã hội luôn gắn bó mật thiết (không có Tổ quốc phi giai cấp). Bảo vệ Tổ quốc XHCN là bảo vệ thành quả cách mạng và cuộc sống bình yên của nhân dân.
+* Bài học từ sự sụp đổ của Liên Xô và Đông Âu cho thấy nếu lơ là nhiệm vụ tự vệ và bảo vệ chế độ thì cách mạng sẽ thất bại.
 
 **Luận điệu:** Xuyên tạc thế trận "Quốc phòng toàn dân" và chính sách "Bốn không", cho rằng Việt Nam "tự trói chân tay" hoặc phải dựa vào phương Tây mới bảo vệ được chủ quyền.
 * Quốc phòng toàn dân dựa trên sức mạnh tổng hợp của khối đại đoàn kết dân tộc chứ không chỉ dựa vào vũ khí.
@@ -492,6 +502,11 @@
 * Chính sách "Bốn không" là biểu hiện cao nhất của đường lối độc lập, tự chủ, giúp Việt Nam không bị cuốn vào các liên minh quân sự hay xung đột nước lớn.
 * Việt Nam hợp tác quốc phòng công khai, minh bạch với các nước trên cơ sở lợi ích quốc gia, không lệ thuộc vào bất kỳ ai.
 
+**Luận điệu:** Bịa đặt rằng lãnh đạo Đảng, Nhà nước "im lặng", "thỏa hiệp" với nước ngoài để bán đứng chủ quyền biển đảo; cho rằng Hải quân Việt Nam quá yếu nên buộc phải liên minh quân sự mới giữ được biển.
+* Đảng và Nhà nước luôn kiên quyết, kiên trì bảo vệ chủ quyền bằng biện pháp hòa bình, đúng luật pháp quốc tế, không bao giờ "im lặng" hay "thỏa hiệp" vô nguyên tắc.
+* Hải quân và Cảnh sát biển đang được hiện đại hóa theo hướng "tinh, gọn, mạnh", đủ sức bảo vệ chủ quyền mà không cần liên minh quân sự (vốn biến nước ta thành quân cờ chiến lược).
+* Sức mạnh bảo vệ chủ quyền nằm ở khối đại đoàn kết toàn dân và thế trận quốc phòng toàn dân; đấu tranh ngoại giao và pháp lý khôn khéo hiệu quả hơn là khiêu khích ồn ào.
+
 **31. Về Nghị định 168/2024/NĐ-CP (Xử phạt vi phạm giao thông):**
 
 **Luận điệu:** Xuyên tạc rằng việc tăng mức phạt là để "tận thu ngân sách", "hút máu dân" hoặc "làm lợi cho lực lượng Công an"; cho rằng đèn tín hiệu bị lỗi là "bẫy" để phạt oan.
@@ -665,3 +680,10 @@
 * Khoa học công nghệ và đổi mới sáng tạo được xác định là quốc sách hàng đầu, là đột phá chiến lược để phát triển đất nước.
 * Chỉ số đổi mới sáng tạo (GII) của Việt Nam liên tục thăng hạng, hệ sinh thái khởi nghiệp phát triển mạnh chứng minh hiệu quả của chủ trương.
 * Nghị quyết tạo hành lang pháp lý, cơ chế để khơi dậy mọi nguồn lực phát triển khoa học, không phải là "mồi nhử".
+
+**50. Về Biên giới lãnh thổ đất liền:**
+
+**Luận điệu:** Xuyên tạc kết quả phân giới cắm mốc với các nước láng giềng (Trung Quốc, Lào, Campuchia), rêu rao Việt Nam "nhượng đất", "mất đất" hoặc "xâm lấn"; kích động mâu thuẫn dân tộc vùng biên giới.
+* Kết quả phân giới cắm mốc là thành quả của quá trình đàm phán bình đẳng, dựa trên luật pháp quốc tế và lịch sử, đảm bảo lợi ích quốc gia tối cao.
+* Các luận điệu "mất đất" là bịa đặt nhằm kích động tâm lý dân tộc cực đoan, chia rẽ quan hệ hữu nghị với các nước láng giềng.
+* Chính sách phát triển kinh tế - xã hội vùng biên giới giúp cải thiện đời sống đồng bào, củng cố "phên dậu" Tổ quốc, không phải để "chiếm đất" của đồng bào dân tộc.
