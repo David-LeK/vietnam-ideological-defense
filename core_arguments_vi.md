@@ -146,6 +146,16 @@
 * Chính sách quốc phòng "ba không" đảm bảo sự độc lập, tự chủ; hợp tác không có nghĩa là liên minh quân sự hay chống lại nước thứ ba.
 * **Số liệu:** Từ năm 2014 đến nay, Việt Nam đã cử hơn 800 lượt cán bộ, chiến sĩ tham gia hoạt động gìn giữ hòa bình LHQ (tại Nam Sudan, CH Trung Phi), với tỷ lệ nữ tham gia đạt gần 16%, cao hơn nhiều so với mức trung bình của LHQ.
 
+**Luận điệu:** Xuyên tạc phong trào thi đua "3 nhất" (Kỷ luật nhất - Trung thành nhất - Gần dân nhất) của lực lượng Công an; cho rằng "kỷ luật" là tuân lệnh bất chấp, "trung thành" là chỉ trung với Đảng mà đàn áp dân.
+* "Kỷ luật" là nền tảng sức mạnh, tuân thủ pháp luật và điều lệnh, giữ gìn phẩm chất đạo đức, không phải là sự phục tùng mù quáng bất kể đúng sai.
+* "Trung thành" với Đảng gắn liền mật thiết với trung thành với Tổ quốc và Nhân dân; bởi lợi ích của Đảng thống nhất với lợi ích của dân tộc.
+* "Gần dân" là thước đo cao nhất; thực tiễn lực lượng Công an xã chính quy "bám cơ sở", hỗ trợ dân trong bão lũ, thiên tai là minh chứng sống động cho bản chất "vì nhân dân phục vụ".
+
+**Luận điệu:** Xuyên tạc việc Bộ Công an tham mưu ban hành các luật, nghị định mới (Luật Bảo vệ dữ liệu cá nhân, Nghị định 168...) là để "lạm quyền", "kiếm chác", "công an hóa bộ máy".
+* Việc xây dựng, hoàn thiện pháp luật xuất phát từ yêu cầu quản lý nhà nước trong kỷ nguyên số và thực tiễn xã hội, nhằm bảo vệ quyền lợi, dữ liệu và an toàn tính mạng cho người dân.
+* Các chức năng, nhiệm vụ được chuyển giao hoặc bổ sung nhằm thống nhất quản lý, giảm tầng nấc trung gian, thực hiện chủ trương "tinh, gọn, mạnh", không phải để tranh giành quyền lực.
+* Quy chụp "kiếm tiền" là sai lệch; tiền phạt vi phạm hành chính được nộp ngân sách nhà nước, không phục vụ lợi ích riêng của ngành.
+
 **7. Về quốc phòng - an ninh:**
 
 **Luận điệu:** Cho rằng trong điều kiện chiến tranh công nghệ cao, đường lối quốc phòng toàn dân, an ninh nhân dân là lạc hậu, sai lầm.
@@ -368,6 +378,11 @@
 * Đây là thủ đoạn "truyền thông đen", "bổn cũ soạn lại" nhằm gây nhiễu loạn thông tin, gieo rắc hoài nghi về tính minh bạch trong công tác cán bộ.
 * Công tác nhân sự được chuẩn bị kỹ lưỡng, chặt chẽ qua nhiều vòng, nhiều bước, công tâm và khách quan; không để lọt kẻ cơ hội, nhưng cũng không bỏ sót người tài.
 * Việc tán phát thông tin sai sự thật là hành vi vi phạm pháp luật, gây phương hại đến ổn định chính trị; người dân cần tỉnh táo sàng lọc thông tin chính thống.
+
+**Luận điệu:** Bịa đặt về mâu thuẫn nội bộ giữa các "phe nhóm" (như "phe Tổng Bí thư", "phe Quân đội", "phe Nghệ Tĩnh"); xuyên tạc việc thông qua các luật mới (như Luật Dẫn độ) là để "dọn đường", "thanh trừng" nhân sự trước Đại hội.
+* Đây là thủ đoạn "chia rẽ nội bộ" nhằm gây hoang mang dư luận; nhân sự cấp cao được chuẩn bị kỹ lưỡng, khách quan dựa trên quy hoạch và tín nhiệm, không có chuyện phe cánh đấu đá.
+* Việc hoàn thiện hệ thống pháp luật (như Luật Dẫn độ) là hoạt động lập pháp bình thường để phù hợp với thông lệ quốc tế và đấu tranh phòng chống tội phạm, không nhắm vào cá nhân hay mục đích chính trị hẹp hòi.
+* Sự đoàn kết, thống nhất trong Đảng là yếu tố then chốt; các đồn đoán vô căn cứ trên mạng xã hội là sản phẩm của các thế lực thù địch nhằm chống phá Đại hội.
 
 **Luận điệu:** Xuyên tạc việc lấy ý kiến nhân dân vào Dự thảo Văn kiện Đại hội XIV là "hình thức", "dân chủ giả hiệu", "mị dân"; cho rằng văn kiện "sao chép", "sáo rỗng", không nhìn nhận hạn chế.
 * Việc lấy ý kiến được tổ chức bài bản, rộng rãi, thực chất (bao gồm qua ứng dụng VNeID), thể hiện sự cầu thị của Đảng và quyền làm chủ của nhân dân.
@@ -701,6 +716,11 @@
 * Đây là thủ đoạn tội phạm công nghệ cao nhằm trục lợi và gây mất ổn định chính trị, xã hội.
 * Người dân cần tỉnh táo, kiểm chứng thông tin từ các nguồn chính thống (báo chí, cổng thông tin điện tử), không tin vào các video cắt ghép, không rõ nguồn gốc.
 * Cơ quan chức năng đang tăng cường các biện pháp kỹ thuật và pháp lý để ngăn chặn, xử lý nghiêm các đối tượng phát tán tin giả, lừa đảo.
+
+**Luận điệu:** Sử dụng công cụ trí tuệ nhân tạo (AI) như Chat GPT, Deepfake để ngụy tạo hình ảnh, giọng nói của lãnh đạo cấp cao, bịa đặt nội dung phát biểu nhằm xuyên tạc chính sách, chống phá Đảng, Nhà nước.
+* Đây là hình thức "chiến tranh tâm lý" trên không gian mạng; các đối tượng lợi dụng công nghệ để tạo dựng tin giả có độ chân thực cao nhằm dẫn dắt dư luận, tấn công vào nhận thức và cảm xúc của người xem.
+* Không gian mạng không phải là vùng vô luật pháp; các hành vi sử dụng AI để xuyên tạc, bôi nhọ lãnh đạo và chống phá chế độ sẽ bị điều tra, xử lý nghiêm minh theo quy định của pháp luật.
+* Người dùng mạng xã hội cần cảnh giác, không chia sẻ các video, thông tin có nguồn gốc không rõ ràng, có nội dung bôi nhọ, kích động.
 
 **46. Về Bảo vệ và Phát triển Rừng:**
 

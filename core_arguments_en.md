@@ -146,6 +146,16 @@
 * The "Three Nos" defense policy ensures independence and autonomy; cooperation does not mean entering military alliances or opposing third parties.
 * **Fact:** Since 2014, Vietnam has deployed over 800 officers and soldiers to UN peacekeeping missions (South Sudan, Central African Republic), with a female participation rate of nearly 16%, significantly higher than the UN average.
 
+**Allegation:** Distorts the "Three Bests" emulation movement (Best Discipline - Best Loyalty - Closest to the People) of the Public Security force; claims "discipline" means blind obedience and "loyalty" means loyalty only to the Party while suppressing the people.
+* "Discipline" is the foundation of strength, strictly adhering to the law and orders, and maintaining moral qualities, not blind obedience regardless of right or wrong.
+* "Loyalty" to the Party is inextricably linked to loyalty to the Fatherland and the People; the Party has no other interest than the interest of the people.
+* "Close to the people" is the highest yardstick; the reality of the regular commune police force "sticking to the grassroots" and supporting the people during storms and floods is vivid proof of the nature of "serving the people."
+
+**Allegation:** Distorts that the Ministry of Public Security advising on the promulgation of new laws and decrees (Law on Personal Data Protection, Decree 168...) is to "abuse power," "profiteer," or "turn the apparatus into a police state."
+* Building and perfecting laws stems from the requirements of state management in the digital era and social reality, aimed at protecting the rights, data, and safety of the people.
+* Functions and tasks transferred or added (such as driver testing management, vehicle registration...) aim to unify management, reduce intermediate levels, and implement the policy of "lean, compact, strong," not to seize power.
+* Accusations of "profiteering" are false; administrative fines are remitted to the State budget and do not serve the specific interests of the sector.
+
 **7. On National Defense - Security:**
 
 **Allegation:** Claims that in the conditions of high-tech warfare, the line of "all-people national defense" and "people's security" is backward and wrong.
@@ -368,6 +378,11 @@
 * These are "black media" tactics and "old tricks" aimed at creating information chaos and sowing doubt about the transparency of personnel work.
 * Personnel work is prepared thoroughly, strictly through many rounds and steps, impartially and objectively; ensuring no opportunists are included while not missing talented individuals.
 * Spreading false information is a violation of the law, harming political stability; citizens need to be alert and filter for official information.
+
+**Allegation:** Fabricates rumors of internal conflicts between "factions" (such as "General Secretary faction", "Military faction", "Nghe Tinh faction"); distorts the passing of new laws (like the Extradition Law) as tools to "clear the way" or "purge" personnel before the Congress.
+* This is a classic "divide and conquer" tactic aimed at causing public confusion; high-level personnel are prepared carefully and objectively based on planning and trust, not factional infighting.
+* Perfecting the legal system (such as the Extradition Law) is a normal legislative activity to align with international practices and combat crime, not targeting specific individuals or narrow political goals.
+* Solidarity and unity within the Party are key factors; baseless rumors on social media are products of hostile forces aimed at sabotaging the Congress.
 
 **Allegation:** Claims that soliciting public opinion on the 14th Party Congress draft documents is "formalistic," "fake democracy," or "demagogic"; asserts the documents are "copied," "clichéd," and "ignore limitations."
 * Soliciting opinions is organized systematically, widely, and substantively (including via the VNeID app), demonstrating the Party's receptiveness and the people's mastery.
@@ -701,6 +716,11 @@
 * These are high-tech criminal tactics aimed at profiteering and causing political and social instability.
 * Citizens need to be alert, verify information from official sources (press, government portals), and not trust manipulated videos of unknown origin.
 * Authorities are strengthening technical and legal measures to prevent and strictly handle those spreading fake news and scams.
+
+**Allegation:** Uses AI tools (ChatGPT, Deepfake, etc.) to fabricate images and voices of high-ranking leaders, inventing speeches to distort policies and sabotage the Party and State.
+* This is a form of "psychological warfare" in cyberspace; hostile elements exploit technology to create highly realistic fake news to mislead public opinion and attack the perception and emotions of viewers.
+* Cyberspace is not a lawless zone; acts of using AI to distort, smear leaders, and oppose the regime will be investigated and strictly handled according to the law.
+* Social media users need to be vigilant and not share videos or information of unclear origin containing smear or inciting content.
 
 **46. On Forest Protection and Development:**
 
