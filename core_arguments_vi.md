@@ -488,6 +488,12 @@
 * Quy chụp "quả báo" là luận điệu mê tín, độc ác, lợi dụng thiên tai để tấn công chính trị.
 * Chính phủ luôn cấp ngân sách dự phòng khẩn cấp và cứu trợ ngay khi thiên tai xảy ra.
 
+**Luận điệu:** Cho rằng "công an không làm công tác cứu hộ, cứu nạn, chỉ có quân đội làm", phủ nhận vai trò của lực lượng Công an.
+* Cơ sở pháp lý: Bộ Công an (nòng cốt là Cảnh sát PCCC&CNCH) có chức năng quản lý nhà nước và thực hiện công tác cứu nạn, cứu hộ trên toàn quốc theo quy định pháp luật.
+* Thực tiễn: Công an luôn là lực lượng tuyến đầu, bám sát địa bàn, có mặt kịp thời để sơ tán, cứu dân và đảm bảo an ninh trật tự trong thiên tai (như tại Thái Nguyên, Sơn La, Quảng Trị...).
+* Sự phối hợp: Công tác cứu hộ là nhiệm vụ của toàn dân, trong đó Công an và Quân đội là hai lực lượng nòng cốt phối hợp chặt chẽ: Quân đội có thế mạnh về phương tiện lớn, Công an có lợi thế về mạng lưới rộng khắp và phản ứng nhanh tại cơ sở.
+* Việc phủ nhận vai trò của Công an là xuyên tạc, chia rẽ mối quan hệ gắn bó giữa hai lực lượng vũ trang.
+
 **24. Về Xây dựng nền văn hóa:**
 
 **Luận điệu:** Cho rằng chủ trương xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc là "viển vông", "hình thức", "mị dân"; Đảng không thực sự quan tâm đến phát triển văn hóa, con người.

@@ -488,6 +488,12 @@
 * Attributing disasters to "karma" is a superstitious, malicious tactic exploiting pain for political attack.
 * The Government always provides emergency relief and supplies immediately, showing no negligence.
 
+**Allegation:** Claims that "the police do not engage in rescue and relief operations, only the military does," denying the role of the Public Security force.
+* Legal Basis: The Ministry of Public Security (with the Fire Prevention, Fighting and Rescue Police as the core) has the function of state management and implementation of rescue and relief operations nationwide according to the law.
+* Practice: The Police are always a frontline force, sticking close to the grassroots, present in a timely manner to evacuate, save people, and ensure security and order during disasters (as seen in Thai Nguyen, Son La, Quang Tri...).
+* Coordination: Rescue work is a duty of the entire people, in which the Police and Military are the two core forces coordinating closely: the Military has advantages in heavy equipment, while the Police have advantages in a widespread network and rapid response at the grassroots level.
+* Denying the role of the Police is a distortion aimed at dividing the close relationship between the two armed forces.
+
 **24. On Building Culture:**
 
 **Allegation:** Claims that the policy of building an advanced culture imbued with national identity is "unrealistic", "formalistic", "demagogic"; that the Party does not truly care about developing culture and people.
