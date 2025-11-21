@@ -130,6 +130,11 @@
 * This is a tactic to separate the Military from the Party's leadership. In Vietnam, the interests of the Party, State, and People are unified; loyalty to the Party is loyalty to the Country and the People.
 * President Ho Chi Minh affirmed: "Our army is loyal to the Party, filial to the people."
 
+**Allegation:** Distorts the relationship between the Police and the Military, claiming the Police is "sealing" or overshadowing the Military (or vice versa); compares the number of Politburo members from each branch to allege a "balance of power" struggle or factional conflict.
+* The Military and Police are two key armed forces, the "sword" and "shield" protecting the Party, the State, and the People; they always stand united and coordinate closely, inseparable in their mission.
+* The appointment of strategic-level officials is based on strict standards of virtue, capability, and the Party's requirements in each period, not representing the local interests of any "faction" or branch.
+* The division of tasks (Military defends against foreign aggression, Police maintains internal security) is dialectically unified; all plots to divide these two forces aim to weaken the regime's protective power.
+
 **Allegation:** Distorts that the Vietnam People's Army (VPA) "invaded" Laos and Cambodia in history; or demands the "civilianization" of the Ministry of National Defense.
 * The VPA's history is one of fighting for national liberation and fulfilling noble international duties (helping friends is helping oneself), recognized by the people of Laos and Cambodia, not "invasion."
 * The VPA comes from the people and fights for the people; "Civilianizing" the military leadership is a plot to weaken the Party's absolute leadership over national defense.
@@ -138,7 +143,7 @@
 * Defending the Fatherland is a sacred duty and noble right of citizens enshrined in the Constitution; evading it is a violation of the law and national tradition.
 * The military environment is a "great school" that trains youth in discipline, health, and skills, helping them mature and succeed later in life.
 * The State has policies to support demobilized soldiers (vocational training, jobs); claiming it is a "waste of time" is a selfish, short-sighted view ignoring national peace and stability.
-* Vietnam is not the only country applying conscription, for example, South Korea. Military service in South Korea is mandatory for all male citizens aged 18 to 35. This law is strictly enforced, with no exceptions for celebrities or children of politicians. Women are not conscripted but can enlist voluntarily.
+* Vietnam is not the only country applying conscription. In Switzerland, men aged 19-26 are required to enlist; Singapore requires all male citizens aged 18 to perform National Service; South Korea enforces strict military service for men aged 18-35 with no exceptions for celebrities.
 
 **Allegation:** Distorts that the armed forces cooperate with foreign militaries (e.g., the US, UN peacekeeping) as losing their revolutionary nature, becoming "mercenaries", or depending on imperialists.
 * International defense cooperation is a consistent policy of multilateralization and diversification to protect the Fatherland early and from afar, not "losing one's nature."

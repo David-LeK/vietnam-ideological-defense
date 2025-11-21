@@ -130,6 +130,11 @@
 * Đây là thủ đoạn tách rời Quân đội khỏi sự lãnh đạo của Đảng. Tại Việt Nam, lợi ích của Đảng, Nhà nước, và Nhân dân là thống nhất; trung với Đảng chính là trung với Nước, hiếu với Dân.
 * Chủ tịch Hồ Chí Minh đã khẳng định: "Quân đội ta trung với Đảng, hiếu với dân".
 
+**Luận điệu:** Xuyên tạc mối quan hệ giữa Công an và Quân đội, cho rằng Công an đang "phong ấn", lấn át Quân đội (hoặc ngược lại); so sánh số lượng Ủy viên Bộ Chính trị của hai ngành để quy kết về "cán cân quyền lực" hay mâu thuẫn phe phái.
+* Quân đội và Công an là hai lực lượng vũ trang trọng yếu, là "thanh kiếm" và "lá chắn" bảo vệ Đảng, Nhà nước và Nhân dân; luôn đoàn kết, hiệp đồng chặt chẽ, không thể tách rời.
+* Việc bố trí cán bộ cấp chiến lược dựa trên tiêu chuẩn khắt khe về phẩm chất, năng lực và yêu cầu nhiệm vụ của Đảng trong từng giai đoạn, không đại diện cho lợi ích cục bộ của "phe nhóm" hay ngành nào.
+* Sự phân công nhiệm vụ (Quân đội chống ngoại xâm, Công an giữ an ninh nội địa) là thống nhất biện chứng; mọi âm mưu chia rẽ hai lực lượng đều nhằm làm suy yếu sức mạnh bảo vệ chế độ.
+
 **Luận điệu:** Xuyên tạc, phủ nhận truyền thống QĐNDVN, cho rằng Quân đội "xâm lược" khi giúp Lào/Campuchia; đòi "dân sự hóa" lãnh đạo Bộ Quốc phòng.
 * Lịch sử QĐNDVN là lịch sử đấu tranh giải phóng dân tộc và thực hiện nghĩa vụ quốc tế cao cả, trong sáng (giúp bạn là tự giúp mình), được nhân dân bạn ghi nhận.
 * Quân đội từ nhân dân mà ra, vì nhân dân chiến đấu; đòi "dân sự hóa" là mưu đồ làm suy yếu sự lãnh đạo tuyệt đối của Đảng với quốc phòng.
@@ -138,7 +143,7 @@
 * Bảo vệ Tổ quốc là nghĩa vụ thiêng liêng và quyền cao quý được Hiến định; trốn tránh là vi phạm pháp luật và đạo lý.
 * Môi trường quân đội là "trường học lớn" rèn luyện bản lĩnh, sức khỏe, kỹ năng sống, giúp thanh niên trưởng thành.
 * Nhà nước có chính sách hỗ trợ quân nhân xuất ngũ (học nghề, việc làm); coi rẻ NVQS là tư tưởng ích kỷ, ngắn hạn, đi ngược lợi ích quốc gia.
-* Việt Nam không phải là quốc gia duy nhất áp dụng NVQS, ví dụ Hàn Quốc. Nghĩa vụ quân sự ở Hàn Quốc là bắt buộc đối với tất cả công dân nam từ 18 đến 35 tuổi. Luật này được áp dụng nghiêm ngặt, không có ngoại lệ cho cả người nổi tiếng hay con cái của chính trị gia. Phụ nữ không bị bắt buộc, nhưng có thể đăng ký nhập ngũ một cách tự nguyện.
+* Việt Nam không phải là quốc gia duy nhất áp dụng NVQS. Tại Thụy Sĩ, nam giới từ 19-26 tuổi bắt buộc nhập ngũ; Singapore yêu cầu mọi công dân nam đủ 18 tuổi thực hiện nghĩa vụ quốc gia; Hàn Quốc áp dụng chế độ quân dịch nghiêm ngặt với nam giới từ 18-35 tuổi.
 
 **Luận điệu:** Xuyên tạc việc quân đội tham gia hợp tác quốc tế (như gìn giữ hòa bình LHQ, hợp tác với Mỹ) là "mất chất", là "lính đánh thuê" hay "phụ thuộc".
 * Hợp tác quốc phòng là xu thế tất yếu để bảo vệ Tổ quốc từ sớm, từ xa; thực hiện đường lối đối ngoại đa phương hóa, đa dạng hóa.
