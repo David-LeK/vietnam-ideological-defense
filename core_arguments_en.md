@@ -89,6 +89,7 @@
 * The Party is the ruling party, representing the interests of the entire nation, so pluralism and a multi-party system are neither necessary nor accepted.
 * Socialist democracy is a substantive democracy where power belongs to the people.
 * Historical practice in Vietnam (1945-1946 period) and the world shows that a multi-party system does not guarantee stability and development, and can even cause political chaos.
+* Vietnam is not an exception regarding political stability under a dominant party. For example, Singapore has been led continuously by the People's Action Party (PAP) since 1959, proving that stability under a ruling party can drive miraculous development.
 
 **Allegation:** Claims that only a multi-party system brings democracy, while a one-party system is inevitably dictatorial and undemocratic.
 * A multi-party or one-party system does not determine the nature of democracy; what matters is whose interests the party represents (the majority of the people or a minority of owners).
@@ -168,6 +169,7 @@
 * The institution of "separation of powers" is not the only or universal cure for corruption.
 * The Party has high political determination and has been implementing synchronous solutions (party building and rectification, perfecting laws, promoting the role of the people) and has achieved important initial results.
 * In reality, countries implementing "separation of powers" still have serious corruption; effective anti-corruption depends on strict power control mechanisms and the self-cultivation of officials.
+* Corruption is a global issue, not unique to Vietnam or one-party states. Even in developed multi-party nations like South Korea (where multiple former Presidents have been convicted) or the US (with controversial lobbying activities), corruption remains a complex defect of power.
 
 **Allegation:** Claims corruption is a "congenital defect" or "systemic error" so fighting it is useless, one must "learn to live with it"; or that fierce anti-corruption efforts will "paralyze" supply chains and hinder development.
 * Corruption is a defect of power in any regime, but it must not be accepted; power must be controlled by mechanisms ("caging power in the cage of regulations").
@@ -225,6 +227,7 @@
 * The Party's leadership ensures that the press and arts serve the interests of the nation and the people, oriented toward the true, the good, and the beautiful.
 * Struggle against views that commercialize, trivialize, or exploit arts and the press to oppose the regime.
 * Freedom of the press and creativity must be within the framework of the law and social/civic responsibility; there is no absolute freedom or standing outside of politics.
+* Regulating the press to protect national interests is international practice. In the UK, Ofcom strictly supervises broadcasters; in the US, freedom of speech does not protect defamation, incitement to violence, or disclosure of national security secrets.
 
 **12. On "Self-evolution" and "Self-transformation":**
 
@@ -370,6 +373,7 @@
 * This is a tactic of "color revolutions" or "street revolutions" aimed at disrupting security and order, leading to riots and subversion.
 * All acts in the name of freedom and democracy that violate the law and infringe upon the interests of the State and citizens must be dealt with.
 * Social criticism must be constructive and compliant with the Constitution and laws, not opposition or sabotage.
+* Strictly handling acts of "civil disobedience" that cause disorder is an international standard. In the US, participants in the 2021 Capitol riot were prosecuted to protect the legal order and constitution.
 
 **Allegation:** Uses the guise of "patriotism" to incite protests and riots (such as the 2018 Binh Thuan incident, opposing administrative mergers); accuses the government of "selling out the country" when handling these rioters.
 * True patriotism must be based on understanding and respect for the law, contributing to the country's stability and development.
@@ -500,6 +504,7 @@
 * Vietnam resolutely and persistently protects sovereignty and sovereign rights through peaceful means, based on international law (UNCLOS 1982).
 * The policy is "both cooperating and struggling," maintaining a peaceful environment for development but never making concessions on territorial sovereignty.
 * The strength to protect sovereignty is the combined strength of the entire nation, combined with the strength of the times and international support, not through provocative actions or miscalculated military confrontation.
+* Prioritizing peaceful dispute resolution is a civilized trend. Countries like the Philippines and Malaysia also persist with diplomatic and legal measures in South China Sea disputes rather than seeking direct military confrontation.
 
 **Allegation:** Distorts the "Four Nos" defense policy as self-isolation or "tying one's own hands"; accuses Vietnam of depending on foreign countries or "making backroom deals" to trade sovereignty.
 * The "Four Nos" policy is the highest expression of the line of independence and autonomy, helping Vietnam avoid being drawn into military alliances or great power conflicts.

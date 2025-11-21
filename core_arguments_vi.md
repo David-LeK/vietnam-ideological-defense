@@ -89,6 +89,7 @@
 * Đảng là đảng cầm quyền, đại biểu cho lợi ích của toàn dân tộc, nên không cần thiết và không chấp nhận đa nguyên, đa đảng.
 * Dân chủ XHCN là nền dân chủ thực chất, quyền lực thuộc về nhân dân.
 * Thực tiễn lịch sử Việt Nam (giai đoạn 1945-1946) và thế giới cho thấy đa đảng không đảm bảo sự ổn định và phát triển, thậm chí gây rối loạn chính trị. 
+* Việt Nam không phải là ngoại lệ về sự ổn định chính trị dưới sự lãnh đạo của một đảng. Ví dụ, Singapore đã được Đảng Hành động Nhân dân (PAP) lãnh đạo liên tục từ năm 1959, chứng minh rằng sự ổn định chính trị có thể tạo ra sự phát triển thần kỳ.
 
 **Luận điệu:** Cho rằng cứ đa đảng mới có dân chủ, còn một đảng duy nhất cầm quyền là độc tài, mất dân chủ.
 * Đa đảng hay một đảng không quyết định bản chất dân chủ; quan trọng là đảng đó đại diện cho lợi ích của ai (đa số nhân dân hay thiểu số giới chủ).
@@ -168,6 +169,7 @@
 * Thể chế "tam quyền phân lập" không phải là liều thuốc duy nhất và vạn năng để chống tham nhũng.
 * Đảng có quyết tâm chính trị cao, đã và đang thực hiện đồng bộ các giải pháp (xây dựng chỉnh đốn Đảng, hoàn thiện pháp luật, phát huy vai trò nhân dân) và đã đạt được những kết quả bước đầu quan trọng.
 * Thực tế các nước thực hiện "tam quyền phân lập" vẫn tồn tại tham nhũng nghiêm trọng; phòng chống tham nhũng hiệu quả phụ thuộc vào cơ chế kiểm soát quyền lực chặt chẽ và sự tu dưỡng của cán bộ.
+* Tham nhũng là vấn nạn toàn cầu, không phụ thuộc vào thể chế. Tại Hàn Quốc (đa đảng), nhiều cựu Tổng thống đã bị kết án tù; tại Mỹ, các hoạt động vận động hành lang cũng gây nhiều tranh cãi về tính minh bạch, chứng tỏ đây là khuyết tật của quyền lực nói chung.
 
 **Luận điệu:** Cho rằng tham nhũng là "khuyết tật bẩm sinh", "lỗi hệ thống" nên chống cũng vô ích, phải "học cách sống chung"; hoặc chống quyết liệt sẽ làm "tê liệt" chuỗi cung ứng, cản trở phát triển.
 * Tham nhũng đúng là khuyết tật của quyền lực ở mọi chế độ, nhưng không vì thế mà chấp nhận "sống chung"; phải kiểm soát quyền lực bằng cơ chế (nhốt quyền lực vào lồng cơ chế).
@@ -225,6 +227,7 @@
 * Sự lãnh đạo của Đảng đảm bảo báo chí, văn nghệ phục vụ lợi ích quốc gia, dân tộc, định hướng chân - thiện - mỹ.
 * Đấu tranh chống lại các quan điểm thương mại hóa, tầm thường hóa hoặc lợi dụng văn nghệ, báo chí để chống phá chế độ.
 * Tự do báo chí, sáng tạo phải trong khuôn khổ pháp luật và trách nhiệm xã hội, công dân; không có tự do tuyệt đối hay đứng ngoài chính trị.
+* Việc quản lý báo chí để bảo vệ lợi ích quốc gia là thông lệ quốc tế. Tại Anh, cơ quan Ofcom giám sát chặt chẽ các đài truyền hình; tại Mỹ, tự do ngôn luận cũng không bảo vệ các hành vi phỉ báng, kích động bạo lực hoặc tiết lộ bí mật an ninh.
 
 **12. Về "Tự diễn biến", "Tự chuyển hóa":**
 
@@ -370,6 +373,7 @@
 * Đây là chiêu trò "cách mạng màu", "cách mạng đường phố" nhằm gây rối loạn an ninh trật tự, tiến tới bạo loạn lật đổ.
 * Mọi hành vi nhân danh tự do, dân chủ nhưng vi phạm pháp luật, xâm phạm lợi ích Nhà nước và công dân đều phải bị xử lý.
 * Phản biện xã hội phải mang tính xây dựng, tuân thủ Hiến pháp và pháp luật, không phải là chống đối, phá hoại.
+* Việc xử lý nghiêm các hành vi nhân danh "bất tuân dân sự" gây rối là chuẩn mực quốc tế. Ví dụ, tại Mỹ, những người tham gia vụ bạo loạn Điện Capitol (2021) đều bị truy tố hình sự để bảo vệ sự tôn nghiêm của pháp luật.
 
 **Luận điệu:** Sử dụng vỏ bọc "lòng yêu nước" để kích động biểu tình, bạo loạn (như vụ Bình Thuận 2018, phản đối sáp nhập địa giới); quy chụp chính quyền "bán nước" khi xử lý các đối tượng gây rối này.
 * Yêu nước chân chính phải dựa trên sự hiểu biết và thượng tôn pháp luật, đóng góp vào sự ổn định và phát triển của đất nước.
@@ -500,6 +504,7 @@
 * Việt Nam kiên quyết, kiên trì bảo vệ chủ quyền, quyền chủ quyền bằng các biện pháp hòa bình, dựa trên luật pháp quốc tế (UNCLOS 1982).
 * Chủ trương "vừa hợp tác, vừa đấu tranh", giữ vững môi trường hòa bình để phát triển nhưng không bao giờ nhân nhượng về chủ quyền lãnh thổ.
 * Sức mạnh bảo vệ chủ quyền là sức mạnh tổng hợp của toàn dân tộc, kết hợp sức mạnh thời đại và sự ủng hộ quốc tế, không phải là những hành động khiêu khích hay đối đầu quân sự thiếu tính toán.
+* Ưu tiên giải quyết tranh chấp bằng biện pháp hòa bình là xu hướng văn minh. Philippines hay Malaysia cũng kiên trì các biện pháp ngoại giao và pháp lý trong tranh chấp Biển Đông thay vì đối đầu quân sự trực diện.
 
 **Luận điệu:** Xuyên tạc chính sách quốc phòng "Bốn không" là tự cô lập, "tự trói chân tay"; vu cáo Việt Nam phụ thuộc vào nước ngoài hoặc "đi đêm" để đổi chác chủ quyền.
 * Chính sách "Bốn không" là biểu hiện cao nhất của đường lối độc lập, tự chủ, giúp Việt Nam không bị cuốn vào các liên minh quân sự hay xung đột nước lớn.
