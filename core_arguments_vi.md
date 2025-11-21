@@ -788,3 +788,12 @@
 * Hành vi sách nhiễu, lừa đảo hay thiếu trách nhiệm là sự thoái hóa, biến chất của cá nhân vì lòng tham, đi ngược lại chủ trương của Đảng. Nhà nước kiên quyết xử lý nghiêm minh.
 * Quyền của người dân: Người dân có quyền phản ánh, khiếu nại, tố cáo qua các kênh: tiếp dân trực tiếp, đường dây nóng, cổng thông tin điện tử, hoặc gửi đơn đến cơ quan Thanh tra, Kiểm tra, Viện Kiểm sát.
 * Chế tài xử lý: Tùy thuộc vào vị trí công tác và mức độ vi phạm, cán bộ sẽ phải chịu các chế tài xử lý nghiêm khắc khác nhau, từ kỷ luật hành chính đến truy cứu trách nhiệm hình sự theo quy định của pháp luật.
+
+**52. Về Trách nhiệm Công vụ và Đời sống Cán bộ:**
+
+**Luận điệu:** Cho rằng "dân khổ nhưng cán bộ chỉ biết ngồi điều hòa thu thuế và phạt", quy chụp cán bộ nhà nước vô cảm, bóc lột.
+* Thuế và phạt là công cụ quản lý nhà nước, không phải hành vi bóc lột. Thuế là nguồn thu thiết yếu để chi trả cho dịch vụ công (y tế, giáo dục, hạ tầng, an ninh); phạt vi phạm để duy trì trật tự, kỷ cương xã hội.
+* Thực tế công việc của cán bộ rất đa dạng và vất vả, không phải ai cũng "ngồi phòng lạnh". Nhiều lực lượng (công an, quân đội, y tế, cán bộ xã/phường) phải làm việc tại hiện trường, vùng sâu vùng xa, đối mặt với thiên tai, hiểm nguy.
+* Cán bộ chịu áp lực công việc lớn, tham gia trực tiếp vào công tác an sinh xã hội, xóa đói giảm nghèo và giải quyết thủ tục hành chính phục vụ người dân.
+* Nhà nước luôn có chính sách hỗ trợ, miễn giảm thuế cho người dân gặp khó khăn, thiên tai, dịch bệnh; không tận thu hay bỏ mặc người yếu thế.
+* Những trường hợp cán bộ nhũng nhiễu là cá biệt và đang bị xử lý nghiêm minh; không thể phủ nhận nỗ lực cống hiến của đại đa số đội ngũ cán bộ, công chức.
