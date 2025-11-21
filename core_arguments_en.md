@@ -7,6 +7,7 @@
 * It is necessary to be steadfast and creatively apply Marxism-Leninism to the practical conditions of Vietnam.
 * Marxism-Leninism is an open theory that constantly develops, taking practice as the standard of truth.
 * The humanistic value of the theory is the liberation of humanity, the comprehensive development of people, moving humanity from the "realm of necessity" to the "realm of freedom."
+* Vietnam is not alone in this path; China, steadfast in Marxism-Leninism and Socialism with Chinese characteristics, has risen to become the world's second-largest economy, proving the theory's vitality when applied creatively.
 
 **Allegation:** Denies the theory of surplus value, claiming that in the knowledge economy and Industry 4.0, machines and technology create value, not labor; capitalism no longer exploits.
 * Machines and technology, no matter how modern, are only means of production (past labor); they transfer value to products but do not create new value.
@@ -71,6 +72,7 @@
 * The state economy is a vital material tool for the State to direct and regulate the macro-economy, correct market failures, and ensure social welfare and national defense-security.
 * The leading role does not mean occupying the largest proportion, but holding key positions, leading the economy, and creating conditions for other sectors to develop.
 * The leading role of the state economy does not eliminate competition but promotes equal competition; state-owned enterprises operate under market mechanisms and handle areas the private sector cannot or will not undertake.
+* State ownership in strategic sectors is common globally. For instance, France maintains controlling stakes in key industries like energy (EDF) and railways (SNCF) to ensure national security and public service.
 
 **Allegation:** Claims that developing the private economy is "capitalization" and deviating from Socialism; that the private economy will create "crony capitalism" and overshadow the State's role.
 * The private economy is defined as "an important driving force" of the economy, helping to liberate productive forces, create jobs, and contribute significantly to GDP.
@@ -161,6 +163,7 @@
 * The nature of the "civil society" ploy by hostile forces is to form opposition political organizations that break away from the Party's leadership.
 * Vietnam respects the right to form associations, but this must be within the framework of the law and placed under the leadership of the Party and the management of the State.
 * It is necessary to clearly identify and fight to prevent the exploitation of "civil society" to transform the political regime.
+* Regulating NGOs to protect national security is international practice. The US Foreign Agents Registration Act (FARA) requires agents representing foreign interests to disclose their relationship and financing.
 
 **9. On Anti-Corruption:**
 
@@ -243,6 +246,7 @@
 * This is an organizational revolution aiming for "Lean - Compact - Strong - Efficient", not a formality. The Ministry of Public Security pioneered this (abolishing General Departments), operating more effectively, proving "no forbidden zones".
 * The arrangement is calculated scientifically with a roadmap, ensuring policies and support for redundant staff; it is not an inhumane purge.
 * The goal is to reduce recurrent expenditures to save resources for development investment (infrastructure, social welfare) and better service to the people.
+* Streamlining the apparatus is a modern public governance trend. Countries like China and Japan have implemented massive administrative reforms to reduce staffing and improve efficiency.
 
 **Allegation:** Claims that streamlining is an "internal purge," "power consolidation," or "reducing troops due to lack of targets/Western pressure."
 * This is a "revolution in organization" identified by the Party (General Secretary To Lam) as an objective, urgent necessity to liberate resources and boost development, not subjective will or a purge.
@@ -622,6 +626,7 @@
 * These are fake news stories using doctored, unverified content aimed at lowering the prestige of national brands and causing public confusion.
 * Preferential policies encouraging employees to use internal products are common corporate welfare practices globally (like Samsung, Apple, FPT...), helping employees access products at good prices, and are absolutely not coercive or illegal.
 * Attacking legitimate businesses is an act of sabotage against the country's economic development and directly affects the livelihoods of thousands of workers.
+* Supporting domestic enterprises is a common form of economic patriotism. In South Korea, citizens prioritizing Hyundai cars or Samsung phones helped these corporations reach a global level.
 
 **Allegation:** Labels large private enterprises as "backyards" or "crony capitalism," colluding with the government to oppress the people.
 * Private enterprises are a crucial driver of the economy, operating equally under the law. The State creates an environment for all economic sectors to develop.

@@ -7,6 +7,7 @@
 * Cần kiên định và vận dụng sáng tạo chủ nghĩa Mác - Lênin vào thực tiễn Việt Nam.
 * Chủ nghĩa Mác - Lênin là học thuyết mở, không ngừng phát triển, lấy thực tiễn làm tiêu chuẩn của chân lý.
 * Giá trị nhân văn của học thuyết là giải phóng con người, phát triển con người toàn diện, đưa con người từ "vương quốc tất yếu" sang "vương quốc tự do".
+* Việt Nam không đơn độc trên con đường này; Trung Quốc, quốc gia kiên định chủ nghĩa Mác - Lênin và CNXH đặc sắc Trung Quốc, đã vươn lên trở thành nền kinh tế lớn thứ hai thế giới, chứng minh sức sống của học thuyết khi vận dụng sáng tạo.
 
 **Luận điệu:** Phủ nhận học thuyết giá trị thặng dư, cho rằng trong kinh tế tri thức và CMCN 4.0, máy móc và công nghệ tạo ra giá trị chứ không phải sức lao động; chủ nghĩa tư bản không còn bóc lột.
 * Máy móc, công nghệ dù hiện đại đến đâu cũng chỉ là tư liệu lao động (lao động quá khứ), chỉ chuyển giá trị vào sản phẩm, không tạo ra giá trị mới.
@@ -71,6 +72,7 @@
 * Kinh tế nhà nước là công cụ vật chất quan trọng để Nhà nước định hướng, điều tiết vĩ mô, khắc phục khuyết tật thị trường, đảm bảo an sinh xã hội và quốc phòng - an ninh.
 * Vai trò chủ đạo không có nghĩa là chiếm tỷ trọng lớn nhất, mà là nắm giữ các vị trí then chốt, dẫn dắt nền kinh tế, tạo điều kiện cho các thành phần khác phát triển.
 * Kinh tế nhà nước giữ vai trò chủ đạo không phủ định cạnh tranh mà thúc đẩy cạnh tranh bình đẳng; các doanh nghiệp nhà nước hoạt động theo cơ chế thị trường và đảm nhận những lĩnh vực tư nhân không làm được.
+* Sở hữu nhà nước trong các lĩnh vực chiến lược là phổ biến trên thế giới. Ví dụ, Pháp vẫn nắm giữ cổ phần chi phối trong các ngành then chốt như năng lượng (EDF) và đường sắt (SNCF) để đảm bảo an ninh quốc gia và dịch vụ công.
 
 **Luận điệu:** Cho rằng phát triển kinh tế tư nhân là "tư bản hóa", chệch hướng XHCN; kinh tế tư nhân sẽ hình thành "tư bản thân hữu", lấn át vai trò của Nhà nước.
 * Kinh tế tư nhân được xác định là "một động lực quan trọng" của nền kinh tế, giúp giải phóng lực lượng sản xuất, tạo việc làm và đóng góp lớn vào GDP.
@@ -161,6 +163,7 @@
 * Bản chất của chiêu bài "xã hội dân sự" của các thế lực thù địch là nhằm hình thành các tổ chức chính trị đối lập, thoát ly sự lãnh đạo của Đảng.
 * Việt Nam tôn trọng quyền lập hội nhưng phải trong khuôn khổ pháp luật và đặt dưới sự lãnh đạo của Đảng, quản lý của Nhà nước.
 * Cần nhận diện rõ và đấu tranh ngăn chặn việc lợi dụng "xã hội dân sự" để chuyển hóa chế độ chính trị.
+* Quản lý các tổ chức phi chính phủ để bảo vệ an ninh quốc gia là thông lệ quốc tế. Đạo luật Đăng ký Đại diện Nước ngoài (FARA) của Mỹ yêu cầu các đại diện cho lợi ích nước ngoài phải công khai mối quan hệ và tài chính.
 
 **9. Về phòng chống tham nhũng:**
 
@@ -243,6 +246,7 @@
 * Đây là cuộc cách mạng về tổ chức nhằm "Tinh - Gọn - Mạnh - Hiệu năng", không phải hình thức. Bộ Công an là đơn vị tiên phong, gương mẫu đi đầu (bỏ cấp Tổng cục, giảm nhiều đầu mối) và hoạt động hiệu quả hơn, chứng minh "không có vùng cấm".
 * Việc sắp xếp được tính toán kỹ lưỡng, khoa học, có lộ trình, đảm bảo chế độ chính sách cho cán bộ dôi dư, không phải là sự thanh trừng thiếu nhân văn.
 * Mục tiêu là giảm chi thường xuyên để dành nguồn lực cho đầu tư phát triển (hạ tầng, an sinh xã hội) và phục vụ nhân dân tốt hơn.
+* Tinh gọn bộ máy là xu hướng quản trị công hiện đại. Các quốc gia như Trung Quốc và Nhật Bản đều đã thực hiện các cuộc cải cách hành chính quy mô lớn để cắt giảm biên chế và nâng cao hiệu quả.
 
 **Luận điệu:** Cho rằng tinh gọn bộ máy là cuộc "thanh trừng nội bộ", "thâu tóm quyền lực", hay "giảm quân do hết nhiệm vụ/sức ép phương Tây".
 * Đây là cuộc "cách mạng về tổ chức" (theo chỉ đạo của Tổng Bí thư Tô Lâm) nhằm giải quyết yêu cầu cấp bách của thực tiễn (bộ máy cồng kềnh kìm hãm phát triển), không phải ý chí chủ quan.
@@ -622,6 +626,7 @@
 * Đây là tin giả, cắt ghép thiếu kiểm chứng nhằm hạ thấp uy tín thương hiệu quốc gia và gây hoang mang dư luận.
 * Các chính sách ưu đãi, khuyến khích nhân viên sử dụng sản phẩm nội bộ là phúc lợi doanh nghiệp phổ biến trên toàn cầu (như Samsung, Apple, FPT...), giúp nhân viên tiếp cận sản phẩm với giá tốt, hoàn toàn không mang tính ép buộc hay vi phạm pháp luật.
 * Tấn công doanh nghiệp làm ăn chân chính là hành vi phá hoại sự phát triển kinh tế đất nước và ảnh hưởng trực tiếp đến đời sống của hàng ngàn người lao động.
+* Ủng hộ doanh nghiệp nội địa là tinh thần ái quốc kinh tế phổ biến. Tại Hàn Quốc, việc người dân ưu tiên dùng xe Hyundai, điện thoại Samsung đã góp phần đưa các tập đoàn này vươn tầm thế giới.
 
 **Luận điệu:** Quy chụp doanh nghiệp tư nhân lớn là "sân sau", "tư bản thân hữu", cấu kết với chính quyền để chèn ép người dân.
 * Doanh nghiệp tư nhân là động lực quan trọng của nền kinh tế, hoạt động bình đẳng trước pháp luật. Nhà nước kiến tạo môi trường để mọi thành phần kinh tế phát triển.
