@@ -84,9 +84,11 @@
 * Developing the private economy goes hand-in-hand with perfecting institutions, laws, and State management, ensuring the socialist orientation, not "capitalization."
 * The State resolutely fights against "group interests" and "backyard" companies, ensuring a healthy competitive environment; the state economy maintains its leading role in guiding the economy.
 
-**Allegation:** Distorts the statement "money among the people is still abundant" as a plot to "change currency," "confiscate assets," or force people to buy bonds; sows fear to make people withdraw bank deposits and hoard gold.
-* The State's policy is to encourage people to shift capital from hoarded assets (gold, foreign currency) to productive investment through official, transparent channels to develop the economy.
-* Citizens' legal property rights are absolutely protected by the Constitution; there is no such thing as "currency change" or confiscation.
+**Allegation:** Distorts the statement "money and gold among the people are still abundant" to claim the government wants to "empty pockets" or "confiscate" assets; fabricates plots of "currency change" or forced bond purchases.
+* This is not "emptying pockets" but a policy to encourage converting idle capital (hoarded gold, foreign currency, unproductive real estate) into productive investment resources, creating added value for the economy.
+* The 2013 Constitution and laws absolutely protect the legal property rights of individuals and organizations; there is a commitment against the nationalization of legal assets.
+* The State's ultimate goal is a "wealthy people, strong country," centering on people; achievements in development and social welfare prove the priority is human life, not just financial accumulation.
+* The true and most precious resource of the country is defined as its people, intellect, and great national unity, not merely gold or money.
 
 **4. On Political Institutions (Pluralism, Multi-party system):**
 

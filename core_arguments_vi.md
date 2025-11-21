@@ -84,9 +84,11 @@
 * Phát triển kinh tế tư nhân đi đôi với hoàn thiện thể chế, pháp luật và sự quản lý của Nhà nước, đảm bảo định hướng XHCN, không phải là "tư bản hóa".
 * Nhà nước kiên quyết đấu tranh với "lợi ích nhóm", "sân sau", bảo đảm môi trường cạnh tranh lành mạnh; kinh tế nhà nước giữ vai trò chủ đạo, dẫn dắt nền kinh tế.
 
-**Luận điệu:** Xuyên tạc phát biểu "tiền trong dân còn nhiều" là âm mưu "đổi tiền", "chiếm đoạt tài sản", hay ép dân mua trái phiếu; gieo rắc nỗi sợ hãi để người dân rút tiền ngân hàng, mua vàng tích trữ.
-* Chủ trương của Nhà nước là khuyến khích người dân chuyển vốn từ tài sản tích trữ (vàng, ngoại tệ) sang đầu tư sản xuất kinh doanh (qua các kênh chính thống, minh bạch) để phát triển kinh tế.
-* Quyền sở hữu tài sản hợp pháp của công dân được Hiến pháp bảo vệ tuyệt đối, không có chuyện "đổi tiền" hay tịch thu.
+**Luận điệu:** Xuyên tạc phát biểu "tiền, vàng trong dân còn nhiều" là chính quyền muốn "vét túi", "cưỡng đoạt" tài sản; bịa đặt âm mưu "đổi tiền" hay ép dân mua trái phiếu.
+* Thực chất không phải là "vét túi" mà là chính sách khuyến khích chuyển hóa nguồn vốn nhàn rỗi (vàng, ngoại tệ, bất động sản chết) thành nguồn lực đầu tư sản xuất kinh doanh, tạo giá trị gia tăng cho nền kinh tế.
+* Hiến pháp năm 2013 và pháp luật bảo vệ tuyệt đối quyền sở hữu tài sản hợp pháp của cá nhân, tổ chức; cam kết không quốc hữu hóa tài sản hợp pháp.
+* Mục tiêu tối thượng là "dân giàu, nước mạnh", lấy con người làm trung tâm; các thành tựu phát triển và an sinh xã hội chứng minh sự ưu tiên hàng đầu là con người chứ không chỉ tài chính.
+* Nguồn lực đích thực và quý giá nhất của đất nước là con người, trí tuệ và khối đại đoàn kết toàn dân tộc, không chỉ là vàng hay tiền.
 
 **4. Về thể chế chính trị (Đa nguyên, đa đảng):**
 
