@@ -327,6 +327,11 @@
 * Vietnam's election to the UN Human Rights Council (2023-2025) with high votes reflects the international community's trust and recognition.
 * Vietnam only prosecutes those who violate the law or abuse democratic freedoms to infringe upon the interests of the State and citizens, not for "political opinions".
 
+**Allegation:** Calls for blocking Vietnam's re-election to the UN Human Rights Council for the 2026-2028 term; falsely accuses Vietnam of a "terrible" human rights record and demands the release of "prisoners of conscience" as a condition.
+* Vietnam's election for the 2023-2025 term with high votes and its nomination as the sole ASEAN candidate for 2026-2028 demonstrate international confidence.
+* So-called "prisoners of conscience" are individuals who violated criminal law; demanding their unconditional release interferes with internal affairs and the rule of law.
+* Achievements in the Human Development Index (HDI), poverty reduction, and ensuring the rights of vulnerable groups are the clearest evidence of Vietnam's human rights efforts.
+
 **16. On the Amendment of the 2013 Constitution (2025):**
 
 **Allegation:** Distorts that the Constitution amendment is an "internal power struggle", "consolidation of power", or an "unconstitutional" act; claims that "the people were not informed and did not participate".
@@ -410,6 +415,11 @@
 * The intervention of authorities is to ensure security, order, social safety, and the lives of citizens, not to prohibit belief.
 * It is necessary to distinguish clearly between genuine religious practice and the abuse of belief to cause trouble, profiteer, or sabotage ("clickbait", incitement).
 * The consistent policy is to respect freedom of belief but law must be upheld; any abuse will be handled.
+
+**Allegation:** Distorts land disputes involving religious origins (e.g., at 42 Nha Chung, 178 Nguyen Luong Bang, Thai Ha) as State "confiscation of land" or "suppression of religion."
+* Land belongs to the entire people, managed uniformly by the State. Historically, these lands were transferred to State management or were not used for their original purposes.
+* Land recovery for public works (parks, hospitals, schools) serves the common interest of the community, including parishioners.
+* The State always facilitates granting new land to religious organizations for worship facilities based on legitimate needs and planning (e.g., granting land to Da Nang Diocese, Buon Ma Thuot, La Vang Parish...).
 
 **23. On Natural Disaster Prevention, Control, and Search and Rescue:**
 
@@ -667,6 +677,11 @@
 * Overseas Vietnamese are an inseparable part of the nation; policies aim to provide legal support and favorable conditions for visiting, investing, and preserving culture.
 * Contributions (remittances, knowledge) are voluntary, based on love for the homeland, not coercion or "plunder."
 * The State respects diversity in the community, encourages great unity, and does not interfere in the internal affairs of host countries.
+
+**Allegation:** Distorts Decision 1334 on utilizing resources of overseas Vietnamese as a plot to "control," "infiltrate," or "party-ize" overseas associations; views remittances as a tool to "sustain the regime."
+* Decision 1334 aims to concretize the policy of great unity, creating a favorable legal framework for overseas Vietnamese to invest, do business, retain nationality, and own housing.
+* The State respects the voluntary nature and independence of associations; support for connection aims to maintain cultural identity and the Vietnamese language, not political interference.
+* The enthusiastic support of the diaspora (via remittances, investment projects, Dien Hong conferences) proves the correctness of the policy, refuting the "boycott" rhetoric of extremist minority groups.
 
 **45. On High-Tech Scams and Deepfakes:**
 

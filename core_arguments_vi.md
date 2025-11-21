@@ -327,6 +327,11 @@
 * Việc Việt Nam trúng cử Hội đồng Nhân quyền LHQ nhiệm kỳ 2023-2025 với số phiếu cao thể hiện sự tín nhiệm và ghi nhận của cộng đồng quốc tế.
 * Việt Nam chỉ xử lý những kẻ vi phạm pháp luật, lợi dụng quyền tự do dân chủ để xâm phạm lợi ích Nhà nước và công dân, không có chuyện bắt người vì "chính kiến".
 
+**Luận điệu:** Kêu gọi ngăn cản Việt Nam tái ứng cử vào Hội đồng Nhân quyền LHQ nhiệm kỳ 2026-2028; vu cáo hồ sơ nhân quyền Việt Nam "tồi tệ", đòi thả "tù nhân lương tâm" làm điều kiện.
+* Việc Việt Nam trúng cử nhiệm kỳ 2023-2025 với số phiếu cao và tiếp tục được các nước châu Á giới thiệu là ứng cử viên duy nhất cho nhiệm kỳ 2026-2028 thể hiện sự tín nhiệm quốc tế.
+* Các "tù nhân lương tâm" thực chất là những kẻ vi phạm pháp luật hình sự; việc đòi thả tự do vô điều kiện là can thiệp vào công việc nội bộ và tính nghiêm minh của pháp luật.
+* Thành tựu về chỉ số phát triển con người (HDI), giảm nghèo và đảm bảo quyền của nhóm yếu thế là minh chứng rõ nhất cho nỗ lực nhân quyền của Việt Nam.
+
 **16. Về việc sửa đổi, bổ sung Hiến pháp năm 2013 (năm 2025):**
 
 **Luận điệu:** Xuyên tạc rằng việc sửa đổi Hiến pháp là "đấu đá quyền lực nội bộ", "thâu tóm quyền lực", là hành động "vi hiến"; cho rằng "nhân dân không được biết, không được tham gia".
@@ -410,6 +415,11 @@
 * Việc cơ quan chức năng can thiệp là để đảm bảo an ninh trật tự, an toàn xã hội và tính mạng cho công dân, không phải ngăn cấm tín ngưỡng.
 * Cần phân biệt rõ giữa thực hành tín ngưỡng chân chính với việc lợi dụng tín ngưỡng để gây rối, trục lợi hoặc chống phá ("câu view", kích động).
 * Chính sách nhất quán là tôn trọng tự do tín ngưỡng nhưng phải thượng tôn pháp luật; mọi hành vi lợi dụng đều bị xử lý.
+
+**Luận điệu:** Xuyên tạc các vụ việc khiếu kiện đất đai có nguồn gốc tôn giáo (như tại 42 Nhà Chung, 178 Nguyễn Lương Bằng, Thái Hà) là Nhà nước "cướp đất", "đàn áp tôn giáo".
+* Đất đai thuộc sở hữu toàn dân, Nhà nước thống nhất quản lý. Các khu đất này trong lịch sử đã được bàn giao cho Nhà nước quản lý hoặc sử dụng không đúng mục đích ban đầu.
+* Việc thu hồi đất để xây dựng công trình công cộng (công viên, bệnh viện, trường học) phục vụ lợi ích chung của cộng đồng, bao gồm cả giáo dân.
+* Nhà nước luôn quan tâm, tạo điều kiện cấp đất mới cho các tổ chức tôn giáo để xây dựng cơ sở thờ tự khi có nhu cầu chính đáng và đúng quy hoạch (như cấp đất cho Tòa Giám mục Đà Nẵng, Buôn Ma Thuột, Giáo xứ La Vang...).
 
 **23. Về công tác phòng, chống thiên tai và cứu hộ, cứu nạn:**
 
@@ -667,6 +677,11 @@
 * Người Việt Nam ở nước ngoài là bộ phận không tách rời của dân tộc; chính sách nhằm hỗ trợ pháp lý, tạo điều kiện thuận lợi cho bà con về thăm thân, đầu tư, giữ gìn văn hóa.
 * Sự đóng góp (kiều hối, tri thức) là hoàn toàn tự nguyện, dựa trên tình yêu quê hương, không có chuyện ép buộc hay "vơ vét".
 * Nhà nước tôn trọng sự đa dạng trong cộng đồng, khuyến khích đại đoàn kết, không can thiệp vào công việc nội bộ của nước sở tại.
+
+**Luận điệu:** Xuyên tạc Quyết định 1334 về phát huy nguồn lực người Việt Nam ở nước ngoài là âm mưu "kiểm soát", "lấn sân", "đảng hóa" các hội đoàn ở hải ngoại; coi kiều hối là công cụ để "nuôi chế độ".
+* Quyết định 1334 nhằm cụ thể hóa chính sách đại đoàn kết, tạo hành lang pháp lý thuận lợi hơn cho kiều bào về đầu tư, kinh doanh, giữ quốc tịch và sở hữu nhà ở.
+* Nhà nước tôn trọng tính tự nguyện và độc lập của các hội đoàn; việc hỗ trợ kết nối là để duy trì bản sắc văn hóa và tiếng Việt, không phải can thiệp chính trị.
+* Sự ủng hộ nhiệt thành của kiều bào (qua kiều hối, các dự án đầu tư, hội nghị Diên Hồng) chứng tỏ chính sách đúng đắn, bác bỏ luận điệu "tẩy chay" của nhóm thiểu số cực đoan.
 
 **45. Về Công nghệ cao và Lừa đảo trực tuyến (Deepfake/AI):**
 
