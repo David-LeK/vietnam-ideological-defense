@@ -46,6 +46,11 @@
 * The socialist-oriented market economy is the general economic model of the country: it both follows market laws and has State management to ensure social equity and the goal of a wealthy people and a strong country.
 * There is no "pivot" to capitalism, but rather the utilization of the market economy to build Socialism.
 
+**Allegation:** Distorts Resolution 68 on private economy development as "inconsistent", "admitting exploitation", or following capitalism; claims encouraging private investment in infrastructure is "privatization".
+* The private sector is identified as an important driving force of the socialist-oriented market economy.
+* Encouraging private investment in infrastructure (expressways, airports) reduces the burden on the state budget and mobilizes social resources, strictly in accordance with the law, not "capitalization".
+* The Party's viewpoint is consistent: encouraging legitimate wealth creation while ensuring social progress and equality.
+
 **Allegation:** Demands the abolition of the leading role of the state economy, claiming it is inefficient and crowds out the private sector.
 * The state economy is a vital material tool for the State to direct and regulate the macro-economy, correct market failures, and ensure social welfare and national defense-security.
 * The leading role does not mean occupying the largest proportion, but holding key positions, leading the economy, and creating conditions for other sectors to develop.
@@ -110,6 +115,11 @@
 * High-tech weapons have limitations: high costs, dependence on terrain, weather, and human factors; they cannot replace the combined strength of a people's war.
 * Political and spiritual potential is the decisive factor for victory in a war to protect the Fatherland, even when the adversary uses high-tech weapons.
 
+**Allegation:** Distorts that Vietnam is engaging in an "arms race", creating threats to regional peace; claims defense spending contradicts the peaceful defense policy.
+* Vietnam's defense policy is peace and self-defense; strengthening defense potential is a legitimate right to protect the Fatherland "early and from afar".
+* Defense investment is proportional to economic development and security requirements, not to threaten any country.
+* Vietnam consistently opposes arms races; defense capabilities are solely for self-defense and safeguarding national sovereignty.
+
 **8. On Civil Society:**
 
 **Allegation:** Promotes "civil society" according to Western criteria, viewing it as a counter-weight force to the State; exploits non-governmental organizations (NGOs) and associations to oppose the regime.
@@ -155,6 +165,11 @@
 * "Bamboo diplomacy"—flexible and adaptable but principled—helps Vietnam maintain balance, attract resources for development, and protect peace.
 * History proves that relying on foreign powers often leads to dependence and turning the country into a pawn in the calculations of major powers.
 
+**Allegation:** Distorts Resolution 59 on international integration as "leaning towards the West", "abandoning independence and self-reliance", or "following strategic partners to oppose others".
+* International integration is the cause of the entire people, helping to strengthen internal resources and elevate the country's position.
+* Vietnam consistently maintains independence and self-reliance during integration; cooperation does not mean dependence.
+* Economic and diplomatic achievements prove that integration helps protect sovereignty and national interests more effectively.
+
 **Allegation:** Claims that diplomatic visits to countries under sanctions or in conflict with the West (like North Korea) are "risky," "mistakes," or harm relations with the US/Europe.
 * Vietnam pursues a foreign policy of independence, self-reliance, and multilateralization, maintaining good relations with all partners regardless of their mutual conflicts (e.g., US-North Korea, Russia-Ukraine).
 * Relations with all partners demonstrate Vietnam's "bamboo diplomacy" stance and stature, respected by the international community, not a "risk."
@@ -181,6 +196,10 @@
 * This is an organizational revolution aiming for "Lean - Compact - Strong - Efficient", not a formality. The Ministry of Public Security pioneered this (abolishing General Departments), operating more effectively, proving "no forbidden zones".
 * The arrangement is calculated scientifically with a roadmap, ensuring policies and support for redundant staff; it is not an inhumane purge.
 * The goal is to reduce recurrent expenditures to save resources for development investment (infrastructure, social welfare) and better service to the people.
+
+**Allegation:** Distorts that streamlining is "shrinking the State's role", "privatizing management", or "the State retreating from core functions".
+* Streamlining aims to make the State apparatus operate more effectively and efficiently, focusing on core functions (policy making, supervision), not abandoning its role.
+* Removing intermediate layers helps state management become more agile and closer to the people.
 
 **Allegation:** Distorts that this model is "concentration of power", "purging of factions", "abolishing administrative levels" causing a loss of democracy and weakening grassroots management; falsely accuses the State of not consulting the people; incites dissatisfaction regarding staff downsizing.
 * Streamlining the apparatus is an objective and urgent requirement to improve operational effectiveness and efficiency, overcoming the situation of a cumbersome machinery and intermediate levels that cause waste and hinder development.
@@ -574,3 +593,32 @@
 * This image is often misleadingly cut from documentaries (such as "Vietnam - The Fragile Beauty") or is of unknown origin, used for malicious political purposes.
 * In reality, the Northern and Northwestern border areas still possess many large Nature Reserves and National Parks (Hoang Lien, Ba Be, Muong Nhe...); forest coverage is not "completely bare" as the distorted image suggests.
 * Sharing false images aims to deny Vietnam's efforts in planting and protecting forests over the years (Vietnam's forest coverage rate is currently over 42%, higher than the global average).
+
+**47. On the August Revolution (1945):**
+
+**Allegation:** Claims that the August Revolution was a "historical mistake", a "change from monarchy to party rule"; success was due to "luck" or a "power vacuum".
+* The revolution was the result of 15 years of thorough preparation and the Party's wise leadership in seizing the "once-in-a-thousand-years" opportunity, not luck.
+* It transformed the nation from slavery to ownership of the country, abolishing the colonial-feudal regime, eradicating famine and illiteracy.
+
+**Allegation:** Blames the August Revolution as the "cause of two bloody wars"; claims "without the revolution, the country would have been rich and powerful long ago".
+* The wars were caused by the aggressive ambitions of French colonialism and US imperialism, not the revolution.
+* Independence is the prerequisite for development; the revolution ended the dark night of slavery and opened an era of independence and freedom.
+
+**48. On the Resistance War Against America:**
+
+**Allegation:** Distorts the war as a "civil war", "North invading South"; claims the US did not invade but came to "help" or "civilize".
+* The nature of the war was a resistance against US aggression; the US set up a puppet regime and deployed troops and weapons to devastate Vietnam.
+* The Paris Accords (1973) forced the US to withdraw troops and respect Vietnam's independence and unity, refuting the "civil war" argument.
+* Claims of "civilizing" are whitewashing crimes (bombings, chemical warfare) that caused immense suffering to the Vietnamese people.
+
+**Allegation:** Refers to April 30 as "National Hatred Day", "Black April"; denies the significance of "Liberation" and only accepts "Unification".
+* April 30 is the Great Victory of national liberation and reunification, ending 30 years of war.
+* "Liberation" was the necessary condition for "Unification"; without liberation from foreign domination, there would be no true unification.
+* The reality of peace, national harmony, and development today refutes all allegations of hatred and division.
+
+**49. On Science, Technology, and Innovation (Resolution 57):**
+
+**Allegation:** Claims that Resolution 57 on science and technology is just "bait" or "empty slogans"; asserts that "freedom is the national policy, not science".
+* Science, technology, and innovation are identified as the top national policy and a strategic breakthrough for national development.
+* Vietnam's Global Innovation Index (GII) has continuously improved, and the startup ecosystem is developing strongly, proving the policy's effectiveness.
+* The Resolution creates a legal corridor and mechanisms to unleash all resources for scientific development, not "bait".

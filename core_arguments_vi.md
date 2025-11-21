@@ -46,6 +46,11 @@
 * Kinh tế thị trường định hướng XHCN là mô hình kinh tế tổng quát của Việt Nam: vừa tuân theo quy luật thị trường, vừa có sự quản lý của Nhà nước để đảm bảo công bằng xã hội và mục tiêu dân giàu, nước mạnh.
 * Không có sự "xoay trục" sang CNTB, mà là vận dụng kinh tế thị trường để xây dựng CNXH. 
 
+**Luận điệu:** Xuyên tạc Nghị quyết 68 về phát triển kinh tế tư nhân là "bất nhất", "thừa nhận bóc lột" hay đi theo CNTB; cho rằng khuyến khích tư nhân làm hạ tầng là "tư nhân hóa".
+* Kinh tế tư nhân được xác định là động lực quan trọng của nền kinh tế thị trường định hướng XHCN.
+* Việc khuyến khích tư nhân đầu tư hạ tầng (cao tốc, sân bay) là để giảm gánh nặng ngân sách, huy động nguồn lực xã hội, đúng pháp luật chứ không phải "tư bản hóa".
+* Quan điểm của Đảng là nhất quán: khuyến khích làm giàu hợp pháp đi đôi với thực hiện tiến bộ, công bằng xã hội.
+
 **Luận điệu:** Đòi xóa bỏ vai trò chủ đạo của kinh tế nhà nước, cho rằng kinh tế nhà nước kém hiệu quả, chèn ép kinh tế tư nhân.
 * Kinh tế nhà nước là công cụ vật chất quan trọng để Nhà nước định hướng, điều tiết vĩ mô, khắc phục khuyết tật thị trường, đảm bảo an sinh xã hội và quốc phòng - an ninh.
 * Vai trò chủ đạo không có nghĩa là chiếm tỷ trọng lớn nhất, mà là nắm giữ các vị trí then chốt, dẫn dắt nền kinh tế, tạo điều kiện cho các thành phần khác phát triển.
@@ -110,6 +115,11 @@
 * Vũ khí công nghệ cao có những hạn chế: chi phí tốn kém, phụ thuộc địa hình, thời tiết và yếu tố con người; không thể thay thế được sức mạnh tổng hợp của chiến tranh nhân dân.
 * Tiềm lực chính trị, tinh thần là nhân tố quyết định thắng lợi trong chiến tranh bảo vệ Tổ quốc, ngay cả khi đối phương sử dụng vũ khí công nghệ cao.
 
+**Luận điệu:** Xuyên tạc Việt Nam đang "chạy đua vũ trang", gây nguy cơ đe dọa hòa bình khu vực; cho rằng chi tiêu quốc phòng đi ngược lại chính sách hòa bình.
+* Chính sách quốc phòng của Việt Nam là hòa bình, tự vệ; việc tăng cường tiềm lực quốc phòng là quyền chính đáng để bảo vệ Tổ quốc "từ sớm, từ xa".
+* Đầu tư quốc phòng tương xứng với phát triển kinh tế và yêu cầu bảo vệ an ninh, không nhằm đe dọa bất cứ nước nào.
+* Việt Nam kiên quyết phản đối chạy đua vũ trang; sức mạnh quân sự chỉ để tự vệ và giữ gìn chủ quyền quốc gia.
+
 **8. Về xã hội dân sự:**
 
 **Luận điệu:** Cổ súy cho "xã hội dân sự" theo tiêu chí phương Tây, coi đây là lực lượng đối trọng với Nhà nước; lợi dụng các tổ chức không chính phủ, hội nhóm để chống phá.
@@ -155,6 +165,11 @@
 * "Ngoại giao cây tre" mềm dẻo, linh hoạt nhưng kiên định nguyên tắc giúp Việt Nam giữ cân bằng, tranh thủ nguồn lực phát triển và bảo vệ hòa bình.
 * Lịch sử chứng minh việc dựa dẫm vào nước ngoài thường dẫn đến lệ thuộc và bị biến thành quân cờ trong toan tính của nước lớn.
 
+**Luận điệu:** Xuyên tạc Nghị quyết 59 về hội nhập quốc tế là "ngả về phương Tây", "từ bỏ độc lập tự chủ" hay "theo đối tác chiến lược để chống nước khác".
+* Hội nhập quốc tế là sự nghiệp toàn dân, giúp tăng cường nội lực và nâng cao vị thế đất nước.
+* Việt Nam kiên định độc lập, tự chủ trong quá trình hội nhập; hợp tác không có nghĩa là lệ thuộc.
+* Thành quả kinh tế, ngoại giao chứng minh hội nhập giúp bảo vệ chủ quyền và lợi ích quốc gia hiệu quả hơn.
+
 **Luận điệu:** Cho rằng các chuyến thăm ngoại giao tới các nước đang bị cấm vận hoặc có mâu thuẫn với phương Tây (như Triều Tiên) là "mạo hiểm", "sai lầm", ảnh hưởng đến quan hệ với Mỹ/Châu Âu.
 * Việt Nam thực hiện đường lối đối ngoại độc lập, tự chủ, đa phương hóa; duy trì quan hệ tốt đẹp với cả các nước có mâu thuẫn với nhau (như Mỹ - Triều Tiên, Nga - Ukraine).
 * Việc quan hệ với tất cả các đối tác thể hiện bản lĩnh và vị thế của Việt Nam ("ngoại giao cây tre"), được cộng đồng quốc tế tôn trọng, không phải là sự mạo hiểm.
@@ -181,6 +196,10 @@
 * Đây là cuộc cách mạng về tổ chức nhằm "Tinh - Gọn - Mạnh - Hiệu năng", không phải hình thức. Bộ Công an là đơn vị tiên phong, gương mẫu đi đầu (bỏ cấp Tổng cục, giảm nhiều đầu mối) và hoạt động hiệu quả hơn, chứng minh "không có vùng cấm".
 * Việc sắp xếp được tính toán kỹ lưỡng, khoa học, có lộ trình, đảm bảo chế độ chính sách cho cán bộ dôi dư, không phải là sự thanh trừng thiếu nhân văn.
 * Mục tiêu là giảm chi thường xuyên để dành nguồn lực cho đầu tư phát triển (hạ tầng, an sinh xã hội) và phục vụ nhân dân tốt hơn.
+
+**Luận điệu:** Xuyên tạc rằng tinh gọn bộ máy là "thu hẹp vai trò Nhà nước", "tư nhân hóa quản lý" hay "Nhà nước rút lui khỏi chức năng cốt lõi".
+* Tinh gọn nhằm giúp bộ máy Nhà nước hoạt động hiệu lực, hiệu quả hơn, tập trung vào chức năng cốt lõi (kiến tạo, giám sát), không phải là buông bỏ vai trò.
+* Xóa bỏ tầng nấc trung gian giúp quản lý nhà nước nhanh nhạy, sát dân hơn.
 
 **Luận điệu:** Xuyên tạc rằng mô hình này là "tập trung quyền lực", "thanh trừng phe cánh", "bỏ cấp chính quyền" làm mất dân chủ và suy yếu quản lý cơ sở; vu cáo Nhà nước không lấy ý kiến nhân dân; kích động tâm lý bất mãn về vấn đề tinh giản biên chế.
 * Việc sắp xếp, tinh gọn bộ máy là yêu cầu khách quan, cấp thiết để nâng cao hiệu lực, hiệu quả hoạt động, khắc phục tình trạng bộ máy cồng kềnh, tầng nấc trung gian gây lãng phí và cản trở sự phát triển.
@@ -574,3 +593,32 @@
 * Hình ảnh này thường bị cắt ghép sai lệch từ các phim tài liệu (như "Việt Nam - Vẻ đẹp mong manh") hoặc không rõ nguồn gốc để phục vụ mục đích chính trị xấu.
 * Thực tế, khu vực biên giới phía Bắc và Tây Bắc hiện nay vẫn còn rất nhiều Khu bảo tồn Thiên nhiên và Vườn Quốc gia lớn (Hoàng Liên, Ba Bể, Mường Nhé...), độ che phủ rừng không phải "trọc hoàn toàn" như hình ảnh xuyên tạc.
 * Việc chia sẻ hình ảnh sai sự thật nhằm phủ nhận nỗ lực trồng và bảo vệ rừng của Việt Nam trong những năm qua (tỷ lệ che phủ rừng của Việt Nam hiện đạt trên 42%, cao hơn mức bình quân thế giới).
+
+**47. Về Cách mạng Tháng Tám (1945):**
+
+**Luận điệu:** Cho rằng Cách mạng Tháng Tám là "sai lầm lịch sử", "thay chế độ vua trị bằng đảng trị"; thành công là do "ăn may" hoặc "khoảng trống quyền lực".
+* Cách mạng là kết quả của 15 năm chuẩn bị chu đáo và sự lãnh đạo sáng suốt của Đảng chớp thời cơ "ngàn năm có một", không phải ăn may.
+* Cách mạng đã đưa dân tộc từ thân phận nô lệ trở thành người làm chủ đất nước, xóa bỏ chế độ thực dân phong kiến, diệt giặc đói, giặc dốt.
+
+**Luận điệu:** Đổ lỗi Cách mạng Tháng Tám là "nguyên nhân dẫn đến hai cuộc chiến tranh đẫm máu"; "nếu không có cách mạng thì nước ta đã giàu mạnh từ lâu".
+* Nguyên nhân chiến tranh là do dã tâm xâm lược của thực dân Pháp và đế quốc Mỹ, không phải do cách mạng.
+* Độc lập là tiền đề tiên quyết để phát triển; cách mạng đã chấm dứt đêm trường nô lệ, mở ra kỷ nguyên độc lập, tự do.
+
+**48. Về Cuộc kháng chiến chống Mỹ, cứu nước:**
+
+**Luận điệu:** Xuyên tạc cuộc chiến là "nội chiến", "miền Bắc xâm lược miền Nam"; cho rằng Mỹ không xâm lược mà chỉ đến "giúp đỡ", "khai phóng".
+* Bản chất là cuộc kháng chiến chống Mỹ xâm lược; Mỹ dựng lên chính quyền tay sai, đưa quân đội và vũ khí tàn phá Việt Nam.
+* Hiệp định Paris 1973 buộc Mỹ rút quân, cam kết tôn trọng độc lập, thống nhất của Việt Nam, bác bỏ luận điệu "nội chiến".
+* Luận điệu "khai phóng" là tẩy trắng cho tội ác chiến tranh (ném bom, rải chất độc da cam) gây đau thương cho dân tộc.
+
+**Luận điệu:** Gọi ngày 30/4 là "ngày quốc hận", "tháng tư đen"; phủ nhận ý nghĩa "giải phóng", chỉ chấp nhận gọi là "thống nhất".
+* Ngày 30/4 là Đại thắng giải phóng dân tộc, thống nhất đất nước, chấm dứt 30 năm chiến tranh.
+* "Giải phóng" là điều kiện cần của "thống nhất"; không có giải phóng khỏi ách thống trị ngoại bang thì không có thống nhất thực sự.
+* Thực tế hòa bình, hòa hợp dân tộc và phát triển hôm nay bác bỏ mọi luận điệu hận thù, chia rẽ.
+
+**49. Về Khoa học Công nghệ và Đổi mới sáng tạo (Nghị quyết 57):**
+
+**Luận điệu:** Cho rằng Nghị quyết 57 về khoa học công nghệ chỉ là "mồi nhử", "khẩu hiệu suông"; rêu rao "tự do mới là quốc sách chứ không phải khoa học".
+* Khoa học công nghệ và đổi mới sáng tạo được xác định là quốc sách hàng đầu, là đột phá chiến lược để phát triển đất nước.
+* Chỉ số đổi mới sáng tạo (GII) của Việt Nam liên tục thăng hạng, hệ sinh thái khởi nghiệp phát triển mạnh chứng minh hiệu quả của chủ trương.
+* Nghị quyết tạo hành lang pháp lý, cơ chế để khơi dậy mọi nguồn lực phát triển khoa học, không phải là "mồi nhử".
