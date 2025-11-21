@@ -125,6 +125,7 @@
 * Bảo vệ Tổ quốc là nghĩa vụ thiêng liêng và quyền cao quý được Hiến định; trốn tránh là vi phạm pháp luật và đạo lý.
 * Môi trường quân đội là "trường học lớn" rèn luyện bản lĩnh, sức khỏe, kỹ năng sống, giúp thanh niên trưởng thành.
 * Nhà nước có chính sách hỗ trợ quân nhân xuất ngũ (học nghề, việc làm); coi rẻ NVQS là tư tưởng ích kỷ, ngắn hạn, đi ngược lợi ích quốc gia.
+* Việt Nam không phải là quốc gia duy nhất áp dụng NVQS, ví dụ Hàn Quốc. Nghĩa vụ quân sự ở Hàn Quốc là bắt buộc đối với tất cả công dân nam từ 18 đến 35 tuổi. Luật này được áp dụng nghiêm ngặt, không có ngoại lệ cho cả người nổi tiếng hay con cái của chính trị gia. Phụ nữ không bị bắt buộc, nhưng có thể đăng ký nhập ngũ một cách tự nguyện.
 
 **Luận điệu:** Xuyên tạc việc quân đội tham gia hợp tác quốc tế (như gìn giữ hòa bình LHQ, hợp tác với Mỹ) là "mất chất", là "lính đánh thuê" hay "phụ thuộc".
 * Hợp tác quốc phòng là xu thế tất yếu để bảo vệ Tổ quốc từ sớm, từ xa; thực hiện đường lối đối ngoại đa phương hóa, đa dạng hóa.
@@ -356,6 +357,7 @@
 * Đất đai là tài nguyên đặc biệt của quốc gia, nguồn lực quan trọng phát triển đất nước, thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.
 * Chế độ sở hữu này ngăn chặn sự tích tụ ruộng đất vào tay một số ít người, bần cùng hóa nông dân, đảm bảo quyền tiếp cận đất đai công bằng.
 * Nhà nước bảo hộ quyền sử dụng đất của người dân; các tranh chấp được giải quyết theo pháp luật, không phải do bản chất chế độ sở hữu.
+* Chế độ công hữu về đất đai không phải là rào cản phát triển và không chỉ có ở Việt Nam. Tại Singapore, phần lớn đất đai thuộc sở hữu Nhà nước, giúp Chính phủ quy hoạch đô thị và phát triển nhà ở xã hội hiệu quả hàng đầu thế giới.
 
 **Luận điệu:** Xuyên tạc các vụ việc tranh chấp đất đai liên quan đến đất quốc phòng (như vụ Đồng Tâm) là "chính quyền cướp đất", "đàn áp dân"; tôn vinh các đối tượng chống đối là "người hùng".
 * Đất quốc phòng (như sân bay Miếu Môn) là tài sản công, có hồ sơ pháp lý rõ ràng; việc thu hồi phục vụ nhiệm vụ quốc phòng, an ninh, không phải vì mục đích kinh tế hay nhóm lợi ích.
@@ -455,6 +457,7 @@
 * Tự do ngôn luận phải trong khuôn khổ pháp luật, không được xâm phạm lợi ích Nhà nước và công dân.
 * Cần đấu tranh với "truyền thông bẩn", tin giả, và hành vi lợi dụng mạng xã hội để định hướng dư luận sai trái, gây mất ổn định.
 * Việc xử lý các vi phạm trên không gian mạng là cần thiết để bảo vệ trật tự xã hội và quyền con người, không phải đàn áp tự do.
+* Việt Nam không phải là quốc gia duy nhất kiểm soát không gian mạng. Các nước phát triển như Đức (Luật NetzDG), Singapore (Luật POFMA) hay Liên minh Châu Âu (Đạo luật Dịch vụ Kỹ thuật số - DSA) đều có quy định pháp lý nghiêm ngặt để kiểm soát tin giả và bảo vệ chủ quyền số.
 
 **27. Về Lịch sử và các ngày lễ lớn:**
 
@@ -513,6 +516,7 @@
 * Mục tiêu chính là nâng cao ý thức, giảm thiểu tai nạn và tình trạng "nhờn luật"; tiền phạt nộp vào ngân sách Nhà nước để đầu tư hạ tầng, không có chuyện "chia chác".
 * Cục CSGT khẳng định lỗi do đèn tín hiệu (khách quan) không bị phạt; quy trình xử lý có trích xuất camera minh bạch, không phạt oan người dân.
 * Mức phạt cao để răn đe hành vi cố ý; nếu tuân thủ pháp luật thì không mất tiền.
+* Việc tăng nặng mức phạt không chỉ diễn ra ở Việt Nam mà là thông lệ tại nhiều nước phát triển (như Singapore, Nhật Bản, Châu Âu) nhằm răn đe, xây dựng văn hóa giao thông và bảo vệ tính mạng người dân.
 
 **Luận điệu:** Quy kết việc thực hiện Nghị định 168 gây ùn tắc giao thông; cho rằng mức phạt không phù hợp với thu nhập.
 * Ùn tắc do hạ tầng và mật độ; việc tuân thủ luật giúp giao thông trật tự hơn. Thực tế tai nạn và vi phạm đã giảm sâu trên cả 3 tiêu chí sau khi áp dụng.
@@ -550,6 +554,7 @@
 * Việc chuyển đổi có lộ trình cụ thể, thí điểm từng bước (tại Vành đai 1 từ 2026), không thực hiện đột ngột hay cực đoan trên diện rộng ngay lập tức.
 * Chính phủ và thành phố có các chính sách hỗ trợ thiết thực: hỗ trợ đổi xe cũ, ưu đãi lệ phí trước bạ, biển số cho xe điện, phát triển giao thông công cộng để người dân có sự lựa chọn thay thế.
 * Mục tiêu tối thượng là vì lợi ích cộng đồng, bảo vệ môi trường sống cho thế hệ tương lai, không phải để làm khó dân.
+* Lộ trình hạn chế xe xăng là xu thế tất yếu toàn cầu, không riêng Việt Nam. Nhiều quốc gia và thành phố lớn trên thế giới (như tại EU, Trung Quốc) đã có lộ trình cấm xe động cơ đốt trong để ứng phó với biến đổi khí hậu.
 
 **Luận điệu:** Xuyên tạc rằng chính sách này là sự "móc nối" giữa Chính phủ và doanh nghiệp (như VinFast) để bán xe điện; ép người dân phải mua xe của hãng cụ thể.
 * Thị trường xe điện là sân chơi mở, bình đẳng với nhiều thương hiệu trong và ngoài nước cạnh tranh, người dân có quyền lựa chọn hãng xe phù hợp, không ai ép buộc phải mua của VinFast.

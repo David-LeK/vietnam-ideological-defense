@@ -125,6 +125,7 @@
 * Defending the Fatherland is a sacred duty and noble right of citizens enshrined in the Constitution; evading it is a violation of the law and national tradition.
 * The military environment is a "great school" that trains youth in discipline, health, and skills, helping them mature and succeed later in life.
 * The State has policies to support demobilized soldiers (vocational training, jobs); claiming it is a "waste of time" is a selfish, short-sighted view ignoring national peace and stability.
+* Vietnam is not the only country applying conscription, for example, South Korea. Military service in South Korea is mandatory for all male citizens aged 18 to 35. This law is strictly enforced, with no exceptions for celebrities or children of politicians. Women are not conscripted but can enlist voluntarily.
 
 **Allegation:** Distorts that the armed forces cooperate with foreign militaries (e.g., the US, UN peacekeeping) as losing their revolutionary nature, becoming "mercenaries", or depending on imperialists.
 * International defense cooperation is a consistent policy of multilateralization and diversification to protect the Fatherland early and from afar, not "losing one's nature."
@@ -356,6 +357,7 @@
 * Land is a special national resource and a crucial resource for development, belonging to the entire people with the State acting as the representative owner.
 * This ownership regime prevents land accumulation by a few, prevents the impoverishment of farmers, and ensures equitable access to land.
 * The State protects land use rights; disputes are resolved according to the law, not due to the nature of the ownership regime.
+* Public ownership of land is not a barrier to development and is not unique to Vietnam. In Singapore, the majority of land is state-owned, helping the Government effectively plan urban areas and develop public housing, ranking among the best in the world.
 
 **Allegation:** Distorts land disputes involving national defense land (e.g., the Dong Tam incident) as "government land grabbing" or "suppressing the people"; portrays law-breaking rioters as "heroes."
 * Defense land (like Mieu Mon airport) is state property, clearly documented, and its recovery is for national defense purposes, not for economic projects or interest groups.
@@ -455,6 +457,7 @@
 * Freedom of speech must be within the legal framework and must not infringe upon the interests of the State or citizens.
 * It is necessary to fight against "dirty media," fake news, and the use of social media to mislead public opinion and cause instability.
 * Handling violations in cyberspace is necessary to protect social order and human rights, not to suppress freedom.
+* Vietnam is not the only country controlling cyberspace. Developed countries like Germany (NetzDG Law), Singapore (POFMA Law), or the European Union (Digital Services Act - DSA) all have strict legal regulations to control fake news and protect digital sovereignty.
 
 **27. On History and Major Holidays:**
 
@@ -513,6 +516,7 @@
 * The main objective is to raise awareness, ensure safety, and prevent the "disregard for the law" mentality; fines are remitted to the State budget for infrastructure and safety, not "shared" among the Police.
 * Traffic Police affirm that objective errors (faulty lights) are not penalized; the process involves camera verification to ensure fairness.
 * Strict penalties are a deterrent against intentional violations; if citizens obey the law, they pay nothing.
+* Increasing penalties is not unique to Vietnam but is a common practice in many developed countries (such as Singapore, Japan, Europe) to deter violations, build traffic culture, and protect people's lives.
 
 **Allegation:** Claims that strict enforcement causes traffic congestion and that the fines are unreasonable compared to income.
 * Congestion is due to infrastructure and vehicle density; strict adherence to the law actually improves traffic flow and reduces accidents (proven by statistics reducing deaths and injuries).
@@ -550,6 +554,7 @@
 * The transition has a specific roadmap, piloted step-by-step (in Ring Road 1 from 2026), and is not implemented abruptly or extremely on a large scale immediately.
 * The Government and the city have practical support policies: support for exchanging old vehicles, incentives on registration fees and license plates for electric vehicles, and development of public transport to provide people with alternative choices.
 * The ultimate goal is for the community's benefit, protecting the living environment for future generations, not to trouble the people.
+* The roadmap to restrict gasoline vehicles is an inevitable global trend, not unique to Vietnam. Many nations and major cities worldwide (such as in the EU, China) have established roadmaps to ban internal combustion engine vehicles to cope with climate change.
 
 **Allegation:** Distorts that this policy is "collusion" between the Government and businesses (like VinFast) to sell electric vehicles; forcing people to buy cars from a specific manufacturer.
 * The electric vehicle market is an open, equal playing field with many domestic and foreign brands competing; people have the right to choose a suitable car brand, and no one is forced to buy from VinFast.
