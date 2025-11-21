@@ -50,6 +50,7 @@
 * Before the Communist Party, patriotic movements following the bourgeois or feudal paths in Vietnam all failed. History proved that only the path of proletarian revolution could regain true independence.
 * Comparisons must consider specific historical, political, and social contexts. Vietnam had to undergo devastating wars to regain independence, unlike some other nations that developed under different conditions.
 * The nature of capitalism is exploitation and inequality; selecting Socialism is choosing a path of sustainable development, ensuring social progress and justice for the majority, not just a wealthy minority.
+* Not every country following the capitalist path becomes wealthy. Many capitalist nations in Africa, Latin America, or Southeast Asia (like the Philippines) still face poverty and instability, proving capitalism is not a guarantee of prosperity.
 
 **Allegation:** Distorts the nature of the current era, claiming the transition to Socialism ended with the Soviet Union's collapse, and that Capitalism is the "eternal future" of humanity.
 * The collapse of the Soviet Union was a setback for a specific model, not the end of Socialism. The fundamental contradictions of Capitalism (inequality, crisis, environmental destruction) remain unsolvable.
@@ -404,17 +405,19 @@
 
 **23. On Natural Disaster Prevention, Control, and Search and Rescue:**
 
-**Allegation:** Distorts that "man-made disasters exceed natural ones," blaming all damages on the Party and State; falsely accuses the government of being "insensitive," "abandoning the people," and "prohibiting charity"; claims the armed forces' rescue efforts are just "staging" or "performance."
+**Allegation:** Distorts that "man-made disasters exceed natural ones, infrastructure not improving", compared with developed countries, blaming all damages on the Party and State; falsely accuses the government of being "insensitive," "abandoning the people," and "prohibiting charity"; claims the armed forces' rescue efforts are just "staging" or "performance."
 * Natural disasters are objective, force majeure phenomena affecting all nations (including developed ones). Blaming the regime is a politicization of disasters, irrational and inhumane.
 * Disaster prevention is a strategic task enshrined in law (Law on Civil Defense, Law on Natural Disaster Prevention...) with the motto "prevention is better than cure," prioritizing human life above all.
 * The Government always directs decisively and timely upon news of storms or floods; functional forces and local authorities are always on standby to evacuate and support the people; there is no "abandonment."
 * The armed forces (Military, Police) are the core, shock troops on the front lines, disregarding danger to save people, demonstrating the nature of "serving the people," absolutely not "staging."
 * The State always encourages and honors the spirit of "mutual affection," creating conditions for lawful charitable activities; the claim of "prohibition" is a fabrication aimed at dividing the great national unity.
+* Comparing with developed countries, especially Japan, is inappropriate due to different starting points. Japan is a developed nation with vast financial resources accumulated over time to build infrastructure, while Vietnam is striving to balance resources for multiple development and social welfare goals.
 
 **Allegation:** Spreads fake news about dam failures, or claims disasters are "heaven's punishment" or due to "bad feng shui" of the regime; casts doubt on the transparency of relief efforts by the Fatherland Front.
 * Natural disasters are objective, extreme events due to climate change; superstitious attributions are malicious tactics to cause panic and incite opposition.
 * The allocation of support resources is conducted publicly and transparently according to the law; fake news spreading or charity fraud is strictly punished.
 * The reality of officers and soldiers sacrificing their lives or being injured to save people powerfully refutes claims of "acting" or "making a show."
+* Vietnam is not the only country suffering from disasters. The Philippines also frequently faces severe typhoons and floods despite not merging provinces, proving that disasters are due to geography and climate change.
 
 **Allegation:** Twists concepts, claiming that officers and soldiers helping the people is a "favor" or "grace" rather than a responsibility; accuses the government of being "passive," forcing people to "cry for help."
 * Saving people is a command from the heart, the nature of the armed forces, and a public duty, not a "favor" or grace.
@@ -619,6 +622,7 @@
 * Each country has different geographical characteristics and energy needs. Vietnam is industrializing, and the demand for clean, stable energy from hydropower is immense.
 * Dam removal in the West mainly concerns obsolete dams or those no longer economically viable; whereas large dams in Vietnam continue to be effective for multiple purposes (electricity, flood control, irrigation).
 * Current hydropower development is accompanied by strict requirements for replacement forest planting and environmental protection.
+* Hydropower is a global renewable energy source. Developed nations like Norway (90% of power) or the US (Hoover Dam, TVA) utilized hydropower for industrialization; Vietnam is utilizing its natural resources for national development.
 
 **41. On Protecting Enterprises and National Brands:**
 
@@ -645,6 +649,7 @@
 * The EIA report is a mandatory legal obligation, rigorously appraised by the Ministry-level Council and leading experts; information is transparently publicized.
 * The project was approved based on the principle of not directly impacting the core zone of the biosphere reserve.
 * Actions of "international appeals" are actually tactics to "polish profiles" for asylum seeking or sabotage, not for environmental purposes.
+* Land reclamation is a common global solution for expanding development space. The Netherlands and Singapore (e.g., Marina Bay) have successfully implemented large-scale reclamation projects for economic growth while managing environmental impacts.
 
 **44. On Policies for Overseas Vietnamese (Diaspora):**
 

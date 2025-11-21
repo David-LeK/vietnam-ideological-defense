@@ -50,6 +50,7 @@
 * Lịch sử Việt Nam đầu thế kỷ XX đã thử nghiệm nhiều con đường (quân chủ lập hiến, dân chủ tư sản...) nhưng đều thất bại trước thực dân Pháp. Chỉ có con đường XHCN mới giành và giữ được độc lập thực sự.
 * Sự so sánh khập khiễng khi bỏ qua bối cảnh lịch sử, xuất phát điểm và hậu quả chiến tranh tàn khốc mà Việt Nam phải gánh chịu.
 * Bản chất của CNTB chứa đựng bất công, phân hóa giàu nghèo sâu sắc và khủng hoảng chu kỳ; con đường XHCN hướng tới sự phát triển bền vững, hài hòa và công bằng cho đa số nhân dân.
+* Không phải cứ đi theo con đường tư bản chủ nghĩa là sẽ giàu có. Thực tế nhiều quốc gia tư bản ở Châu Phi, Mỹ Latinh hay ngay tại Đông Nam Á (như Philippines) vẫn đang đối mặt với nghèo đói và bất ổn, chứng tỏ CNTB không phải là "cây đũa thần".
 
 **Luận điệu:** Xuyên tạc về tính chất thời đại, cho rằng thời kỳ quá độ lên CNXH đã kết thúc sau khi Liên Xô sụp đổ; CNTB là tương lai vĩnh hằng của nhân loại.
 * Sự sụp đổ của Liên Xô chỉ là sự sụp đổ của một mô hình cụ thể, không làm thay đổi tính chất của thời đại là quá độ từ CNTB lên CNXH.
@@ -404,17 +405,19 @@
 
 **23. Về công tác phòng, chống thiên tai và cứu hộ, cứu nạn:**
 
-**Luận điệu:** Xuyên tạc rằng "thiên tai ít, nhân tai nhiều", quy chụp mọi thiệt hại là lỗi của Đảng, Nhà nước; vu cáo chính quyền "vô cảm", "bỏ mặc dân", "ngăn cấm thiện nguyện"; cho rằng lực lượng vũ trang đi cứu hộ chỉ để "làm màu".
+**Luận điệu:** Xuyên tạc rằng "thiên tai ít, nhân tai nhiều", "hạ tầng không chịu cải thiện", so sánh với các nước phát triển, quy chụp mọi thiệt hại là lỗi của Đảng, Nhà nước; vu cáo chính quyền "vô cảm", "bỏ mặc dân", "ngăn cấm thiện nguyện"; cho rằng lực lượng vũ trang đi cứu hộ chỉ để "làm màu".
 * Thiên tai là hiện tượng khách quan, bất khả kháng, quốc gia nào cũng chịu ảnh hưởng (kể cả các nước phát triển). Quy chụp trách nhiệm cho chế độ là thủ đoạn chính trị hóa thiên tai, phi lý và phản nhân văn.
 * Phòng chống thiên tai là nhiệm vụ chiến lược, được luật hóa (Luật Phòng thủ dân sự, Luật Phòng chống thiên tai...) với phương châm "phòng hơn chống", tính mạng con người là trên hết.
 * Chính phủ luôn chỉ đạo quyết liệt, kịp thời ngay khi có tin bão lũ; các lực lượng chức năng và chính quyền địa phương luôn ứng trực, sơ tán và hỗ trợ dân; không có chuyện "bỏ mặc".
 * Lực lượng vũ trang (Quân đội, Công an) là nòng cốt, xung kích nơi tuyến đầu, không quản hiểm nguy để cứu dân, thể hiện bản chất "vì nhân dân phục vụ", hoàn toàn không phải "làm màu".
 * Nhà nước luôn khuyến khích và tôn vinh tinh thần "tương thân tương ái", tạo điều kiện cho các hoạt động thiện nguyện đúng pháp luật; luận điệu "ngăn cấm" là bịa đặt nhằm chia rẽ khối đại đoàn kết.
+* Việc so sánh với hạ tầng với các nước phát triển, đặc biệt Nhật Bản là khập khiễng vì xuất phát điểm khác nhau. Nhật Bản là nước phát triển với nguồn lực tài chính khổng lồ tích lũy lâu dài, trong khi Việt Nam đang nỗ lực cân đối nguồn lực cho nhiều mục tiêu cấp bách.
 
 **Luận điệu:** Tung tin giả về vỡ đê, vỡ đập, hay xuyên tạc thiên tai là do "trời phạt", "mất long mạch" do chế độ; nghi ngờ tính minh bạch của các hoạt động cứu trợ, ủng hộ qua Mặt trận Tổ quốc.
 * Thiên tai là hiện tượng khách quan, cực đoan do biến đổi khí hậu; quy chụp mê tín dị đoan là thủ đoạn ác ý nhằm gây hoang mang và kích động chống đối.
 * Việc phân bổ nguồn lực hỗ trợ được thực hiện công khai, minh bạch theo quy định pháp luật; các hành vi tung tin giả mạo để câu view hay lừa đảo từ thiện đều bị xử lý nghiêm.
 * Hình ảnh cán bộ, chiến sĩ hy sinh, bị thương khi cứu dân là minh chứng hùng hồn bác bỏ luận điệu "diễn" hay "làm màu".
+* Việt Nam không phải là quốc gia duy nhất chịu thiên tai. Philippines cũng thường xuyên hứng chịu bão lũ nghiêm trọng dù không thực hiện sáp nhập tỉnh thành, chứng tỏ thiên tai là do vị trí địa lý và biến đổi khí hậu.
 
 **Luận điệu:** Đánh tráo khái niệm, cho rằng việc cán bộ, chiến sĩ giúp dân là "ân huệ", "ban ơn" chứ không phải trách nhiệm; quy chụp chính quyền "bị động" nên dân phải "kêu cứu".
 * Cứu dân là mệnh lệnh từ trái tim, là bản chất của lực lượng vũ trang và trách nhiệm công vụ, không phải là "ân huệ" hay sự ban ơn.
@@ -619,6 +622,7 @@
 * Mỗi quốc gia có đặc điểm địa lý và nhu cầu năng lượng khác nhau. Việt Nam đang trong giai đoạn phát triển công nghiệp hóa, nhu cầu năng lượng sạch và ổn định từ thủy điện là rất lớn.
 * Việc tháo dỡ đập ở phương Tây chủ yếu là các đập quá cũ, hết hạn sử dụng hoặc không còn hiệu quả kinh tế; trong khi các đập lớn ở Việt Nam vẫn đang phát huy hiệu quả đa mục tiêu (điện, cắt lũ, tưới tiêu).
 * Phát triển thủy điện hiện nay đi đôi với các yêu cầu nghiêm ngặt về trồng rừng thay thế và bảo vệ môi trường.
+* Thủy điện là nguồn năng lượng tái tạo phổ biến toàn cầu. Các nước phát triển như Na Uy (90% điện năng) hay Mỹ (đập Hoover) đều tận dụng thủy điện để công nghiệp hóa; việc Việt Nam khai thác tài nguyên nước là xu thế tất yếu.
 
 **41. Về Bảo vệ Doanh nghiệp và Thương hiệu Quốc gia:**
 
@@ -645,6 +649,7 @@
 * Báo cáo ĐTM là nghĩa vụ pháp lý bắt buộc, đã được thẩm định kỹ lưỡng bởi Hội đồng cấp Bộ và các chuyên gia đầu ngành; thông tin được công khai minh bạch.
 * Dự án được phê duyệt dựa trên nguyên tắc không tác động trực tiếp đến vùng lõi khu dự trữ sinh quyển.
 * Các hành động "kêu cứu quốc tế" thực chất là chiêu trò "đánh bóng tên tuổi" để xin tị nạn hoặc chống phá, không vì mục đích môi trường.
+* Lấn biển là giải pháp mở rộng không gian phát triển phổ biến trên thế giới. Hà Lan hay Singapore (như Marina Bay) đã thực hiện thành công nhiều dự án lấn biển quy mô lớn để phát triển kinh tế mà vẫn kiểm soát tốt môi trường.
 
 **44. Về Chính sách đối với Người Việt Nam ở nước ngoài:**
 
