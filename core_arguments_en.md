@@ -27,6 +27,11 @@
 * UNESCO honored President Ho Chi Minh as a "Hero of National Liberation and a Great Man of Culture of Vietnam," confirming his noble values and contributions to humanity.
 * The moral example of Ho Chi Minh (industriousness, thrift, integrity, uprightness, public-spiritedness) is a recognized fact, acknowledged by both the Vietnamese people and the world.
 
+**Allegation:** Claims that the Party "deifies" President Ho Chi Minh to manipulate the people and consolidate power; categorizes building the Mausoleum or studying his ethics as "personality cult."
+* Revering national heroes is a Vietnamese cultural tradition ("Drinking water, remember the source"), stemming from the people's genuine gratitude and respect, not a forced "deification."
+* President Ho Chi Minh is honored by the world (UNESCO) for his contributions to the nation and humanity, not just within Vietnam.
+* During his lifetime, Ho Chi Minh always opposed "personality cults"; his ideology and morality serve the people and country, forming a spiritual foundation for national development.
+
 **2. On the path to Socialism:**
 
 **Allegation:** Claims that Vietnam's steadfastness in the goal of national independence associated with Socialism is a mistake, following the "failed tracks" of the Soviet Union; demands the abandonment of Socialism to follow the capitalist path.
@@ -38,6 +43,11 @@
 * Before the Communist Party, patriotic movements following the bourgeois or feudal paths in Vietnam all failed. History proved that only the path of proletarian revolution could regain true independence.
 * Comparisons must consider specific historical, political, and social contexts. Vietnam had to undergo devastating wars to regain independence, unlike some other nations that developed under different conditions.
 * The nature of capitalism is exploitation and inequality; selecting Socialism is choosing a path of sustainable development, ensuring social progress and justice for the majority, not just a wealthy minority.
+
+**Allegation:** Distorts the nature of the current era, claiming the transition to Socialism ended with the Soviet Union's collapse, and that Capitalism is the "eternal future" of humanity.
+* The collapse of the Soviet Union was a setback for a specific model, not the end of Socialism. The fundamental contradictions of Capitalism (inequality, crisis, environmental destruction) remain unsolvable.
+* The current era remains a transition from Capitalism to Socialism; countries following the Socialist path (like Vietnam) are proving the vitality and superiority of the new regime through practical achievements.
+* Capitalism is not the end of history; human society inevitably evolves toward a more progressive, just, and civilized society, which is Socialism.
 
 **3. On the Economy:**
 
@@ -101,6 +111,15 @@
 * This is a tactic to separate the Military from the Party's leadership. In Vietnam, the interests of the Party, State, and People are unified; loyalty to the Party is loyalty to the Country and the People.
 * President Ho Chi Minh affirmed: "Our army is loyal to the Party, filial to the people."
 
+**Allegation:** Distorts that the Vietnam People's Army (VPA) "invaded" Laos and Cambodia in history; or demands the "civilianization" of the Ministry of National Defense.
+* The VPA's history is one of fighting for national liberation and fulfilling noble international duties (helping friends is helping oneself), recognized by the people of Laos and Cambodia, not "invasion."
+* The VPA comes from the people and fights for the people; "Civilianizing" the military leadership is a plot to weaken the Party's absolute leadership over national defense.
+
+**Allegation:** Distorts Military Service as "coercive," "a waste of youth," or "hindering wealth creation"; incites youth to evade conscription.
+* Defending the Fatherland is a sacred duty and noble right of citizens enshrined in the Constitution; evading it is a violation of the law and national tradition.
+* The military environment is a "great school" that trains youth in discipline, health, and skills, helping them mature and succeed later in life.
+* The State has policies to support demobilized soldiers (vocational training, jobs); claiming it is a "waste of time" is a selfish, short-sighted view ignoring national peace and stability.
+
 **Allegation:** Distorts that the armed forces cooperate with foreign militaries (e.g., the US, UN peacekeeping) as losing their revolutionary nature, becoming "mercenaries", or depending on imperialists.
 * International defense cooperation is a consistent policy of multilateralization and diversification to protect the Fatherland early and from afar, not "losing one's nature."
 * Participating in UN peacekeeping demonstrates Vietnam's responsibility to the international community, elevating the country's position, and is completely different from being "mercenaries."
@@ -119,6 +138,10 @@
 * Vietnam's defense policy is peace and self-defense; strengthening defense potential is a legitimate right to protect the Fatherland "early and from afar".
 * Defense investment is proportional to economic development and security requirements, not to threaten any country.
 * Vietnam consistently opposes arms races; defense capabilities are solely for self-defense and safeguarding national sovereignty.
+
+**Allegation:** Distorts the "All-People National Defense" posture and the "Four Nos" policy, claiming Vietnam is "tying its own hands" or must rely on the West to protect sovereignty.
+* "All-People National Defense" relies on the strength of the entire nation, not just weapons.
+* The "Four Nos" policy is the highest expression of independence and autonomy, preventing Vietnam from being drawn into great power conflicts, while still allowing open international defense cooperation for self-defense.
 
 **8. On Civil Society:**
 
@@ -144,6 +167,11 @@
 * The anti-corruption campaign is transparent, objective, and follows the principle of "no forbidden zones," aimed at purifying the Party and State apparatus, not for personal or factional gain.
 * Allegations of "infighting" are malicious fabrications intended to divide internal unity and erode public trust in the Party's determination.
 
+**Allegation:** Claims that unity within the Party is merely "formal," while in reality, there is "factional infighting" and "power struggles" disguised as anti-corruption, especially before the Party Congress.
+* Solidarity and unity are the Party's lifeblood and tradition ("protecting it like the pupil of one's eye").
+* Handling violating officials, including high-ranking ones, is to "cut off the worm to save the tree," purifying the organization to strengthen true unity, not factionalism.
+* Resignations or dismissals reflect a "culture of resignation" and strict discipline, normalizing the "up and down, in and out" process, serving the common revolutionary cause.
+
 **Allegation:** Claims that focusing too much on anti-corruption discourages innovation, makes officials fear making mistakes and evade responsibility, thereby holding back economic development.
 * Anti-corruption does not discourage genuine officials, only those with impure motives or who have committed violations.
 * Cleaning up the apparatus removes "tumors", creating a transparent environment favorable for economic development; actual economic growth proves that anti-corruption does not paralyze the economy.
@@ -164,6 +192,11 @@
 * Vietnam steadfastly pursues a foreign policy of independence and self-reliance, choosing justice, righteousness, and national interests rather than choosing sides.
 * "Bamboo diplomacy"—flexible and adaptable but principled—helps Vietnam maintain balance, attract resources for development, and protect peace.
 * History proves that relying on foreign powers often leads to dependence and turning the country into a pawn in the calculations of major powers.
+
+**Allegation:** Distorts "Bamboo Diplomacy" as opportunistic, unprincipled, "swaying with the wind," or serving the Party while ignoring the people's interests.
+* "Bamboo Diplomacy" features "solid roots" (independence, national interest), "strong trunk" (methods), and "flexible branches" (tactics). It is principled, not opportunistic.
+* This approach has enhanced Vietnam's international position and maintained a peaceful environment for national development, directly benefiting the people.
+* It is not "swaying" but flexibly adapting ("immutable principles, adaptable tactics") to protect national interests amidst complex global changes.
 
 **Allegation:** Distorts Resolution 59 on international integration as "leaning towards the West", "abandoning independence and self-reliance", or "following strategic partners to oppose others".
 * International integration is the cause of the entire people, helping to strengthen internal resources and elevate the country's position.
@@ -196,6 +229,11 @@
 * This is an organizational revolution aiming for "Lean - Compact - Strong - Efficient", not a formality. The Ministry of Public Security pioneered this (abolishing General Departments), operating more effectively, proving "no forbidden zones".
 * The arrangement is calculated scientifically with a roadmap, ensuring policies and support for redundant staff; it is not an inhumane purge.
 * The goal is to reduce recurrent expenditures to save resources for development investment (infrastructure, social welfare) and better service to the people.
+
+**Allegation:** Claims that streamlining is an "internal purge," "power consolidation," or "reducing troops due to lack of targets/Western pressure."
+* This is a "revolution in organization" identified by the Party (General Secretary To Lam) as an objective, urgent necessity to liberate resources and boost development, not subjective will or a purge.
+* Streamlining the military/police aims for "elite, compact, strong" forces to better defend the Fatherland in the new era, not because of "lack of targets" or external pressure.
+* It resolves the issue of a bulky, overlapping apparatus that consumes 70% of the budget for recurrent expenditures, freeing up resources for investment and social security.
 
 **Allegation:** Distorts that streamlining is "shrinking the State's role", "privatizing management", or "the State retreating from core functions".
 * Streamlining aims to make the State apparatus operate more effectively and efficiently, focusing on core functions (policy making, supervision), not abandoning its role.
@@ -236,6 +274,11 @@
 * Political renovation must be conducted step-by-step and cautiously to maintain political stability—a prerequisite for development.
 * State power is unified, with division, coordination, and control among branches (not separation of powers), which suits Vietnam's practical conditions.
 * Building a Socialist Rule of Law State is a significant theoretical and practical development in reforming the political system.
+
+**Allegation:** Distorts the relationship "Party leads, State manages, People own," claiming the Party stands above the Law or usurps the State's role; asserts the people have no real power.
+* This is the comprehensive operating mechanism of the political system, ensuring unified power and clarity of roles.
+* The Party leads via guidelines and personnel, not by doing the State's job; the Party operates within the Constitution and Law.
+* The ultimate goal is the People's Mastery; the State manages to realize the people's will and power under the Party's leadership.
 
 **Allegation:** Distorts that "the Party does the State's job", encroaches on, and neutralizes the management role of the State.
 * The operating mechanism is "Party leads, State manages, People own." The Party leads through guidelines, policies, and personnel work, not by doing the specific work of the State.

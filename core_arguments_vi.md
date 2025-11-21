@@ -27,6 +27,11 @@
 * Cuộc đời và sự nghiệp của Chủ tịch Hồ Chí Minh đã được thế giới thừa nhận và tôn vinh (UNESCO vinh danh là Anh hùng giải phóng dân tộc, Nhà văn hóa kiệt xuất).
 * Tấm gương đạo đức "cần, kiệm, liêm, chính, chí công vô tư" của Người là thực tế lịch sử, là tài sản tinh thần vô giá, không thế lực nào có thể bôi đen.
 
+**Luận điệu:** Cho rằng Đảng "thần thánh hóa" Chủ tịch Hồ Chí Minh để mị dân, củng cố quyền lực; quy chụp việc xây Lăng, học tập đạo đức là "sùng bái cá nhân".
+* Sự tôn kính dành cho Bác xuất phát từ tình cảm tự nhiên, lòng biết ơn của nhân dân ("Uống nước nhớ nguồn"), không phải là sự "thần thánh hóa" gượng ép.
+* Chủ tịch Hồ Chí Minh được UNESCO và thế giới tôn vinh là danh nhân văn hóa, anh hùng giải phóng dân tộc, không chỉ riêng Việt Nam.
+* Sinh thời, Bác luôn phản đối sùng bái cá nhân; tư tưởng và đạo đức của Bác phục vụ nhân dân, đất nước, là nền tảng tinh thần để phát triển dân tộc.
+
 **2. Về con đường đi lên CNXH:** 
 
 **Luận điệu:** Cho rằng Việt Nam kiên định mục tiêu độc lập dân tộc gắn liền với CNXH là sai lầm, là đi vào "vết xe đổ" của Liên Xô; đòi từ bỏ CNXH để đi theo con đường tư bản chủ nghĩa.
@@ -38,6 +43,11 @@
 * Lịch sử Việt Nam đầu thế kỷ XX đã thử nghiệm nhiều con đường (quân chủ lập hiến, dân chủ tư sản...) nhưng đều thất bại trước thực dân Pháp. Chỉ có con đường XHCN mới giành và giữ được độc lập thực sự.
 * Sự so sánh khập khiễng khi bỏ qua bối cảnh lịch sử, xuất phát điểm và hậu quả chiến tranh tàn khốc mà Việt Nam phải gánh chịu.
 * Bản chất của CNTB chứa đựng bất công, phân hóa giàu nghèo sâu sắc và khủng hoảng chu kỳ; con đường XHCN hướng tới sự phát triển bền vững, hài hòa và công bằng cho đa số nhân dân.
+
+**Luận điệu:** Xuyên tạc về tính chất thời đại, cho rằng thời kỳ quá độ lên CNXH đã kết thúc sau khi Liên Xô sụp đổ; CNTB là tương lai vĩnh hằng của nhân loại.
+* Sự sụp đổ của Liên Xô chỉ là sự sụp đổ của một mô hình cụ thể, không làm thay đổi tính chất của thời đại là quá độ từ CNTB lên CNXH.
+* CNTB vẫn chứa đựng những mâu thuẫn không thể hóa giải (bất bình đẳng, khủng hoảng, hủy hoại môi trường) và không thể là tương lai cuối cùng.
+* Thực tiễn Việt Nam và các nước XHCN khác đang chứng minh sức sống và tính ưu việt của chế độ mới thông qua các thành tựu phát triển.
 
 **3. Về kinh tế:**
 
@@ -101,6 +111,15 @@
 * Đây là thủ đoạn tách rời Quân đội khỏi sự lãnh đạo của Đảng. Tại Việt Nam, lợi ích của Đảng, Nhà nước, và Nhân dân là thống nhất; trung với Đảng chính là trung với Nước, hiếu với Dân.
 * Chủ tịch Hồ Chí Minh đã khẳng định: "Quân đội ta trung với Đảng, hiếu với dân".
 
+**Luận điệu:** Xuyên tạc, phủ nhận truyền thống QĐNDVN, cho rằng Quân đội "xâm lược" khi giúp Lào/Campuchia; đòi "dân sự hóa" lãnh đạo Bộ Quốc phòng.
+* Lịch sử QĐNDVN là lịch sử đấu tranh giải phóng dân tộc và thực hiện nghĩa vụ quốc tế cao cả, trong sáng (giúp bạn là tự giúp mình), được nhân dân bạn ghi nhận.
+* Quân đội từ nhân dân mà ra, vì nhân dân chiến đấu; đòi "dân sự hóa" là mưu đồ làm suy yếu sự lãnh đạo tuyệt đối của Đảng với quốc phòng.
+
+**Luận điệu:** Xuyên tạc việc thực hiện Nghĩa vụ quân sự (NVQS) là "bắt ép", "tốn thời gian", "mất cơ hội làm giàu"; xúi giục thanh niên trốn tránh.
+* Bảo vệ Tổ quốc là nghĩa vụ thiêng liêng và quyền cao quý được Hiến định; trốn tránh là vi phạm pháp luật và đạo lý.
+* Môi trường quân đội là "trường học lớn" rèn luyện bản lĩnh, sức khỏe, kỹ năng sống, giúp thanh niên trưởng thành.
+* Nhà nước có chính sách hỗ trợ quân nhân xuất ngũ (học nghề, việc làm); coi rẻ NVQS là tư tưởng ích kỷ, ngắn hạn, đi ngược lợi ích quốc gia.
+
 **Luận điệu:** Xuyên tạc việc quân đội tham gia hợp tác quốc tế (như gìn giữ hòa bình LHQ, hợp tác với Mỹ) là "mất chất", là "lính đánh thuê" hay "phụ thuộc".
 * Hợp tác quốc phòng là xu thế tất yếu để bảo vệ Tổ quốc từ sớm, từ xa; thực hiện đường lối đối ngoại đa phương hóa, đa dạng hóa.
 * Tham gia gìn giữ hòa bình thể hiện trách nhiệm quốc tế, nâng cao vị thế Việt Nam, hoàn toàn không phải là "lính đánh thuê".
@@ -119,6 +138,10 @@
 * Chính sách quốc phòng của Việt Nam là hòa bình, tự vệ; việc tăng cường tiềm lực quốc phòng là quyền chính đáng để bảo vệ Tổ quốc "từ sớm, từ xa".
 * Đầu tư quốc phòng tương xứng với phát triển kinh tế và yêu cầu bảo vệ an ninh, không nhằm đe dọa bất cứ nước nào.
 * Việt Nam kiên quyết phản đối chạy đua vũ trang; sức mạnh quân sự chỉ để tự vệ và giữ gìn chủ quyền quốc gia.
+
+**Luận điệu:** Xuyên tạc thế trận "Quốc phòng toàn dân" và chính sách "Bốn không", cho rằng Việt Nam "tự trói chân tay" hoặc phải dựa vào phương Tây mới bảo vệ được chủ quyền.
+* Quốc phòng toàn dân dựa trên sức mạnh tổng hợp của khối đại đoàn kết dân tộc chứ không chỉ dựa vào vũ khí.
+* Chính sách "Bốn không" là biểu hiện cao nhất của độc lập, tự chủ, giúp Việt Nam không bị cuốn vào xung đột nước lớn, đồng thời vẫn mở rộng hợp tác quốc phòng để tự vệ.
 
 **8. Về xã hội dân sự:**
 
@@ -144,6 +167,11 @@
 * Công cuộc chống tham nhũng là xu thế không thể đảo ngược, nhằm làm trong sạch bộ máy Đảng và Nhà nước, không vì mục đích tư lợi hay phe nhóm.
 * Các luận điệu về "đấu đá", "thanh trừng" là sự xuyên tạc, bịa đặt nhằm gây chia rẽ nội bộ và làm giảm niềm tin của nhân dân vào quyết tâm chính trị của Đảng.
 
+**Luận điệu:** Cho rằng sự đoàn kết trong Đảng chỉ là hình thức, thực chất là "đấu đá phe nhóm", "tranh giành quyền lực" núp bóng chống tham nhũng, nhất là trước thềm Đại hội.
+* Đoàn kết thống nhất là sinh mệnh, là truyền thống của Đảng ("giữ gìn như con ngươi của mắt mình").
+* Việc xử lý cán bộ sai phạm (kể cả cấp cao) là để làm trong sạch đội ngũ ("chặt cành sâu để cứu cây"), củng cố sự đoàn kết thực chất, không phải phe cánh.
+* Việc từ chức, miễn nhiệm thể hiện văn hóa từ chức, kỷ luật nghiêm minh, bình thường hóa việc "có lên có xuống", vì sự nghiệp chung.
+
 **Luận điệu:** Cho rằng nếu quá tập trung chống tham nhũng sẽ làm "nhụt chí", "chùn bước" sự sáng tạo, làm cán bộ sợ sai, né tránh trách nhiệm, dẫn đến kìm hãm sự phát triển kinh tế.
 * Chống tham nhũng không làm nhụt chí người chân chính, chỉ làm chùn bước những kẻ có động cơ không trong sáng, đã trót "nhúng chàm".
 * Làm trong sạch bộ máy giúp loại bỏ "ung nhọt", tạo môi trường minh bạch, thuận lợi cho phát triển kinh tế (thực tế kinh tế Việt Nam vẫn tăng trưởng là minh chứng).
@@ -164,6 +192,11 @@
 * Việt Nam kiên trì đường lối độc lập, tự chủ, không chọn bên mà chọn chính nghĩa, lẽ phải và lợi ích quốc gia - dân tộc.
 * "Ngoại giao cây tre" mềm dẻo, linh hoạt nhưng kiên định nguyên tắc giúp Việt Nam giữ cân bằng, tranh thủ nguồn lực phát triển và bảo vệ hòa bình.
 * Lịch sử chứng minh việc dựa dẫm vào nước ngoài thường dẫn đến lệ thuộc và bị biến thành quân cờ trong toan tính của nước lớn.
+
+**Luận điệu:** Xuyên tạc đường lối ngoại giao "Cây tre Việt Nam" là cơ hội, vụ lợi, "gió chiều nào che chiều ấy", thiếu kiên định, chỉ phục vụ Đảng mà bỏ qua lợi ích nhân dân.
+* Ngoại giao "Cây tre" có "gốc vững" (nguyên tắc độc lập, lợi ích quốc gia), "thân chắc" (phương thức), "cành uyển chuyển" (sách lược). Đây là sự kiên định về nguyên tắc, linh hoạt về sách lược.
+* Đường lối này đã giúp nâng cao vị thế, uy tín đất nước, giữ vững môi trường hòa bình để phát triển kinh tế, mang lại lợi ích thiết thực cho nhân dân.
+* Không phải là "đi dây" hay cơ hội, mà là ứng xử khôn khéo ("dĩ bất biến ứng vạn biến") để bảo vệ tối đa lợi ích dân tộc trước biến động thế giới.
 
 **Luận điệu:** Xuyên tạc Nghị quyết 59 về hội nhập quốc tế là "ngả về phương Tây", "từ bỏ độc lập tự chủ" hay "theo đối tác chiến lược để chống nước khác".
 * Hội nhập quốc tế là sự nghiệp toàn dân, giúp tăng cường nội lực và nâng cao vị thế đất nước.
@@ -196,6 +229,11 @@
 * Đây là cuộc cách mạng về tổ chức nhằm "Tinh - Gọn - Mạnh - Hiệu năng", không phải hình thức. Bộ Công an là đơn vị tiên phong, gương mẫu đi đầu (bỏ cấp Tổng cục, giảm nhiều đầu mối) và hoạt động hiệu quả hơn, chứng minh "không có vùng cấm".
 * Việc sắp xếp được tính toán kỹ lưỡng, khoa học, có lộ trình, đảm bảo chế độ chính sách cho cán bộ dôi dư, không phải là sự thanh trừng thiếu nhân văn.
 * Mục tiêu là giảm chi thường xuyên để dành nguồn lực cho đầu tư phát triển (hạ tầng, an sinh xã hội) và phục vụ nhân dân tốt hơn.
+
+**Luận điệu:** Cho rằng tinh gọn bộ máy là cuộc "thanh trừng nội bộ", "thâu tóm quyền lực", hay "giảm quân do hết nhiệm vụ/sức ép phương Tây".
+* Đây là cuộc "cách mạng về tổ chức" (theo chỉ đạo của Tổng Bí thư Tô Lâm) nhằm giải quyết yêu cầu cấp bách của thực tiễn (bộ máy cồng kềnh kìm hãm phát triển), không phải ý chí chủ quan.
+* Tinh gọn Quân đội/Công an hướng tới "tinh, gọn, mạnh" để bảo vệ Tổ quốc tốt hơn trong kỷ nguyên mới, không phải vì "hết nhiệm vụ".
+* Mục đích tối thượng là giải phóng nguồn lực (hiện 70% ngân sách chi thường xuyên) để đầu tư phát triển và an sinh xã hội.
 
 **Luận điệu:** Xuyên tạc rằng tinh gọn bộ máy là "thu hẹp vai trò Nhà nước", "tư nhân hóa quản lý" hay "Nhà nước rút lui khỏi chức năng cốt lõi".
 * Tinh gọn nhằm giúp bộ máy Nhà nước hoạt động hiệu lực, hiệu quả hơn, tập trung vào chức năng cốt lõi (kiến tạo, giám sát), không phải là buông bỏ vai trò.
@@ -236,6 +274,11 @@
 * Đổi mới chính trị phải tiến hành từng bước vững chắc, thận trọng để giữ vững ổn định chính trị - điều kiện tiên quyết để phát triển.
 * Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp và kiểm soát (không phải tam quyền phân lập), phù hợp với thực tiễn Việt Nam.
 * Xây dựng Nhà nước pháp quyền XHCN là bước phát triển quan trọng về lý luận và thực tiễn trong đổi mới hệ thống chính trị.
+
+**Luận điệu:** Xuyên tạc mối quan hệ "Đảng lãnh đạo, Nhà nước quản lý, Nhân dân làm chủ", cho rằng Đảng đứng trên pháp luật, lấn sân Nhà nước; Nhân dân không có thực quyền.
+* Đây là cơ chế vận hành tổng quát của hệ thống chính trị, đảm bảo sự thống nhất và kiểm soát quyền lực.
+* Đảng lãnh đạo bằng đường lối, nhân sự, không làm thay việc của Nhà nước; Đảng hoạt động trong khuôn khổ Hiến pháp và Pháp luật.
+* Mục tiêu cuối cùng là phát huy quyền làm chủ của Nhân dân; Nhà nước quản lý để hiện thực hóa ý chí và quyền lực của Nhân dân dưới sự lãnh đạo của Đảng.
 
 **Luận điệu:** Xuyên tạc rằng "Đảng làm thay Nhà nước", bao biện, lấn sân, vô hiệu hóa vai trò quản lý của Nhà nước.
 * Cơ chế vận hành là "Đảng lãnh đạo, Nhà nước quản lý, Nhân dân làm chủ". Đảng lãnh đạo bằng đường lối, chủ trương, công tác cán bộ, không làm thay công việc cụ thể của Nhà nước.
