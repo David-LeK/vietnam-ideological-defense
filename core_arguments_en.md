@@ -567,3 +567,10 @@
 * These are high-tech criminal tactics aimed at profiteering and causing political and social instability.
 * Citizens need to be alert, verify information from official sources (press, government portals), and not trust manipulated videos of unknown origin.
 * Authorities are strengthening technical and legal measures to prevent and strictly handle those spreading fake news and scams.
+
+**46. On Forest Protection and Development:**
+
+**Allegation:** Uses images comparing forest coverage in Vietnam before and after 1945 (showing the Northern border area completely white/deforested) to accuse Vietnam of destroying forests.
+* This image is often misleadingly cut from documentaries (such as "Vietnam - The Fragile Beauty") or is of unknown origin, used for malicious political purposes.
+* In reality, the Northern and Northwestern border areas still possess many large Nature Reserves and National Parks (Hoang Lien, Ba Be, Muong Nhe...); forest coverage is not "completely bare" as the distorted image suggests.
+* Sharing false images aims to deny Vietnam's efforts in planting and protecting forests over the years (Vietnam's forest coverage rate is currently over 42%, higher than the global average).

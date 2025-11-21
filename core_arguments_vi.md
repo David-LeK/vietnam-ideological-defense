@@ -567,3 +567,10 @@
 * Đây là thủ đoạn tội phạm công nghệ cao nhằm trục lợi và gây mất ổn định chính trị, xã hội.
 * Người dân cần tỉnh táo, kiểm chứng thông tin từ các nguồn chính thống (báo chí, cổng thông tin điện tử), không tin vào các video cắt ghép, không rõ nguồn gốc.
 * Cơ quan chức năng đang tăng cường các biện pháp kỹ thuật và pháp lý để ngăn chặn, xử lý nghiêm các đối tượng phát tán tin giả, lừa đảo.
+
+**46. Về Bảo vệ và Phát triển Rừng:**
+
+**Luận điệu:** Sử dụng hình ảnh so sánh mức độ bao phủ rừng tại Việt Nam trước và sau năm 1945 (khu vực biên giới phía Bắc bạc trắng) để quy kết Việt Nam tàn phá rừng.
+* Hình ảnh này thường bị cắt ghép sai lệch từ các phim tài liệu (như "Việt Nam - Vẻ đẹp mong manh") hoặc không rõ nguồn gốc để phục vụ mục đích chính trị xấu.
+* Thực tế, khu vực biên giới phía Bắc và Tây Bắc hiện nay vẫn còn rất nhiều Khu bảo tồn Thiên nhiên và Vườn Quốc gia lớn (Hoàng Liên, Ba Bể, Mường Nhé...), độ che phủ rừng không phải "trọc hoàn toàn" như hình ảnh xuyên tạc.
+* Việc chia sẻ hình ảnh sai sự thật nhằm phủ nhận nỗ lực trồng và bảo vệ rừng của Việt Nam trong những năm qua (tỷ lệ che phủ rừng của Việt Nam hiện đạt trên 42%, cao hơn mức bình quân thế giới).
