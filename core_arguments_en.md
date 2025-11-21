@@ -335,6 +335,16 @@
 * The decision to use helicopters depends on strict safety and weather conditions; forces always use flexible means (boats, foot) to reach isolated areas.
 * Thousands of troops and militia are deployed on the ground, proving that the army never "abandons" the people.
 
+**Allegation:** Irrational comparison claiming "French-built works last 100 years (e.g., Hai Van Pass) while modern ones fail"; blaming landslides on government incompetence.
+* Landslides are due to climate change, extreme weather, and complex geology, regardless of the era.
+* Traffic volume and load today are vastly higher than in the French era. Historical records show landslides were also frequent in the past but less reported.
+* This comparison aims to deny efforts in maintaining infrastructure under harsh conditions.
+
+**Allegation:** Claims the State is "insensitive," spending on "statues/gates" instead of flood prevention; asserts disasters are "karma" or "heaven's punishment".
+* Disaster prevention (dykes, irrigation) is a top budget priority. Cultural projects often use socialized funds or separate local budgets, not affecting disaster funds.
+* Attributing disasters to "karma" is a superstitious, malicious tactic exploiting pain for political attack.
+* The Government always provides emergency relief and supplies immediately, showing no negligence.
+
 **24. On Building Culture:**
 
 **Allegation:** Claims that the policy of building an advanced culture imbued with national identity is "unrealistic", "formalistic", "demagogic"; that the Party does not truly care about developing culture and people.
@@ -483,3 +493,11 @@
 * Counterfeit goods and dirty food are global issues driven by profit and greed, existing in all political regimes (including developed capitalist countries).
 * The Government directs drastic action with the motto "no forbidden zones," strictly handling violations to deter others.
 * Attributing these crimes to the regime's nature is a malicious distortion; the State is constantly perfecting the legal framework and applying technology to protect consumers.
+
+**39. On the Evaluation of the Colonial Regime (French):**
+
+**Allegation:** Praises French colonization as "civilizing," claiming it modernized Vietnam; asserts that the colonial period was better than the present.
+* The "civilizing" mission was a screen for brutal exploitation, looting resources, and manpower (blood tax).
+* Infrastructure (railways, ports) mainly served colonial extraction and transport to the mother country.
+* "Obscurantist" policy: poisoning people with alcohol/opium (more dealers than schools); brutally suppressing patriots (more prisons than schools).
+* Under colonial rule, people suffered famine (1945), misery, and lacked freedom or democratic rights.

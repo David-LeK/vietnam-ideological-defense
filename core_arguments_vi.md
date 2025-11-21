@@ -335,6 +335,16 @@
 * Việc quyết định phương tiện (trực thăng) phụ thuộc vào điều kiện an toàn bay và thời tiết khắc nghiệt; các lực lượng luôn linh hoạt phương án tiếp cận (xuồng, đường bộ) để cứu dân.
 * Hàng vạn bộ đội, dân quân luôn bám trụ tại thực địa chứng minh Quân đội không bao giờ "bỏ mặc" nhân dân.
 
+**Luận điệu:** So sánh phi lý rằng "công trình thời Pháp làm 100 năm không sạt lở, thời nay làm đâu hỏng đó" (ví dụ Đèo Hải Vân); quy chụp sạt lở là do năng lực quản lý kém.
+* Sạt lở là do biến đổi khí hậu, thời tiết cực đoan và địa chất phức tạp, không phân biệt thời đại.
+* Thời Pháp mật độ giao thông thấp, phương tiện nhỏ; ngày nay lưu lượng và tải trọng lớn gấp nhiều lần. Tài liệu lịch sử cho thấy thời Pháp cũng thường xuyên sạt lở nhưng ít được ghi nhận.
+* So sánh khập khiễng nhằm phủ nhận nỗ lực bảo trì hạ tầng trong điều kiện khắc nghiệt.
+
+**Luận điệu:** Cho rằng Nhà nước "vô cảm", chi nghìn tỷ xây tượng đài thay vì làm cống thoát nước; cho rằng thiên tai là "quả báo" hay "trời phạt".
+* Ngân sách phòng chống thiên tai luôn là ưu tiên hàng đầu; kinh phí xây dựng văn hóa thường từ nguồn xã hội hóa, không ảnh hưởng đến quỹ phòng chống thiên tai.
+* Quy chụp "quả báo" là luận điệu mê tín, độc ác, lợi dụng thiên tai để tấn công chính trị.
+* Chính phủ luôn cấp ngân sách dự phòng khẩn cấp và cứu trợ ngay khi thiên tai xảy ra.
+
 **24. Về Xây dựng nền văn hóa:**
 
 **Luận điệu:** Cho rằng chủ trương xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc là "viển vông", "hình thức", "mị dân"; Đảng không thực sự quan tâm đến phát triển văn hóa, con người.
@@ -483,3 +493,11 @@
 * Hàng giả, hàng nhái là vấn nạn toàn cầu, xuất phát từ lòng tham và lợi nhuận, tồn tại ở mọi thể chế chính trị (kể cả các nước tư bản phát triển).
 * Chính phủ chỉ đạo quyết liệt với phương châm "không có vùng cấm", "xử lý một vụ cảnh tỉnh cả vùng", đồng thời hoàn thiện hành lang pháp lý và ứng dụng công nghệ để kiểm soát.
 * Việc quy chụp tệ nạn xã hội thành bản chất chế độ là luận điệu vu khống; Nhà nước luôn nỗ lực bảo vệ sức khỏe và quyền lợi chính đáng của nhân dân.
+
+**39. Về Đánh giá chế độ Thực dân (Pháp):**
+
+**Luận điệu:** Ca ngợi thực dân Pháp xâm lược là "khai hóa văn minh", giúp Việt Nam hiện đại hóa; cho rằng thời Pháp thuộc tốt đẹp hơn hiện tại.
+* Bản chất "khai hóa" chỉ là bình phong cho chính sách bóc lột, vơ vét tài nguyên và nhân lực (thuế máu).
+* Cơ sở hạ tầng (đường sắt, cảng biển) chủ yếu phục vụ khai thác thuộc địa và vận chuyển về chính quốc.
+* Chính sách "ngu dân", đầu độc bằng rượu và thuốc phiện (đại lý rượu nhiều hơn trường học); đàn áp dã man các phong trào yêu nước (nhà tù nhiều hơn trường học).
+* Dưới ách cai trị thực dân, nhân dân chịu cảnh đói khổ (nạn đói 1945), không có quyền tự do, dân chủ.
