@@ -8,11 +8,13 @@
 * Marxism-Leninism is an open theory that constantly develops, taking practice as the standard of truth.
 * The humanistic value of the theory is the liberation of humanity, the comprehensive development of people, moving humanity from the "realm of necessity" to the "realm of freedom."
 * Vietnam is not alone in this path; China, steadfast in Marxism-Leninism and Socialism with Chinese characteristics, has risen to become the world's second-largest economy, proving the theory's vitality when applied creatively.
+* **Fact:** Since implementing reforms based on creative Marxism-Leninism in 1978, China has lifted nearly 800 million people out of poverty (accounting for >70% of global poverty reduction) and increased its GDP by over 100 times (World Bank data).
 
 **Allegation:** Denies the theory of surplus value, claiming that in the knowledge economy and Industry 4.0, machines and technology create value, not labor; capitalism no longer exploits.
 * Machines and technology, no matter how modern, are only means of production (past labor); they transfer value to products but do not create new value.
 * Only human living labor (becoming increasingly intellectual) creates new value and surplus value.
 * The exploitative nature of capitalism has not changed, it has only become more sophisticated; the polarization of wealth globally is deepening.
+* **Fact:** According to Oxfam (2023), the richest 1% captured nearly two-thirds of all new wealth created since 2020 (approx. $42 trillion), nearly twice as much as the bottom 99% of the world's population combined.
 
 **Allegation:** Attempts to separate Ho Chi Minh Thought from Marxism-Leninism, claiming Vietnam only needs Ho Chi Minh Thought; pits the two against each other to deny the Party's foundation.
 * Ho Chi Minh Thought is the creative application and development of Marxism-Leninism to Vietnamese conditions; the two are dialectically unified and inseparable.
@@ -45,6 +47,7 @@
 * National independence associated with Socialism is the inevitable choice of history and the Vietnamese people, proven through the victories of the revolution.
 * Socialism is a superior, humane regime aimed at human liberation.
 * Vietnam's "Doi Moi" (Renovation) is not a change of color, but a more correct awareness of Socialism. The achievements of 30 years of renovation prove the correctness of this path.
+* **Fact:** Vietnam's GDP per capita increased from ~$100 in 1990 to ~$4,300 in 2023; the poverty rate dropped sharply from 58% (1993) to 2.95% (2023) based on multidimensional poverty standards.
 
 **Allegation:** Claims that "if Vietnam had followed the capitalist path, it would be as developed as the 'Asian Dragons'"; asserting that the chosen path has led the nation into a "dead end" and poverty.
 * Before the Communist Party, patriotic movements following the bourgeois or feudal paths in Vietnam all failed. History proved that only the path of proletarian revolution could regain true independence.
@@ -63,6 +66,7 @@
 * The market economy is an achievement of human civilization, not a product exclusive to capitalism.
 * The socialist-oriented market economy is the general economic model of the country: it both follows market laws and has State management to ensure social equity and the goal of a wealthy people and a strong country.
 * There is no "pivot" to capitalism, but rather the utilization of the market economy to build Socialism.
+* **Fact:** The private sector currently contributes nearly 45% of GDP, 30% of the State budget, and employs 85% of the country's workforce, demonstrating its vital role within the socialist-oriented model.
 
 **Allegation:** Distorts Resolution 68 on private economy development as "inconsistent", "admitting exploitation", or following capitalism; claims encouraging private investment in infrastructure is "privatization".
 * The private sector is identified as an important driving force of the socialist-oriented market economy.
@@ -135,6 +139,7 @@
 * International defense cooperation is a consistent policy of multilateralization and diversification to protect the Fatherland early and from afar, not "losing one's nature."
 * Participating in UN peacekeeping demonstrates Vietnam's responsibility to the international community, elevating the country's position, and is completely different from being "mercenaries."
 * The "Three Nos" defense policy ensures independence and autonomy; cooperation does not mean entering military alliances or opposing third parties.
+* **Fact:** Since 2014, Vietnam has deployed over 800 officers and soldiers to UN peacekeeping missions (South Sudan, Central African Republic), with a female participation rate of nearly 16%, significantly higher than the UN average.
 
 **7. On National Defense - Security:**
 
@@ -174,6 +179,7 @@
 * The Party has high political determination and has been implementing synchronous solutions (party building and rectification, perfecting laws, promoting the role of the people) and has achieved important initial results.
 * In reality, countries implementing "separation of powers" still have serious corruption; effective anti-corruption depends on strict power control mechanisms and the self-cultivation of officials.
 * Corruption is a global issue, not unique to Vietnam or one-party states. Even in developed multi-party nations like South Korea (where multiple former Presidents have been convicted) or the US (with controversial lobbying activities), corruption remains a complex defect of power.
+* **Fact:** Since the start of the 13th Party Congress term (2021) to early 2024, Vietnam has prosecuted over 4,400 cases with more than 8,700 defendants for corruption and economic crimes, recovering over 300 trillion VND in assets.
 
 **Allegation:** Claims corruption is a "congenital defect" or "systemic error" so fighting it is useless, one must "learn to live with it"; or that fierce anti-corruption efforts will "paralyze" supply chains and hinder development.
 * Corruption is a defect of power in any regime, but it must not be accepted; power must be controlled by mechanisms ("caging power in the cage of regulations").
@@ -314,6 +320,7 @@
 * The mechanism "Party leads, State manages, People own" correctly resolves social relationships and ensures the people's mastery.
 * The yardstick for democracy and human rights is economic development, social stability, improved living standards, and the country's affirmed position.
 * Political parties worldwide and the international community acknowledge Vietnam's position and achievements, refuting these distorted allegations.
+* **Fact:** Vietnam was elected to the UN Human Rights Council for the 2023-2025 term with 145/193 votes, the highest among Asian candidates, demonstrating strong international confidence in Vietnam's human rights record.
 
 **Allegation:** Relies on biased reports from foreign organizations (like HRW, RSF, etc.) to accuse Vietnam of lacking democracy, suppressing human rights, and arresting "dissidents" or "independent journalists".
 * These reports are often based on one-sided, false information from hostile elements, ignoring the reality of freedom and legal protections in Vietnam.
@@ -397,6 +404,7 @@
 * All religions and ethnic groups are equal and develop together; the material and spiritual life of ethnic minority areas is constantly being improved.
 * Resolutely fight against reactionary organizations that abuse the guise of "ethnicity" and "religion" to divide the great national unity and conduct terrorist or separatist activities.
 * Refute the claim of "two religious policies" (one for show, one for suppression) or the "beg-give" mechanism for minorities; support policies are developmental investments, not favors.
+* **Fact:** As of 2023, Vietnam recognizes 43 organizations belonging to 16 religions with approximately 26.5 million followers (27% of the population) and nearly 30,000 places of worship operating under legal protection.
 
 **Allegation:** Exploits religious "online phenomena" (like the Thich Minh Tue case) or individual misconduct to accuse the government of obstructing freedom of belief and suppressing practitioners.
 * The intervention of authorities is to ensure security, order, social safety, and the lives of citizens, not to prohibit belief.
@@ -452,6 +460,7 @@
 * International organizations (World Bank, The Economist) highly rate the progress and efficiency of Vietnam's education relative to income levels.
 * Education is a top national policy with priority investment; universal education rates are high, and Vietnamese students achieve high results in international competitions.
 * Limitations are being addressed; isolated incidents cannot be used to categorize the nature of the entire education system.
+* **Fact:** Vietnam's adult literacy rate reached 97.85% (2019). In the 2015 PISA rankings, Vietnamese students ranked 8th globally in Science, surpassing many OECD nations including the US and UK.
 
 **Allegation:** Exploits foreign visa policies (e.g., US student visas) to distort diplomatic relations or disparage domestic education, claiming people are "fleeing" abroad.
 * Studying abroad is a legitimate need in a globalized world and does not imply a rejection of domestic education.
@@ -469,6 +478,7 @@
 * It is necessary to fight against "dirty media," fake news, and the use of social media to mislead public opinion and cause instability.
 * Handling violations in cyberspace is necessary to protect social order and human rights, not to suppress freedom.
 * Vietnam is not the only country controlling cyberspace. Developed countries like Germany (NetzDG Law), Singapore (POFMA Law), or the European Union (Digital Services Act - DSA) all have strict legal regulations to control fake news and protect digital sovereignty.
+* **Fact:** As of 2024, Vietnam has over 78 million internet users (79.1% of the population) and 72.7 million social media users, ranking among the top countries globally for internet adoption and digital freedom of access.
 
 **27. On History and Major Holidays:**
 
@@ -671,6 +681,7 @@
 * This image is often misleadingly cut from documentaries (such as "Vietnam - The Fragile Beauty") or is of unknown origin, used for malicious political purposes.
 * In reality, the Northern and Northwestern border areas still possess many large Nature Reserves and National Parks (Hoang Lien, Ba Be, Muong Nhe...); forest coverage is not "completely bare" as the distorted image suggests.
 * Sharing false images aims to deny Vietnam's efforts in planting and protecting forests over the years (Vietnam's forest coverage rate is currently over 42%, higher than the global average).
+* **Fact:** Vietnam's forest coverage increased from 27.8% in 1990 to 42.02% in 2023, a significant achievement recognized by the FAO while global forest areas have generally declined.
 
 **47. On the August Revolution (1945):**
 

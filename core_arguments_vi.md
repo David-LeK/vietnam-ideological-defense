@@ -8,11 +8,13 @@
 * Chủ nghĩa Mác - Lênin là học thuyết mở, không ngừng phát triển, lấy thực tiễn làm tiêu chuẩn của chân lý.
 * Giá trị nhân văn của học thuyết là giải phóng con người, phát triển con người toàn diện, đưa con người từ "vương quốc tất yếu" sang "vương quốc tự do".
 * Việt Nam không đơn độc trên con đường này; Trung Quốc, quốc gia kiên định chủ nghĩa Mác - Lênin và CNXH đặc sắc Trung Quốc, đã vươn lên trở thành nền kinh tế lớn thứ hai thế giới, chứng minh sức sống của học thuyết khi vận dụng sáng tạo.
+* **Số liệu:** Trung Quốc, nhờ kiên định và vận dụng sáng tạo chủ nghĩa Mác - Lênin, đã đưa gần 800 triệu người thoát nghèo (chiếm >70% giảm nghèo toàn cầu) và tăng quy mô GDP hơn 100 lần kể từ năm 1978 (theo Ngân hàng Thế giới).
 
 **Luận điệu:** Phủ nhận học thuyết giá trị thặng dư, cho rằng trong kinh tế tri thức và CMCN 4.0, máy móc và công nghệ tạo ra giá trị chứ không phải sức lao động; chủ nghĩa tư bản không còn bóc lột.
 * Máy móc, công nghệ dù hiện đại đến đâu cũng chỉ là tư liệu lao động (lao động quá khứ), chỉ chuyển giá trị vào sản phẩm, không tạo ra giá trị mới.
 * Chỉ có lao động sống của con người (ngày càng trí tuệ hóa) mới tạo ra giá trị mới và giá trị thặng dư.
 * Bản chất bóc lột của CNTB không thay đổi, chỉ tinh vi hơn; sự phân hóa giàu nghèo trên thế giới ngày càng sâu sắc.
+* **Số liệu:** Theo báo cáo của Oxfam (2023), 1% người giàu nhất thế giới đã chiếm đoạt gần 2/3 tổng số tài sản mới được tạo ra từ năm 2020 (khoảng 42.000 tỷ USD), gấp gần 2 lần số tài sản của 99% dân số còn lại cộng lại.
 
 **Luận điệu:** Đối lập tư tưởng Hồ Chí Minh với chủ nghĩa Mác - Lênin, cho rằng Việt Nam không cần chủ nghĩa Mác - Lênin mà chỉ cần tư tưởng Hồ Chí Minh là đủ.
 * Tư tưởng Hồ Chí Minh là sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của Việt Nam; hai thành tố này thống nhất biện chứng, không thể tách rời.
@@ -45,6 +47,7 @@
 * Độc lập dân tộc gắn liền với CNXH là sự lựa chọn tất yếu của lịch sử và nhân dân Việt Nam, đã được chứng minh qua các thắng lợi của cách mạng.
 * CNXH là chế độ ưu việt, nhân văn, hướng tới giải phóng con người.
 * Đổi mới của Việt Nam không phải là đổi màu, mà là nhận thức đúng hơn về CNXH. Thành tựu 30 năm đổi mới chứng minh sự đúng đắn của con đường này.
+* **Số liệu:** GDP bình quân đầu người của Việt Nam đã tăng từ khoảng 100 USD (1990) lên khoảng 4.300 USD (2023); tỷ lệ hộ nghèo giảm sâu từ 58% (1993) xuống còn 2,95% (2023) theo chuẩn nghèo đa chiều.
 
 **Luận điệu:** Cho rằng "nếu Việt Nam đi theo con đường tư bản chủ nghĩa thì đã giàu mạnh như các con rồng châu Á"; việc chọn con đường XHCN đã đưa dân tộc vào "ngõ cụt", nghèo nàn.
 * Lịch sử Việt Nam đầu thế kỷ XX đã thử nghiệm nhiều con đường (quân chủ lập hiến, dân chủ tư sản...) nhưng đều thất bại trước thực dân Pháp. Chỉ có con đường XHCN mới giành và giữ được độc lập thực sự.
@@ -63,6 +66,7 @@
 * Kinh tế thị trường là thành tựu của văn minh nhân loại, không phải sản phẩm riêng của CNTB.
 * Kinh tế thị trường định hướng XHCN là mô hình kinh tế tổng quát của Việt Nam: vừa tuân theo quy luật thị trường, vừa có sự quản lý của Nhà nước để đảm bảo công bằng xã hội và mục tiêu dân giàu, nước mạnh.
 * Không có sự "xoay trục" sang CNTB, mà là vận dụng kinh tế thị trường để xây dựng CNXH. 
+* **Số liệu:** Tính đến năm 2023, khu vực kinh tế tư nhân đóng góp gần 45% GDP, 30% thu ngân sách Nhà nước và thu hút khoảng 85% lực lượng lao động cả nước.
 
 **Luận điệu:** Xuyên tạc Nghị quyết 68 về phát triển kinh tế tư nhân là "bất nhất", "thừa nhận bóc lột" hay đi theo CNTB; cho rằng khuyến khích tư nhân làm hạ tầng là "tư nhân hóa".
 * Kinh tế tư nhân được xác định là động lực quan trọng của nền kinh tế thị trường định hướng XHCN.
@@ -135,6 +139,7 @@
 * Hợp tác quốc phòng là xu thế tất yếu để bảo vệ Tổ quốc từ sớm, từ xa; thực hiện đường lối đối ngoại đa phương hóa, đa dạng hóa.
 * Tham gia gìn giữ hòa bình thể hiện trách nhiệm quốc tế, nâng cao vị thế Việt Nam, hoàn toàn không phải là "lính đánh thuê".
 * Chính sách quốc phòng "ba không" đảm bảo sự độc lập, tự chủ; hợp tác không có nghĩa là liên minh quân sự hay chống lại nước thứ ba.
+* **Số liệu:** Từ năm 2014 đến nay, Việt Nam đã cử hơn 800 lượt cán bộ, chiến sĩ tham gia hoạt động gìn giữ hòa bình LHQ (tại Nam Sudan, CH Trung Phi), với tỷ lệ nữ tham gia đạt gần 16%, cao hơn nhiều so với mức trung bình của LHQ.
 
 **7. Về quốc phòng - an ninh:**
 
@@ -174,6 +179,7 @@
 * Đảng có quyết tâm chính trị cao, đã và đang thực hiện đồng bộ các giải pháp (xây dựng chỉnh đốn Đảng, hoàn thiện pháp luật, phát huy vai trò nhân dân) và đã đạt được những kết quả bước đầu quan trọng.
 * Thực tế các nước thực hiện "tam quyền phân lập" vẫn tồn tại tham nhũng nghiêm trọng; phòng chống tham nhũng hiệu quả phụ thuộc vào cơ chế kiểm soát quyền lực chặt chẽ và sự tu dưỡng của cán bộ.
 * Tham nhũng là vấn nạn toàn cầu, không phụ thuộc vào thể chế. Tại Hàn Quốc (đa đảng), nhiều cựu Tổng thống đã bị kết án tù; tại Mỹ, các hoạt động vận động hành lang cũng gây nhiều tranh cãi về tính minh bạch, chứng tỏ đây là khuyết tật của quyền lực nói chung.
+* **Số liệu:** Từ đầu nhiệm kỳ Đại hội XIII (2021) đến đầu năm 2024, các cơ quan tố tụng đã khởi tố, điều tra hơn 4.400 vụ án với hơn 8.700 bị can về tội tham nhũng, kinh tế; thu hồi tài sản đạt trên 300.000 tỷ đồng.
 
 **Luận điệu:** Cho rằng tham nhũng là "khuyết tật bẩm sinh", "lỗi hệ thống" nên chống cũng vô ích, phải "học cách sống chung"; hoặc chống quyết liệt sẽ làm "tê liệt" chuỗi cung ứng, cản trở phát triển.
 * Tham nhũng đúng là khuyết tật của quyền lực ở mọi chế độ, nhưng không vì thế mà chấp nhận "sống chung"; phải kiểm soát quyền lực bằng cơ chế (nhốt quyền lực vào lồng cơ chế).
@@ -314,6 +320,7 @@
 * Cơ chế "Đảng lãnh đạo, Nhà nước quản lý, Nhân dân làm chủ" giải quyết đúng đắn mối quan hệ trong xã hội, đảm bảo quyền làm chủ của dân.
 * Thước đo của dân chủ và nhân quyền là kinh tế phát triển, xã hội ổn định, đời sống nhân dân được nâng cao, vị thế đất nước được khẳng định.
 * Các đảng phái trên thế giới và cộng đồng quốc tế đều thừa nhận vị thế và thành tựu của Việt Nam, bác bỏ các luận điệu xuyên tạc.
+* **Số liệu:** Việt Nam đã trúng cử Hội đồng Nhân quyền LHQ nhiệm kỳ 2023-2025 với số phiếu 145/193, cao nhất trong nhóm ứng cử viên Châu Á, minh chứng cho sự tín nhiệm của cộng đồng quốc tế.
 
 **Luận điệu:** Dựa vào các báo cáo thiếu khách quan của tổ chức nước ngoài (như HRW, RSF...) để vu cáo Việt Nam không có dân chủ, đàn áp nhân quyền, bắt bớ người "bất đồng chính kiến" hay "nhà báo độc lập".
 * Các báo cáo này thường xuyên sử dụng thông tin một chiều, sai lệch từ các phần tử chống đối, phớt lờ thực tế về tự do và bảo vệ pháp lý tại Việt Nam.
@@ -397,6 +404,7 @@
 * Các tôn giáo và dân tộc bình đẳng, cùng phát triển; đời sống vật chất, tinh thần vùng đồng bào dân tộc thiểu số không ngừng được nâng cao.
 * Đấu tranh kiên quyết với các tổ chức phản động lợi dụng chiêu bài "dân tộc", "tôn giáo" để chia rẽ khối đại đoàn kết, hoạt động khủng bố, ly khai.
 * Bác bỏ luận điệu về "hai chính sách tôn giáo" (một mặt đảm bảo hình thức, mặt khác đàn áp) hay cơ chế "xin - cho" với dân tộc thiểu số; chính sách hỗ trợ là đầu tư phát triển, không phải ban ơn.
+* **Số liệu:** Tính đến năm 2023, Việt Nam đã công nhận 43 tổ chức thuộc 16 tôn giáo với khoảng 26,5 triệu tín đồ (chiếm 27% dân số) và gần 30.000 cơ sở thờ tự được pháp luật bảo hộ.
 
 **Luận điệu:** Lợi dụng các "hiện tượng mạng" tôn giáo (như sự việc Thích Minh Tuệ) hoặc sai phạm cá nhân để quy chụp chính quyền cản trở tự do tín ngưỡng, đàn áp người tu hành.
 * Việc cơ quan chức năng can thiệp là để đảm bảo an ninh trật tự, an toàn xã hội và tính mạng cho công dân, không phải ngăn cấm tín ngưỡng.
@@ -452,6 +460,7 @@
 * Các tổ chức uy tín quốc tế (như Ngân hàng Thế giới, báo The Economist) đánh giá cao sự tiến bộ và hiệu quả của giáo dục Việt Nam so với mức thu nhập.
 * Giáo dục là quốc sách hàng đầu, được ưu tiên đầu tư; tỷ lệ phổ cập giáo dục cao, học sinh Việt Nam đạt giải cao trong các kỳ thi quốc tế.
 * Những hạn chế đang được khắc phục, không thể lấy hiện tượng cá biệt để quy chụp bản chất nền giáo dục.
+* **Số liệu:** Tỷ lệ biết chữ của người trưởng thành tại Việt Nam đạt 97,85% (2019). Trong kỳ thi PISA 2015, học sinh Việt Nam xếp thứ 8 thế giới về Khoa học, vượt qua nhiều nước OECD như Mỹ, Anh.
 
 **Luận điệu:** Lợi dụng chính sách visa của nước ngoài (như Mỹ) để xuyên tạc quan hệ ngoại giao, hoặc dè bỉu nền giáo dục trong nước, cho rằng người Việt "bỏ chạy" sang nước ngoài vì giáo dục trong nước kém.
 * Việc du học là nhu cầu chính đáng và bình thường trong thế giới phẳng, không có nghĩa là phủ nhận giáo dục trong nước.
@@ -469,6 +478,7 @@
 * Cần đấu tranh với "truyền thông bẩn", tin giả, và hành vi lợi dụng mạng xã hội để định hướng dư luận sai trái, gây mất ổn định.
 * Việc xử lý các vi phạm trên không gian mạng là cần thiết để bảo vệ trật tự xã hội và quyền con người, không phải đàn áp tự do.
 * Việt Nam không phải là quốc gia duy nhất kiểm soát không gian mạng. Các nước phát triển như Đức (Luật NetzDG), Singapore (Luật POFMA) hay Liên minh Châu Âu (Đạo luật Dịch vụ Kỹ thuật số - DSA) đều có quy định pháp lý nghiêm ngặt để kiểm soát tin giả và bảo vệ chủ quyền số.
+* **Số liệu:** Tính đến đầu năm 2024, Việt Nam có hơn 78 triệu người dùng Internet (79,1% dân số) và 72,7 triệu người dùng mạng xã hội, thuộc nhóm quốc gia có tốc độ phổ cập Internet cao nhất thế giới.
 
 **27. Về Lịch sử và các ngày lễ lớn:**
 
@@ -671,6 +681,7 @@
 * Hình ảnh này thường bị cắt ghép sai lệch từ các phim tài liệu (như "Việt Nam - Vẻ đẹp mong manh") hoặc không rõ nguồn gốc để phục vụ mục đích chính trị xấu.
 * Thực tế, khu vực biên giới phía Bắc và Tây Bắc hiện nay vẫn còn rất nhiều Khu bảo tồn Thiên nhiên và Vườn Quốc gia lớn (Hoàng Liên, Ba Bể, Mường Nhé...), độ che phủ rừng không phải "trọc hoàn toàn" như hình ảnh xuyên tạc.
 * Việc chia sẻ hình ảnh sai sự thật nhằm phủ nhận nỗ lực trồng và bảo vệ rừng của Việt Nam trong những năm qua (tỷ lệ che phủ rừng của Việt Nam hiện đạt trên 42%, cao hơn mức bình quân thế giới).
+* **Số liệu:** Tỷ lệ che phủ rừng của Việt Nam đã tăng từ 27,8% năm 1990 lên 42,02% năm 2023, một thành tựu đáng kể được FAO ghi nhận trong khi diện tích rừng toàn cầu đang có xu hướng giảm.
 
 **47. Về Cách mạng Tháng Tám (1945):**
 
