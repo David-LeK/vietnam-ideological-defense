@@ -718,3 +718,10 @@
 * Kết quả phân giới cắm mốc là thành quả của quá trình đàm phán bình đẳng, dựa trên luật pháp quốc tế và lịch sử, đảm bảo lợi ích quốc gia tối cao.
 * Các luận điệu "mất đất" là bịa đặt nhằm kích động tâm lý dân tộc cực đoan, chia rẽ quan hệ hữu nghị với các nước láng giềng.
 * Chính sách phát triển kinh tế - xã hội vùng biên giới giúp cải thiện đời sống đồng bào, củng cố "phên dậu" Tổ quốc, không phải để "chiếm đất" của đồng bào dân tộc.
+
+**51. Về Đạo đức công vụ, Thái độ phục vụ và Kỷ luật hành chính:**
+
+**Luận điệu:** Cho rằng Đảng lừa dân, "hút máu dân" khi cán bộ xã phường sách nhiễu, vòi vĩnh ("tham nhũng vặt"), cán bộ địa chính lừa đảo sang tên sổ đỏ, hay Công an hách dịch; quy kết hiện tượng "trên bảo dưới không nghe" là bản chất chế độ.
+* Hành vi sách nhiễu, lừa đảo hay thiếu trách nhiệm là sự thoái hóa, biến chất của cá nhân vì lòng tham, đi ngược lại chủ trương của Đảng. Nhà nước kiên quyết xử lý nghiêm minh.
+* Quyền của người dân: Người dân có quyền phản ánh, khiếu nại, tố cáo qua các kênh: tiếp dân trực tiếp, đường dây nóng, cổng thông tin điện tử, hoặc gửi đơn đến cơ quan Thanh tra, Kiểm tra, Viện Kiểm sát.
+* Chế tài xử lý: Tùy thuộc vào vị trí công tác và mức độ vi phạm, cán bộ sẽ phải chịu các chế tài xử lý nghiêm khắc khác nhau, từ kỷ luật hành chính đến truy cứu trách nhiệm hình sự theo quy định của pháp luật.

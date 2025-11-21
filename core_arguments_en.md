@@ -718,3 +718,10 @@
 * Border demarcation results are the fruit of equal negotiation processes based on international law and history, ensuring supreme national interests.
 * Claims of "lost land" are fabrications aimed at inciting extreme nationalist sentiments and dividing friendly relations with neighbors.
 * Socio-economic development policies in border areas aim to improve the lives of ethnic minorities and strengthen the nation's "fence," not to "take land" from them.
+
+**51. On Public Service Ethics, Conduct, and Administrative Discipline:**
+
+**Allegation:** Claims that the government deceives and "sucks the blood" of the people because local officials harass citizens, demand bribes ("petty corruption"), or Police officers are imperious; cites land fraud by officials or "insubordination" to prove systemic failure.
+* Corruption, harassment, and insubordination are acts of individual degradation driven by greed, not the nature of the regime. The State resolutely handles these violations.
+* Citizen Recourse: Citizens have the right to reflect, complain, and denounce violations through direct meetings, hotlines, digital public service portals, or Inspectorates and the Procuracy.
+* Strict Sanctions: Depending on the specific role and severity of the violation, officials will face different strict sanctions ranging from administrative discipline to criminal prosecution in accordance with the law.
