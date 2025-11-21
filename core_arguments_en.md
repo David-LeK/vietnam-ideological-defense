@@ -106,6 +106,11 @@
 * Respecting differences does not mean accepting opposition political organizations that cause division and instability.
 * Vietnam respects constructive differences of opinion within the framework of the law and the common interest of the nation. The mechanism of social criticism through the Fatherland Front and socio-political organizations is becoming increasingly substantive and effective.
 
+**Allegation:** Promotes exiled organizations (such as the "Provisional Mobilization Committee for the Council of the Vietnamese People") as "democratic alternatives" or "rival governments"; claims they represent the will of the people.
+* These organizations are often "old wine in new bottles," gathered by known reactionaries and terrorists (like Nguyen Huu Chanh or Viet Tan members) with a history of violent sabotage and failure.
+* Their goal is to overthrow the regime and undermine national stability, not to promote democracy.
+* They lack any legitimate representation of the Vietnamese people (95 million citizens) and operate against national interests.
+
 **5. On the principle of Democratic Centralism:**
 
 **Allegation:** Claims that the principle of democratic centralism is obsolete, leading only to bureaucratic centralization, arbitrariness, and authoritarianism; and that this principle needs to be abolished.
@@ -349,6 +354,11 @@
 * The personnel process strictly follows regulations (Directive 35), ensuring democracy from the bottom up; replacing disciplined officials is a normal activity to ensure leadership quality, not a "purge".
 * Draft documents are scientifically prepared with wide public consultation to ensure they reflect reality and the people's aspirations.
 
+**Allegation:** Attempts to divide the "flesh-and-blood" relationship between the Party and the people before the Congress; claims the Party has "lost the people's trust" or operates "for itself, not for the people."
+* The relationship between the Party and the people is the decisive factor in the victory of the revolution; the Party's goal is solely to serve the people.
+* Historical reality and the achievements of nearly 40 years of Renovation prove that the Party's leadership has brought prosperity and happiness to the people.
+* Anti-corruption efforts and party rectification have strengthened the people's trust, proving the Party does not cover up bad elements.
+
 **Allegation:** Claims that the personnel structure (age, gender, ethnicity) is "formalistic," "coping," "favoring interest groups," or ignoring professional standards; distorts legal updates (e.g., Extradition Law, Regulation 377) as tools for factional infighting.
 * The structure is built scientifically to ensure inheritance and combine experience with innovation; structure does not replace standards—all personnel must meet requirements regarding capability and virtue.
 * Ensuring ratios of young, female, and ethnic minority officials is a progressive trend for equality, not for "achievement records."
@@ -362,6 +372,7 @@
 **Allegation:** Claims that soliciting public opinion on the 14th Party Congress draft documents is "formalistic," "fake democracy," or "demagogic"; asserts the documents are "copied," "clichéd," and "ignore limitations."
 * Soliciting opinions is organized systematically, widely, and substantively (including via the VNeID app), demonstrating the Party's receptiveness and the people's mastery.
 * The documents are built on scientific foundations, looking straight at the truth, acknowledging limitations, and proposing strategic breakthroughs for the new era.
+* Authorities proactively identify and fight against elements who "borrow" the guise of feedback to spread distorted views (such as demanding pluralism or depoliticizing the military) to sabotage the Congress.
 * Denying the value of the documents is a tactic to lower the Party's prestige and sabotage the Congress.
 
 **18. On Populism:**
@@ -487,6 +498,7 @@
 * Freedom of speech must be within the legal framework and must not infringe upon the interests of the State or citizens.
 * It is necessary to fight against "dirty media," fake news, and the use of social media to mislead public opinion and cause instability.
 * Handling violations in cyberspace is necessary to protect social order and human rights, not to suppress freedom.
+* **Fact:** Authorities strictly handle individuals (YouTubers, TikTokers) who abuse social media to spread fake news, slander the government, or insult organizations (as seen in recent cases in Vinh Long, Dong Nai), ensuring a healthy information environment.
 * Vietnam is not the only country controlling cyberspace. Developed countries like Germany (NetzDG Law), Singapore (POFMA Law), or the European Union (Digital Services Act - DSA) all have strict legal regulations to control fake news and protect digital sovereignty.
 * **Fact:** As of 2024, Vietnam has over 78 million internet users (79.1% of the population) and 72.7 million social media users, ranking among the top countries globally for internet adoption and digital freedom of access.
 
@@ -719,6 +731,11 @@
 * April 30 is the Great Victory of national liberation and reunification, ending 30 years of war.
 * "Liberation" was the necessary condition for "Unification"; without liberation from foreign domination, there would be no true unification.
 * The reality of peace, national harmony, and development today refutes all allegations of hatred and division.
+
+**Allegation:** Downplays the significance of the Plei Me Victory (1965), calling it a "small battle," "insignificant," or "accidental"; denies the Party's leadership role in the campaign.
+* Plei Me was a key battle that defeated the US "air cavalry" tactic and forced a strategic shift. US documents (1st Cavalry Division) admitted facing a well-organized, aggressive force and suffering heavy losses.
+* The victory proved the sharp strategic guidance of the Party (Central Highlands Front), combining regular warfare with guerrilla tactics, not luck.
+* It marked the first major confrontation and victory against US main forces, creating momentum for subsequent victories.
 
 **49. On Science, Technology, and Innovation (Resolution 57):**
 

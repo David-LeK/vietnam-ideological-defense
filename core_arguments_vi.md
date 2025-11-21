@@ -106,6 +106,11 @@
 * Tôn trọng sự khác biệt không đồng nghĩa với việc chấp nhận các tổ chức chính trị đối lập gây chia rẽ, bất ổn.
 * Việt Nam tôn trọng các ý kiến khác biệt mang tính xây dựng, trong khuôn khổ pháp luật và lợi ích chung của dân tộc. Cơ chế phản biện xã hội qua Mặt trận Tổ quốc và các đoàn thể chính trị - xã hội ngày càng thực chất và hiệu quả.
 
+**Luận điệu:** Cổ súy cho các tổ chức lưu vong (như "Ủy ban vận động lâm thời Hội đồng quốc dân Việt Nam") là "chính thể đối lập" hay "đại diện dân chủ"; cho rằng chúng đại diện cho nguyện vọng nhân dân.
+* Các tổ chức này thực chất là "bình mới rượu cũ", tập hợp các phần tử khủng bố, phản động (như Nguyễn Hữu Chánh, thành viên Việt Tân) với lịch sử chống phá bạo lực và thất bại.
+* Mục tiêu của chúng là lật đổ chế độ, gây bất ổn an ninh quốc gia chứ không phải thúc đẩy dân chủ.
+* Chúng hoàn toàn không có tính đại diện cho nhân dân Việt Nam (95 triệu dân) và đi ngược lại lợi ích, xu thế phát triển của đất nước.
+
 **5. Về nguyên tắc tập trung dân chủ:**
 
 **Luận điệu:** Cho rằng nguyên tắc tập trung dân chủ đã lỗi thời, chỉ dẫn đến tập trung quan liêu, độc đoán, chuyên quyền; cần xóa bỏ nguyên tắc này.
@@ -349,6 +354,11 @@
 * Quy trình nhân sự tuân thủ nghiêm ngặt quy định (Chỉ thị 35), đảm bảo dân chủ từ dưới lên; việc thay thế cán bộ bị kỷ luật là hoạt động bình thường để đảm bảo chất lượng lãnh đạo, không phải là "thanh trừng".
 * Văn kiện được chuẩn bị công phu, khoa học, lấy ý kiến rộng rãi của nhân dân để đảm bảo tính thực tiễn và khả thi.
 
+**Luận điệu:** Kích động chia rẽ mối quan hệ máu thịt giữa Đảng và nhân dân trước thềm Đại hội; rêu rao "Đảng mất niềm tin", "hoạt động vì lợi ích riêng".
+* Mối quan hệ gắn bó mật thiết giữa Đảng và nhân dân là nhân tố quyết định mọi thắng lợi; mục tiêu của Đảng là phục vụ nhân dân.
+* Thực tiễn lịch sử và thành tựu gần 40 năm Đổi mới chứng minh sự lãnh đạo của Đảng đã mang lại ấm no, hạnh phúc cho nhân dân.
+* Công cuộc phòng chống tham nhũng, chỉnh đốn Đảng đã và đang củng cố niềm tin của nhân dân, chứng minh Đảng không bao che cái xấu.
+
 **Luận điệu:** Xuyên tạc về cơ cấu nhân sự (độ tuổi, giới tính, dân tộc) là "hình thức", "đối phó", "ưu ái nhóm lợi ích" hoặc xem nhẹ tiêu chuẩn chuyên môn; xuyên tạc các văn bản luật (Luật Dẫn độ, Quy định 377) là công cụ đấu đá phe nhóm.
 * Cơ cấu được xây dựng khoa học, đảm bảo tính kế thừa, kết hợp giữa kinh nghiệm và đổi mới; cơ cấu không thay thế tiêu chuẩn, mọi nhân sự đều phải đạt chuẩn về năng lực, phẩm chất.
 * Đảm bảo tỷ lệ cán bộ trẻ, nữ, dân tộc thiểu số là xu hướng tiến bộ, bình đẳng, không phải để "lấy thành tích".
@@ -362,6 +372,7 @@
 **Luận điệu:** Xuyên tạc việc lấy ý kiến nhân dân vào Dự thảo Văn kiện Đại hội XIV là "hình thức", "dân chủ giả hiệu", "mị dân"; cho rằng văn kiện "sao chép", "sáo rỗng", không nhìn nhận hạn chế.
 * Việc lấy ý kiến được tổ chức bài bản, rộng rãi, thực chất (bao gồm qua ứng dụng VNeID), thể hiện sự cầu thị của Đảng và quyền làm chủ của nhân dân.
 * Văn kiện được xây dựng trên cơ sở khoa học, nhìn thẳng vào sự thật, thừa nhận hạn chế và đề ra các đột phá chiến lược cho kỷ nguyên mới.
+* Cơ quan chức năng chủ động nhận diện, đấu tranh với các đối tượng mượn danh "góp ý" để cài cắm quan điểm sai trái (như đòi đa nguyên, phi chính trị hóa lực lượng vũ trang) nhằm chống phá Đại hội.
 * Phủ nhận giá trị văn kiện là thủ đoạn nhằm hạ thấp uy tín của Đảng và phá hoại Đại hội.
 
 **18. Về Chủ nghĩa dân túy:**
@@ -487,6 +498,7 @@
 * Tự do ngôn luận phải trong khuôn khổ pháp luật, không được xâm phạm lợi ích Nhà nước và công dân.
 * Cần đấu tranh với "truyền thông bẩn", tin giả, và hành vi lợi dụng mạng xã hội để định hướng dư luận sai trái, gây mất ổn định.
 * Việc xử lý các vi phạm trên không gian mạng là cần thiết để bảo vệ trật tự xã hội và quyền con người, không phải đàn áp tự do.
+* **Thực tế:** Các trường hợp bị xử lý (như các Tiktoker, Facebooker tại Vĩnh Long, Đồng Nai) đều do hành vi vi phạm pháp luật, đăng tải thông tin sai sự thật, xúc phạm uy tín tổ chức/cá nhân, không phải vì chính kiến.
 * Việt Nam không phải là quốc gia duy nhất kiểm soát không gian mạng. Các nước phát triển như Đức (Luật NetzDG), Singapore (Luật POFMA) hay Liên minh Châu Âu (Đạo luật Dịch vụ Kỹ thuật số - DSA) đều có quy định pháp lý nghiêm ngặt để kiểm soát tin giả và bảo vệ chủ quyền số.
 * **Số liệu:** Tính đến đầu năm 2024, Việt Nam có hơn 78 triệu người dùng Internet (79,1% dân số) và 72,7 triệu người dùng mạng xã hội, thuộc nhóm quốc gia có tốc độ phổ cập Internet cao nhất thế giới.
 
@@ -719,6 +731,11 @@
 * Ngày 30/4 là Đại thắng giải phóng dân tộc, thống nhất đất nước, chấm dứt 30 năm chiến tranh.
 * "Giải phóng" là điều kiện cần của "thống nhất"; không có giải phóng khỏi ách thống trị ngoại bang thì không có thống nhất thực sự.
 * Thực tế hòa bình, hòa hợp dân tộc và phát triển hôm nay bác bỏ mọi luận điệu hận thù, chia rẽ.
+
+**Luận điệu:** Hạ thấp ý nghĩa Chiến thắng Plei Me (1965), cho là "trận đánh nhỏ", "ngẫu nhiên", "ít thương vong"; phủ nhận vai trò lãnh đạo của Đảng.
+* Đây là trận đánh then chốt đánh bại chiến thuật "trực thăng vận" (kỵ binh bay) của Mỹ, buộc Mỹ phải thay đổi chiến lược. Tài liệu Mỹ (Sư đoàn 1 Không kỵ) thừa nhận đối mặt lực lượng quy củ và chịu tổn thất nặng nề.
+* Chiến thắng khẳng định tư duy chiến lược sắc bén của Đảng (Mặt trận Tây Nguyên), kết hợp tác chiến chính quy và du kích, hoàn toàn không phải "ăn may".
+* Là mốc son đánh dấu sự thất bại đầu tiên của lực lượng chủ lực Mỹ, tạo đà cho các thắng lợi sau này.
 
 **49. Về Khoa học Công nghệ và Đổi mới sáng tạo (Nghị quyết 57):**
 
