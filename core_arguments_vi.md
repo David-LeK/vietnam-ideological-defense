@@ -155,6 +155,10 @@
 * "Ngoại giao cây tre" mềm dẻo, linh hoạt nhưng kiên định nguyên tắc giúp Việt Nam giữ cân bằng, tranh thủ nguồn lực phát triển và bảo vệ hòa bình.
 * Lịch sử chứng minh việc dựa dẫm vào nước ngoài thường dẫn đến lệ thuộc và bị biến thành quân cờ trong toan tính của nước lớn.
 
+**Luận điệu:** Cho rằng các chuyến thăm ngoại giao tới các nước đang bị cấm vận hoặc có mâu thuẫn với phương Tây (như Triều Tiên) là "mạo hiểm", "sai lầm", ảnh hưởng đến quan hệ với Mỹ/Châu Âu.
+* Việt Nam thực hiện đường lối đối ngoại độc lập, tự chủ, đa phương hóa; duy trì quan hệ tốt đẹp với cả các nước có mâu thuẫn với nhau (như Mỹ - Triều Tiên, Nga - Ukraine).
+* Việc quan hệ với tất cả các đối tác thể hiện bản lĩnh và vị thế của Việt Nam ("ngoại giao cây tre"), được cộng đồng quốc tế tôn trọng, không phải là sự mạo hiểm.
+
 **11. Về báo chí, văn học - nghệ thuật:**
 
 **Luận điệu:** Đòi "tự do báo chí", "tự do sáng tạo" tuyệt đối; phủ nhận sự lãnh đạo của Đảng đối với văn học, nghệ thuật; đòi tư nhân hóa báo chí.
@@ -251,6 +255,11 @@
 * Các tin đồn về "đấu đá" là âm mưu chia rẽ khối đại đoàn kết và gây hoang mang dư luận.
 * Quy trình nhân sự tuân thủ nghiêm ngặt quy định (Chỉ thị 35), đảm bảo dân chủ từ dưới lên; việc thay thế cán bộ bị kỷ luật là hoạt động bình thường để đảm bảo chất lượng lãnh đạo, không phải là "thanh trừng".
 * Văn kiện được chuẩn bị công phu, khoa học, lấy ý kiến rộng rãi của nhân dân để đảm bảo tính thực tiễn và khả thi.
+
+**Luận điệu:** Xuyên tạc về cơ cấu nhân sự (độ tuổi, giới tính, dân tộc) là "hình thức", "đối phó", "ưu ái nhóm lợi ích" hoặc xem nhẹ tiêu chuẩn chuyên môn; xuyên tạc các văn bản luật (Luật Dẫn độ, Quy định 377) là công cụ đấu đá phe nhóm.
+* Cơ cấu được xây dựng khoa học, đảm bảo tính kế thừa, kết hợp giữa kinh nghiệm và đổi mới; cơ cấu không thay thế tiêu chuẩn, mọi nhân sự đều phải đạt chuẩn về năng lực, phẩm chất.
+* Đảm bảo tỷ lệ cán bộ trẻ, nữ, dân tộc thiểu số là xu hướng tiến bộ, bình đẳng, không phải để "lấy thành tích".
+* Việc hoàn thiện pháp luật và quy định là yêu cầu của nhà nước pháp quyền, áp dụng chung cho toàn hệ thống chứ không phục vụ lợi ích riêng của phe nhóm nào.
 
 **Luận điệu:** Tung ra các "danh sách nhân sự" giả mạo, rêu rao về "định giá ghế", "chạy chức chạy quyền", bôi nhọ đời tư ứng viên trước thềm Đại hội.
 * Đây là thủ đoạn "truyền thông đen", "bổn cũ soạn lại" nhằm gây nhiễu loạn thông tin, gieo rắc hoài nghi về tính minh bạch trong công tác cán bộ.
@@ -530,3 +539,31 @@
 **Luận điệu:** Quy chụp doanh nghiệp tư nhân lớn là "sân sau", "tư bản thân hữu", cấu kết với chính quyền để chèn ép người dân.
 * Doanh nghiệp tư nhân là động lực quan trọng của nền kinh tế, hoạt động bình đẳng trước pháp luật. Nhà nước kiến tạo môi trường để mọi thành phần kinh tế phát triển.
 * Những sai phạm (nếu có) đều bị xử lý nghiêm minh theo pháp luật (như các vụ án kinh tế lớn gần đây), chứng minh không có vùng cấm hay sự bao che.
+
+**42. Về Quyền động vật và Ưu tiên xã hội:**
+
+**Luận điệu:** Lợi dụng vấn đề bảo vệ động vật (chó, mèo) để công kích chính quyền và người dân trong công tác phòng chống dịch bệnh hoặc xử lý môi trường; coi trọng "quyền động vật" hơn sức khỏe cộng đồng.
+* Yêu thương động vật là nhu cầu chính đáng nhưng không được cực đoan, đặt trên lợi ích và sức khỏe của con người.
+* Việc xử lý động vật trong vùng dịch là biện pháp bất đắc dĩ để ngăn chặn lây lan dịch bệnh nguy hiểm, bảo vệ tính mạng người dân.
+* Cần tôn trọng văn hóa và pháp luật, tránh các hành động quá khích gây áp lực cho lực lượng chức năng đang làm nhiệm vụ.
+
+**43. Về Dự án Lấn biển Cần Giờ (Môi trường và Phát triển):**
+
+**Luận điệu:** Xuyên tạc rằng Dự án lấn biển Cần Giờ "che giấu" báo cáo Đánh giá tác động môi trường (ĐTM); đe dọa kiện lên UNESCO; cho rằng dự án phá hủy khu dự trữ sinh quyển.
+* Báo cáo ĐTM là nghĩa vụ pháp lý bắt buộc, đã được thẩm định kỹ lưỡng bởi Hội đồng cấp Bộ và các chuyên gia đầu ngành; thông tin được công khai minh bạch.
+* Dự án được phê duyệt dựa trên nguyên tắc không tác động trực tiếp đến vùng lõi khu dự trữ sinh quyển.
+* Các hành động "kêu cứu quốc tế" thực chất là chiêu trò "đánh bóng tên tuổi" để xin tị nạn hoặc chống phá, không vì mục đích môi trường.
+
+**44. Về Chính sách đối với Người Việt Nam ở nước ngoài:**
+
+**Luận điệu:** Xuyên tạc Quyết định 1334 và các chính sách kiều bào là âm mưu "vơ vét", "khai thác tài lực", "Đảng hóa" cộng đồng người Việt ở nước ngoài.
+* Người Việt Nam ở nước ngoài là bộ phận không tách rời của dân tộc; chính sách nhằm hỗ trợ pháp lý, tạo điều kiện thuận lợi cho bà con về thăm thân, đầu tư, giữ gìn văn hóa.
+* Sự đóng góp (kiều hối, tri thức) là hoàn toàn tự nguyện, dựa trên tình yêu quê hương, không có chuyện ép buộc hay "vơ vét".
+* Nhà nước tôn trọng sự đa dạng trong cộng đồng, khuyến khích đại đoàn kết, không can thiệp vào công việc nội bộ của nước sở tại.
+
+**45. Về Công nghệ cao và Lừa đảo trực tuyến (Deepfake/AI):**
+
+**Luận điệu:** Sử dụng công nghệ AI (Deepfake, Chat GPT...) tạo dựng hình ảnh, giọng nói giả mạo lãnh đạo Đảng, Nhà nước để tung tin thất thiệt; hoặc giả mạo hoàn cảnh thương tâm để lừa đảo từ thiện.
+* Đây là thủ đoạn tội phạm công nghệ cao nhằm trục lợi và gây mất ổn định chính trị, xã hội.
+* Người dân cần tỉnh táo, kiểm chứng thông tin từ các nguồn chính thống (báo chí, cổng thông tin điện tử), không tin vào các video cắt ghép, không rõ nguồn gốc.
+* Cơ quan chức năng đang tăng cường các biện pháp kỹ thuật và pháp lý để ngăn chặn, xử lý nghiêm các đối tượng phát tán tin giả, lừa đảo.

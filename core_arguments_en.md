@@ -155,6 +155,10 @@
 * "Bamboo diplomacy"—flexible and adaptable but principled—helps Vietnam maintain balance, attract resources for development, and protect peace.
 * History proves that relying on foreign powers often leads to dependence and turning the country into a pawn in the calculations of major powers.
 
+**Allegation:** Claims that diplomatic visits to countries under sanctions or in conflict with the West (like North Korea) are "risky," "mistakes," or harm relations with the US/Europe.
+* Vietnam pursues a foreign policy of independence, self-reliance, and multilateralization, maintaining good relations with all partners regardless of their mutual conflicts (e.g., US-North Korea, Russia-Ukraine).
+* Relations with all partners demonstrate Vietnam's "bamboo diplomacy" stance and stature, respected by the international community, not a "risk."
+
 **11. On the Press, Literature, and Arts:**
 
 **Allegation:** Demands absolute "freedom of the press" and "freedom of creativity"; denies the Party's leadership over literature and arts; demands the privatization of the press.
@@ -251,6 +255,11 @@
 * Rumors of "infighting" are malicious fabrications aimed at causing division and instability.
 * The personnel process strictly follows regulations (Directive 35), ensuring democracy from the bottom up; replacing disciplined officials is a normal activity to ensure leadership quality, not a "purge".
 * Draft documents are scientifically prepared with wide public consultation to ensure they reflect reality and the people's aspirations.
+
+**Allegation:** Claims that the personnel structure (age, gender, ethnicity) is "formalistic," "coping," "favoring interest groups," or ignoring professional standards; distorts legal updates (e.g., Extradition Law, Regulation 377) as tools for factional infighting.
+* The structure is built scientifically to ensure inheritance and combine experience with innovation; structure does not replace standards—all personnel must meet requirements regarding capability and virtue.
+* Ensuring ratios of young, female, and ethnic minority officials is a progressive trend for equality, not for "achievement records."
+* Legislative and regulatory updates are to perfect the rule-of-law state and standardize Party building, applicable to all, not tools for specific factions.
 
 **Allegation:** Spreads fake "personnel lists," claims of "selling seats," "bribery," and smears the private lives of candidates before the Congress.
 * These are "black media" tactics and "old tricks" aimed at creating information chaos and sowing doubt about the transparency of personnel work.
@@ -530,3 +539,31 @@
 **Allegation:** Labels large private enterprises as "backyards" or "crony capitalism," colluding with the government to oppress the people.
 * Private enterprises are a crucial driver of the economy, operating equally under the law. The State creates an environment for all economic sectors to develop.
 * Violations (if any) are strictly handled according to the law (as seen in recent major economic cases), proving there are no "forbidden zones" or cover-ups.
+
+**42. On Animal Rights and Social Priorities:**
+
+**Allegation:** Exploits animal protection issues (dogs, cats) to attack the government and people during disease control or environmental handling; prioritizing "animal rights" over community health.
+* Loving animals is legitimate but should not be extreme or placed above human interests and health.
+* Handling animals in epidemic areas is a reluctant measure to prevent the spread of dangerous diseases and protect human lives.
+* Culture and laws must be respected, avoiding extremist actions that pressure functional forces performing their duties.
+
+**43. On the Can Gio Sea Encroachment Project (Environment and Development):**
+
+**Allegation:** Distorts that the Can Gio Sea Encroachment Project "hides" the Environmental Impact Assessment (EIA); threatens to sue to UNESCO; claims the project destroys the biosphere reserve.
+* The EIA report is a mandatory legal obligation, rigorously appraised by the Ministry-level Council and leading experts; information is transparently publicized.
+* The project was approved based on the principle of not directly impacting the core zone of the biosphere reserve.
+* Actions of "international appeals" are actually tactics to "polish profiles" for asylum seeking or sabotage, not for environmental purposes.
+
+**44. On Policies for Overseas Vietnamese (Diaspora):**
+
+**Allegation:** Distorts Decision 1334 and diaspora policies as a plot to "plunder," "exploit resources," or "politicize" the overseas Vietnamese community.
+* Overseas Vietnamese are an inseparable part of the nation; policies aim to provide legal support and favorable conditions for visiting, investing, and preserving culture.
+* Contributions (remittances, knowledge) are voluntary, based on love for the homeland, not coercion or "plunder."
+* The State respects diversity in the community, encourages great unity, and does not interfere in the internal affairs of host countries.
+
+**45. On High-Tech Scams and Deepfakes:**
+
+**Allegation:** Uses AI technology (Deepfake, ChatGPT, etc.) to create fake images and voices of Party/State leaders to spread disinformation; or fakes tragic situations for charity scams.
+* These are high-tech criminal tactics aimed at profiteering and causing political and social instability.
+* Citizens need to be alert, verify information from official sources (press, government portals), and not trust manipulated videos of unknown origin.
+* Authorities are strengthening technical and legal measures to prevent and strictly handle those spreading fake news and scams.
