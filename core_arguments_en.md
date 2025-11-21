@@ -597,11 +597,20 @@
 
 **32. On New Tax Policies and Electronic Invoices:**
 
-**Allegation:** Claims the State "abandons lump-sum tax, leaving people no way to survive," "maximizes collection," "imposes tax upon tax," or "forces households to become enterprises."
-* Switching from lump-sum tax to tax based on actual revenue (electronic invoices) ensures fairness and transparency among business entities.
-* Tax rates have not increased; this is an inevitable step in international integration, helping to avoid trade barriers and economic sanctions.
-* Preventing tax loss provides the State with resources to reinvest in infrastructure, healthcare, education, and social welfare.
-* Contributes to eliminating counterfeit and smuggled goods, protecting the interests of consumers and genuine businesses.
+**Allegation:** Distorts the abolition of lump-sum tax (from Jan 1, 2026) and the implementation of electronic invoices (Decree 70/2025/ND-CP) as "maximum collection," "blocking trade," or "depriving people of livelihoods."
+* Abolishing lump-sum tax (under Resolution 198/2025/QH15) is objectively necessary to ensure fairness between business households and enterprises, aligning with current non-cash payment infrastructure.
+* Decree 70/2025/ND-CP requiring electronic invoices from cash registers (effective June 1, 2025) promotes revenue transparency and consumer protection, not a "trick to extract money."
+* Lump-sum tax has revealed inadequacies and lack of transparency; switching to actual revenue declaration helps business households develop sustainably and access credit and state support more easily.
+* The claim that "merchants are closing due to taxes" is misleading; in reality, many closures are due to crackdowns on counterfeit/smuggled goods or inability to adapt to digital transformation.
+
+**Allegation:** Claims that the Special Consumption Tax Law (taxing sugary drinks, tobacco...) is "exploitation," "taxing even drinking water," and harming the poor.
+* The goal of the special consumption tax is to regulate consumption behavior and protect public health (combating obesity, diabetes, tobacco harm), especially for the younger generation.
+* This is a recommendation from international health organizations (WHO) and a global trend, not "heavy taxation" for revenue maximization.
+* Tax revenue is reinvested in healthcare, education, and social welfare, serving the long-term interests of the people.
+
+**Allegation:** Distorts the policy encouraging business households to convert into enterprises (Resolution 68-NQ/TW) as "coercion," "plucking feathers," or "only benefiting officials."
+* Converting to enterprises helps professionalize business operations, enhance competitiveness and integration, and allows access to support policies regarding taxes, credit, and land.
+* This is a necessary step to modernize the economy, creating development momentum rather than coercion, aligning with the digital economy trend.
 
 **33. On the "New Era - Era of the Nation's Rise":**
 

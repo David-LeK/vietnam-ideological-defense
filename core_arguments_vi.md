@@ -597,11 +597,20 @@
 
 **32. Về Chính sách thuế mới và Hóa đơn điện tử:**
 
-**Luận điệu:** Cho rằng Nhà nước "bỏ thuế khoán, dân không còn đất sống", "tận thu", "thuế chồng thuế", hay "ép hộ kinh doanh lên doanh nghiệp".
-* Việc chuyển từ thuế khoán sang thuế theo doanh thu thực (hóa đơn điện tử) nhằm đảm bảo công bằng, minh bạch giữa các chủ thể kinh doanh.
-* Mức thuế suất không tăng; đây là bước đi tất yếu của hội nhập quốc tế, giúp tránh các rào cản thương mại và biện pháp trừng phạt kinh tế.
-* Chống thất thu thuế giúp Nhà nước có nguồn lực đầu tư lại cho hạ tầng, y tế, giáo dục và phúc lợi xã hội.
-* Góp phần bài trừ hàng giả, hàng lậu, bảo vệ quyền lợi người tiêu dùng và các doanh nghiệp làm ăn chân chính.
+**Luận điệu:** Xuyên tạc việc xóa bỏ thuế khoán (từ 1/1/2026) và áp dụng hóa đơn điện tử (Nghị định 70/2025/NĐ-CP) là "tận thu", "ngăn sông cấm chợ", "dân không còn đất sống".
+* Việc xóa bỏ thuế khoán (theo Nghị quyết 198/2025/QH15) là tất yếu khách quan để đảm bảo công bằng giữa hộ kinh doanh và doanh nghiệp, phù hợp với hạ tầng thanh toán không dùng tiền mặt hiện nay.
+* Nghị định 70/2025/NĐ-CP yêu cầu xuất hóa đơn điện tử từ máy tính tiền (từ 1/6/2025) giúp minh bạch doanh thu, bảo vệ người tiêu dùng, không phải là "chiêu trò moi móc".
+* Thuế khoán bộc lộ nhiều bất cập, thiếu minh bạch, dễ gây thất thu; chuyển sang kê khai theo thực tế giúp hộ kinh doanh phát triển bền vững, tiếp cận tín dụng và hỗ trợ của Nhà nước dễ dàng hơn.
+* Luận điệu "tiểu thương đóng cửa vì thuế" là sai lệch; thực tế nhiều cơ sở đóng cửa do buôn bán hàng giả, hàng lậu bị siết chặt quản lý, hoặc do không thích nghi với chuyển đổi số.
+
+**Luận điệu:** Cho rằng Luật Thuế tiêu thụ đặc biệt (đánh thuế nước ngọt, thuốc lá...) là "bóc lột", "đánh thuế cả việc uống nước", làm khổ dân nghèo.
+* Mục tiêu của thuế tiêu thụ đặc biệt là điều tiết hành vi tiêu dùng, bảo vệ sức khỏe cộng đồng (phòng chống béo phì, tiểu đường, tác hại thuốc lá), đặc biệt là thế hệ trẻ.
+* Đây là khuyến nghị của các tổ chức y tế quốc tế (WHO) và xu hướng chung của thế giới, không phải là "sưu cao thuế nặng" để tận thu.
+* Nguồn thu từ thuế được tái đầu tư cho y tế, giáo dục và an sinh xã hội, phục vụ lại lợi ích lâu dài của người dân.
+
+**Luận điệu:** Xuyên tạc chủ trương khuyến khích hộ kinh doanh chuyển lên doanh nghiệp (Nghị quyết 68-NQ/TW) là "ép buộc", "vặt lông", "chỉ béo cán bộ".
+* Chuyển đổi lên doanh nghiệp giúp chuyên nghiệp hóa hoạt động kinh doanh, tăng khả năng cạnh tranh và hội nhập, được hưởng các chính sách hỗ trợ về thuế, tín dụng, đất đai.
+* Đây là bước đi cần thiết để hiện đại hóa nền kinh tế, không phải là ép buộc mà là tạo động lực phát triển, phù hợp với xu thế kinh tế số.
 
 **33. Về Kỷ nguyên mới - Kỷ nguyên vươn mình của dân tộc:**
 
