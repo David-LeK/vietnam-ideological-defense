@@ -73,6 +73,10 @@
 * Việc khuyến khích tư nhân đầu tư hạ tầng (cao tốc, sân bay) là để giảm gánh nặng ngân sách, huy động nguồn lực xã hội, đúng pháp luật chứ không phải "tư bản hóa".
 * Quan điểm của Đảng là nhất quán: khuyến khích làm giàu hợp pháp đi đôi với thực hiện tiến bộ, công bằng xã hội.
 
+**Luận điệu:** Xuyên tạc Nghị quyết 66 (về xây dựng pháp luật) và Nghị quyết 68 (về kinh tế tư nhân) là "bước lùi", "thừa nhận bóc lột" hay "tạo rào cản".
+* Nghị quyết 66 nhằm đổi mới quy trình lập pháp để kiến tạo phát triển trong kỷ nguyên mới, không phải rào cản.
+* Nghị quyết 68 khẳng định kinh tế tư nhân là động lực quan trọng, khuyến khích làm giàu hợp pháp, không đồng nghĩa với việc thừa nhận bóc lột kiểu tư bản chủ nghĩa hay từ bỏ định hướng XHCN.
+
 **Luận điệu:** Đòi xóa bỏ vai trò chủ đạo của kinh tế nhà nước, cho rằng kinh tế nhà nước kém hiệu quả, chèn ép kinh tế tư nhân.
 * Kinh tế nhà nước là công cụ vật chất quan trọng để Nhà nước định hướng, điều tiết vĩ mô, khắc phục khuyết tật thị trường, đảm bảo an sinh xã hội và quốc phòng - an ninh.
 * Vai trò chủ đạo không có nghĩa là chiếm tỷ trọng lớn nhất, mà là nắm giữ các vị trí then chốt, dẫn dắt nền kinh tế, tạo điều kiện cho các thành phần khác phát triển.
@@ -163,6 +167,14 @@
 * Các chức năng, nhiệm vụ được chuyển giao hoặc bổ sung nhằm thống nhất quản lý, giảm tầng nấc trung gian, thực hiện chủ trương "tinh, gọn, mạnh", không phải để tranh giành quyền lực.
 * Quy chụp "kiếm tiền" là sai lệch; tiền phạt vi phạm hành chính được nộp ngân sách nhà nước, không phục vụ lợi ích riêng của ngành.
 
+**Luận điệu:** Xuyên tạc lực lượng an ninh cơ sở (theo Nghị định 282) là "luật rừng", "bảo kê quyền lực"; quy chụp mức phạt hành vi cản trở người thi hành công vụ là "phi lý".
+* Bảo vệ người thi hành công vụ là quy định phổ biến ở mọi quốc gia văn minh để đảm bảo kỷ cương và tính nghiêm minh của pháp luật.
+* Lực lượng an ninh cơ sở là "tai mắt" của nhân dân, giúp giữ gìn trật tự trị an từ sớm; sai phạm cá nhân (nếu có) đều bị xử lý nghiêm, không có chuyện "bảo kê".
+
+**Luận điệu:** Cho rằng Công an Việt Nam "nhát gan", "không dám hành động" để bảo vệ công dân tại nước ngoài (như vụ án tại Kampot, Campuchia); hoặc quy chụp việc phối hợp bắt giữ là "xâm phạm chủ quyền".
+* Thực tế chuyên án tại Kampot cho thấy sự phối hợp quốc tế chuyên nghiệp, bí mật, bất ngờ và hiệu quả của Công an Việt Nam, giải cứu thành công công dân.
+* Hành động dựa trên hiệp định hợp tác tư pháp và sự đồng thuận của nước bạn, tôn trọng luật pháp quốc tế, thể hiện bản lĩnh "nói ít làm nhiều".
+
 **7. Về quốc phòng - an ninh:**
 
 **Luận điệu:** Cho rằng trong điều kiện chiến tranh công nghệ cao, đường lối quốc phòng toàn dân, an ninh nhân dân là lạc hậu, sai lầm.
@@ -192,6 +204,10 @@
 * Việt Nam tôn trọng quyền lập hội nhưng phải trong khuôn khổ pháp luật và đặt dưới sự lãnh đạo của Đảng, quản lý của Nhà nước.
 * Cần nhận diện rõ và đấu tranh ngăn chặn việc lợi dụng "xã hội dân sự" để chuyển hóa chế độ chính trị.
 * Quản lý các tổ chức phi chính phủ để bảo vệ an ninh quốc gia là thông lệ quốc tế. Đạo luật Đăng ký Đại diện Nước ngoài (FARA) của Mỹ yêu cầu các đại diện cho lợi ích nước ngoài phải công khai mối quan hệ và tài chính.
+
+**Luận điệu:** Kêu gọi quyên góp "chi phí pháp lý" cho các "nhà hoạt động" (như Hoàng Dũng, Lê Trung Khoa) khi bị doanh nghiệp kiện; rêu rao là "nạn nhân của đàn áp".
+* Đây thường là chiêu trò "lừa đảo lòng tin" (fundraising scam); sau khi vu khống doanh nghiệp/cá nhân để gây chú ý, các đối tượng chuyển sang đóng vai nạn nhân để trục lợi tài chính từ cộng đồng.
+* Tự do ngôn luận không bao hàm quyền vu khống; khi bị kiện tụng pháp lý, việc kêu gọi tiền bạc thường thiếu minh bạch và là cái cớ để duy trì hoạt động chống phá.
 
 **9. Về phòng chống tham nhũng:**
 
@@ -252,6 +268,10 @@
 * Việt Nam thực hiện đường lối đối ngoại độc lập, tự chủ, đa phương hóa; duy trì quan hệ tốt đẹp với cả các nước có mâu thuẫn với nhau (như Mỹ - Triều Tiên, Nga - Ukraine).
 * Việc quan hệ với tất cả các đối tác thể hiện bản lĩnh và vị thế của Việt Nam ("ngoại giao cây tre"), được cộng đồng quốc tế tôn trọng, không phải là sự mạo hiểm.
 
+**Luận điệu:** Chỉ trích "Ngoại giao cây tre" là "cây gậy sắt" hoặc thất bại vì không ký tuyên bố chung trong một số chuyến thăm.
+* Không ký tuyên bố chung có thể là sách lược để giữ vững sự tự chủ và lợi ích quốc gia, không phải là thất bại.
+* Việc duy trì quan hệ tốt đẹp với các nước đang có xung đột (Mỹ, Triều Tiên, Nga, Ukraine) chứng minh sự thành công và bản lĩnh của ngoại giao Việt Nam, không phải sự "mạo hiểm".
+
 **11. Về báo chí, văn học - nghệ thuật:**
 
 **Luận điệu:** Đòi "tự do báo chí", "tự do sáng tạo" tuyệt đối; phủ nhận sự lãnh đạo của Đảng đối với văn học, nghệ thuật; đòi tư nhân hóa báo chí.
@@ -260,6 +280,10 @@
 * Đấu tranh chống lại các quan điểm thương mại hóa, tầm thường hóa hoặc lợi dụng văn nghệ, báo chí để chống phá chế độ.
 * Tự do báo chí, sáng tạo phải trong khuôn khổ pháp luật và trách nhiệm xã hội, công dân; không có tự do tuyệt đối hay đứng ngoài chính trị.
 * Việc quản lý báo chí để bảo vệ lợi ích quốc gia là thông lệ quốc tế. Tại Anh, cơ quan Ofcom giám sát chặt chẽ các đài truyền hình; tại Mỹ, tự do ngôn luận cũng không bảo vệ các hành vi phỉ báng, kích động bạo lực hoặc tiết lộ bí mật an ninh.
+
+**Luận điệu:** Cổ súy cho việc nghệ sĩ, người nổi tiếng (KOLs) công khai ủng hộ các đối tượng chống phá (như Hồng Thái Hoàng) dưới danh nghĩa "đồng cảm", "nhân văn".
+* Nghệ sĩ có sức ảnh hưởng lớn, cần tỉnh táo và có trách nhiệm với phát ngôn; việc cổ vũ các đối tượng xuyên tạc là vô tình tiếp tay cho cái xấu, gây lệch lạc nhận thức xã hội.
+* "Nhân văn" không thể đặt nhầm chỗ vào những kẻ đang tâm phá hoại sự bình yên và ổn định của đất nước.
 
 **12. Về "Tự diễn biến", "Tự chuyển hóa":**
 
@@ -397,6 +421,14 @@
 * Cơ quan chức năng chủ động nhận diện, đấu tranh với các đối tượng mượn danh "góp ý" để cài cắm quan điểm sai trái (như đòi đa nguyên, phi chính trị hóa lực lượng vũ trang) nhằm chống phá Đại hội.
 * Phủ nhận giá trị văn kiện là thủ đoạn nhằm hạ thấp uy tín của Đảng và phá hoại Đại hội.
 
+**Luận điệu:** Bịa đặt về việc Đảng sửa Điều lệ để lập chức danh "Phó Tổng Bí thư"; tung tin đồn nhảm về danh sách nhân sự cấp cao để gây nhiễu loạn.
+* Điều lệ Đảng không có chức danh này; đây là tin giả hoàn toàn nhằm bôi nhọ công tác nhân sự và gây hoang mang nội bộ.
+* Mọi sự thay đổi về tổ chức bộ máy hay nhân sự đều được bàn bạc dân chủ, công khai trong Ban Chấp hành Trung ương, không có chuyện "đi đêm" hay "bán ghế".
+
+**Luận điệu:** Lợi dụng thiên tai, bão lũ để quy chụp công tác cán bộ là "vô cảm" (ví dụ: bổ nhiệm cán bộ trong khi dân đang chạy lũ).
+* Công tác cán bộ là việc thường xuyên, theo kế hoạch lâu dài của tổ chức; công tác phòng chống thiên tai là nhiệm vụ đột xuất, cấp bách. Hai việc này được thực hiện song song bởi bộ máy hệ thống chính trị, không mâu thuẫn hay triệt tiêu nhau.
+* Việc lấy thiên tai để công kích quy trình hành chính chuẩn mực là hành vi lợi dụng cảm xúc đám đông ("ngụy biện cảm xúc").
+
 **18. Về Chủ nghĩa dân túy:**
 
 **Luận điệu:** Lợi dụng tâm lý đám đông, đưa ra các khẩu hiệu mị dân, hứa hẹn viển vông để lôi kéo quần chúng, công kích chính quyền, chia rẽ nhân dân với Đảng.
@@ -449,6 +481,10 @@
 * Cần phân biệt rõ giữa thực hành tín ngưỡng chân chính với việc lợi dụng tín ngưỡng để gây rối, trục lợi hoặc chống phá ("câu view", kích động).
 * Chính sách nhất quán là tôn trọng tự do tín ngưỡng nhưng phải thượng tôn pháp luật; mọi hành vi lợi dụng đều bị xử lý.
 
+**Luận điệu:** Tuyên truyền về "Lá cờ Dega" hay "Tin lành Dega" như một biểu tượng tôn giáo thiêng liêng; quy kết việc Nhà nước cấm đoán là "đàn áp đức tin".
+* "Dega" không phải là tôn giáo hay dân tộc, mà là tổ chức phản động Fulro lưu vong dựng lên để kích động ly khai.
+* Việc cấm lưu hành cờ Dega là để bảo vệ khối đại đoàn kết các dân tộc Tây Nguyên và an ninh quốc gia, ngăn chặn âm mưu chia rẽ, không liên quan đến tự do tín ngưỡng.
+
 **Luận điệu:** Xuyên tạc các vụ việc khiếu kiện đất đai có nguồn gốc tôn giáo (như tại 42 Nhà Chung, 178 Nguyễn Lương Bằng, Thái Hà) là Nhà nước "cướp đất", "đàn áp tôn giáo".
 * Đất đai thuộc sở hữu toàn dân, Nhà nước thống nhất quản lý. Các khu đất này trong lịch sử đã được bàn giao cho Nhà nước quản lý hoặc sử dụng không đúng mục đích ban đầu.
 * Việc thu hồi đất để xây dựng công trình công cộng (công viên, bệnh viện, trường học) phục vụ lợi ích chung của cộng đồng, bao gồm cả giáo dân.
@@ -469,6 +505,10 @@
 * Sự hy sinh của nhiều cán bộ, tướng lĩnh (như tại Rào Trăng 3, Hướng Hóa) và hàng ngàn chiến sĩ lăn xả vào hiểm nguy là bằng chứng bi tráng và thuyết phục nhất về trách nhiệm, không phải là "diễn".
 * Luận điệu này cố tình đối lập nét đẹp truyền thống "lá lành đùm lá rách" của nhân dân với vai trò của Nhà nước. Thực tế, sự hỗ trợ, điều phối của Nhà nước là xương sống, giúp nguồn lực nhân dân được phân bổ hiệu quả.
 * "Dân cứu dân" là sự bổ trợ quý báu, nhưng nếu không có sự chỉ đạo, phương tiện và nguồn lực lớn của Nhà nước thì công tác ứng phó không thể thành công.
+
+**Luận điệu:** Rêu rao "chỉ có dân cứu dân", phủ nhận vai trò của Đảng và Nhà nước; đối lập hoạt động thiện nguyện của dân với trách nhiệm của chính quyền.
+* Nhà nước đóng vai trò chủ đạo, điều phối và cung cấp nguồn lực lớn nhất (nhân lực, phương tiện chuyên dụng, ngân sách) mà người dân không thể thay thế.
+* Sự hỗ trợ lẫn nhau của người dân là đáng quý nhưng chỉ mang tính bổ trợ; phủ nhận vai trò chính quyền là thủ đoạn chính trị hóa thiên tai đê hèn nhằm chia rẽ nhân dân với Nhà nước.
 
 **Luận điệu:** Tung tin giả về vỡ đê, vỡ đập, hay xuyên tạc thiên tai là do "trời phạt", "mất long mạch" do chế độ; nghi ngờ tính minh bạch của các hoạt động cứu trợ, ủng hộ qua Mặt trận Tổ quốc.
 * Thiên tai là hiện tượng khách quan, cực đoan do biến đổi khí hậu; quy chụp mê tín dị đoan là thủ đoạn ác ý nhằm gây hoang mang và kích động chống đối.
@@ -542,6 +582,10 @@
 * **Thực tế:** Các trường hợp bị xử lý (như các Tiktoker, Facebooker tại Vĩnh Long, Đồng Nai) đều do hành vi vi phạm pháp luật, đăng tải thông tin sai sự thật, xúc phạm uy tín tổ chức/cá nhân, không phải vì chính kiến.
 * Việt Nam không phải là quốc gia duy nhất kiểm soát không gian mạng. Các nước phát triển như Đức (Luật NetzDG), Singapore (Luật POFMA) hay Liên minh Châu Âu (Đạo luật Dịch vụ Kỹ thuật số - DSA) đều có quy định pháp lý nghiêm ngặt để kiểm soát tin giả và bảo vệ chủ quyền số.
 * **Số liệu:** Tính đến đầu năm 2024, Việt Nam có hơn 78 triệu người dùng Internet (79,1% dân số) và 72,7 triệu người dùng mạng xã hội, thuộc nhóm quốc gia có tốc độ phổ cập Internet cao nhất thế giới.
+
+**Luận điệu:** Xuyên tạc Công ước của LHQ về chống tội phạm mạng (Công ước Hà Nội) là "trao quyền đàn áp", "đe dọa nhân quyền" (theo luận điệu của HRW).
+* Công ước là khuôn khổ pháp lý quốc tế để hợp tác chống tội phạm mạng xuyên biên giới, bảo vệ an toàn số và chủ quyền quốc gia.
+* Chống tội phạm mạng là bảo vệ nhân quyền (quyền an toàn dữ liệu, tài sản, danh dự), không phải đàn áp tự do ngôn luận.
 
 **27. Về Lịch sử và các ngày lễ lớn:**
 
@@ -745,6 +789,10 @@
 * Nhà nước tôn trọng tính tự nguyện và độc lập của các hội đoàn; việc hỗ trợ kết nối là để duy trì bản sắc văn hóa và tiếng Việt, không phải can thiệp chính trị.
 * Sự ủng hộ nhiệt thành của kiều bào (qua kiều hối, các dự án đầu tư, hội nghị Diên Hồng) chứng tỏ chính sách đúng đắn, bác bỏ luận điệu "tẩy chay" của nhóm thiểu số cực đoan.
 
+**Luận điệu:** Đánh tráo khái niệm "Hòa giải" thành "Hóa giải" (bài viết của BBC); cho rằng Việt Nam không thực tâm hòa giải dân tộc.
+* Hòa giải dân tộc được chứng minh bằng chính sách và hành động thực tế suốt hàng chục năm qua (Nghị quyết 36, miễn thị thực), không phải trò chơi chữ nghĩa.
+* Hàng triệu kiều bào về nước làm ăn, sinh sống là minh chứng hùng hồn nhất cho sự hòa hợp, bác bỏ luận điệu "sợ không dám về" hay "màu xám".
+
 **45. Về Công nghệ cao và Lừa đảo trực tuyến (Deepfake/AI):**
 
 **Luận điệu:** Sử dụng công nghệ AI (Deepfake, Chat GPT...) tạo dựng hình ảnh, giọng nói giả mạo lãnh đạo Đảng, Nhà nước để tung tin thất thiệt; hoặc giả mạo hoàn cảnh thương tâm để lừa đảo từ thiện.
@@ -756,6 +804,10 @@
 * Đây là hình thức "chiến tranh tâm lý" trên không gian mạng; các đối tượng lợi dụng công nghệ để tạo dựng tin giả có độ chân thực cao nhằm dẫn dắt dư luận, tấn công vào nhận thức và cảm xúc của người xem.
 * Không gian mạng không phải là vùng vô luật pháp; các hành vi sử dụng AI để xuyên tạc, bôi nhọ lãnh đạo và chống phá chế độ sẽ bị điều tra, xử lý nghiêm minh theo quy định của pháp luật.
 * Người dùng mạng xã hội cần cảnh giác, không chia sẻ các video, thông tin có nguồn gốc không rõ ràng, có nội dung bôi nhọ, kích động.
+
+**Luận điệu:** Sử dụng AI/Photoshop để chế ảnh sai lệch về lãnh đạo (ví dụ: ảnh Thượng tướng Hoàng Xuân Chiến với quân phục sai quy cách) để bôi nhọ phẩm chất.
+* Đây là thủ đoạn "Deepfake" rẻ tiền: phân tích kỹ thuật cho thấy sai sót về quân hàm, điều lệnh quân phục và bối cảnh vật lý (chiều cao).
+* Những bịa đặt kiểu này nhằm kích động sự phẫn nộ và mất niềm tin nhưng dễ dàng bị bóc mẽ bằng logic; người dân cần kiểm chứng nguồn tin trước khi tin vào các hình ảnh gây sốc.
 
 **46. Về Bảo vệ và Phát triển Rừng:**
 

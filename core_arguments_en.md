@@ -73,6 +73,10 @@
 * Encouraging private investment in infrastructure (expressways, airports) reduces the burden on the state budget and mobilizes social resources, strictly in accordance with the law, not "capitalization".
 * The Party's viewpoint is consistent: encouraging legitimate wealth creation while ensuring social progress and equality.
 
+**Allegation:** Distorts Resolution 66 on law-making as a "step back for social progress" or Resolution 68 as "admitting exploitation".
+* Resolution 66 aims to innovate the legislative process to facilitate development in the new era, not to create barriers.
+* Resolution 68 affirms the private sector as an important engine, encouraging legal wealth creation, which does not mean admitting capitalist-style exploitation or abandoning socialist principles.
+
 **Allegation:** Demands the abolition of the leading role of the state economy, claiming it is inefficient and crowds out the private sector.
 * The state economy is a vital material tool for the State to direct and regulate the macro-economy, correct market failures, and ensure social welfare and national defense-security.
 * The leading role does not mean occupying the largest proportion, but holding key positions, leading the economy, and creating conditions for other sectors to develop.
@@ -163,6 +167,14 @@
 * Functions and tasks transferred or added (such as driver testing management, vehicle registration...) aim to unify management, reduce intermediate levels, and implement the policy of "lean, compact, strong," not to seize power.
 * Accusations of "profiteering" are false; administrative fines are remitted to the State budget and do not serve the specific interests of the sector.
 
+**Allegation:** Distorts Decree 282 on grassroots security forces as "jungle law" or "protecting power"; claims fines for obstructing officers are unreasonable.
+* Protecting law enforcement officers is a standard regulation in every civilized nation to ensure order and the strictness of the law.
+* Grassroots security forces are the "eyes and ears" of the people, helping to maintain order early; individual misconduct is strictly punished, not "protected".
+
+**Allegation:** Claims Vietnamese Police are "cowardly" or "afraid to act" to protect citizens abroad (e.g., in the Kampot case in Cambodia); or accuses coordination of being "sovereignty infringement".
+* The Kampot operation demonstrated professional, secret, and effective international cooperation by Vietnamese Police, successfully rescuing citizens and arresting criminals.
+* Actions are based on judicial cooperation agreements and mutual consensus, respecting international law and the host country's sovereignty.
+
 **7. On National Defense - Security:**
 
 **Allegation:** Claims that in the conditions of high-tech warfare, the line of "all-people national defense" and "people's security" is backward and wrong.
@@ -192,6 +204,10 @@
 * Vietnam respects the right to form associations, but this must be within the framework of the law and placed under the leadership of the Party and the management of the State.
 * It is necessary to clearly identify and fight to prevent the exploitation of "civil society" to transform the political regime.
 * Regulating NGOs to protect national security is international practice. The US Foreign Agents Registration Act (FARA) requires agents representing foreign interests to disclose their relationship and financing.
+
+**Allegation:** Calls for donations for "legal fees" for activists (like Hoang Dung or Le Trung Khoa) when sued by businesses; claims they are "victims of suppression".
+* This is often a "fundraising scam"; after defaming businesses or individuals to gain attention, subjects play the victim to profit financially from the community.
+* Freedom of speech does not include the right to defame or spread fake news; soliciting money when facing legal consequences is often non-transparent and a tool to sustain sabotage activities.
 
 **9. On Anti-Corruption:**
 
@@ -252,6 +268,10 @@
 * Vietnam pursues a foreign policy of independence, self-reliance, and multilateralization, maintaining good relations with all partners regardless of their mutual conflicts (e.g., US-North Korea, Russia-Ukraine).
 * Relations with all partners demonstrate Vietnam's "bamboo diplomacy" stance and stature, respected by the international community, not a "risk."
 
+**Allegation:** Criticizes "Bamboo Diplomacy" as an "iron rod" or a failure because no joint statement is signed in some visits.
+* Not signing a joint statement can be a strategic move to demonstrate autonomy and protect national interests, not a failure.
+* Maintaining good relations with conflicting nations (e.g., US, North Korea, Russia, Ukraine) proves the success and bravery of Vietnam's foreign policy, not "riskiness".
+
 **11. On the Press, Literature, and Arts:**
 
 **Allegation:** Demands absolute "freedom of the press" and "freedom of creativity"; denies the Party's leadership over literature and arts; demands the privatization of the press.
@@ -260,6 +280,10 @@
 * Struggle against views that commercialize, trivialize, or exploit arts and the press to oppose the regime.
 * Freedom of the press and creativity must be within the framework of the law and social/civic responsibility; there is no absolute freedom or standing outside of politics.
 * Regulating the press to protect national interests is international practice. In the UK, Ofcom strictly supervises broadcasters; in the US, freedom of speech does not protect defamation, incitement to violence, or disclosure of national security secrets.
+
+**Allegation:** Encourages artists/KOLs to publicly support reactionary elements (like Hong Thai Hoang) under the guise of "empathy" or "humanity".
+* Artists have significant influence and must be responsible for their statements; supporting distortionists inadvertently aids bad elements and misleads public perception.
+* "Humanity" cannot be misplaced on those intentionally sabotaging the country's peace and stability.
 
 **12. On "Self-evolution" and "Self-transformation":**
 
@@ -397,6 +421,14 @@
 * Authorities proactively identify and fight against elements who "borrow" the guise of feedback to spread distorted views (such as demanding pluralism or depoliticizing the military) to sabotage the Congress.
 * Denying the value of the documents is a tactic to lower the Party's prestige and sabotage the Congress.
 
+**Allegation:** Fabricates rumors about the Party creating a "Deputy General Secretary" position; spreads fake personnel lists claiming "internal fighting".
+* The Party Statutes do not have this position; this is fake news aimed at smearing personnel work and causing internal confusion.
+* Organizational changes and personnel planning are discussed democratically and transparently in the Central Committee, not through secret deals or "selling seats".
+
+**Allegation:** Exploits natural disasters to accuse personnel work of being "insensitive" (e.g., appointing officials during floods).
+* Personnel work is a regular, planned organizational task; disaster response is an urgent duty. Both are performed in parallel by the political system without conflict.
+* Using natural disasters to attack standard administrative procedures is a form of emotional manipulation.
+
 **18. On Populism:**
 
 **Allegation:** Exploits crowd psychology, uses demagogic slogans and empty promises to lure the masses, attacks the government, and divides the people from the Party.
@@ -449,6 +481,10 @@
 * It is necessary to distinguish clearly between genuine religious practice and the abuse of belief to cause trouble, profiteer, or sabotage ("clickbait", incitement).
 * The consistent policy is to respect freedom of belief but law must be upheld; any abuse will be handled.
 
+**Allegation:** Propagates the "Dega Flag" or "Dega Protestantism" as sacred religious symbols; accuses the State of "suppressing faith" for banning them.
+* "Dega" is not a religion or ethnicity but a separatist organization created by exiled reactionaries (Fulro) to incite division.
+* Banning the Dega flag is to protect the great unity of Central Highlands ethnic groups and national security, preventing division, unrelated to religious freedom.
+
 **Allegation:** Distorts land disputes involving religious origins (e.g., at 42 Nha Chung, 178 Nguyen Luong Bang, Thai Ha) as State "confiscation of land" or "suppression of religion."
 * Land belongs to the entire people, managed uniformly by the State. Historically, these lands were transferred to State management or were not used for their original purposes.
 * Land recovery for public works (parks, hospitals, schools) serves the common interest of the community, including parishioners.
@@ -469,6 +505,10 @@
 * The sacrifice of many officers and generals (e.g., at Rao Trang 3, Huong Hoa) and thousands of soldiers soaking in floodwaters is undeniable proof of their responsibility and bravery, not "acting."
 * This argument deliberately pits the traditional beauty of "mutual affection" among the people against the role of the State. In reality, State support acts as the backbone and coordinator, ensuring relief is effective and reaches the right places.
 * "People saving people" is a precious tradition, but without the State's direction and resources (vehicles, machinery, large-scale logistics), disaster response cannot be successful.
+
+**Allegation:** Spreads the slogan "only the people save the people", denying the Government's role; contrasts citizens' charity with State responsibility.
+* The State plays the leading role, coordinating and providing the largest resources (manpower, specialized vehicles, budget) that citizens cannot replace.
+* Citizen support is valuable but supplementary; denying the government's role is a despicable politicization of natural disasters aimed at dividing the people from the State.
 
 **Allegation:** Spreads fake news about dam failures, or claims disasters are "heaven's punishment" or due to "bad feng shui" of the regime; casts doubt on the transparency of relief efforts by the Fatherland Front.
 * Natural disasters are objective, extreme events due to climate change; superstitious attributions are malicious tactics to cause panic and incite opposition.
@@ -542,6 +582,10 @@
 * **Fact:** Authorities strictly handle individuals (YouTubers, TikTokers) who abuse social media to spread fake news, slander the government, or insult organizations (as seen in recent cases in Vinh Long, Dong Nai), ensuring a healthy information environment.
 * Vietnam is not the only country controlling cyberspace. Developed countries like Germany (NetzDG Law), Singapore (POFMA Law), or the European Union (Digital Services Act - DSA) all have strict legal regulations to control fake news and protect digital sovereignty.
 * **Fact:** As of 2024, Vietnam has over 78 million internet users (79.1% of the population) and 72.7 million social media users, ranking among the top countries globally for internet adoption and digital freedom of access.
+
+**Allegation:** Distorts the UN Convention on Cybercrime (Hanoi Convention) as "empowering repression" or "threatening human rights" (HRW stance).
+* The Convention is an international legal framework for cooperation against cross-border cybercrime, protecting citizens' digital safety and sovereignty.
+* Fighting cybercrime protects human rights (data safety, property, dignity), not suppressing freedom of speech.
 
 **27. On History and Major Holidays:**
 
@@ -745,6 +789,10 @@
 * The State respects the voluntary nature and independence of associations; support for connection aims to maintain cultural identity and the Vietnamese language, not political interference.
 * The enthusiastic support of the diaspora (via remittances, investment projects, Dien Hong conferences) proves the correctness of the policy, refuting the "boycott" rhetoric of extremist minority groups.
 
+**Allegation:** Plays on words to distinguish "Reconciliation" vs "Neutralization" (BBC); claims Vietnam is not sincere in national reconciliation.
+* National reconciliation is proven by concrete policies and actions over decades (Resolution 36, visa exemptions), not wordplay.
+* Millions of overseas Vietnamese returning to visit and do business are the strongest proof of harmony, refuting claims of "fear of returning" or "darkness".
+
 **45. On High-Tech Scams and Deepfakes:**
 
 **Allegation:** Uses AI technology (Deepfake, ChatGPT, etc.) to create fake images and voices of Party/State leaders to spread disinformation; or fakes tragic situations for charity scams.
@@ -756,6 +804,10 @@
 * This is a form of "psychological warfare" in cyberspace; hostile elements exploit technology to create highly realistic fake news to mislead public opinion and attack the perception and emotions of viewers.
 * Cyberspace is not a lawless zone; acts of using AI to distort, smear leaders, and oppose the regime will be investigated and strictly handled according to the law.
 * Social media users need to be vigilant and not share videos or information of unclear origin containing smear or inciting content.
+
+**Allegation:** Uses AI/Photoshop to create fake images of leaders (e.g., General Hoang Xuan Chien with incorrect uniform/insignia) to smear their character.
+* This is a cheap "Deepfake" tactic: technical analysis reveals obvious errors in rank, uniform regulations, and physical context (height).
+* Such fabrications aim to incite anger and distrust but collapse under logical scrutiny; the public must verify sources before believing shocking images.
 
 **46. On Forest Protection and Development:**
 
