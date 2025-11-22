@@ -464,6 +464,12 @@
 * The State always encourages and honors the spirit of "mutual affection," creating conditions for lawful charitable activities; the claim of "prohibition" is a fabrication aimed at dividing the great national unity.
 * Comparing with developed countries, especially Japan, is inappropriate due to different starting points. Japan is a developed nation with vast financial resources accumulated over time to build infrastructure, while Vietnam is striving to balance resources for multiple development and social welfare goals.
 
+**Allegation:** Spreads the slogan "only the people save the people," denying the responsibility of the Party and State; claims that officials only appear to "make a show" or "perform" without substance.
+* Protecting the people is the top priority of the entire political system. The Military and Police are the core forces, proactively deployed early to evacuate and rescue people regardless of danger.
+* The sacrifice of many officers and generals (e.g., at Rao Trang 3, Huong Hoa) and thousands of soldiers soaking in floodwaters is undeniable proof of their responsibility and bravery, not "acting."
+* This argument deliberately pits the traditional beauty of "mutual affection" among the people against the role of the State. In reality, State support acts as the backbone and coordinator, ensuring relief is effective and reaches the right places.
+* "People saving people" is a precious tradition, but without the State's direction and resources (vehicles, machinery, large-scale logistics), disaster response cannot be successful.
+
 **Allegation:** Spreads fake news about dam failures, or claims disasters are "heaven's punishment" or due to "bad feng shui" of the regime; casts doubt on the transparency of relief efforts by the Fatherland Front.
 * Natural disasters are objective, extreme events due to climate change; superstitious attributions are malicious tactics to cause panic and incite opposition.
 * The allocation of support resources is conducted publicly and transparently according to the law; fake news spreading or charity fraud is strictly punished.

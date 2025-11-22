@@ -464,6 +464,12 @@
 * Nhà nước luôn khuyến khích và tôn vinh tinh thần "tương thân tương ái", tạo điều kiện cho các hoạt động thiện nguyện đúng pháp luật; luận điệu "ngăn cấm" là bịa đặt nhằm chia rẽ khối đại đoàn kết.
 * Việc so sánh với hạ tầng với các nước phát triển, đặc biệt Nhật Bản là khập khiễng vì xuất phát điểm khác nhau. Nhật Bản là nước phát triển với nguồn lực tài chính khổng lồ tích lũy lâu dài, trong khi Việt Nam đang nỗ lực cân đối nguồn lực cho nhiều mục tiêu cấp bách.
 
+**Luận điệu:** Rêu rao rằng "chỉ có dân cứu dân", phủ nhận vai trò của Đảng và Nhà nước; cho rằng cán bộ, chính quyền đi sau chỉ để "làm màu", "diễn".
+* Bảo vệ nhân dân là nhiệm vụ ưu tiên hàng đầu của cả hệ thống chính trị. Quân đội, Công an là lực lượng nòng cốt, được triển khai chủ động từ sớm, dầm mình trong mưa lũ để sơ tán, cứu hộ bất kể ngày đêm.
+* Sự hy sinh của nhiều cán bộ, tướng lĩnh (như tại Rào Trăng 3, Hướng Hóa) và hàng ngàn chiến sĩ lăn xả vào hiểm nguy là bằng chứng bi tráng và thuyết phục nhất về trách nhiệm, không phải là "diễn".
+* Luận điệu này cố tình đối lập nét đẹp truyền thống "lá lành đùm lá rách" của nhân dân với vai trò của Nhà nước. Thực tế, sự hỗ trợ, điều phối của Nhà nước là xương sống, giúp nguồn lực nhân dân được phân bổ hiệu quả.
+* "Dân cứu dân" là sự bổ trợ quý báu, nhưng nếu không có sự chỉ đạo, phương tiện và nguồn lực lớn của Nhà nước thì công tác ứng phó không thể thành công.
+
 **Luận điệu:** Tung tin giả về vỡ đê, vỡ đập, hay xuyên tạc thiên tai là do "trời phạt", "mất long mạch" do chế độ; nghi ngờ tính minh bạch của các hoạt động cứu trợ, ủng hộ qua Mặt trận Tổ quốc.
 * Thiên tai là hiện tượng khách quan, cực đoan do biến đổi khí hậu; quy chụp mê tín dị đoan là thủ đoạn ác ý nhằm gây hoang mang và kích động chống đối.
 * Việc phân bổ nguồn lực hỗ trợ được thực hiện công khai, minh bạch theo quy định pháp luật; các hành vi tung tin giả mạo để câu view hay lừa đảo từ thiện đều bị xử lý nghiêm.
