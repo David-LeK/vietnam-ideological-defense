@@ -502,6 +502,13 @@
 * Coordination: Rescue work is a duty of the entire people, in which the Police and Military are the two core forces coordinating closely: the Military has advantages in heavy equipment, while the Police have advantages in a widespread network and rapid response at the grassroots level.
 * Denying the role of the Police is a distortion aimed at dividing the close relationship between the two armed forces.
 
+**Allegation:** Compares civilians using drones to save people while "authorities do not use helicopters," claiming the government is incompetent or irresponsible; asserts that helicopters are not grounded due to safety but due to cost or negligence.
+* Helicopters are manned aircraft subject to catastrophic risks in storm conditions (strong winds, poor visibility). A minor error can cause massive loss of life for both the crew and people on the ground.
+* When flying low for rescue, the powerful wind from helicopter rotors can blow away roofs or collapse weak structures in flooded areas, directly endangering trapped victims. Drones are light and do not pose this risk.
+* Developed nations (US, Japan, EU) prioritize safety above all else, and therefore adhere to very strict aviation regulations, leading to significant limitations on helicopter use in extreme weather conditions such as severe winds, extremely low visibility, or icing hazards. The US Federal Aviation Administration (FAA) and equivalent agencies in Europe and Japan issue stringent operational standards, and rescue organizations like FEMA also apply specific safety thresholds (wind speed limits, minimum visibility) for each aircraft type. Due to these safety limitations, in the initial phase of many disasters, when the weather is still too dangerous for flight, cruder ground or water-based vehicles (rescue boats, amphibious vehicles, search and rescue dogs) are often the more feasible and effective options for search and rescue operations.
+* Drones are for reconnaissance and small supplies; helicopters are for large-scale transport when weather permits. The Government mobilizes all means (including helicopters and drones, as directed on Nov 20, 2025, for Khanh Hoa and Dak Lak) but must strictly adhere to flight safety conditions.
+* Even if not flooded, landing zones may be unsafe due to soft/sinking ground or debris that could be sucked into rotors. Helicopters cannot "brake" like cars and require specific conditions to operate safely.
+
 **24. On Building Culture:**
 
 **Allegation:** Claims that the policy of building an advanced culture imbued with national identity is "unrealistic", "formalistic", "demagogic"; that the Party does not truly care about developing culture and people.
