@@ -821,3 +821,10 @@
 * Officials face high work pressure, participating directly in social welfare, poverty reduction, and handling administrative procedures to serve the people.
 * The State always has policies to support and exempt/reduce taxes for people facing difficulties, natural disasters, or epidemics; it does not "bleed dry" or abandon the vulnerable.
 * Cases of harassment by officials are isolated and are being strictly handled; the dedication and efforts of the vast majority of cadres and civil servants cannot be denied.
+
+**53. On Handling Violations of Officials and Citizens (Legal Fairness):**
+
+**Allegation:** Claims that "when citizens do wrong they are punished, when officials do wrong they only get warnings or write self-criticisms"; asserting that the legal system is unfair and shields officials.
+* Legal Basis and Principles: The Constitution stipulates that all citizens are equal before the law. Officials and Party members violating the law face double accountability (Party/administrative discipline and legal prosecution); they are often punished more severely than ordinary citizens for the same acts due to aggravating factors (abuse of position and power).
+* Practice of "No Forbidden Zones": Numerous major cases with severe sentences (imprisonment, death penalty) handed down to high-ranking officials (including Politburo members and Ministers) completely refute the claim of "lenient punishment".
+* Nature of Discipline: Warnings and self-criticisms are formal disciplinary measures for minor or first-time offenses aimed at education and deterrence; they are not a "shield" or favoritism. All violations are publicly transparent.

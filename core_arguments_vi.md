@@ -821,3 +821,10 @@
 * Cán bộ chịu áp lực công việc lớn, tham gia trực tiếp vào công tác an sinh xã hội, xóa đói giảm nghèo và giải quyết thủ tục hành chính phục vụ người dân.
 * Nhà nước luôn có chính sách hỗ trợ, miễn giảm thuế cho người dân gặp khó khăn, thiên tai, dịch bệnh; không tận thu hay bỏ mặc người yếu thế.
 * Những trường hợp cán bộ nhũng nhiễu là cá biệt và đang bị xử lý nghiêm minh; không thể phủ nhận nỗ lực cống hiến của đại đa số đội ngũ cán bộ, công chức.
+
+**53. Về Xử lý Vi phạm của Cán bộ và Người dân (Sự công bằng của pháp luật):**
+
+**Luận điệu:** Cho rằng "dân sai thì phạt, cán bộ sai thì cảnh cáo, viết kiểm điểm"; quy chụp pháp luật thiếu công bằng, bao che cho quan chức.
+* Cơ sở pháp lý và nguyên tắc: Hiến pháp quy định mọi công dân bình đẳng trước pháp luật. Cán bộ, đảng viên vi phạm phải chịu trách nhiệm kép (kỷ luật Đảng/hành chính và pháp luật); thường bị xử lý nặng hơn dân thường nếu cùng hành vi do có tình tiết tăng nặng (lợi dụng chức vụ, quyền hạn).
+* Thực tiễn "không vùng cấm": Hàng loạt vụ án lớn với các bản án nghiêm khắc (tù giam, tử hình) dành cho cán bộ cấp cao (kể cả Ủy viên Bộ Chính trị, Bộ trưởng) đã bác bỏ hoàn toàn luận điệu chỉ "phạt nhẹ" hay "viết kiểm điểm".
+* Bản chất của kỷ luật: Cảnh cáo, kiểm điểm là các hình thức kỷ luật chính thức dành cho sai phạm ít nghiêm trọng hoặc lần đầu để giáo dục, răn đe; không phải là "vùng cấm" hay sự ưu ái. Mọi vi phạm đều được công khai minh bạch.
