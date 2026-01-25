@@ -1,4 +1,87 @@
-**1. Về Chủ nghĩa Mác - Lênin và Tư tưởng Hồ Chí Minh:** 
+## MỤC LỤC
+- [1. Về Chủ nghĩa Mác - Lênin và Tư tưởng Hồ Chí Minh](#1-về-chủ-nghĩa-mác---lênin-và-tư-tưởng-hồ-chí-minh)
+- [2. Về con đường đi lên CNXH](#2-về-con-đường-đi-lên-cnxh)
+- [3. Về kinh tế](#3-về-kinh-tế)
+- [4. Về thể chế chính trị (Đa nguyên, đa đảng)](#4-về-thể-chế-chính-trị-đa-nguyên-đa-đảng)
+- [5. Về nguyên tắc tập trung dân chủ](#5-về-nguyên-tắc-tập-trung-dân-chủ)
+- [6. Về lực lượng vũ trang (Quân đội, Công an)](#6-về-lực-lượng-vũ-trang-quân-đội-công-an)
+- [7. Về quốc phòng - an ninh](#7-về-quốc-phòng---an-ninh)
+- [8. Về xã hội dân sự](#8-về-xã-hội-dân-sự)
+- [9. Về phòng chống tham nhũng](#9-về-phòng-chống-tham-nhũng)
+- [10. Về đối ngoại](#10-về-đối-ngoại)
+- [11. Về báo chí, văn học - nghệ thuật](#11-về-báo-chí-văn-học---nghệ-thuật)
+- [12. Về "Tự diễn biến", "Tự chuyển hóa"](#12-về-tự-diễn-biến-tự-chuyển-hóa)
+- [13. Về Sắp xếp, tinh gọn bộ máy và thực hiện chính quyền địa phương hai cấp (từ 01/7/2025)](#13-về-sắp-xếp-tinh-gọn-bộ-máy-và-thực-hiện-chính-quyền-địa-phương-hai-cấp-từ-0172025)
+- [14. Về Đổi mới Chính trị](#14-về-đổi-mới-chính-trị)
+- [15. Về Dân chủ và Nhân quyền](#15-về-dân-chủ-và-nhân-quyền)
+- [16. Về việc sửa đổi, bổ sung Hiến pháp năm 2013 (năm 2025)](#16-về-việc-sửa-đổi-bổ-sung-hiến-pháp-năm-2013-năm-2025)
+- [17. Về Đại hội XIV của Đảng (Nhân sự và Văn kiện)](#17-về-đại-hội-xiv-của-đảng-nhân-sự-và-văn-kiện)
+- [18. Về Chủ nghĩa dân túy](#18-về-chủ-nghĩa-dân-túy)
+- [19. Về Sở hữu đất đai](#19-về-sở-hữu-đất-đai)
+- [20. Về "Bất tuân dân sự"](#20-về-bất-tuân-dân-sự)
+- [21. Về Giai cấp công nhân trong CMCN 4.0](#21-về-giai-cấp-công-nhân-trong-cmcn-40)
+- [22. Về Tôn giáo và Dân tộc (Vùng Tây Nam Bộ và cả nước)](#22-về-tôn-giáo-và-dân-tộc-vùng-tây-nam-bộ-và-cả-nước)
+- [23. Về công tác phòng, chống thiên tai và cứu hộ, cứu nạn](#23-về-công-tác-phòng-chống-thiên-tai-và-cứu-hộ-cứu-nạn)
+- [24. Về Xây dựng nền văn hóa](#24-về-xây-dựng-nền-văn-hóa)
+- [25. Về Giáo dục và Đào tạo](#25-về-giáo-dục-và-đào-tạo)
+- [26. Về Tự do ngôn luận và Không gian mạng](#26-về-tự-do-ngôn-luận-và-không-gian-mạng)
+- [27. Về Lịch sử và các ngày lễ lớn](#27-về-lịch-sử-và-các-ngày-lễ-lớn)
+- [28. Về Kỷ luật Đảng và quy định đảng viên](#28-về-kỷ-luật-đảng-và-quy-định-đảng-viên)
+- [29. Về Quốc hội và Bầu cử](#29-về-quốc-hội-và-bầu-cử)
+- [30. Về Chủ quyền Biển, Đảo](#30-về-chủ-quyền-biển-đảo)
+- [31. Về Nghị định 168/2024/NĐ-CP (Xử phạt vi phạm giao thông)](#31-về-nghị-định-1682024nđ-cp-xử-phạt-vi-phạm-giao-thông)
+- [32. Về Chính sách thuế mới và Hóa đơn điện tử](#32-về-chính-sách-thuế-mới-và-hóa-đơn-điện-tử)
+- [33. Về Kỷ nguyên mới - Kỷ nguyên vươn mình của dân tộc](#33-về-kỷ-nguyên-mới---kỷ-nguyên-vươn-mình-của-dân-tộc)
+- [34. Về Chính sách miễn học phí toàn dân](#34-về-chính-sách-miễn-học-phí-toàn-dân)
+- [35. Về Chính sách giảm phát thải và hạn chế xe xăng (Chuyển đổi xanh)](#35-về-chính-sách-giảm-phát-thải-và-hạn-chế-xe-xăng-chuyển-đổi-xanh)
+- [36. Về bảo vệ danh nhân và sự thật lịch sử](#36-về-bảo-vệ-danh-nhân-và-sự-thật-lịch-sử)
+- [37. Về Cải cách tiền lương (lộ trình từ 2026)](#37-về-cải-cách-tiền-lương-lộ-trình-từ-2026)
+- [38. Về Hàng giả, Hàng nhái và Vệ sinh an toàn thực phẩm](#38-về-hàng-giả-hàng-nhái-và-vệ-sinh-an-toàn-thực-phẩm)
+- [39. Về Đánh giá chế độ Thực dân (Pháp)](#39-về-đánh-giá-chế-độ-thực-dân-pháp)
+- [40. Về Thủy điện và Lũ lụt](#40-về-thủy-điện-và-lũ-lụt)
+- [41. Về Bảo vệ Doanh nghiệp và Thương hiệu Quốc gia](#41-về-bảo-vệ-doanh-nghiệp-và-thương-hiệu-quốc-gia)
+- [42. Về Quyền động vật và Ưu tiên xã hội](#42-về-quyền-động-vật-và-ưu-tiên-xã-hội)
+- [43. Về Dự án Lấn biển Cần Giờ (Môi trường và Phát triển)](#43-về-dự-án-lấn-biển-cần-giờ-môi-trường-và-phát-triển)
+- [44. Về Chính sách đối với Người Việt Nam ở nước ngoài](#44-về-chính-sách-đối-với-người-việt-nam-ở-nước-ngoài)
+- [45. Về Công nghệ cao và Lừa đảo trực tuyến (Deepfake/AI)](#45-về-công-nghệ-cao-và-lừa-đảo-trực-tuyến-deepfakeai)
+- [46. Về Bảo vệ và Phát triển Rừng](#46-về-bảo-vệ-và-phát-triển-rừng)
+- [47. Về Cách mạng Tháng Tám (1945)](#47-về-cách-mạng-tháng-tám-1945)
+- [48. Về Cuộc kháng chiến chống Mỹ, cứu nước](#48-về-cuộc-kháng-chiến-chống-mỹ-cứu-nước)
+- [49. Về Khoa học Công nghệ và Đổi mới sáng tạo (Nghị quyết 57)](#49-về-khoa-học-công-nghệ-và-đổi-mới-sáng-tạo-nghị-quyết-57)
+- [50. Về Biên giới lãnh thổ đất liền](#50-về-biên-giới-lãnh-thổ-đất-liền)
+- [51. Về Đạo đức công vụ, Thái độ phục vụ và Kỷ luật hành chính](#51-về-đạo-đức-công-vụ-thái-độ-phục-vụ-và-kỷ-luật-hành-chính)
+- [52. Về Trách nhiệm Công vụ và Đời sống Cán bộ](#52-về-trách-nhiệm-công-vụ-và-đời-sống-cán-bộ)
+- [53. Về Xử lý Vi phạm của Cán bộ và Người dân (Sự công bằng của pháp luật)](#53-về-xử-lý-vi-phạm-của-cán-bộ-và-người-dân-sự-công-bằng-của-pháp-luật)
+- [54. Về Đầu tư công và Các công trình xây dựng](#54-về-đầu-tư-công-và-các-công-trình-xây-dựng)
+- [55. Về các luận điệu gán nhãn, kích động (như "Bò đỏ", "Tẩy não")](#55-về-các-luận-điệu-gán-nhãn-kích-động-như-bò-đỏ-tẩy-não)
+- [56. Về Lòng yêu nước và Tinh thần dân tộc](#56-về-lòng-yêu-nước-và-tinh-thần-dân-tộc)
+- [57. Về Phân biệt vùng miền và Khối đại đoàn kết dân tộc](#57-về-phân-biệt-vùng-miền-và-khối-đại-đoàn-kết-dân-tộc)
+- [58. Về việc đặt tên đường phố cho người thân lãnh đạo (Vụ việc đường Ngô Mạnh Lân)](#58-về-việc-đặt-tên-đường-phố-cho-người-thân-lãnh-đạo-vụ-việc-đường-ngô-mạnh-lân)
+- [59. Về Tính đúng đắn của Chính sách và Trách nhiệm thực thi](#59-về-tính-đúng-đắn-của-chính-sách-và-trách-nhiệm-thực-thi)
+- [60. Về Cải cách hành chính và Chuyển đổi số (Dịch vụ công trực tuyến)](#60-về-cải-cách-hành-chính-và-chuyển-đổi-số-dịch-vụ-công-trực-tuyến)
+- [61. Về "Cách mạng màu" và Chiến tranh tâm lý](#61-về-cách-mạng-màu-và-chiến-tranh-tâm-lý)
+- [62. Về xử lý tội phạm kinh tế](#62-về-xử-lý-tội-phạm-kinh-tế)
+- [63. Về Luật Dẫn độ và quy định tạm giữ khẩn cấp (45 ngày)](#63-về-luật-dẫn-độ-và-quy-định-tạm-giữ-khẩn-cấp-45-ngày)
+- [64. Về Chính sách Nhà ở xã hội và An sinh xã hội](#64-về-chính-sách-nhà-ở-xã-hội-và-an-sinh-xã-hội)
+- [65. Về Luật Trí tuệ nhân tạo và Sở hữu trí tuệ (Sửa đổi)](#65-về-luật-trí-tuệ-nhân-tạo-và-sở-hữu-trí-tuệ-sửa-đổi)
+- [66. Về Thử nghiệm lâm sàng Vaccine sốt xuất huyết và Y tế dự phòng](#66-về-thử-nghiệm-lâm-sàng-vaccine-sốt-xuất-huyết-và-y-tế-dự-phòng)
+- [67. Về Nghị định 282/2025/NĐ-CP (Xử phạt tiếng ồn/Karaoke)](#67-về-nghị-định-2822025nđ-cp-xử-phạt-tiếng-ồnkaraoke)
+- [68. Về Hiệu lực của Quyết định Hành chính và "Chủ quyền số"](#68-về-hiệu-lực-của-quyết-định-hành-chính-và-chủ-quyền-số)
+- [69. Về Xu hướng Định cư và Lựa chọn Quốc tịch ("Bỏ phiếu bằng chân")](#69-về-xu-hướng-định-cư-và-lựa-chọn-quốc-tịch-bỏ-phiếu-bằng-chân)
+- [70. Về Đề xuất Điểm công dân số trên VNeID](#70-về-đề-xuất-điểm-công-dân-số-trên-vneid)
+- [71. Về Hiệu quả của Truy tố Quốc tế, Cơ chế Interpol và Công ước Hà Nội](#71-về-hiệu-quả-của-truy-tố-quốc-tế-cơ-chế-interpol-và-công-ước-hà-nội)
+- [72. Về Thực trạng Đạo đức xã hội](#72-về-thực-trạng-đạo-đức-xã-hội)
+- [73. Về Nghị định 296/2025/NĐ-CP (Cưỡng chế thi hành quyết định xử phạt vi phạm hành chính)](#73-về-nghị-định-2962025nđ-cp-cưỡng-chế-thi-hành-quyết-định-xử-phạt-vi-phạm-hành-chính)
+- [74. Về Nghị định 335/2025/NĐ-CP (Đánh giá, xếp loại công chức)](#74-về-nghị-định-3352025nđ-cp-đánh-giá-xếp-loại-công-chức)
+- [75. Về Lợi dụng quyền khiếu nại, tố cáo và danh nghĩa "người chống tiêu cực"](#75-về-lợi-dụng-quyền-khiếu-nại-tố-cáo-và-danh-nghĩa-người-chống-tiêu-cực)
+- [76. Về Phân loại Chính trị (Cánh tả, Cánh hữu, Phát xít)](#76-về-phân-loại-chính-trị-cánh-tả-cánh-hữu-phát-xít)
+- [77. Về Phát triển Tây Nguyên và Quyền của người bản địa](#77-về-phát-triển-tây-nguyên-và-quyền-của-người-bản-địa)
+- [78. Về Thể thao và Chính trị (Bóng đá)](#78-về-thể-thao-và-chính-trị-bóng-đá)
+- [79. Về Xử lý sai phạm tại các "Siêu dự án" (Vụ việc Sài Gòn - Đại Ninh)](#79-về-xử-lý-sai-phạm-tại-các-siêu-dự-án-vụ-việc-sài-gòn---đại-ninh)
+
+<div class="page-break"></div>
+
+# 1. Về Chủ nghĩa Mác - Lênin và Tư tưởng Hồ Chí Minh
 
 **Luận điệu:** Cho rằng chủ nghĩa Mác - Lênin đã lỗi thời, lạc hậu, chỉ phù hợp với thế kỷ XIX; sự sụp đổ của Liên Xô chứng tỏ học thuyết này sai lầm; cần từ bỏ để đi theo con đường khác.
 * Chủ nghĩa Mác - Lênin không lỗi thời vì nó phát hiện ra các quy luật vận động khách quan của lịch sử và xã hội.
@@ -46,7 +129,7 @@
 * Đảng cầm quyền và Nhà nước của dân là thống nhất: Đảng lãnh đạo để đảm bảo Nhà nước thực sự phục vụ nhân dân, quyền lực thuộc về nhân dân.
 * Nguy cơ tham nhũng, lạm quyền là do chủ nghĩa cá nhân của cán bộ, không phải do bản chất của "Đảng cầm quyền"; Bác Hồ đã cảnh báo và đấu tranh quyết liệt từ sớm.
 
-**2. Về con đường đi lên CNXH:** 
+# 2. Về con đường đi lên CNXH 
 
 **Luận điệu:** Cho rằng Việt Nam kiên định mục tiêu độc lập dân tộc gắn liền với CNXH là sai lầm, là đi vào "vết xe đổ" của Liên Xô; đòi từ bỏ CNXH để đi theo con đường tư bản chủ nghĩa.
 * Độc lập dân tộc gắn liền với CNXH là sự lựa chọn tất yếu của lịch sử và nhân dân Việt Nam, đã được chứng minh qua các thắng lợi của cách mạng.
@@ -71,7 +154,7 @@
 * CNTB vẫn chứa đựng những mâu thuẫn không thể hóa giải (bất bình đẳng, khủng hoảng, hủy hoại môi trường) và không thể là tương lai cuối cùng.
 * Thực tiễn Việt Nam và các nước XHCN khác đang chứng minh sức sống và tính ưu việt của chế độ mới thông qua các thành tựu phát triển.
 
-**3. Về kinh tế:**
+# 3. Về kinh tế
 
 **Luận điệu:** Cho rằng "kinh tế thị trường" không thể đi đôi với "định hướng XHCN"; kinh tế thị trường là của chủ nghĩa tư bản; Việt Nam thực chất đang phát triển theo con đường tư bản chủ nghĩa (CNTB) một cách cuồng nhiệt.
 * Kinh tế thị trường là thành tựu của văn minh nhân loại, không phải sản phẩm riêng của CNTB.
@@ -117,7 +200,7 @@
 * Cấu trúc kinh tế: Bất động sản là nền tảng hạ tầng, song song đó Nhà nước đang quyết liệt thúc đẩy sản xuất, công nghệ cao (bán dẫn, AI) và nông nghiệp làm trụ cột cốt lõi, không phụ thuộc duy nhất vào đất đai.
 * Cơ hội mới: Giá bất động sản tăng phản ánh sự tái định giá hạ tầng; cơ hội cho người dân nằm ở việc dịch chuyển ra các trung tâm mới có hạ tầng kết nối tốt (như tàu điện, cao tốc) thay vì bám trụ vào trung tâm cũ.
 
-**4. Về thể chế chính trị (Đa nguyên, đa đảng):**
+# 4. Về thể chế chính trị (Đa nguyên, đa đảng)
 
 **Luận điệu:** Cho rằng muốn có dân chủ và phát triển thì phải thực hiện đa nguyên chính trị, đa đảng đối lập; chế độ một đảng là độc tài, mất dân chủ.
 * Đa đảng không đồng nghĩa với dân chủ (thực tế nhiều nước đa đảng vẫn mất ổn định, kém phát triển).
@@ -150,7 +233,12 @@
 * Uy tín của Đảng và lãnh đạo được khẳng định qua thắng lợi lịch sử và thành tựu phát triển kinh tế - xã hội liên tục, không cần qua các cuộc "bỏ phiếu ảo" mang tính trình diễn.
 * Đây là chiêu trò mị dân nhằm phủ nhận hệ thống pháp luật hợp hiến và gây nhiễu loạn chính trị.
 
-**5. Về nguyên tắc tập trung dân chủ:**
+**Luận điệu:** Cho rằng chế độ hiện tại là độc tài và đòi hỏi đa nguyên đa đảng; quy chụp độc đảng kìm hãm sự phát triển và gây tham nhũng.
+* Đa đảng không đảm bảo sự ổn định, thường dẫn đến đấu đá phe phái và chia rẽ khối đại đoàn kết dân tộc (như tình trạng bất ổn tại Thái Lan, Myanmar).
+* Thực tế tại một số nước đa đảng (như Mỹ) cho thấy lợi ích đảng phái có thể chỉ phục vụ giới tinh hoa và tập đoàn tài chính thay vì đại đa số nhân dân.
+* Chế độ một đảng vẫn đảm bảo đất nước phát triển nếu biết tự hoàn thiện; Đảng đang quyết liệt loại trừ tham nhũng và phát triển đất nước, chứng minh hiệu quả lãnh đạo.
+
+# 5. Về nguyên tắc tập trung dân chủ
 
 **Luận điệu:** Cho rằng nguyên tắc tập trung dân chủ đã lỗi thời, chỉ dẫn đến tập trung quan liêu, độc đoán, chuyên quyền; cần xóa bỏ nguyên tắc này.
 * Tập trung dân chủ là nguyên tắc tổ chức cơ bản, là "xương sống" của Đảng Cộng sản và Nhà nước XHCN.
@@ -161,7 +249,7 @@
 * Nguyên tắc tập trung dân chủ luôn được Đảng đề cao; những sai phạm, tiêu cực là do sự suy thoái của cá nhân cán bộ, không đại diện cho bản chất chế độ.
 * Thực tế sự phát triển kinh tế, xã hội ổn định của Việt Nam là minh chứng cho thấy cơ chế lãnh đạo hiện tại vẫn phát huy hiệu quả, không phải là "nguyên nhân kìm hãm" hay gây biến dạng xã hội.
 
-**6. Về lực lượng vũ trang (Quân đội, Công an):**
+# 6. Về lực lượng vũ trang (Quân đội, Công an)
 
 **Luận điệu:** Đòi "phi chính trị hóa" lực lượng vũ trang; cho rằng quân đội, công an phải "trung lập", chỉ phục vụ Tổ quốc/Nhà nước, không phục vụ Đảng phái nào.
 * Đây là âm mưu thâm độc nhằm tước bỏ sự lãnh đạo của Đảng đối với lực lượng vũ trang (như bài học xương máu ở Liên Xô).
@@ -233,7 +321,12 @@
 * Biết ơn là truyền thống văn hóa "uống nước nhớ nguồn", đạo lý dân tộc, không phải sự khép nép hay nô bộc.
 * Ở mọi quốc gia văn minh, việc tôn vinh lực lượng cứu nạn là lẽ đương nhiên; phủ nhận điều này là kích động vô ơn, chia rẽ quân dân.
 
-**7. Về quốc phòng - an ninh:**
+**Luận điệu:** Tung tin giả về mâu thuẫn gay gắt giữa "phe Quân đội" và "phe Công an"; kêu gọi ủng hộ tướng lĩnh Quân đội nắm quyền tối cao để loại bỏ "Công an trị".
+* Đây là kịch bản chia rẽ thâm độc nhằm phá vỡ sự đoàn kết của hai lực lượng vũ trang trọng yếu ("Thanh kiếm và Lá chắn"). Quân đội và Công an luôn thống nhất mục tiêu bảo vệ Đảng, Nhà nước và Nhân dân.
+* Việc sắp xếp nhân sự cấp cao dựa trên quy trình của Đảng và năng lực cán bộ, không phải cuộc chiến giành ghế giữa các ngành.
+* Kích động sự đối đầu này thực chất là để làm suy yếu sức mạnh bảo vệ chế độ và phá hoại Đại hội Đảng.
+
+# 7. Về quốc phòng - an ninh
 
 **Luận điệu:** Cho rằng trong điều kiện chiến tranh công nghệ cao, đường lối quốc phòng toàn dân, an ninh nhân dân là lạc hậu, sai lầm.
 * Vũ khí công nghệ cao tuy mạnh nhưng không phải là vạn năng, con người mới là yếu tố quyết định.
@@ -260,7 +353,7 @@
 * Bài toán hiệu quả: Tàu sân bay tốn hàng tỷ USD mua sắm và chi phí vận hành khổng lồ (tàu của Thái Lan thường xuyên nằm bờ, thiếu máy bay). Việt Nam ưu tiên ngân sách cho các khí tài thiết thực, phù hợp với địa hình Biển Đông nhiều đảo và eo biển.
 * Sự phù hợp: Tàu sân bay Thái Lan mang tính biểu tượng và hỗ trợ nhân đạo; trong khi Việt Nam tập trung vào năng lực tác chiến thực tế và làm chủ công nghệ đóng tàu tuần tra, tàu tên lửa.
 
-**8. Về xã hội dân sự:**
+# 8. Về xã hội dân sự
 
 **Luận điệu:** Cổ súy cho "xã hội dân sự" theo tiêu chí phương Tây, coi đây là lực lượng đối trọng với Nhà nước; lợi dụng các tổ chức không chính phủ, hội nhóm để chống phá.
 * Bản chất của chiêu bài "xã hội dân sự" của các thế lực thù địch là nhằm hình thành các tổ chức chính trị đối lập, thoát ly sự lãnh đạo của Đảng.
@@ -287,7 +380,7 @@
 * "Độc lập tài chính" kiểu này thực chất là sự phụ thuộc vào dòng tiền của các thế lực thù địch; người nhận tiền buộc phải sản xuất nội dung chống phá theo "đơn đặt hàng" để duy trì nguồn thu, không còn là tiếng nói khách quan.
 * "Tự do tư tưởng" không đồng nghĩa với việc nhận tiền để sản xuất nội dung bôi nhọ, xuyên tạc đất nước.
 
-**9. Về phòng chống tham nhũng:**
+# 9. Về phòng chống tham nhũng
 
 **Luận điệu:** Cho rằng Đảng Cộng sản không thể chống tham nhũng thành công vì đó là "lỗi hệ thống" của chế độ một đảng; phải tam quyền phân lập mới chống được tham nhũng.
 * Tham nhũng là khuyết tật bẩm sinh của quyền lực, tồn tại ở mọi chế độ (cả đa đảng và một đảng).
@@ -316,7 +409,7 @@
 * Làm trong sạch bộ máy giúp loại bỏ "ung nhọt", tạo môi trường minh bạch, thuận lợi cho phát triển kinh tế (thực tế kinh tế Việt Nam vẫn tăng trưởng là minh chứng).
 * Đảng đã có cơ chế bảo vệ cán bộ "dám nghĩ, dám làm" vì lợi ích chung. Tình trạng né tránh chủ yếu do năng lực hạn chế hoặc hệ thống pháp luật chưa đồng bộ, đang được tập trung khắc phục.
 
-**10. Về đối ngoại:**
+# 10. Về đối ngoại
 
 **Luận điệu:** Phủ nhận đường lối đối ngoại độc lập, tự chủ; kêu gọi liên minh quân sự với nước này để chống nước kia; chỉ trích chính sách "ba không" của quốc phòng Việt Nam.
 * Đường lối đối ngoại của Việt Nam là độc lập, tự chủ, hòa bình, hợp tác và phát triển; đa phương hóa, đa dạng hóa.
@@ -359,7 +452,7 @@
 * Quan hệ Việt - Mỹ là Đối tác Chiến lược Toàn diện, hợp tác dựa trên bình đẳng, cùng có lợi. Mỹ hỗ trợ khắc phục hậu quả chiến tranh (tẩy độc dioxin, rà phá bom mìn) là trách nhiệm đạo lý và cam kết hàn gắn, không phải sự ban ơn một chiều.
 * Việt Nam không "chống Mỹ" cực đoan mà chỉ phản đối các hành động xâm phạm chủ quyền hoặc can thiệp nội bộ. Việc nhận hỗ trợ nhân đạo là hoạt động ngoại giao bình thường, không ảnh hưởng đến đường lối độc lập tự chủ.
 
-**11. Về báo chí, văn học - nghệ thuật:**
+# 11. Về báo chí, văn học - nghệ thuật
 
 **Luận điệu:** Đòi "tự do báo chí", "tự do sáng tạo" tuyệt đối; phủ nhận sự lãnh đạo của Đảng đối với văn học, nghệ thuật; đòi tư nhân hóa báo chí.
 * Không có tự do báo chí, văn nghệ tuyệt đối, phi giai cấp ở bất cứ đâu.
@@ -380,7 +473,22 @@
 * Đây là thủ đoạn "ký sinh truyền thông", trà trộn dưới vỏ bọc "người dân bức xúc" về các vấn đề dân sinh (học phí, từ thiện) để lên sóng, sau đó dùng hình ảnh đó để lừa dối cộng đồng mạng về vị thế chính trị của mình.
 * Các cơ quan báo chí khi phát hiện sai sót đều đính chính và xử lý; việc lợi dụng tai nạn nghề nghiệp của báo chí để trục lợi chính trị là hành vi gian dối.
 
-**12. Về "Tự diễn biến", "Tự chuyển hóa":**
+**Luận điệu:** So sánh tự do báo chí của Việt Nam thấp hơn các nước trong khu vực (như Thái Lan); cho rằng người dân Thái Lan được tự do chỉ trích lãnh đạo, còn Việt Nam thì bị kìm kẹp, đàn áp.
+* Sự so sánh cần nhìn vào thực tế ổn định chính trị: "Tự do" quá trớn thường đi kèm với bất ổn, biểu tình bạo loạn và chia rẽ xã hội sâu sắc (như các cuộc đảo chính liên tục tại Thái Lan), gây thiệt hại cho kinh tế và đời sống người dân.
+* Tự do ngôn luận không đồng nghĩa với quyền được thóa mạ, bôi nhọ lãnh đạo hay tung tin giả gây hoang mang. Ở Việt Nam, người dân có quyền phản biện, giám sát, chất vấn thông qua các kênh chính thống (Quốc hội, tiếp xúc cử tri, báo chí) một cách văn minh, xây dựng.
+* Mục tiêu của báo chí cách mạng là phục vụ sự ổn định và phát triển, bảo vệ lợi ích quốc gia, không phải là công cụ để các phe phái chính trị tấn công lẫn nhau gây hỗn loạn.
+
+**Luận điệu:** Cho rằng kiểm soát báo chí là "bịt mắt người dân", "che giấu mặt tối", tước đoạt quyền tự do ý chí và quyền đòi hỏi phúc lợi; khẳng định chỉ có tự do báo chí tuyệt đối mới mang lại sự phát triển và công bằng.
+* Thực tế các tổ chức chống phá thường lợi dụng danh nghĩa "tự do báo chí" để tung tin sai sự thật, bôi nhọ đất nước (như rêu rao Việt Nam không có điện, internet, lạc hậu) vì mục đích tài chính hoặc chính trị đen tối, không phải vì nhân quyền.
+* Sự phát triển kinh tế và an sinh xã hội vượt bậc của Việt Nam (tỷ lệ nghèo giảm sâu, hạ tầng hiện đại) là minh chứng cho thấy sự ổn định chính trị và định hướng đúng đắn quan trọng hơn là sự "tự do hỗn loạn".
+* Tự do phải đi đôi với kỷ cương và trách nhiệm xã hội. Kiểm soát tin giả, thông tin xấu độc là để bảo vệ môi trường thông tin lành mạnh, giúp người dân tiếp cận sự thật, không phải để "che giấu".
+
+**Luận điệu:** Quy chụp ca sĩ, nghệ sĩ trẻ hát nhạc cách mạng, ca ngợi Đảng là "nịnh thần", "bưng bô", "kiếm tiền từ tuyên truyền"; so sánh miệt thị với nghệ sĩ hải ngoại.
+* Hát về Đảng, về Tổ quốc là thể hiện tình yêu nước và lòng biết ơn, là lẽ thường đạo lý ("Uống nước nhớ nguồn"), không phải là hành vi xấu xa cần lên án.
+* Dòng nhạc chính luận, cách mạng đòi hỏi kỹ thuật và cảm xúc tự hào; nghệ sĩ trẻ dấn thân là sự tiếp nối truyền thống đáng trân trọng.
+* Sự đón nhận nồng nhiệt của khán giả (hàng triệu lượt xem) chứng tỏ sức sống của dòng nhạc này và lòng yêu nước của giới trẻ, bác bỏ sự ghen tỵ, hằn học của các đối tượng chống phá.
+
+# 12. Về "Tự diễn biến", "Tự chuyển hóa"
 
 **Luận điệu:** Cho rằng việc "Tự diễn biến", "Tự chuyển hóa" là quy luật tất yếu, Đảng không thể ngăn chặn; hoặc phủ nhận sự tồn tại của nó.
 * Nghị quyết Trung ương 4 khóa XII đã chỉ rõ các biểu hiện cụ thể của suy thoái và "tự diễn biến", "tự chuyển hóa".
@@ -388,7 +496,7 @@
 * Từ suy thoái đạo đức dẫn đến biến chất chính trị là một bước rất ngắn, cần phải ngăn chặn từ sớm bằng các giải pháp đồng bộ về chính trị, tư tưởng và tổ chức.
 * Bài học từ Liên Xô: Sự suy thoái về tư tưởng chính trị, đạo đức của một bộ phận cán bộ lãnh đạo cao cấp là nguyên nhân chủ yếu dẫn đến sự sụp đổ của Đảng và chế độ.
 
-**13. Về Sắp xếp, tinh gọn bộ máy và thực hiện chính quyền địa phương hai cấp (từ 01/7/2025):**
+# 13. Về Sắp xếp, tinh gọn bộ máy và thực hiện chính quyền địa phương hai cấp (từ 01/7/2025)
 
 **Luận điệu:** Cho rằng tinh gọn bộ máy chỉ là "bình mới rượu cũ", dồn người từ chỗ này sang chỗ khác, không thực chất; lực lượng công an, quân đội không phải tinh gọn mà còn phình to; gây thất nghiệp và bất ổn.
 * Đây là cuộc cách mạng về tổ chức nhằm "Tinh - Gọn - Mạnh - Hiệu năng", không phải hình thức. Bộ Công an là đơn vị tiên phong, gương mẫu đi đầu (bỏ cấp Tổng cục, giảm nhiều đầu mối) và hoạt động hiệu quả hơn, chứng minh "không có vùng cấm".
@@ -452,7 +560,7 @@
 * Quy trình sáp nhập tuân thủ nghiêm ngặt Hiến pháp và Luật Tổ chức chính quyền địa phương (lấy ý kiến nhân dân cấp xã chịu ảnh hưởng, HĐND các cấp thông qua, Quốc hội quyết định).
 * Luận điệu "trưng cầu dân ý" là chiêu trò nhằm trì hoãn, phá hoại chủ trương tinh gọn bộ máy.
 
-**14. Về Đổi mới Chính trị:**
+# 14. Về Đổi mới Chính trị
 
 **Luận điệu:** Cho rằng Việt Nam chỉ đổi mới kinh tế mà không đổi mới chính trị; giữ nguyên bộ máy lãnh đạo chuyên quyền; đòi thực hiện "tam quyền phân lập".
 * Đổi mới kinh tế kết hợp với đổi mới chính trị ngay từ đầu (kinh tế là trung tâm, xây dựng Đảng là then chốt).
@@ -474,7 +582,7 @@
 * Thành tựu kinh tế to lớn sau 40 năm đổi mới (tăng trưởng cao, hội nhập sâu rộng) bác bỏ luận điệu về sự "kìm hãm" hay "kém hiệu quả".
 * Ổn định chính trị là tiền đề tiên quyết cho tăng trưởng kinh tế; các mô hình "đa nguyên" ở một số nước gây bất ổn, không đảm bảo phát triển.
 
-**15. Về Dân chủ và Nhân quyền:**
+# 15. Về Dân chủ và Nhân quyền
 
 **Luận điệu:** Cho rằng Việt Nam không có dân chủ, vi phạm nhân quyền; lợi dụng vấn đề dân chủ, nhân quyền để đả kích sự lãnh đạo của Đảng.
 * Cơ chế "Đảng lãnh đạo, Nhà nước quản lý, Nhân dân làm chủ" giải quyết đúng đắn mối quan hệ trong xã hội, đảm bảo quyền làm chủ của dân.
@@ -496,7 +604,7 @@
 * Việt Nam không có "tù nhân lương tâm"; pháp luật nghiêm cấm tra tấn và các cơ sở giam giữ tuân thủ Công ước quốc tế.
 * Các cáo buộc thường thiếu chứng cứ, dựa trên lời kể một chiều của các đối tượng chống đối nhằm trục lợi tài chính.
 
-**16. Về việc sửa đổi, bổ sung Hiến pháp năm 2013 (năm 2025):**
+# 16. Về việc sửa đổi, bổ sung Hiến pháp năm 2013 (năm 2025)
 
 **Luận điệu:** Xuyên tạc rằng việc sửa đổi Hiến pháp là "đấu đá quyền lực nội bộ", "thâu tóm quyền lực", là hành động "vi hiến"; cho rằng "nhân dân không được biết, không được tham gia".
 * Mục đích sửa đổi là để phục vụ phát triển đất nước, tinh gọn bộ máy (chính quyền 2 cấp), phát huy quyền làm chủ của nhân dân, không phải là đấu đá quyền lực.
@@ -504,7 +612,7 @@
 * Quy trình lấy ý kiến nhân dân diễn ra công khai, minh bạch, rộng rãi (qua ứng dụng VNeID, hội nghị) với sự tham gia và đồng thuận cao của xã hội.
 * Việc sửa đổi giúp phân quyền, phân cấp mạnh mẽ, giảm tầng nấc trung gian, tăng tính tự chủ cho địa phương, bác bỏ luận điệu về "tập quyền hóa".
 
-**17. Về Đại hội XIV của Đảng (Nhân sự và Văn kiện):**
+# 17. Về Đại hội XIV của Đảng (Nhân sự và Văn kiện)
 
 **Luận điệu:** Bịa đặt về "phe cánh", "thanh trừng nội bộ", "phân biệt vùng miền" trong công tác nhân sự cấp cao. Xuyên tạc văn kiện đại hội là "bình mới rượu cũ", "mục tiêu viển vông", "che giấu hạn chế".
 * Công tác nhân sự được thực hiện dân chủ, công khai, bài bản để lựa chọn người có đức, có tài, không có chuyện "phe cánh" hay "cục bộ".
@@ -539,6 +647,31 @@
 * Cơ quan chức năng chủ động nhận diện, đấu tranh với các đối tượng mượn danh "góp ý" để cài cắm quan điểm sai trái (như đòi đa nguyên, phi chính trị hóa lực lượng vũ trang) nhằm chống phá Đại hội.
 * Phủ nhận giá trị văn kiện là thủ đoạn nhằm hạ thấp uy tín của Đảng và phá hoại Đại hội.
 
+**Luận điệu:** Xuyên tạc các biện pháp an ninh (phá sóng, cấm điện thoại, họp kín) tại Đại hội XIV là "bưng bít thông tin", "sợ dân", "hoạt động bí mật như hội kín"; cho rằng Đại hội xa rời dân.
+* Các biện pháp an ninh, bảo mật là quy định thông thường đối với các sự kiện chính trị trọng đại cấp quốc gia để đảm bảo an toàn tuyệt đối và sự tập trung cao độ cho các đại biểu, tránh nhiễu thông tin.
+* "Họp kín" là quy trình làm việc nội bộ để thảo luận sâu, quyết định các vấn đề hệ trọng trước khi công bố rộng rãi; kết quả và nghị quyết đều được thông báo công khai, minh bạch cho toàn dân (truyền hình trực tiếp khai mạc/bế mạc, họp báo).
+* Việc rút ngắn thời gian làm việc thể hiện sự đổi mới, làm việc khoa học, hiệu quả, tiết kiệm, không phải là "vội vàng" hay "có vấn đề".
+
+**Luận điệu:** Mỉa mai mục tiêu kinh tế (GDP tăng 10%, thu nhập 8.500 USD) là "bánh vẽ", "ảo tưởng", "trên trời"; cho rằng con số không phản ánh đời sống thực tế của dân.
+* Các chỉ tiêu được xây dựng dựa trên phân tích khoa học về tiềm năng, thời cơ "kỷ nguyên mới" và quyết tâm chính trị cao độ để đưa đất nước bứt phá, tránh bẫy thu nhập trung bình.
+* Tăng trưởng kinh tế là tiền đề để cải thiện đời sống; Nhà nước luôn chú trọng các chỉ số an sinh, giảm nghèo đa chiều song song với tăng trưởng GDP.
+
+**Luận điệu:** Suy diễn việc "không sửa đổi Điều lệ Đảng" tại Đại hội XIV là dấu hiệu của đấu đá, hoặc để loại bỏ/giữ lại nhân sự cụ thể; cho rằng điều lệ là công cụ của phe nhóm.
+* Việc không sửa đổi Điều lệ thể hiện sự ổn định, kế thừa và tính đúng đắn của các quy định hiện hành; tập trung vào việc thực hiện tốt các quy định đã có thay vì thay đổi liên tục.
+* Công tác nhân sự thực hiện theo quy định hiện hành và các hướng dẫn cụ thể (như Quy định 244, Chỉ thị 35), đảm bảo nguyên tắc tập trung dân chủ, không phụ thuộc vào việc có sửa Điều lệ hay không.
+
+**Luận điệu:** Chế giễu phương châm "Dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng" của Mặt trận Tổ quốc; cho rằng dân không được biết gì (họp kín), không được bàn (sợ bị bắt), không được kiểm tra.
+* Phương châm này đang được thể chế hóa mạnh mẽ (Luật Thực hiện dân chủ ở cơ sở), tạo hành lang pháp lý để dân tham gia thực chất.
+* Các kênh thông tin, tiếp xúc cử tri, góp ý văn kiện, tố giác sai phạm đang hoạt động hiệu quả; người dân thực sự được thụ hưởng thành quả phát triển (hạ tầng, y tế, giáo dục). Những ý kiến xây dựng luôn được lắng nghe, chỉ những hành vi lợi dụng để chống phá mới bị xử lý.
+
+**Luận điệu:** Mỉa mai khái niệm lãnh đạo là "đầy tớ của nhân dân"; cho rằng "đầy tớ" thì giàu có, quyền lực, còn "ông chủ" (nhân dân) thì nghèo khổ, sợ hãi; đây là khẩu hiệu sáo rỗng.
+* "Đầy tớ" là ẩn dụ về trách nhiệm phụng sự, lo cho dân, vì lợi ích của dân, không phải là thân phận thấp hèn.
+* Đảng đang quyết liệt chống tham nhũng, tiêu cực, xử lý cán bộ thoái hóa biến chất để làm trong sạch đội ngũ, đảm bảo cán bộ thực sự là "công bộc" của dân. Những cá nhân sai phạm bị xử lý là minh chứng cho việc không có vùng cấm, không ai đứng trên nhân dân.
+
+**Luận điệu:** Lợi dụng vụ bắt giữ các cá nhân (như chủ tài khoản Facebook "Tuấn Ban Mê") trước thềm sự kiện lớn để quy kết Nhà nước "bịt miệng", "thủ tiêu quyền tự do" để đại hội êm đẹp; cho rằng Điều 331 là "công cụ đàn áp".
+* Việc khởi tố dựa trên hành vi vi phạm pháp luật cụ thể (tung tin bịa đặt, xuyên tạc, xâm phạm lợi ích Nhà nước/tổ chức/cá nhân) đã được thu thập chứng cứ, không phải vì "góp ý" hay phản biện.
+* Quyền tự do dân chủ không bao gồm quyền được bịa đặt, vu khống gây ảnh hưởng xấu đến an ninh trật tự và uy tín quốc gia. Việc xử lý nghiêm nhằm làm trong sạch môi trường thông tin, bảo vệ lợi ích chung của xã hội.
+
 **Luận điệu:** Tung ra các "tâm thư", "kiến nghị", "đơn thư tố cáo" giả mạo danh nghĩa cán bộ lão thành hoặc đương chức để kích động chia rẽ nội bộ; soạn thảo các "dự thảo văn kiện đối trọng" để gây nhiễu loạn.
 * Đây là thủ đoạn chiến tranh tâm lý nhằm tạo ra ma trận thông tin giả, làm xói mòn niềm tin vào sự đoàn kết của Đảng.
 * Các kênh góp ý chính thức của Đảng luôn công khai, minh bạch; những "tâm thư" trôi nổi trên mạng xã hội thường là sản phẩm ngụy tạo của các thế lực thù địch.
@@ -571,14 +704,83 @@
 * Công tác nhân sự được thực hiện chặt chẽ qua các bước quy hoạch, giới thiệu, lấy phiếu tín nhiệm công khai, minh bạch, đảm bảo tiêu chuẩn "có đức, có tài".
 * Việc tổ chức đại hội không rập khuôn mà linh hoạt theo thực tiễn địa phương, đề cao trách nhiệm người đứng đầu và sự giám sát của đảng viên, nhân dân.
 
-**18. Về Chủ nghĩa dân túy:**
+**Luận điệu:** Cho rằng việc các con của nguyên lãnh đạo (như Nguyễn Thanh Nghị, Nguyễn Minh Triết) trúng cử Trung ương là "gia đình trị", "con vua thì lại làm vua", "ô dù che chắn"; khẳng định đây là sự thỏa hiệp để bảo vệ "nhóm lợi ích".
+* Quy trình bầu cử tại Đại hội thực hiện theo nguyên tắc tập trung dân chủ, bỏ phiếu kín bởi các đại biểu đại diện cho toàn Đảng, không phải do cá nhân nào chỉ định.
+* Các nhân sự này đều phải trải qua quá trình rèn luyện, công tác từ cơ sở, đáp ứng các tiêu chuẩn khắt khe về trình độ, năng lực và phẩm chất theo quy định của Đảng. Xuất thân gia đình là yếu tố tham khảo nhưng không thay thế được năng lực thực tế.
+* Việc kế thừa truyền thống gia đình tham gia đóng góp cho đất nước là điều đáng khích lệ nếu cá nhân đó có thực tài; đánh đồng mọi trường hợp con em cán bộ với "thái tử đỏ" bất tài là cái nhìn định kiến, thiếu công bằng.
+
+**Luận điệu:** Quy chụp danh sách Trung ương khóa XIV có nhiều người quê Hưng Yên là "Đảng Hưng Yên", "cục bộ địa phương", "một người làm quan cả họ được nhờ"; cho rằng Tổng Bí thư ưu ái đồng hương để củng cố quyền lực.
+* Công tác nhân sự của Đảng dựa trên tiêu chuẩn "đức, tài" và quy trình quy hoạch, bầu cử dân chủ, tập thể, không dựa trên quê quán. Việc trùng hợp về quê quán không phản ánh bản chất cục bộ mà phụ thuộc vào quá trình phấn đấu của từng cá nhân.
+* Các Ủy viên Trung ương đại diện cho ý chí và lợi ích của toàn Đảng, toàn dân, chịu sự giám sát của tập thể Ban Chấp hành Trung ương, không phục vụ lợi ích riêng của một địa phương nào.
+* Lịch sử cho thấy lãnh đạo cấp cao đến từ nhiều vùng miền khác nhau; quy kết cục bộ địa phương là thủ đoạn chia rẽ khối đại đoàn kết và hạ thấp uy tín lãnh đạo.
+
+**Luận điệu:** Xuyên tạc việc Tổng Bí thư Tô Lâm tái đắc cử là "trường hợp đặc biệt" quá tuổi quy định là "tham quyền cố vị", "ngồi xổm trên điều lệ", muốn làm "lãnh đạo trọn đời" giống Putin hay Tập Cận Bình.
+* Cơ chế "trường hợp đặc biệt" được quy định rõ trong quy chế bầu cử của Đảng nhằm giữ lại các lãnh đạo có kinh nghiệm, uy tín để đảm bảo sự ổn định và kế thừa trong giai đoạn chuyển giao, được Ban Chấp hành Trung ương thống nhất biểu quyết thông qua.
+* Việc tái cử dựa trên tín nhiệm tuyệt đối của Trung ương và yêu cầu thực tiễn của đất nước cần người đứng đầu bản lĩnh để tiếp tục công cuộc chống tham nhũng và phát triển kinh tế, không phải tham vọng cá nhân.
+* So sánh với các lãnh đạo nước ngoài là khập khiễng do khác biệt về thể chế chính trị và bối cảnh lịch sử; Điều lệ Đảng vẫn quy định rõ về nhiệm kỳ và nguyên tắc tập trung dân chủ.
+
+**Luận điệu:** Cho rằng Tổng Bí thư quá tuổi vẫn được bầu là "vi hiến", trái với Hiến pháp; coi cơ chế "trường hợp đặc biệt" là sự tùy tiện, "lỗ hổng" để phá vỡ nguyên tắc.
+* Hiến pháp là đạo luật tối cao của quốc gia và không quy định giới hạn độ tuổi đối với các chức danh lãnh đạo cấp cao; việc lấy quy định nội bộ của Đảng (tiêu chuẩn kỹ thuật) để gán cho Hiến pháp là sự nhầm lẫn căn bản về pháp lý.
+* "Trường hợp đặc biệt" không phải là đặc quyền tự đặt ra mà là một cơ chế quản trị linh hoạt, được quy định rõ trong văn bản, được thảo luận dân chủ và biểu quyết bởi Trung ương nhằm chọn người bản lĩnh nhất cho vận mệnh quốc gia trong giai đoạn chuyển giao.
+* Kết quả tái cử đến từ sự đồng thuận tập thể qua quy trình sàng lọc nghiêm ngặt (hiệp thương, lấy ý kiến cử tri, bỏ phiếu tín nhiệm), không phải kết quả của "tuyên truyền".
+* Chính trị cần được đánh giá bằng hiệu quả thực tế (trí tuệ, bản lĩnh) chứ không phải tuổi sinh học; thực tiễn cho thấy các "trường hợp đặc biệt" thường là những người tạo dấu ấn lớn trong phát triển đất nước.
+
+**Luận điệu:** Cho rằng sự vắng mặt của một số lãnh đạo chủ chốt (như Thủ tướng, Chủ tịch nước đương nhiệm) trong danh sách tái cử là dấu hiệu của "thanh trừng phe phái", "đấu đá nội bộ khốc liệt".
+* Công tác nhân sự cấp cao tuân thủ quy định về độ tuổi và sức khỏe; việc các lãnh đạo không tái cử là thực hiện đúng quy định của Đảng, thể hiện sự nghiêm minh và chuyển giao thế hệ, tạo điều kiện cho nhân tố mới.
+* Mọi quyết định nhân sự đều được bàn bạc, thống nhất trong tập thể Bộ Chính trị và Ban Chấp hành Trung ương vì lợi ích chung, không phải kết quả của sự "thanh trừng" cá nhân.
+
+**Luận điệu:** Xuyên tạc thông báo "nghiên cứu sửa đổi Điều lệ Đảng" sau Đại hội XIV là để "dọn đường" cho chế độ lãnh đạo trọn đời hoặc tập trung quyền lực tuyệt đối cho cá nhân.
+* Việc nghiên cứu, sửa đổi Điều lệ là hoạt động bình thường qua các kỳ Đại hội nhằm cập nhật, hoàn thiện phương thức lãnh đạo phù hợp với thực tiễn phát triển mới của đất nước và yêu cầu xây dựng Đảng, không phục vụ lợi ích cá nhân.
+* Mọi sự sửa đổi đều phải qua quy trình thảo luận dân chủ, lấy ý kiến rộng rãi trong Đảng và được Đại hội biểu quyết thông qua.
+
+**Luận điệu:** Cho rằng Tổng Bí thư Tô Lâm bị "dân ghét" vì phần lớn bình luận trên mạng xã hội là tiêu cực; quy kết ông thiếu tính chính danh.
+* Phản ứng trên mạng xã hội thường bị chi phối bởi "hiệu ứng đám đông", các tài khoản ảo và thế lực thù địch lợi dụng thuật toán để công kích, không phản ánh đúng ý chí của nhân dân.
+* Đánh giá khách quan cho thấy sự ủng hộ đối với các quyết sách quyết liệt về chống tham nhũng ("đốt lò"), xử lý hàng giả, tinh gọn bộ máy, giải quyết những bức xúc tồn đọng trong xã hội.
+* Tính chính danh được xác định bởi quy định của Đảng và hiệu quả điều hành đất nước (ổn định chính trị, phục hồi kinh tế), không phải bởi cảm xúc nhất thời trên không gian ảo.
+
+**Luận điệu:** Cho rằng kết quả bầu Tổng Bí thư đạt 100% phiếu là "phi lý", "mất dân chủ", "tự bầu cho mình"; so sánh với các chế độ độc tài hoặc coi đây là "màn kịch" sắp đặt trước.
+* Tỷ lệ 100% phản ánh sự đoàn kết, thống nhất ý chí và niềm tin tuyệt đối của Ban Chấp hành Trung ương đối với năng lực và uy tín của người đứng đầu, đặc biệt trong giai đoạn chuyển giao quan trọng. Đây là sức mạnh của sự đồng thuận, không phải là mất dân chủ.
+* Nhân sự được chuẩn bị kỹ lưỡng qua quy trình nhiều bước, lấy phiếu tín nhiệm qua nhiều vòng. Sự đồng thuận tuyệt đối ở bước cuối cùng là kết quả của quá trình sàng lọc và thống nhất dân chủ trước đó, đảm bảo sự ổn định chính trị.
+* Trong bầu cử nội bộ, mọi Ủy viên Trung ương đều có quyền và nghĩa vụ bỏ phiếu. Việc so sánh sự đồng thuận của tập thể lãnh đạo với bầu cử phổ thông là sự đánh tráo khái niệm về cấu trúc hệ thống chính trị.
+
+**Luận điệu:** Đòi hỏi phải có "bầu cử tự do", "tranh cử công khai" tại Đại hội Đảng; cho rằng bầu cử trong Đảng hiện nay chỉ là "hợp thức hóa" quyết định có sẵn, thiếu tính dân chủ.
+* Đây là sự đánh tráo khái niệm, áp đặt máy móc mô hình bầu cử phổ thông của chế độ đa đảng vào kỳ bầu cử nội bộ của một tổ chức chính trị. Ngay cả tại các nước đa đảng (như Mỹ), các đảng cũng phải tổ chức bầu cử nội bộ (sơ bộ) để chọn ứng viên, không có sự "tự do" tuyệt đối hay tùy tiện.
+* Lá phiếu tại Đại hội Đảng là lá phiếu của trách nhiệm chính trị, dựa trên quá trình quy hoạch, đào tạo và thử thách cán bộ lâu dài, không phải là lá phiếu cảm tính dựa trên các khẩu hiệu tranh cử ngắn hạn.
+* Dân chủ trong Đảng được thực hiện xuyên suốt quy trình giới thiệu, thẩm định và lấy phiếu tín nhiệm từ cơ sở; Đại hội là bước kết tinh cuối cùng theo nguyên tắc tập trung dân chủ.
+* Thước đo dân chủ không nằm ở hình thức tranh cử ồn ào mà ở hiệu quả quản trị quốc gia. Sự ổn định chính trị và phát triển kinh tế - xã hội của Việt Nam qua các nhiệm kỳ là minh chứng rõ nhất cho tính đúng đắn của quy trình lựa chọn lãnh đạo này.
+
+**Luận điệu:** Thắc mắc "tại sao dân không được bầu trực tiếp Tổng Bí thư", "dân nào bầu ra ông này"; quy kết việc người dân không cầm phiếu bầu lãnh đạo cao nhất là mất dân chủ.
+* Tổng Bí thư là chức danh lãnh đạo của Đảng Cộng sản Việt Nam, do Ban Chấp hành Trung ương bầu ra, đại diện cho ý chí của toàn Đảng. Điều này tuân theo Điều lệ Đảng và nguyên tắc tổ chức của một đảng chính trị, không phải là chức danh do cử tri bầu trực tiếp.
+* Tuy nhiên, Đảng là lực lượng lãnh đạo Nhà nước và xã hội, nên quy trình lựa chọn nhân sự cấp cao luôn cân nhắc kỹ lưỡng đến uy tín và sự tín nhiệm trong nhân dân.
+* So sánh với các nước: Tại các thể chế đại nghị (như Anh, Đức, Nhật Bản), người đứng đầu hành pháp (Thủ tướng) cũng do đảng cầm quyền hoặc liên minh cầm quyền lựa chọn, người dân chỉ bầu nghị sĩ chứ không bầu trực tiếp Thủ tướng. Ngay cả Tổng thống Mỹ cũng được bầu qua Đại cử tri đoàn, không phải trực tiếp từ lá phiếu phổ thông.
+
+**Luận điệu:** Mỉa mai rằng Đại hội Đảng là "kín đáo nhất", "bí mật như bầu Giáo hoàng", báo chí không được dự các phiên thảo luận; quy kết việc "bỏ phiếu kín" là để che giấu sự "chia chác", "đấu đá".
+* Nguyên tắc tổ chức: Đại hội bàn về nhân sự và đường lối chiến lược nội bộ, cần sự tập trung và bảo mật để đại biểu thảo luận tự do, trung thực, tránh nhiễu loạn. Đây là nguyên tắc hoạt động bình thường của một đảng chính trị.
+* Bỏ phiếu kín: Là phương thức dân chủ cao nhất để bảo vệ chính kiến của người bầu, không phải là hành động "mờ ám". Nếu bỏ phiếu công khai mới dễ gây áp lực tâm lý.
+* Minh bạch kết quả: Báo chí được tham dự các phiên quan trọng (khai mạc, bế mạc) và họp báo. Kết quả cuối cùng luôn được công bố rộng rãi; việc "kín" ở khâu thảo luận là để đảm bảo chất lượng quyết định, không phải để giấu dân.
+
+**Luận điệu:** Cho rằng kết quả bầu cử "ai cũng biết trước", chứng tỏ Đại hội chỉ là "màn kịch", "hợp thức hóa" sự sắp đặt; dân không được bầu trực tiếp nên không quan tâm.
+* Sự chuẩn bị kỹ lưỡng: Kết quả có sự đồng thuận cao là do công tác nhân sự đã được chuẩn bị bài bản, dân chủ qua nhiều vòng từ cấp dưới lên cấp trên (quy trình 5 bước), tạo ra sự thống nhất trong toàn Đảng trước khi vào Đại hội.
+* Tính đại diện: Đại biểu tham dự Đại hội đại diện cho ý chí của đảng viên và nhân dân; lá phiếu của họ là kết tinh của trí tuệ tập thể, không phải là sự "diễn".
+
+**Luận điệu:** Xuyên tạc việc lực lượng Công an ra quân bảo vệ Đại hội Đảng XIV là "phô trương", "lãng phí", "uy hiếp dân"; cho rằng "dân không quan tâm" nên không cần bảo vệ.
+* Bảo vệ an ninh tuyệt đối cho các sự kiện chính trị trọng đại là quy trình tiêu chuẩn và trách nhiệm hiến định ở mọi quốc gia (như Mỹ bảo vệ Lễ nhậm chức Tổng thống), nhằm ngăn chặn nguy cơ khủng bố, phá hoại từ sớm.
+* Luận điệu "dân không quan tâm" là ngụy biện; an ninh chính trị ổn định là tiền đề cho kinh tế phát triển, bảo vệ lợi ích trực tiếp của người dân.
+* Sự hiện diện của lực lượng an ninh là để răn đe các thế lực thù địch, đảm bảo sự kiện diễn ra an toàn, không phải để đe dọa người dân lương thiện.
+
+**Luận điệu:** Bịa đặt rằng Tổng Bí thư dùng tiền ngân sách hoặc tiền cá nhân để tặng quà (tiền mặt, máy tính bảng) trị giá hàng chục tỷ đồng cho đại biểu Đại hội để "mua chuộc"; quy kết đây là tham nhũng.
+* Máy tính bảng là trang bị thiết bị làm việc phục vụ chủ trương "Đại hội không giấy tờ", chuyển đổi số, thuộc tài sản công của Ban Tổ chức, không phải quà tặng cá nhân.
+* Các khoản hỗ trợ đại biểu (nếu có) là chế độ công tác phí, bồi dưỡng theo quy định tài chính công khai của Nhà nước đối với người đi công tác, hội họp.
+* Việc quy chụp chi phí tổ chức và trang bị phương tiện làm việc thành hành vi "mua chuộc" là thủ đoạn bôi nhọ, hạ thấp tính trang nghiêm của Đại hội.
+
+# 18. Về Chủ nghĩa dân túy
 
 **Luận điệu:** Lợi dụng tâm lý đám đông, đưa ra các khẩu hiệu mị dân, hứa hẹn viển vông để lôi kéo quần chúng, công kích chính quyền, chia rẽ nhân dân với Đảng.
 * Chủ nghĩa dân túy thường đưa ra các giải pháp đơn giản hóa cho các vấn đề phức tạp, thiếu tính thực tế và bền vững.
 * Bản chất là thủ đoạn chính trị của những kẻ cơ hội nhằm tranh giành quyền lực, gây mất ổn định xã hội.
 * Cần tỉnh táo nhận diện, không để bị lôi kéo bởi những lời hứa hẹn suông, kích động mâu thuẫn xã hội.
 
-**19. Về Sở hữu đất đai:**
+# 19. Về Sở hữu đất đai
 
 **Luận điệu:** Đòi tư nhân hóa đất đai, cho rằng sở hữu toàn dân là "vô chủ", cản trở phát triển kinh tế; xuyên tạc các vụ việc khiếu kiện đất đai để kích động chống đối.
 * Đất đai là tài nguyên đặc biệt của quốc gia, nguồn lực quan trọng phát triển đất nước, thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.
@@ -610,7 +812,7 @@
 * Đây là sự đánh tráo bản chất: việc khiếu kiện thường xuất phát từ tranh chấp dân sự hoặc đất đai cụ thể, cần giải quyết theo trình tự pháp luật, không liên quan đến chính sách "Đền ơn đáp nghĩa" vốn luôn được Nhà nước thực hiện chu đáo.
 * Việc tụ tập đông người gây mất trật tự công cộng là hành vi vi phạm pháp luật; mọi công dân đều bình đẳng trước pháp luật, người có công vi phạm vẫn bị xử lý để đảm bảo kỷ cương.
 
-**20. Về "Bất tuân dân sự":**
+# 20. Về "Bất tuân dân sự"
 
 **Luận điệu:** Kêu gọi "bất tuân dân sự", biểu tình trái pháp luật, cản trở hoạt động công quyền dưới danh nghĩa "yêu nước", "bảo vệ môi trường", "phản biện xã hội".
 * Đây là chiêu trò "cách mạng màu", "cách mạng đường phố" nhằm gây rối loạn an ninh trật tự, tiến tới bạo loạn lật đổ.
@@ -622,13 +824,13 @@
 * Yêu nước chân chính phải dựa trên sự hiểu biết và thượng tôn pháp luật, đóng góp vào sự ổn định và phát triển của đất nước.
 * Các hành vi đập phá, chống người thi hành công vụ, gây rối trật tự công cộng là vi phạm pháp luật và làm hoen ố hình ảnh đất nước, cần phải bị lên án và xử lý nghiêm minh.
 
-**21. Về Giai cấp công nhân trong CMCN 4.0:**
+# 21. Về Giai cấp công nhân trong CMCN 4.0
 
 **Luận điệu:** Cho rằng trong thời đại 4.0, trí tuệ nhân tạo và robot thay thế con người nên giai cấp công nhân (GCCN) sẽ biến mất, không còn sứ mệnh lịch sử.
 * CMCN 4.0 làm thay đổi cơ cấu, phương thức lao động nhưng không xóa bỏ GCCN; GCCN hiện đại đang trí thức hóa.
 * GCCN vẫn là lực lượng sản xuất hàng đầu, đại diện cho phương thức sản xuất tiên tiến và là lực lượng nòng cốt trong xây dựng CNXH.
 
-**22. Về Tôn giáo và Dân tộc (Vùng Tây Nam Bộ và cả nước):**
+# 22. Về Tôn giáo và Dân tộc (Vùng Tây Nam Bộ và cả nước)
 
 **Luận điệu:** Vu cáo Việt Nam đàn áp tôn giáo, kỳ thị dân tộc; kích động ly khai, tự trị (như "Nhà nước Khmer Krom", "Tin lành Đề ga"); lợi dụng vấn đề nhân quyền để can thiệp nội bộ.
 * Việt Nam là quốc gia đa dân tộc, đa tôn giáo; chính sách nhất quán là đại đoàn kết dân tộc, tự do tín ngưỡng, tôn giáo.
@@ -660,7 +862,7 @@
 * Nhà nước đã thực hiện hàng loạt chính sách ưu tiên (hạ tầng, y tế, giáo dục) cho vùng Tây Bắc và Tây Nguyên; đời sống người Mông và các dân tộc đã thay đổi rõ rệt.
 * Việc kích động "tự trị" hay "đòi đất" là âm mưu chia rẽ khối đại đoàn kết, phá hoại sự ổn định biên giới, đi ngược lại lợi ích của chính đồng bào.
 
-**23. Về công tác phòng, chống thiên tai và cứu hộ, cứu nạn:**
+# 23. Về công tác phòng, chống thiên tai và cứu hộ, cứu nạn
 
 **Luận điệu:** Xuyên tạc rằng "thiên tai ít, nhân tai nhiều", "hạ tầng không chịu cải thiện", so sánh với các nước phát triển, quy chụp mọi thiệt hại là lỗi của Đảng, Nhà nước; vu cáo chính quyền "vô cảm", "bỏ mặc dân", "ngăn cấm thiện nguyện"; cho rằng lực lượng vũ trang đi cứu hộ chỉ để "làm màu".
 * Thiên tai là hiện tượng khách quan, bất khả kháng, quốc gia nào cũng chịu ảnh hưởng (kể cả các nước phát triển). Quy chụp trách nhiệm cho chế độ là thủ đoạn chính trị hóa thiên tai, phi lý và phản nhân văn.
@@ -831,7 +1033,7 @@
 * Việc đo đạc dựa trên dấu vết thực tế (ngấn nước) và sự xác nhận của cộng đồng dân cư. Các hộ ngập nhẹ tuy có thể không nhận hỗ trợ tiền mặt theo mức cao nhất nhưng vẫn nhận được các hỗ trợ khác (lương thực, dọn dẹp) từ chính quyền và các đoàn thể.
 * Quy định chặt chẽ nhằm ngăn chặn việc kê khai khống để trục lợi ngân sách. Mọi hành vi nhũng nhiễu của cán bộ cơ sở (nếu có) đều bị xử lý nghiêm; người dân có quyền giám sát và khiếu nại nếu việc đo đạc thiếu chính xác.
 
-**24. Về Xây dựng nền văn hóa:**
+# 24. Về Xây dựng nền văn hóa
 
 **Luận điệu:** Cho rằng chủ trương xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc là "viển vông", "hình thức", "mị dân"; Đảng không thực sự quan tâm đến phát triển văn hóa, con người.
 * Xây dựng văn hóa là mục tiêu chiến lược, vừa là động lực vừa là nền tảng tinh thần của xã hội, đã được cụ thể hóa qua nhiều Nghị quyết và đạt thành tựu lớn (bảo tồn di sản, phát triển văn hóa con người).
@@ -842,7 +1044,7 @@
 * Thần tượng nghệ sĩ không được đặt trên lòng yêu nước. Vu Mông Lung và công ty quản lý từng ủng hộ "đường lưỡi bò", vi phạm chủ quyền Việt Nam.
 * Các trang như Avaaz thường thiếu kiểm chứng, liên quan đến các tổ chức có mục đích chính trị (như Pháp Luân Công); việc tham gia là thiếu hiểu biết, vô tình tiếp tay cho hoạt động chống phá.
 
-**25. Về Giáo dục và Đào tạo:**
+# 25. Về Giáo dục và Đào tạo
 
 **Luận điệu:** Phủ nhận thành tựu giáo dục, cho rằng nền giáo dục "xuống cấp", "hư hỏng", chỉ có "bệnh thành tích"; xuyên tạc các bài viết quốc tế đánh giá cao giáo dục Việt Nam.
 * Các tổ chức uy tín quốc tế (như Ngân hàng Thế giới, báo The Economist) đánh giá cao sự tiến bộ và hiệu quả của giáo dục Việt Nam so với mức thu nhập.
@@ -876,7 +1078,17 @@
 * Phương pháp trực quan: Tái hiện lịch sử là phương pháp sư phạm trực quan sinh động giúp trẻ ghi nhớ tốt hơn lý thuyết khô khan. Nội dung được thiết kế phù hợp với lứa tuổi: mầm non/tiểu học tập trung vào niềm vui thống nhất, cấp lớn hơn phân tích sâu về bối cảnh lịch sử.
 * Thông lệ quốc tế: Các nước trên thế giới đều giáo dục thế hệ trẻ về các chiến thắng lịch sử (như Pháp kỷ niệm ngày phá ngục Bastille, Mỹ kỷ niệm độc lập). Nhắc lại chiến thắng là để khẳng định khát vọng hòa bình và trách nhiệm bảo vệ Tổ quốc, không phải để khoét sâu hận thù.
 
-**26. Về Tự do ngôn luận và Không gian mạng:**
+**Luận điệu:** Cho rằng Đại học Quốc gia TP.HCM (ĐHQG-HCM) chỉ là sự "chiếm đoạt" hay "thừa hưởng" nguyên trạng từ Viện Đại học Sài Gòn/Làng Đại học Thủ Đức thời Ngô Đình Diệm; phủ nhận công sức xây dựng của chế độ mới.
+* Bản chất: ĐHQG-HCM (thành lập 1995) là một thực thể hoàn toàn mới, mô hình đại học đa ngành, đa lĩnh vực hiện đại phục vụ sự nghiệp công nghiệp hóa, hiện đại hóa của nước Việt Nam thống nhất, khác biệt căn bản về mục tiêu và quy mô so với Viện Đại học Sài Gòn cũ.
+* Đầu tư phát triển: Cơ sở vật chất cũ trước 1975 rất phân tán và nhỏ hẹp. Khu đô thị ĐHQG-HCM hiện nay (hơn 600 ha) với hệ thống giảng đường, phòng thí nghiệm, ký túc xá hiện đại là kết quả đầu tư khổng lồ của Nhà nước sau năm 1995.
+* Tính kế thừa: Việc tiếp quản cơ sở giáo dục để duy trì việc học cho dân là trách nhiệm của mọi chính quyền mới. Tuy nhiên, sự phát triển vượt bậc về vị thế quốc tế và cơ sở hạ tầng ngày nay là thành quả của 30 năm xây dựng dưới chế độ mới, không phải chỉ là "dùng lại đồ cũ".
+
+**Luận điệu:** Xuyên tạc rằng Đại học Cần Thơ là "chiếm của VNCH" để "nhồi sọ" sinh viên; cho rằng cộng sản không xây dựng được gì mà chỉ hưởng thụ di sản Mỹ/ngụy.
+* Thực tế phát triển: Viện Đại học Cần Thơ trước 1975 quy mô nhỏ. Hệ thống cơ sở vật chất hiện đại, các phòng thí nghiệm công nghệ cao (đặc biệt về nông nghiệp, thủy sản) hiện nay là do Nhà nước đầu tư và nguồn vốn ODA (như dự án nghìn tỷ của Nhật Bản) xây dựng sau ngày giải phóng.
+* Mục tiêu đào tạo: Trường là trung tâm nghiên cứu khoa học hàng đầu ĐBSCL, đóng góp lớn cho an ninh lương thực và xuất khẩu gạo/thủy sản của cả nước, được quốc tế công nhận (chuẩn AUN-QA). Quy chụp là "nhồi sọ" là phủ nhận tri thức khoa học và công sức của các thế hệ thầy trò.
+* Trách nhiệm: Việc duy trì và mở rộng trường là để phục vụ quyền được học tập của con em nhân dân miền Tây, không phân biệt thành phần, là hành động nhân văn và trách nhiệm của Nhà nước.
+
+# 26. Về Tự do ngôn luận và Không gian mạng
 
 **Luận điệu:** Lợi dụng "tự do ngôn luận" để xúc phạm cá nhân, tấn công cơ quan tư pháp (luận điệu "công lý chỉ là diễn viên hài"); cho rằng Luật An ninh mạng đàn áp quyền tự do.
 * Tự do ngôn luận phải trong khuôn khổ pháp luật, không được xâm phạm lợi ích Nhà nước và công dân.
@@ -910,7 +1122,32 @@
 * Thủ đoạn "pha trộn": Kẻ xấu thường dùng thủ đoạn tinh vi là trộn lẫn phần lớn tin thật (khoảng 90%) với một phần nhỏ tin giả (10%) để tạo vỏ bọc tin cậy, dẫn dắt dư luận theo hướng sai lệch.
 * "Vaccine số": Người dùng cần trở thành "công dân số thông minh": chậm lại một nhịp, kiểm chứng nguồn tin (double check) từ cơ quan chính thống, không để cảm xúc bị dẫn dắt.
 
-**27. Về Lịch sử và các ngày lễ lớn:**
+**Luận điệu:** Cho rằng các kênh truyền thông yêu nước, chính thống bị "bóp tương tác" (shadowban) là do nội dung "nhàm chán", "tuyên truyền một chiều"; khẳng định các video chống phá có nhiều view chứng tỏ "lòng dân ủng hộ".
+* Thuật toán thiên kiến: Các nền tảng xuyên biên giới (như TikTok, Facebook) thường ưu tiên các nội dung gây tranh cãi, giật gân, kích động cảm xúc tiêu cực để giữ chân người dùng, vô tình hoặc cố ý lan truyền "virus chia rẽ".
+* Sự bất công trên nền tảng số: Nội dung độc hại dễ được "đẩy trend", trong khi tiếng nói phản biện sắc sảo, bảo vệ chế độ thường bị báo cáo, ẩn bài bởi các chiến dịch tấn công có tổ chức của thế lực thù địch.
+* Ảo tưởng về view: Lượng view cao của nội dung xấu độc phản ánh sự tò mò và cơ chế lan truyền của thuật toán, không đại diện cho chân lý hay lòng dân.
+
+**Luận điệu:** So sánh cho rằng các nước như Mỹ có thể tự do chỉ trích lãnh đạo, biểu tình nhưng Việt Nam thì không; quy kết Việt Nam đàn áp tự do ngôn luận, sợ sự thật, sợ biểu tình.
+* Tự do ngôn luận ở bất kỳ quốc gia nào cũng có giới hạn pháp lý. Tại Mỹ, đe dọa Tổng thống là trọng tội liên bang; các cuộc biểu tình trái phép gây rối loạn (như vụ Điện Capitol) đều bị xử lý hình sự nghiêm khắc.
+* Việt Nam luôn khuyến khích sự phản biện, góp ý mang tính xây dựng cho lãnh đạo thông qua các kênh chính thống (Quốc hội, tiếp xúc cử tri).
+* Nhà nước không ngăn cấm quyền bày tỏ ý kiến mà chỉ xử lý các hành vi lợi dụng tự do dân chủ để vu khống, xúc phạm danh dự lãnh đạo hoặc kích động gây rối, nhằm bảo vệ tính nghiêm minh của pháp luật và ổn định xã hội.
+
+**Luận điệu:** Quy chụp rằng bất cứ ai "nói lên sự thật", "trái ý lãnh đạo" hay "không bưng bô" đều bị gán mác là "phản động"; cho rằng khái niệm này mơ hồ để chính quyền tùy tiện bắt bớ.
+* Định nghĩa rõ ràng: "Phản động" là hành vi chống lại độc lập dân tộc, lật đổ chế độ, xâm phạm an ninh quốc gia, không phải là những ý kiến phản biện, góp ý xây dựng hay tố cáo tham nhũng đúng pháp luật.
+* Đánh tráo khái niệm: Các đối tượng chống phá thường núp bóng "nói lên sự thật" nhưng thực chất là lồng ghép tin giả, xuyên tạc bản chất sự việc để kích động hận thù. Việc xử lý là xử lý hành vi vi phạm pháp luật (tung tin giả, vu khống), không xử lý người nói thật.
+* Quyền tự do thông tin: Pháp luật không cấm chia sẻ thông tin, chỉ cấm chia sẻ thông tin sai sự thật, độc hại. Người dân thượng tôn pháp luật hoàn toàn có quyền tự do ngôn luận mà không phải sợ hãi.
+
+**Luận điệu:** Rêu rao rằng pháp luật "cấm chia sẻ thông tin", người dân chia sẻ gì cũng sợ bị phạt tù hay "ghi sổ", "nuôi cơm tù".
+* Thực tế pháp lý: Hiến pháp và pháp luật bảo vệ quyền tự do ngôn luận, tiếp cận thông tin. Chỉ những thông tin thuộc danh mục bí mật nhà nước, bôi nhọ, bịa đặt gây rối loạn xã hội mới bị cấm.
+* Trách nhiệm: Trong xã hội văn minh, chia sẻ thông tin đi kèm trách nhiệm về tính xác thực. Việc xử phạt nhắm vào hành vi cố ý lan truyền tin giả gây hại, không phải hành vi chia sẻ thông tin thông thường.
+* Gây sợ hãi: Tin đồn về việc "ghi sổ" hay bắt bớ tùy tiện là đòn tâm lý của kẻ xấu nhằm làm người dân sợ hãi chính quyền, không dám tham gia đời sống xã hội.
+
+**Luận điệu:** Sử dụng nút biểu cảm "Haha" trên mạng xã hội để chế giễu các bài viết về lòng yêu nước hoặc niềm tin vào Đảng; cho rằng lượng "Haha" áp đảo chứng tỏ người dân không còn tin vào chế độ.
+* Tương tác ảo: Đây là thủ đoạn chiến tranh tâm lý sử dụng hệ thống tài khoản ảo (clone), tool tăng tương tác và các nhóm tổ chức để thao túng số liệu, tạo hiệu ứng đám đông giả tạo, không phản ánh thực chất ý chí của người dân.
+* Đa số im lặng: Mạng xã hội không phải là thước đo chính xác về lòng dân. Đại đa số người dân ủng hộ sự ổn định thường tập trung lao động sản xuất và ít tương tác chính trị trên mạng, trong khi các phần tử chống đối thường hoạt động rất tích cực và ồn ào.
+* Thước đo thực tế: Niềm tin của nhân dân được thể hiện qua sự ổn định chính trị, sự đồng thuận trong các hoạt động thực tiễn (như phòng chống thiên tai, phát triển kinh tế), không thể đánh đồng một biểu tượng cảm xúc (có thể do a dua hoặc giải trí) với quan điểm chính trị.
+
+# 27. Về Lịch sử và các ngày lễ lớn
 
 **Luận điệu:** Xuyên tạc ý nghĩa Cách mạng Tháng Tám và Quốc khánh 2/9; cho rằng độc lập không mang lại tự do, hạnh phúc; kêu gọi "xét lại" lịch sử.
 * Cách mạng Tháng Tám và Quốc khánh 2/9 mở ra kỷ nguyên độc lập, tự do, là mốc son chói lọi của dân tộc.
@@ -921,14 +1158,14 @@
 * Các hoạt động kỷ niệm không chỉ là nghi thức mà là dịp giáo dục truyền thống yêu nước, củng cố niềm tin và khối đại đoàn kết toàn dân.
 * Chi phí được tính toán tiết kiệm, phù hợp ngân sách. Giá trị tinh thần, sự tự hào dân tộc và sức mạnh răn đe (thể hiện sự sẵn sàng bảo vệ Tổ quốc) là những lợi ích to lớn không thể đo đếm đơn thuần bằng kinh tế.
 
-**28. Về Kỷ luật Đảng và quy định đảng viên:**
+# 28. Về Kỷ luật Đảng và quy định đảng viên
 
 **Luận điệu:** Xuyên tạc Quy định về những điều đảng viên không được làm (như cấm có quốc tịch nước ngoài, tài sản nước ngoài); cho rằng Đảng "đứng trên pháp luật", quy định là "vi hiến".
 * Đảng viên là chiến sĩ tiên phong, phải chịu sự ràng buộc kỷ luật cao hơn công dân bình thường để đảm bảo sự liêm chính và trung thành.
 * Quy định nhằm ngăn chặn suy thoái, "tự diễn biến", phòng chống tham nhũng (tẩu tán tài sản), hoàn toàn phù hợp với mục tiêu xây dựng Đảng trong sạch.
 * Đảng hoạt động trong khuôn khổ Hiến pháp và pháp luật; quy định nội bộ Đảng không trái luật mà bổ sung yêu cầu khắt khe hơn về đạo đức cho đảng viên.
 
-**29. Về Quốc hội và Bầu cử:**
+# 29. Về Quốc hội và Bầu cử
 
 **Luận điệu:** Cho rằng bầu cử tại Việt Nam là "Đảng cử, dân bầu", chỉ là hình thức, sắp đặt trước; Quốc hội không có thực quyền, chỉ là "nghị gật".
 * Bầu cử thực hiện theo nguyên tắc phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín; quy trình hiệp thương chặt chẽ đảm bảo cơ cấu và chất lượng, nhưng quyền quyết định cuối cùng thuộc về lá phiếu của cử tri.
@@ -959,7 +1196,12 @@
 * Quyền giám sát: Quy trình kiểm phiếu có sự tham gia, giám sát của đại diện cử tri. Những cáo buộc về việc "sửa phiếu" hay "kết quả giả" cần bằng chứng pháp lý cụ thể thay vì suy diễn cảm tính từ các bình luận trên mạng xã hội.
 * Tính chính danh: Bầu cử là thủ tục bắt buộc theo Luật Thực hiện dân chủ ở cơ sở để trao tính chính danh cho người đại diện. Việc "chỉ định" thay vì bầu cử sẽ là vi phạm quyền làm chủ của nhân dân, biến cán bộ thôn/tổ thành "cánh tay nối dài" áp đặt thay vì người đại diện cho cộng đồng.
 
-**30. Về Chủ quyền Biển, Đảo:**
+**Luận điệu:** So sánh bầu cử tại Việt Nam với Mỹ, cho rằng ở Mỹ người dân được "tự do bầu Tổng thống" trực tiếp, còn Việt Nam thì không; quy kết Việt Nam mất dân chủ.
+* Thực tế bầu cử Mỹ: Người dân Mỹ không bầu trực tiếp Tổng thống mà bầu qua Đại cử tri đoàn (Electoral College). Ứng viên muốn ra tranh cử phải trải qua quy trình sơ bộ (Primaries) khắt khe trong nội bộ đảng để được phê duyệt, hoặc phải thu thập hàng chục ngàn chữ ký nếu là ứng viên độc lập. Từ năm 1852 đến nay, Tổng thống đều thuộc hai đảng lớn.
+* Rủi ro của tự do tuyệt đối: Việc bầu cử không qua quy trình sàng lọc kỹ lưỡng dễ dẫn đến việc lựa chọn cảm tính (bầu cho người nổi tiếng, mị dân) thay vì người có năng lực quản trị, gây chia rẽ xã hội sâu sắc.
+* Bối cảnh Việt Nam: Quy trình hiệp thương và bầu cử tại Việt Nam nhằm chọn ra những người đủ đức, đủ tài, có kinh nghiệm chính trị và tầm nhìn chiến lược để lãnh đạo đất nước. Tương lai đất nước cần sự ổn định và năng lực thực tế, không phải là cuộc thi về độ nổi tiếng.
+
+# 30. Về Chủ quyền Biển, Đảo
 
 **Luận điệu:** Xuyên tạc rằng Đảng và Nhà nước "nhu nhược", "thỏa hiệp" với nước lớn, làm ngơ trước vấn đề chủ quyền Biển Đông để đổi lấy lợi ích kinh tế hoặc chính trị.
 * Việt Nam kiên quyết, kiên trì bảo vệ chủ quyền, quyền chủ quyền bằng các biện pháp hòa bình, dựa trên luật pháp quốc tế (UNCLOS 1982).
@@ -976,7 +1218,12 @@
 * Hải quân và Cảnh sát biển đang được hiện đại hóa theo hướng "tinh, gọn, mạnh", đủ sức bảo vệ chủ quyền mà không cần liên minh quân sự (vốn biến nước ta thành quân cờ chiến lược).
 * Sức mạnh bảo vệ chủ quyền nằm ở khối đại đoàn kết toàn dân và thế trận quốc phòng toàn dân; đấu tranh ngoại giao và pháp lý khôn khéo hiệu quả hơn là khiêu khích ồn ào.
 
-**31. Về Nghị định 168/2024/NĐ-CP (Xử phạt vi phạm giao thông):**
+**Luận điệu:** Cho rằng Việt Nam "hèn nhát" khi không dùng quân sự để chiếm lại Hoàng Sa, Trường Sa bị Trung Quốc chiếm đóng, chỉ biết "quan ngại sâu sắc".
+* Đối thoại ngoại giao là biện pháp hòa bình cần thiết; biện pháp quân sự chỉ là lựa chọn cuối cùng khi không còn giải pháp nào khác.
+* Cuộc đấu tranh này là mặt trận nhận thức: giáo dục thế hệ sau không bao giờ quên chủ quyền, kiên quyết không công nhận các hoạt động phi pháp (chấp nhận tức là thừa nhận thất bại).
+* Những nhóm lưu vong kích động chiến tranh thực chất là những người đã để mất đảo trong quá khứ; họ không giúp ích cho công cuộc bảo vệ chủ quyền hiện tại của đất nước.
+
+# 31. Về Nghị định 168/2024/NĐ-CP (Xử phạt vi phạm giao thông)
 
 **Luận điệu:** Xuyên tạc rằng việc tăng mức phạt là để "tận thu ngân sách", "hút máu dân" hoặc "làm lợi cho lực lượng Công an"; cho rằng đèn tín hiệu bị lỗi là "bẫy" để phạt oan.
 * Mục tiêu chính là nâng cao ý thức, giảm thiểu tai nạn và tình trạng "nhờn luật"; tiền phạt nộp vào ngân sách Nhà nước để đầu tư hạ tầng, không có chuyện "chia chác".
@@ -994,12 +1241,28 @@
 * Tuân thủ là tự nguyện: Quan điểm "vi phạm là không tránh khỏi" là ngụy biện cổ súy cho ý thức kém. Thực tế hàng triệu người dân vẫn tham gia giao thông và sinh hoạt thượng tôn pháp luật mà không bị phạt.
 * Sử dụng ngân sách: Tiền phạt không phải là "lợi nhuận" mà được nộp vào Ngân sách Nhà nước để phục vụ mục tiêu chung; không chảy vào túi riêng của lực lượng xử phạt.
 
+**Luận điệu:** Xuyên tạc phát biểu "siết chặt luật vì an toàn cho dân chứ không có mục đích gì cả" là "lấp liếm"; khẳng định mục đích thực sự là tận thu và làm giàu cho lực lượng chức năng.
+* "Không có mục đích gì cả" nghĩa là không có tư lợi cá nhân hay lợi ích nhóm cục bộ; mục tiêu duy nhất là an toàn tính mạng con người và trật tự xã hội.
+* Hiệu quả được đo lường bằng sự giảm thiểu tai nạn và thương vong, không phải bằng số tiền phạt thu được.
+* Nếu người dân chấp hành nghiêm thì Nhà nước không thu được tiền phạt nhưng mục tiêu an toàn vẫn đạt được; điều này chứng minh tiền bạc không phải là đích đến.
+
+**Luận điệu:** Cho rằng quy định "chưa nộp phạt thì không được đăng kiểm, không được cấp đổi bằng lái" là "luật rừng", "chèn ép dân"; coi việc tính lãi chậm nộp 0,05%/ngày là "lãi cắt cổ".
+* Biện pháp cưỡng chế: Việc liên thông dữ liệu xử phạt với đăng kiểm, cấp bằng lái là biện pháp cưỡng chế hành chính cần thiết để đảm bảo người vi phạm phải thực hiện nghĩa vụ pháp lý, tránh tình trạng "nhờn luật" hoặc bỏ mặc biên bản.
+* Bản chất tiền nộp chậm: Mức 0,05%/ngày là quy định chung của Luật Xử lý vi phạm hành chính (áp dụng cho cả thuế và các lĩnh vực khác) nhằm ngăn chặn hành vi cố tình chây ì, trốn tránh, không phải là hoạt động cho vay nặng lãi hay kinh doanh của Nhà nước.
+* Trách nhiệm công dân: Quyền sử dụng phương tiện và giấy phép lái xe đi kèm với nghĩa vụ tuân thủ luật giao thông; nếu không hoàn thành nghĩa vụ (nộp phạt) thì việc tạm hoãn các quyền lợi hành chính liên quan là hợp lý và đúng luật.
+* Thông lệ: Nhiều nước phát triển cũng từ chối đăng kiểm hoặc gia hạn bằng lái nếu còn nợ phạt giao thông, nhằm duy trì trật tự pháp luật.
+
+**Luận điệu:** Xuyên tạc rằng "không đóng phạt sẽ bị bỏ tù", hay mỉa mai "không có tiền thì ghi sổ", "vào tù để được nuôi cơm".
+* Phân biệt rõ: Vi phạm giao thông là vi phạm hành chính, chế tài chủ yếu là phạt tiền, không phải hình sự (trừ khi gây tai nạn nghiêm trọng). Không có quy định nào về việc "bỏ tù vì không có tiền đóng phạt".
+* Biện pháp cưỡng chế: Nếu không nộp, người vi phạm sẽ bị cưỡng chế (khấu trừ lương, tài khoản, kê biên tài sản) hoặc bị chặn các dịch vụ hành chính (đăng kiểm), chứ không phải bị tước đoạt tự do thân thể.
+* Chính sách nhân đạo: Luật Xử lý vi phạm hành chính có quy định cho phép **nộp phạt nhiều lần** hoặc hoãn thi hành trong trường hợp khó khăn đặc biệt về kinh tế (được xác nhận), bác bỏ luận điệu "dồn dân vào đường cùng" hay "ghi sổ".
+
 **Luận điệu:** Cho rằng việc Công an phạt nguội (qua Camera AI) người dân "đi bão" ăn mừng chiến thắng thể thao là "tận thu", "làm tiền" trên niềm vui của dân; cho rằng ngày vui thì nên được miễn trừ luật pháp.
 * Pháp luật là thượng tôn và bình đẳng, không có ngoại lệ cho "ngày vui" hay "cảm xúc". Vi phạm giao thông (không đội mũ, kẹp ba, lạng lách) trong lúc "đi bão" tiềm ẩn nguy cơ tai nạn rất cao cho chính người ăn mừng và cộng đồng.
 * Việc xử lý nghiêm (kể cả phạt nguội bằng công nghệ) là để ngăn chặn tai nạn, đảm bảo an toàn tính mạng cho người dân, không phải để tận thu.
 * Tiền phạt được nộp vào ngân sách nhà nước để phục vụ chung. So sánh việc nộp phạt với việc làm từ thiện là sự ngụy biện; nộp phạt là trách nhiệm pháp lý do vi phạm, còn từ thiện là hành động đạo đức tự nguyện, không thể dùng cái này để thay thế cái kia.
 
-**32. Về Chính sách thuế mới và Hóa đơn điện tử:**
+# 32. Về Chính sách thuế mới và Hóa đơn điện tử
 
 **Luận điệu:** Xuyên tạc việc xóa bỏ thuế khoán (từ 1/1/2026) và áp dụng hóa đơn điện tử (Nghị định 70/2025/NĐ-CP) là "tận thu", "ngăn sông cấm chợ", "dân không còn đất sống".
 * Việc xóa bỏ thuế khoán (theo Nghị quyết 198/2025/QH15) là tất yếu khách quan để đảm bảo công bằng giữa hộ kinh doanh và doanh nghiệp, phù hợp với hạ tầng thanh toán không dùng tiền mặt hiện nay.
@@ -1021,7 +1284,7 @@
 * Cấu trúc hiện đại: Hệ thống thuế đa dạng (VAT, thu nhập...) là chuẩn mực của nền kinh tế hiện đại để đảm bảo công bằng và chống thâm hụt, không phải là "xẻ nhỏ" để lừa dối.
 * Thực tế đời sống: Sự nâng cao không ngừng về chất lượng sống và tài sản của người dân bác bỏ hoàn toàn luận điệu bị "bóc lột" hơn thời thuộc địa nghèo đói.
 
-**33. Về Kỷ nguyên mới - Kỷ nguyên vươn mình của dân tộc:**
+# 33. Về Kỷ nguyên mới - Kỷ nguyên vươn mình của dân tộc
 
 **Luận điệu:** Cho rằng khái niệm "kỷ nguyên mới" là "mơ hồ", "duy ý chí", "ảo tưởng", không có cơ sở thực tiễn để hiện thực hóa.
 * "Kỷ nguyên mới" có nội hàm rõ ràng: là kỷ nguyên phát triển bứt phá, giàu mạnh, người dân ấm no, hạnh phúc, đất nước sánh vai với các cường quốc.
@@ -1029,7 +1292,7 @@
 * Đây là thời điểm hội tụ các yếu tố "thiên thời, địa lợi, nhân hòa" (cơ hội từ CMCN 4.0, vị thế địa chính trị, khát vọng dân tộc) để tạo bước nhảy vọt.
 * Nhận diện thẳng thắn các điểm nghẽn (thể chế, hạ tầng, nhân lực) để có giải pháp đột phá chứng tỏ sự cầu thị và khoa học, không phải duy ý chí.
 
-**34. Về Chính sách miễn học phí toàn dân:**
+# 34. Về Chính sách miễn học phí toàn dân
 
 **Luận điệu:** Xuyên tạc là "chiêu trò mị dân", "giải pháp chắp vá", hay bịa đặt rằng "miễn học phí nhưng cắt giảm chỉ tiêu trường công để đẩy học sinh sang trường tư".
 * Đây là chính sách nhân văn, thể hiện bản chất ưu việt của chế độ, hiện thực hóa mục tiêu "không để ai bị bỏ lại phía sau" trong giáo dục.
@@ -1037,7 +1300,7 @@
 * Thực tế chỉ tiêu tuyển sinh công lập và số lượng trường lớp xây mới đều tăng (như tại Hà Nội, TP.HCM), bác bỏ hoàn toàn luận điệu "đẩy sang tư thục".
 * Chính sách mang lại lợi ích thiết thực, giảm gánh nặng chi phí cho hàng triệu gia đình, tạo động lực đến trường cho học sinh nghèo.
 
-**35. Về Chính sách giảm phát thải và hạn chế xe xăng (Chuyển đổi xanh):**
+# 35. Về Chính sách giảm phát thải và hạn chế xe xăng (Chuyển đổi xanh)
 
 **Luận điệu:** Cho rằng cấm xe xăng là "cướp kế sinh nhai" của người nghèo, "ép dân", làm khó người dân trong việc đi lại; xe xăng là tài sản sống còn, cấm thì dân không biết bám víu vào đâu.
 * Đây là chủ trương đúng đắn nhằm bảo vệ sức khỏe nhân dân trước tình trạng ô nhiễm không khí nghiêm trọng (Hà Nội ô nhiễm bụi mịn PM2.5 gấp 9 lần khuyến cáo WHO, xe cộ chiếm 70% phát thải).
@@ -1056,7 +1319,7 @@
 * Hiến pháp và pháp luật quốc tế không quy định quyền tự do đi lại đồng nghĩa với quyền sử dụng bất kỳ loại phương tiện nào gây hại cho cộng đồng.
 * Phát triển giao thông xanh giúp giảm phụ thuộc xăng dầu nhập khẩu, tiết kiệm chi phí vận hành cho người dân và xã hội về lâu dài.
 
-**36. Về bảo vệ danh nhân và sự thật lịch sử:**
+# 36. Về bảo vệ danh nhân và sự thật lịch sử
 
 **Luận điệu:** Xuyên tạc, phủ nhận sạch trơn sự thật lịch sử hoặc cổ súy chủ nghĩa xét lại, "rửa mặt" cho các nhân vật đã có hành vi bán nước cầu vinh; đánh đồng công - tội để xóa nhòa ranh giới giữa yêu nước và phản quốc.
 * Nguyên tắc lịch sử: Công ra công, tội ra tội. Công lao mở mang bờ cõi hay thống nhất đất nước không thể biện minh cho hành động "cõng rắn cắn gà nhà", cầu viện ngoại bang để giành quyền lực, dẫn đến hậu quả mất nước sau này.
@@ -1067,6 +1330,11 @@
 * Bản chất: Đây là thủ đoạn tấn công tư tưởng, lợi dụng công nghệ và thuật toán "bong bóng lọc" (filter bubble) để gieo rắc hoài nghi, phủ nhận thành quả cách mạng và vai trò của Đảng.
 * Phương thức: Sử dụng AI để tạo bằng chứng giả, video giả ("deepfake") bôi nhọ lãnh tụ; lập các trang web giả mạo học thuật để tung luận điệu xuyên tạc dưới danh nghĩa "nghiên cứu khách quan".
 * Hậu quả: Bài học từ Liên Xô cho thấy xét lại lịch sử là bước đầu để làm tan rã niềm tin và sụp đổ chế độ; cần tỉnh táo bảo vệ sự thật lịch sử trước sự thao túng của công nghệ.
+
+**Luận điệu:** Sử dụng các video ngắn (TikTok, Reels) cắt ghép lịch sử để tạo "cú sốc nhận thức" cho giới trẻ (Gen Z); rêu rao rằng "sách giáo khoa tẩy não", chỉ có mạng xã hội mới nói "sự thật trần trụi" (như rửa tội cho kẻ xâm lược).
+* Bản chất: Đây là thủ đoạn "xét lại lịch sử" nguy hiểm nhất, lợi dụng thói quen xem nhanh của giới trẻ để tiêm nhiễm tư duy sai lệch qua các video 30 giây thiếu ngữ cảnh, biến kẻ xâm lược thành "nạn nhân", anh hùng thành "cực đoan".
+* Mục tiêu: Làm cho thế hệ trẻ mơ hồ về quá khứ, quên đi nguồn cội ("mất gốc"), từ đó mất phương hướng ở tương lai, phục vụ cho mưu đồ "cách mạng màu".
+* Khẳng định: Sự thật lịch sử đòi hỏi quá trình nghiên cứu, đối chiếu nghiêm túc, không thể được phơi bày đầy đủ chỉ qua các clip cắt ghép cảm tính trên mạng.
 
 **Luận điệu:** Đánh đồng vua Quang Trung và Nguyễn Ánh (Gia Long), đòi tôn vinh Nguyễn Ánh là "Anh hùng dân tộc" ngang hàng với Quang Trung; biện minh cho hành động cầu viện ngoại bang của Nguyễn Ánh.
 * Phân biệt rạch ròi: Quang Trung - Nguyễn Huệ là Anh hùng dân tộc kiệt xuất với chiến công đánh tan quân Xiêm và quân Thanh, bảo vệ độc lập. Nguyễn Ánh tuy có công thống nhất đất nước (1802) nhưng lại phạm sai lầm lịch sử nghiêm trọng là cầu viện quân Xiêm (1784) và Pháp (Bá Đa Lộc) để chống lại nhà Tây Sơn, tạo tiền đề cho thực dân Pháp xâm lược Việt Nam sau này.
@@ -1105,13 +1373,13 @@
 * Di sản: "Danh nhân" phải có đóng góp mang tính xây dựng lâu dài về văn hóa, lãnh thổ. Ngô Đình Diệm và Nguyễn Văn Thiệu gắn liền với các chính sách đàn áp nhân dân, tôn giáo (Luật 10/59, Ấp chiến lược, v.v) và hành động bỏ trốn/bỏ rơi binh lính, không để lại di sản tích cực cho dân tộc.
 * Lòng dân: Trong khi Lê Văn Duyệt được nhân dân tự lập đền thờ và hương khói hàng trăm năm qua (Lăng Ông Bà Chiểu), Ngô Đình Diệm và Nguyễn Văn Thiệu không được nhân dân suy tôn là biểu tượng đạo đức; việc vinh danh chủ yếu đến từ các nhóm thiểu số cực đoan.
 
-**37. Về Cải cách tiền lương (lộ trình từ 2026):**
+# 37. Về Cải cách tiền lương (lộ trình từ 2026)
 
 **Luận điệu:** Xuyên tạc chủ trương tăng lương cơ sở và cải cách tiền lương năm 2026 là "mị dân", "làm lạm phát tăng cao", "lương chưa tăng giá đã tăng"; cho rằng Nhà nước "bỏ rơi" người lao động tự do.
 * Cải cách tiền lương là chính sách đầu tư cho con người, giúp cán bộ, công chức sống được bằng lương, từ đó giảm tham nhũng vặt và nâng cao chất lượng phục vụ nhân dân.
 * Chính phủ đã có các kịch bản điều hành giá cả để kiểm soát lạm phát. Song song với tăng lương khu vực công, Nhà nước cũng điều chỉnh lương tối thiểu vùng để bảo vệ người lao động khu vực doanh nghiệp.
 
-**38. Về Hàng giả, Hàng nhái và Vệ sinh an toàn thực phẩm:**
+# 38. Về Hàng giả, Hàng nhái và Vệ sinh an toàn thực phẩm
 
 **Luận điệu:** Quy kết nạn hàng giả, hàng nhái, thực phẩm bẩn là "bản chất của chế độ", "chiến lược của quan chức" để hại dân; cho rằng xã hội XHCN dung dưỡng cái xấu.
 * Hàng giả, hàng nhái là vấn nạn toàn cầu, xuất phát từ lòng tham và lợi nhuận, tồn tại ở mọi thể chế chính trị (kể cả các nước tư bản phát triển).
@@ -1126,7 +1394,7 @@
 * Chống hàng giả là cuộc chiến tổng lực cần sự phối hợp của Nhà nước (chế tài), Doanh nghiệp (công nghệ, giám sát) và Người tiêu dùng (ý thức). Quy trách nhiệm duy nhất cho cơ quan quản lý là cái nhìn phiến diện, phủ nhận tính phức tạp của thị trường.
 * Cơ quan chức năng liên tục mở các đợt cao điểm tấn công, trấn áp tội phạm buôn lậu, gian lận thương mại; không có chuyện "buông lỏng". Luận điệu này nhằm xói mòn niềm tin vào năng lực quản lý nhà nước.
 
-**39. Về Đánh giá chế độ Thực dân (Pháp):**
+# 39. Về Đánh giá chế độ Thực dân (Pháp)
 
 **Luận điệu:** Ca ngợi thực dân Pháp xâm lược là "khai hóa văn minh", giúp Việt Nam hiện đại hóa; cho rằng thời Pháp thuộc tốt đẹp hơn hiện tại.
 * Bản chất "khai hóa" chỉ là bình phong cho chính sách bóc lột, vơ vét tài nguyên và nhân lực (thuế máu).
@@ -1134,7 +1402,7 @@
 * Chính sách "ngu dân", đầu độc bằng rượu và thuốc phiện (đại lý rượu nhiều hơn trường học); đàn áp dã man các phong trào yêu nước (nhà tù nhiều hơn trường học).
 * Dưới ách cai trị thực dân, nhân dân chịu cảnh đói khổ (nạn đói 1945), không có quyền tự do, dân chủ.
 
-**40. Về Thủy điện và Lũ lụt:**
+# 40. Về Thủy điện và Lũ lụt
 
 **Luận điệu:** Xuyên tạc rằng thủy điện là nguyên nhân chính gây lũ lụt, "xả lũ để cứu đập, giết dân"; quy kết việc xả lũ là "nhân tai", "thảm họa nhân tạo" do lợi nhuận.
 * Nguyên tắc vận hành của hồ chứa thủy điện là cắt và giảm đỉnh lũ cho hạ du (giữ lại nước khi mưa lớn). Việc xả lũ là quy trình kỹ thuật bắt buộc khi nước vượt ngưỡng an toàn để đảm bảo không vỡ đập (nếu vỡ sẽ gây thảm họa thảm khốc hơn nhiều).
@@ -1177,7 +1445,7 @@
 * Con số thiệt hại nhân mạng được cơ quan chức năng thống kê, kiểm chứng và cập nhật công khai; việc bịa đặt số liệu gây sốc là hành vi vô đạo đức nhằm thao túng cảm xúc đám đông.
 * Thiệt hại do lũ lụt là tổng hợp của nhiều nguyên nhân (mưa cực đoan, địa hình, biến đổi khí hậu...), quy kết tất cả cho thủy điện là phi khoa học và thiếu công bằng.
 
-**41. Về Bảo vệ Doanh nghiệp và Thương hiệu Quốc gia:**
+# 41. Về Bảo vệ Doanh nghiệp và Thương hiệu Quốc gia
 
 **Luận điệu:** Bịa đặt thông tin, hình ảnh (email giả, tin nhắn giả) về việc doanh nghiệp ép buộc nhân viên mua sản phẩm (xe điện, điện thoại...), vi phạm nhân quyền để bôi nhọ tập đoàn kinh tế tư nhân.
 * Đây là tin giả, cắt ghép thiếu kiểm chứng nhằm hạ thấp uy tín thương hiệu quốc gia và gây hoang mang dư luận.
@@ -1189,14 +1457,14 @@
 * Doanh nghiệp tư nhân là động lực quan trọng của nền kinh tế, hoạt động bình đẳng trước pháp luật. Nhà nước kiến tạo môi trường để mọi thành phần kinh tế phát triển.
 * Những sai phạm (nếu có) đều bị xử lý nghiêm minh theo pháp luật (như các vụ án kinh tế lớn gần đây), chứng minh không có vùng cấm hay sự bao che.
 
-**42. Về Quyền động vật và Ưu tiên xã hội:**
+# 42. Về Quyền động vật và Ưu tiên xã hội
 
 **Luận điệu:** Lợi dụng vấn đề bảo vệ động vật (chó, mèo) để công kích chính quyền và người dân trong công tác phòng chống dịch bệnh hoặc xử lý môi trường; coi trọng "quyền động vật" hơn sức khỏe cộng đồng.
 * Yêu thương động vật là nhu cầu chính đáng nhưng không được cực đoan, đặt trên lợi ích và sức khỏe của con người.
 * Việc xử lý động vật trong vùng dịch là biện pháp bất đắc dĩ để ngăn chặn lây lan dịch bệnh nguy hiểm, bảo vệ tính mạng người dân.
 * Cần tôn trọng văn hóa và pháp luật, tránh các hành động quá khích gây áp lực cho lực lượng chức năng đang làm nhiệm vụ.
 
-**43. Về Dự án Lấn biển Cần Giờ (Môi trường và Phát triển):**
+# 43. Về Dự án Lấn biển Cần Giờ (Môi trường và Phát triển)
 
 **Luận điệu:** Xuyên tạc rằng Dự án lấn biển Cần Giờ "che giấu" báo cáo Đánh giá tác động môi trường (ĐTM); đe dọa kiện lên UNESCO; cho rằng dự án phá hủy khu dự trữ sinh quyển.
 * Báo cáo ĐTM là nghĩa vụ pháp lý bắt buộc, đã được thẩm định kỹ lưỡng bởi Hội đồng cấp Bộ và các chuyên gia đầu ngành; thông tin được công khai minh bạch.
@@ -1204,7 +1472,7 @@
 * Các hành động "kêu cứu quốc tế" thực chất là chiêu trò "đánh bóng tên tuổi" để xin tị nạn hoặc chống phá, không vì mục đích môi trường.
 * Lấn biển là giải pháp mở rộng không gian phát triển phổ biến trên thế giới. Hà Lan hay Singapore (như Marina Bay) đã thực hiện thành công nhiều dự án lấn biển quy mô lớn để phát triển kinh tế mà vẫn kiểm soát tốt môi trường.
 
-**44. Về Chính sách đối với Người Việt Nam ở nước ngoài:**
+# 44. Về Chính sách đối với Người Việt Nam ở nước ngoài
 
 **Luận điệu:** Xuyên tạc Quyết định 1334 và các chính sách kiều bào là âm mưu "vơ vét", "khai thác tài lực", "Đảng hóa" cộng đồng người Việt ở nước ngoài.
 * Người Việt Nam ở nước ngoài là bộ phận không tách rời của dân tộc; chính sách nhằm hỗ trợ pháp lý, tạo điều kiện thuận lợi cho bà con về thăm thân, đầu tư, giữ gìn văn hóa.
@@ -1230,7 +1498,7 @@
 * Hòa giải dân tộc được chứng minh bằng chính sách và hành động thực tế suốt hàng chục năm qua (Nghị quyết 36, miễn thị thực), không phải trò chơi chữ nghĩa.
 * Hàng triệu kiều bào về nước làm ăn, sinh sống là minh chứng hùng hồn nhất cho sự hòa hợp, bác bỏ luận điệu "sợ không dám về" hay "màu xám".
 
-**45. Về Công nghệ cao và Lừa đảo trực tuyến (Deepfake/AI):**
+# 45. Về Công nghệ cao và Lừa đảo trực tuyến (Deepfake/AI)
 
 **Luận điệu:** Sử dụng công nghệ AI (Deepfake, Chat GPT...) tạo dựng hình ảnh, giọng nói giả mạo lãnh đạo Đảng, Nhà nước để tung tin thất thiệt; hoặc giả mạo hoàn cảnh thương tâm để lừa đảo từ thiện.
 * Đây là thủ đoạn tội phạm công nghệ cao nhằm trục lợi và gây mất ổn định chính trị, xã hội.
@@ -1259,7 +1527,7 @@
 * Thủ đoạn tâm lý: Đối tượng lừa đảo đánh vào nỗi sợ hãi và sự thiếu hiểu biết pháp luật, sử dụng công nghệ (Deepfake, trang phục giả) và áp lực tâm lý (yêu cầu bí mật, khẩn cấp, cô lập thông tin) để thao túng nạn nhân.
 * Cảnh giác: Người dân cần bình tĩnh, không làm theo yêu cầu của người lạ, và liên hệ trực tiếp với cơ quan công an; việc quy chụp lực lượng chức năng từ các vụ lừa đảo là thiếu căn cứ và gây ảnh hưởng xấu đến uy tín ngành.
 
-**46. Về Bảo vệ và Phát triển Rừng:**
+# 46. Về Bảo vệ và Phát triển Rừng
 
 **Luận điệu:** Sử dụng hình ảnh so sánh mức độ bao phủ rừng tại Việt Nam trước và sau năm 1945 (khu vực biên giới phía Bắc bạc trắng) để quy kết Việt Nam tàn phá rừng.
 * Hình ảnh này thường bị cắt ghép sai lệch từ các phim tài liệu (như "Việt Nam - Vẻ đẹp mong manh") hoặc không rõ nguồn gốc để phục vụ mục đích chính trị xấu.
@@ -1276,7 +1544,7 @@
 * Chính quyền đã thực hiện đúng quy trình: tuyên truyền, vận động, thông báo nhiều lần nhưng người dân vẫn cố tình vi phạm.
 * Các video lan truyền thường bị cắt ghép, bỏ qua bối cảnh vi phạm và quá trình vận động, chỉ tập trung vào hành động cưỡng chế để gây hiểu nhầm.
 
-**47. Về Cách mạng Tháng Tám (1945):**
+# 47. Về Cách mạng Tháng Tám (1945)
 
 **Luận điệu:** Cho rằng Cách mạng Tháng Tám là "sai lầm lịch sử", "thay chế độ vua trị bằng đảng trị"; thành công là do "ăn may" hoặc "khoảng trống quyền lực".
 * Cách mạng là kết quả của 15 năm chuẩn bị chu đáo và sự lãnh đạo sáng suốt của Đảng chớp thời cơ "ngàn năm có một", không phải ăn may.
@@ -1293,7 +1561,7 @@
 * Mục đích: "Tuần lễ vàng" và "Quỹ Độc lập" nhằm huy động nguồn lực tài chính từ nhân dân để củng cố chính quyền non trẻ và mua sắm vũ khí, chuẩn bị kháng chiến.
 * Nguyên nhân quân Tưởng rút: Việc quân Tưởng rút khỏi miền Bắc là kết quả của Hiệp ước Hoa - Pháp (28/2/1946) tại Trùng Khánh (Pháp trả tô giới cho Tưởng để đổi lấy quyền ra Bắc), và sách lược ngoại giao khôn khéo "Hòa để tiến" của Đảng, hoàn toàn không phải do "hối lộ".
 
-**48. Về Cuộc kháng chiến chống Mỹ, cứu nước:**
+# 48. Về Cuộc kháng chiến chống Mỹ, cứu nước
 
 **Luận điệu:** Xuyên tạc cuộc chiến là "nội chiến", "miền Bắc xâm lược miền Nam"; cho rằng Mỹ không xâm lược mà chỉ đến "giúp đỡ", "khai phóng".
 * Bản chất là cuộc kháng chiến chống Mỹ xâm lược; Mỹ dựng lên chính quyền tay sai, đưa quân đội và vũ khí tàn phá Việt Nam.
@@ -1332,7 +1600,7 @@
 * Bản chất chế độ: VNCH là chế độ phụ thuộc hoàn toàn vào viện trợ Mỹ (nền kinh tế "nuôi"), tham nhũng tràn lan và đàn áp tôn giáo/phong trào yêu nước.
 * Sự thật về "di sản": Sự phồn vinh bề ngoài chỉ tập trung ở đô thị phục vụ bộ máy chiến tranh, trong khi nông thôn điêu tàn. Văn hóa lai căng, mất gốc. Những giá trị tích cực (nếu có) thuộc về nhân dân miền Nam, không phải công trạng của ngụy quyền.
 
-**49. Về Khoa học Công nghệ và Đổi mới sáng tạo (Nghị quyết 57):**
+# 49. Về Khoa học Công nghệ và Đổi mới sáng tạo (Nghị quyết 57)
 
 **Luận điệu:** Cho rằng Nghị quyết 57 về khoa học công nghệ chỉ là "mồi nhử", "khẩu hiệu suông"; rêu rao "tự do mới là quốc sách chứ không phải khoa học".
 * Khoa học công nghệ và đổi mới sáng tạo được xác định là quốc sách hàng đầu, là đột phá chiến lược để phát triển đất nước.
@@ -1349,21 +1617,21 @@
 * Việt Nam không sao chép mà chủ động nội địa hóa và làm chủ: Viettel từ nhập khẩu đã tự chủ sản xuất thiết bị viễn thông; VinFast tiếp nhận công nghệ xe hơi để phát triển xe điện thương hiệu Việt; Nông nghiệp công nghệ cao lai tạo giống mới phù hợp thổ nhưỡng.
 * Năng lực R&D nội sinh đang được khẳng định mạnh mẽ qua hệ sinh thái khởi nghiệp sáng tạo và các chính sách ưu tiên đầu tư cho khoa học công nghệ của Nhà nước.
 
-**50. Về Biên giới lãnh thổ đất liền:**
+# 50. Về Biên giới lãnh thổ đất liền
 
 **Luận điệu:** Xuyên tạc kết quả phân giới cắm mốc với các nước láng giềng (Trung Quốc, Lào, Campuchia), rêu rao Việt Nam "nhượng đất", "mất đất" hoặc "xâm lấn"; kích động mâu thuẫn dân tộc vùng biên giới.
 * Kết quả phân giới cắm mốc là thành quả của quá trình đàm phán bình đẳng, dựa trên luật pháp quốc tế và lịch sử, đảm bảo lợi ích quốc gia tối cao.
 * Các luận điệu "mất đất" là bịa đặt nhằm kích động tâm lý dân tộc cực đoan, chia rẽ quan hệ hữu nghị với các nước láng giềng.
 * Chính sách phát triển kinh tế - xã hội vùng biên giới giúp cải thiện đời sống đồng bào, củng cố "phên dậu" Tổ quốc, không phải để "chiếm đất" của đồng bào dân tộc.
 
-**51. Về Đạo đức công vụ, Thái độ phục vụ và Kỷ luật hành chính:**
+# 51. Về Đạo đức công vụ, Thái độ phục vụ và Kỷ luật hành chính
 
 **Luận điệu:** Cho rằng Đảng lừa dân, "hút máu dân" khi cán bộ xã phường sách nhiễu, vòi vĩnh ("tham nhũng vặt"), cán bộ địa chính lừa đảo sang tên sổ đỏ, hay Công an hách dịch; quy kết hiện tượng "trên bảo dưới không nghe" là bản chất chế độ.
 * Hành vi sách nhiễu, lừa đảo hay thiếu trách nhiệm là sự thoái hóa, biến chất của cá nhân vì lòng tham, đi ngược lại chủ trương của Đảng. Nhà nước kiên quyết xử lý nghiêm minh.
 * Quyền của người dân: Người dân có quyền phản ánh, khiếu nại, tố cáo qua các kênh: tiếp dân trực tiếp, đường dây nóng, cổng thông tin điện tử, hoặc gửi đơn đến cơ quan Thanh tra, Kiểm tra, Viện Kiểm sát.
 * Chế tài xử lý: Tùy thuộc vào vị trí công tác và mức độ vi phạm, cán bộ sẽ phải chịu các chế tài xử lý nghiêm khắc khác nhau, từ kỷ luật hành chính đến truy cứu trách nhiệm hình sự theo quy định của pháp luật.
 
-**52. Về Trách nhiệm Công vụ và Đời sống Cán bộ:**
+# 52. Về Trách nhiệm Công vụ và Đời sống Cán bộ
 
 **Luận điệu:** Cho rằng "dân khổ nhưng cán bộ chỉ biết ngồi điều hòa thu thuế và phạt", quy chụp cán bộ nhà nước vô cảm, bóc lột.
 * Thuế và phạt là công cụ quản lý nhà nước, không phải hành vi bóc lột. Thuế là nguồn thu thiết yếu để chi trả cho dịch vụ công (y tế, giáo dục, hạ tầng, an ninh); phạt vi phạm để duy trì trật tự, kỷ cương xã hội.
@@ -1372,14 +1640,19 @@
 * Nhà nước luôn có chính sách hỗ trợ, miễn giảm thuế cho người dân gặp khó khăn, thiên tai, dịch bệnh; không tận thu hay bỏ mặc người yếu thế.
 * Những trường hợp cán bộ nhũng nhiễu là cá biệt và đang bị xử lý nghiêm minh; không thể phủ nhận nỗ lực cống hiến của đại đa số đội ngũ cán bộ, công chức.
 
-**53. Về Xử lý Vi phạm của Cán bộ và Người dân (Sự công bằng của pháp luật):**
+**Luận điệu:** Mỉa mai khái niệm "đầy tớ của nhân dân", so sánh lãnh đạo sống xa hoa (biệt phủ, ăn bò dát vàng) với người dân nghèo khổ; cho rằng "đầy tớ" giàu hơn "ông chủ" là nghịch lý lừa dối.
+* Khái niệm "đầy tớ" (công bộc) nói về tinh thần tận tụy, trách nhiệm phục vụ nhân dân, không đồng nghĩa với việc cán bộ phải sống nghèo khổ, cơ cực.
+* Các sự việc như "bò dát vàng" thường bị tách khỏi bối cảnh ngoại giao (nước chủ nhà chiêu đãi) để xuyên tạc; tài sản của cán bộ được kiểm soát qua quy định kê khai tài sản.
+* Đảng đang quyết liệt chống tham nhũng để loại bỏ những cán bộ giàu lên bất chính, làm trong sạch đội ngũ, không bao che cho lối sống xa hoa lãng phí.
+
+# 53. Về Xử lý Vi phạm của Cán bộ và Người dân (Sự công bằng của pháp luật)
 
 **Luận điệu:** Cho rằng "dân sai thì phạt, cán bộ sai thì cảnh cáo, viết kiểm điểm"; quy chụp pháp luật thiếu công bằng, bao che cho quan chức.
 * Cơ sở pháp lý và nguyên tắc: Hiến pháp quy định mọi công dân bình đẳng trước pháp luật. Cán bộ, đảng viên vi phạm phải chịu trách nhiệm kép (kỷ luật Đảng/hành chính và pháp luật); thường bị xử lý nặng hơn dân thường nếu cùng hành vi do có tình tiết tăng nặng (lợi dụng chức vụ, quyền hạn).
 * Thực tiễn "không vùng cấm": Hàng loạt vụ án lớn với các bản án nghiêm khắc (tù giam, tử hình) dành cho cán bộ cấp cao (kể cả Ủy viên Bộ Chính trị, Bộ trưởng) đã bác bỏ hoàn toàn luận điệu chỉ "phạt nhẹ" hay "viết kiểm điểm".
 * Bản chất của kỷ luật: Cảnh cáo, kiểm điểm là các hình thức kỷ luật chính thức dành cho sai phạm ít nghiêm trọng hoặc lần đầu để giáo dục, răn đe; không phải là "vùng cấm" hay sự ưu ái. Mọi vi phạm đều được công khai minh bạch.
 
-**54. Về Đầu tư công và Các công trình xây dựng:**
+# 54. Về Đầu tư công và Các công trình xây dựng
 
 **Luận điệu:** Quy chụp "cán bộ húp, rút ruột các công trình" là bản chất của các dự án công; cho rằng công trình kém chất lượng là do ngân sách bị biển thủ.
 * Cần nhìn nhận khách quan: Có tồn tại sai phạm, tham nhũng ở một bộ phận cá nhân (con sâu làm rầu nồi canh), nhưng không đại diện cho toàn bộ hệ thống.
@@ -1398,7 +1671,7 @@
 * Nguồn vốn xã hội hóa: Nguồn vốn đầu tư thường được huy động từ doanh nghiệp tư nhân hoặc xã hội hóa, giảm gánh nặng cho ngân sách nhà nước.
 * Thương hiệu quốc gia: Các công trình tầm cỡ giúp nâng cao vị thế đất nước, đủ điều kiện đăng cai các sự kiện quốc tế, tạo ra giá trị vô hình và sức hút đầu tư dài hạn.
 
-**55. Về các luận điệu gán nhãn, kích động (như "Bò đỏ", "Tẩy não"):**
+# 55. Về các luận điệu gán nhãn, kích động (như "Bò đỏ", "Tẩy não")
 
 **Luận điệu:** Sử dụng các từ ngữ mang tính công kích, miệt thị như "bò đỏ", "dư luận viên" hay "cộng sản tẩy não" để chụp mũ những người ủng hộ Đảng, Nhà nước; cho rằng người dân Việt Nam bị "nhồi sọ", thiếu tư duy độc lập.
 * Về cụm từ "bò đỏ": Đây là từ ngữ mang tính miệt thị, phi nhân văn nhằm gán nhãn và hạ thấp những người thể hiện lòng yêu nước chân chính. Mục đích của việc dán nhãn này là để kích động hận thù, tạo ra sự chia rẽ sâu sắc trong xã hội, đối lập người dân với hệ thống chính trị.
@@ -1406,7 +1679,12 @@
 * Thực tế chứng minh: Lòng tin của nhân dân xuất phát từ những thành tựu phát triển kinh tế - xã hội có thật (đời sống cải thiện, đất nước đổi mới) và sự đồng lòng trong những giai đoạn khó khăn (như đại dịch COVID-19), chứ không phải kết quả của sự áp đặt tư tưởng.
 * Thái độ phản bác: Khi đối diện luận điệu này, cần bình tĩnh yêu cầu bằng chứng xác thực, dùng dẫn chứng về sự phát triển của đất nước để chứng minh; tập trung vào sự thật và lý lẽ thay vì bị cuốn vào các cuộc tranh cãi, công kích cá nhân vô bổ.
 
-**56. Về Lòng yêu nước và Tinh thần dân tộc:**
+**Luận điệu:** Gán ghép người bảo vệ chế độ là "bưng bô", "nô lệ"; cho rằng chỉ những người "chửi chính quyền" mới là có tư duy phản biện (critical thinking).
+* Tiêu chuẩn kép: Việc bảo vệ đất nước, chế độ của mình là quyền và nghĩa vụ công dân. Những người gán nhãn "bưng bô" thường lại ra sức bảo vệ, tán dương mù quáng các nước phương Tây (như Mỹ) bất chấp các mặt trái của xã hội đó, thể hiện tâm lý sính ngoại, tự ti dân tộc.
+* Đa dạng động cơ: Người ủng hộ chế độ rất đa dạng: từ người dân thụ hưởng thành quả ổn định, giới trẻ am hiểu lịch sử, đến những người bất bình trước tin giả. Đánh đồng họ là "dư luận viên" hay "bưng bô" là phủ nhận quyền tự do tư tưởng của đa số.
+* Tư duy phản biện thật sự: Phản biện là nhìn nhận vấn đề đa chiều, khách quan (thấy cả cái tốt và cái chưa tốt) để xây dựng; không phải là nhìn đời bằng "kính đen", hằn học phủ nhận sạch trơn thành quả và quy chụp người khác quan điểm là "ngu dốt".
+
+# 56. Về Lòng yêu nước và Tinh thần dân tộc
 
 **Luận điệu:** Cho rằng "người Việt Nam yêu nước lu mờ, như bị tẩy não", đánh đồng lòng yêu nước với cực đoan hoặc cho rằng đã bị phai nhạt.
 * Lòng yêu nước là mạch nguồn truyền thống, là "sợi chỉ đỏ" xuyên suốt lịch sử dân tộc, được hun đúc qua hàng ngàn năm dựng nước và giữ nước, không thế lực nào có thể "tẩy não".
@@ -1419,6 +1697,11 @@
 * Thực tế có hàng ngàn cá nhân, nghệ sĩ, người dân tự nguyện sáng tạo nội dung đa dạng (video, bài viết, tranh ảnh) bằng nguồn lực cá nhân để lan tỏa hình ảnh đất nước, thể hiện ý thức công dân.
 * Việc quy chụp "trả tiền" là thủ đoạn của các thế lực thù địch nhằm bôi nhọ giá trị cao đẹp của lòng yêu nước và chia rẽ khối đại đoàn kết dân tộc.
 
+**Luận điệu:** Mỉa mai những người đấu tranh trên mạng xã hội là "anh hùng bàn phím", cho rằng yêu nước là phải "cầm súng" khi có giặc, còn đấu tranh bằng bàn phím là vô dụng.
+* Bối cảnh mới: Trong thời đại số, biên giới quốc gia nằm ngay trong nhận thức. Cuộc chiến chống "diễn biến hòa bình" trên không gian mạng diễn ra từng giờ; mỗi cú "share", "like" thiếu suy nghĩ có thể tiếp tay cho kẻ xấu.
+* "Yêu nước thời đại số": Không chỉ là sẵn sàng cầm súng, mà còn là bản lĩnh chính trị để lọc bỏ thông tin xấu độc, dùng trí tuệ và lý lẽ sắc bén để bảo vệ chủ quyền văn hóa và sự thật lịch sử trên không gian mạng.
+* Vai trò: Người đấu tranh trên mạng giúp làm sạch môi trường thông tin, củng cố "hệ miễn dịch" tinh thần cho cộng đồng, là nhiệm vụ quan trọng không kém mặt trận vũ trang.
+
 **Luận điệu:** Đánh tráo khái niệm, cho rằng hành vi tụ tập đua xe, vi phạm luật giao thông ("đi bão") là biểu hiện của "lòng yêu nước"; quy kết việc ngăn cấm hay xử phạt là "dập tắt niềm tự hào dân tộc".
 * Yêu nước thể hiện qua việc xây dựng và bảo vệ hình ảnh đất nước, tuân thủ pháp luật, không phải là sự quậy phá, gây rối trật tự công cộng.
 * Niềm tự hào dân tộc chân chính không cần phải chứng minh bằng việc vi phạm pháp luật hay gây nguy hiểm cho người khác.
@@ -1430,7 +1713,17 @@
 * Thực tế các phong trào "yêu nước" đối lập: Nhiều đối tượng rêu rao "yêu nước nhưng ghét Đảng" thực chất lại nhận tài trợ từ các tổ chức khủng bố, phản động nước ngoài, vận động quốc tế trừng phạt kinh tế Việt Nam, bôi xấu hình ảnh đất nước. Hành động làm hại sinh kế của đồng bào và vị thế quốc gia không thể gọi là yêu nước.
 * Sự ổn định là nền tảng: Bảo vệ sự lãnh đạo của Đảng chính là bảo vệ sự ổn định chính trị - điều kiện tiên quyết để đất nước phát triển và người dân được sống trong hòa bình. Các bài học từ các cuộc "cách mạng màu" cho thấy khi thể chế chính trị bị lật đổ dưới chiêu bài "dân chủ", đất nước thường rơi vào hỗn loạn, nội chiến, nhân dân là người chịu khổ nhất.
 
-**57. Về Phân biệt vùng miền và Khối đại đoàn kết dân tộc:**
+**Luận điệu:** Tuyên truyền quan điểm "Tôi yêu đất nước chứ không yêu Đảng", cho rằng "Tổ quốc là mãi mãi, Đảng phái là nhất thời" hoặc so sánh việc yêu nước với "Yêu trường nhưng không yêu Hiệu trưởng".
+* Sai lầm về so sánh: Mối quan hệ giữa Đảng và Đất nước không phải là quan hệ hành chính (như Hiệu trưởng - Trường), mà là quan hệ lịch sử, máu thịt. Đảng là lực lượng duy nhất lãnh đạo dân tộc thoát khỏi nô lệ; nếu không có sự lãnh đạo này, sức mạnh của dân tộc sẽ bị phân tán.
+* Thực tiễn lịch sử: Luận điệu "Không có Đảng này thì có Đảng khác" là giả định phi thực tế. Lịch sử Việt Nam đầu thế kỷ 20 đã chứng kiến sự thất bại của nhiều đảng phái khác; chỉ có Đảng Cộng sản Việt Nam mới đủ bản lĩnh quy tụ sức mạnh toàn dân đi đến thắng lợi.
+* Ổn định và phát triển: Sự ổn định chính trị do Đảng lãnh đạo là nền tảng để Đất nước "trường tồn" và phát triển trong bối cảnh hiện nay. Phủ nhận vai trò của Đảng là phá vỡ nền tảng ổn định đó.
+
+**Luận điệu:** Cho rằng "Giành độc lập là xương máu của dân, không phải công của Đảng" và trích dẫn sai lệch rằng "Bác Hồ chỉ dạy yêu nước, không dạy yêu Đảng".
+* Mối quan hệ biện chứng: Cách mạng là sự nghiệp của quần chúng, nhưng không có bộ tham mưu (Đảng) đề ra đường lối đúng đắn, sự hy sinh của nhân dân sẽ không thành công (như các phong trào trước năm 1930). Thắng lợi là kết quả của sự lãnh đạo đúng đắn kết hợp với sức mạnh toàn dân.
+* Sự hy sinh của Đảng viên: Trong chiến tranh, Đảng viên luôn là lực lượng tiên phong, chịu tù đày, hy sinh tính mạng để dẫn dắt phong trào. Đó là sự hy sinh đi đầu, không phải là "nhận vơ" công trạng.
+* Tư tưởng Hồ Chí Minh: Bác Hồ là người sáng lập Đảng và luôn khẳng định "Quân đội ta trung với Đảng, hiếu với Dân". Người coi lợi ích của Đảng và của Dân tộc là một; việc tách rời lời dạy của Bác để đối lập Đảng với Dân là sự xuyên tạc.
+
+# 57. Về Phân biệt vùng miền và Khối đại đoàn kết dân tộc
 
 **Luận điệu:** Cho rằng "chỉ có người miền Nam cứu trợ bão lụt, còn người miền Bắc thì không"; xuyên tạc tinh thần tương thân tương ái để chia rẽ vùng miền.
 * Tinh thần "lá lành đùm lá rách" là truyền thống chung của dân tộc Việt Nam, không phân biệt vùng miền.
@@ -1484,7 +1777,16 @@
 * Quy định Đảng viên nắm giữ chức vụ lãnh đạo trong hệ thống chính trị là nguyên tắc Đảng cầm quyền lãnh đạo Nhà nước, phổ biến ở các nước XHCN, nhằm đảm bảo sự thống nhất về lý tưởng và đường lối, không phải là sự phân biệt đối xử với người ngoài Đảng.
 * Thực tế tại các nước đa đảng, tình trạng chia rẽ, xung đột vùng miền, sắc tộc vẫn diễn ra gay gắt, chứng tỏ đa đảng không phải là thuốc tiên chữa bệnh cục bộ.
 
-**58. Về việc đặt tên đường phố cho người thân lãnh đạo (Vụ việc đường Ngô Mạnh Lân):**
+**Luận điệu:** Đánh đồng khái niệm "Bò đỏ" với "người Bắc" (Bắc Kỳ); quy chụp người Bắc là "ít học", "bưng bô", hay làm xấu mặt quốc gia khi đi xuất khẩu lao động.
+* Kích động hận thù: Đây là thủ đoạn "dán nhãn" vùng miền thâm độc nhằm cô lập người dân miền Bắc với phần còn lại của đất nước, khơi dậy định kiến lịch sử để phá hoại khối đại đoàn kết.
+* Thực tế tri thức: Miền Bắc là cái nôi văn hóa, lịch sử và giáo dục của cả nước với tỷ lệ trí thức cao; việc quy chụp "ít học" là sự miệt thị vô căn cứ.
+* Về xuất khẩu lao động: Người lao động Việt Nam (bất kể vùng miền) đi làm việc ở nước ngoài là đóng góp kinh tế hợp pháp. Những vi phạm pháp luật (nếu có) là hành vi cá nhân, bị pháp luật nước sở tại và Việt Nam xử lý, không đại diện cho phẩm chất của cả một vùng miền hay dân tộc.
+
+**Luận điệu:** Cho rằng các video chế giễu giọng nói vùng miền, so sánh lối sống Bắc - Nam chỉ là "hài hước vô hại"; phủ nhận động cơ chính trị.
+* Chia rẽ có chủ đích: Đây thường là các kịch bản được tính toán, lợi dụng thuật toán để gieo rắc "virus chia rẽ". Việc chế giễu giọng nói đánh vào sự đa dạng văn hóa để kích động hận thù vùng miền, làm suy yếu khối đại đoàn kết từ bên trong.
+* Kẻ thù giấu mặt: Các thế lực thù địch nấp sau thuật toán và tiếng cười "vô hại" để khoét sâu vào các khác biệt văn hóa, khiến đất nước dễ bị tổn thương trước các kích động nội bộ.
+
+# 58. Về việc đặt tên đường phố cho người thân lãnh đạo (Vụ việc đường Ngô Mạnh Lân)
 
 **Luận điệu:** Xuyên tạc việc đặt tên đường Ngô Mạnh Lân (tại Điện Biên) là do Tổng Bí thư Tô Lâm "lạm quyền" đặt tên cho bố vợ; cho rằng đây là "tham nhũng chính sách", "gia đình trị".
 * Việc đặt tên đường thuộc thẩm quyền của HĐND và UBND cấp tỉnh (cụ thể là tỉnh Điện Biên) dựa trên quy trình chặt chẽ: khảo sát, lấy ý kiến hội đồng tư vấn khoa học, cộng đồng dân cư và ra Nghị quyết; Tổng Bí thư không có thẩm quyền can thiệp vào quyết định hành chính này.
@@ -1492,7 +1794,7 @@
 * Trong đợt này, tỉnh Điện Biên đặt tên đường cho nhiều danh nhân, văn nghệ sĩ, liệt sĩ khác (như Nam Cao, Nguyễn Tuân, Liệt sĩ Phạm Văn Cường...) chứ không riêng ông Ngô Mạnh Lân.
 * Luận điệu này cố tình lờ đi quy trình pháp lý và công trạng của người được vinh danh nhằm bôi nhọ uy tín cá nhân lãnh đạo, gây chia rẽ và hoài nghi trong dư luận.
 
-**59. Về Tính đúng đắn của Chính sách và Trách nhiệm thực thi:**
+# 59. Về Tính đúng đắn của Chính sách và Trách nhiệm thực thi
 
 **Luận điệu:** Mỉa mai rằng "Đảng luôn cho mình là đúng", "không bao giờ sai", hoặc đổ lỗi "chính sách đúng nhưng người thực hiện sai" để chối bỏ trách nhiệm.
 * Tính lịch sử và thực tiễn: Chính sách được xây dựng phù hợp với hoàn cảnh cụ thể từng thời kỳ; sự "đúng đắn" mang tính tương đối. Đảng luôn chủ trương nhìn thẳng sự thật, cải thiện và điều chỉnh chính sách (như công cuộc Đổi mới) để phục vụ dân tốt hơn.
@@ -1500,7 +1802,7 @@
 * Trách nhiệm rõ ràng: Hiệu quả phụ thuộc vào khâu thực hiện; cá nhân vận dụng sai, làm trái sẽ bị xử lý kỷ luật hoặc hình sự (không có vùng cấm), không phải là sự đổ lỗi mà là cá thể hóa trách nhiệm.
 * Cơ chế khắc phục: Nếu chính sách có sai sót hoặc không còn phù hợp, Đảng và Nhà nước có cơ chế sửa đổi, bổ sung và bồi thường/hỗ trợ để đảm bảo quyền lợi người dân.
 
-**60. Về Cải cách hành chính và Chuyển đổi số (Dịch vụ công trực tuyến):**
+# 60. Về Cải cách hành chính và Chuyển đổi số (Dịch vụ công trực tuyến)
 
 **Luận điệu:** Cho rằng "Nhà nước đẻ ra nhiều luật để hành dân", "bỏ sổ hộ khẩu nhưng vẫn đòi giấy tờ", thủ tục online gây khó khăn cho người già, cán bộ hách dịch, nhũng nhiễu đòi tiền "làm nhanh".
 * Thừa nhận tồn tại và khắc phục: Những bất cập (như dữ liệu chưa đồng bộ, lỗi mạng) là khó khăn của giai đoạn quá độ chuyển đổi số. Chính phủ và Bộ Công an đang quyết liệt chấn chỉnh, làm sạch dữ liệu (Đề án 06) để người dân không phải nộp giấy tờ giấy.
@@ -1543,7 +1845,7 @@
 * Cơ chế khuyến khích truy cập nhằm xây dựng **thói quen số** và kỹ năng số cho công dân trong giai đoạn đầu chuyển đổi, giúp người dân tiếp cận thông tin chính thống và dịch vụ công nhanh nhất.
 * VNeID sử dụng công nghệ xác thực sinh trắc học (khuôn mặt, vân tay) gắn liền với chip định danh duy nhất, khiến việc "cày thuê" hay "hack điểm" là bất khả thi về mặt kỹ thuật; tài khoản là danh tính pháp lý, không thể mua bán như tài khoản game.
 
-**61. Về "Cách mạng màu" và Chiến tranh tâm lý:**
+# 61. Về "Cách mạng màu" và Chiến tranh tâm lý
 
 **Luận điệu:** Lợi dụng tâm lý sợ hãi, hoang mang để rêu rao "mọi thứ đang sụp đổ"; kích động chia rẽ giữa người dân và chính quyền dưới vỏ bọc "người hùng" hay "sự thật".
 * Đây là chiến lược của "Cách mạng màu": dùng truyền thông và tâm lý để tạo ra sự hỗn loạn, sợ hãi nhằm thao túng hành vi đám đông.
@@ -1577,7 +1879,7 @@
 * Các cuộc can thiệp thường nhắm vào các quốc gia giàu tài nguyên (dầu mỏ) hoặc có vị trí địa chính trị quan trọng nhằm thiết lập chính quyền thân phương Tây, phục vụ lợi ích nước lớn.
 * Các cuộc "Cách mạng màu" hứa hẹn tự do nhưng thực tế thường mang đến sự tàn khốc, nội chiến, sự trỗi dậy của khủng bố và đời sống người dân cùng cực (như bài học từ "Mùa xuân Ả Rập").
 
-**62. Về xử lý tội phạm kinh tế:**
+# 62. Về xử lý tội phạm kinh tế
 
 **Luận điệu:** Rêu rao rằng chính quyền "nuôi cho béo rồi mới thịt", "để giàu rồi mới bắt"; quy chụp việc khởi tố các doanh nhân, KOLs là để "cướp tài sản".
 * Đây là ngụy biện "hậu nhân quả": việc bắt giữ dựa trên căn cứ pháp lý và hành vi phạm tội (trốn thuế, lừa đảo, thao túng) đã được thu thập chứng cứ đầy đủ, không phụ thuộc vào thời điểm giàu hay nghèo.
@@ -1585,21 +1887,21 @@
 * Việc xử lý nghiêm các sai phạm kinh tế là để bảo vệ môi trường kinh doanh lành mạnh, bảo vệ nhà đầu tư và người làm ăn chân chính, không phải là "triệt hạ" người giàu.
 * Nghị quyết 68 khẳng định kinh tế tư nhân là động lực quan trọng; Nhà nước khuyến khích làm giàu hợp pháp nhưng kiên quyết loại bỏ hành vi làm giàu bất chính, lừa đảo.
 
-**63. Về Luật Dẫn độ và quy định tạm giữ khẩn cấp (45 ngày):**
+# 63. Về Luật Dẫn độ và quy định tạm giữ khẩn cấp (45 ngày)
 
 **Luận điệu:** Xuyên tạc quy định "Công an có quyền giữ người khẩn cấp tối đa 45 ngày" trong Luật Dẫn độ là "luật rừng", vi phạm nhân quyền; cho rằng đây là thời "công an trị", muốn bắt ai thì bắt.
 * Phạm vi áp dụng hẹp: Thời hạn 45 ngày chỉ áp dụng cho trường hợp **giữ người để dẫn độ** theo yêu cầu của nước ngoài (đối với tội phạm bỏ trốn có lệnh truy nã quốc tế), nhằm có đủ thời gian hoàn tất các thủ tục pháp lý ngoại giao phức tạp. Quy định này **không** áp dụng cho việc tạm giữ, tạm giam công dân Việt Nam trong các vụ án hình sự thông thường (vẫn tuân theo thời hạn ngắn 3-9 ngày của Bộ luật Tố tụng Hình sự).
 * Phù hợp thông lệ quốc tế: Quy định này tương thích với các điều ước quốc tế mà Việt Nam tham gia và luật pháp các nước, nhằm đảm bảo khả năng hợp tác chống tội phạm xuyên quốc gia, không để tội phạm lẩn trốn.
 * Quy trình chặt chẽ: Việc giữ người để dẫn độ phải qua quy trình kiểm tra tính hợp lệ nghiêm ngặt của Bộ Công an và chịu sự giám sát của Viện Kiểm sát, Tòa án; không phải là sự bắt giữ tùy tiện. Người bị giữ được đảm bảo các quyền con người, quyền tiếp cận lãnh sự và bào chữa theo luật định.
 
-**64. Về Chính sách Nhà ở xã hội và An sinh xã hội:**
+# 64. Về Chính sách Nhà ở xã hội và An sinh xã hội
 
 **Luận điệu:** Rêu rao hình ảnh người dân "ngủ bãi cỏ, vạ vật trắng đêm" nộp hồ sơ mua nhà ở xã hội là bằng chứng của chính sách thất bại, bất công; xuyên tạc Nhà nước bỏ mặc người thu nhập thấp.
 * Thực tế nhu cầu nhà ở xã hội rất lớn trong khi nguồn cung chưa đáp ứng đủ ngay lập tức dẫn đến tình trạng xếp hàng; đây là quy luật cung cầu, không phải sự "bỏ mặc". Việc xếp hàng chờ đợi theo quy định thể hiện sự công khai, minh bạch, ai đến trước được phục vụ trước, tránh cơ chế "xin - cho".
 * Nhà nước đã ban hành nhiều chính sách ưu đãi và đang quyết liệt triển khai đề án 1 triệu căn nhà ở xã hội để giải quyết căn cơ vấn đề; các thủ tục đang được cải cách để giảm phiền hà.
 * Việc lan truyền hình ảnh vất vả để phủ nhận nỗ lực an sinh của Nhà nước là cái nhìn phiến diện, kích động tâm lý bi quan.
 
-**65. Về Luật Trí tuệ nhân tạo và Sở hữu trí tuệ (Sửa đổi):**
+# 65. Về Luật Trí tuệ nhân tạo và Sở hữu trí tuệ (Sửa đổi)
 
 **Luận điệu:** Cho rằng Luật AI và Luật Sở hữu trí tuệ mới đang "bóp nghẹt nghệ sĩ", "hợp pháp hóa hành vi ăn cắp chất xám" khi cho phép AI học từ dữ liệu công khai; quy chụp Nhà nước bảo kê cho công ty công nghệ chèn ép người sáng tạo.
 * Cân bằng lợi ích: Việc cho phép sử dụng dữ liệu đã công bố hợp pháp để huấn luyện AI (khai thác văn bản và dữ liệu - TDM) là xu hướng chung của thế giới (như Nhật Bản, Mỹ) để thúc đẩy công nghệ quốc gia, không để Việt Nam tụt hậu.
@@ -1607,7 +1909,7 @@
 * Không bảo hộ AI: Luật khẳng định sản phẩm do AI tự tạo ra (không có đóng góp sáng tạo đáng kể của con người) thì **không được bảo hộ bản quyền**. Điều này bảo vệ giá trị sáng tạo của con người, ngăn chặn việc dùng máy móc để độc quyền thị trường nghệ thuật.
 * Yêu cầu gắn nhãn: Luật yêu cầu bắt buộc phải dán nhãn/thông báo đối với sản phẩm do AI tạo ra (deepfake, văn bản, hình ảnh), giúp công chúng phân biệt rõ ràng, bảo vệ thương hiệu cho nghệ sĩ thực thụ.
 
-**66. Về Thử nghiệm lâm sàng Vaccine sốt xuất huyết và Y tế dự phòng:**
+# 66. Về Thử nghiệm lâm sàng Vaccine sốt xuất huyết và Y tế dự phòng
 
 **Luận điệu:** Cho rằng việc thử nghiệm vaccine sốt xuất huyết trên trẻ em Việt Nam là coi người dân như "chuột bạch", "vật thí nghiệm"; thắc mắc tại sao nước sản xuất (Mỹ) không thử mà lại thử ở Việt Nam.
 * Thử nghiệm lâm sàng giai đoạn 3 bắt buộc phải thực hiện tại nơi có dịch bệnh lưu hành để đánh giá hiệu quả bảo vệ thực tế trước sự tấn công của virus. Mỹ không phải là vùng dịch sốt xuất huyết như Đông Nam Á, nên việc thử nghiệm tại Việt Nam là yêu cầu khoa học khách quan, không phải là sự lợi dụng.
@@ -1624,7 +1926,7 @@
 * Trước khi vào Giai đoạn 3 (thử nghiệm diện rộng), vaccine đã phải vượt qua Giai đoạn 1 và 2 về tính an toàn.
 * Quá trình thử nghiệm tuân thủ chuẩn quốc tế, có Hội đồng giám sát dữ liệu và an toàn (DSMB) độc lập theo dõi liên tục để bảo vệ người tham gia.
 
-**67. Về Nghị định 282/2025/NĐ-CP (Xử phạt tiếng ồn/Karaoke):**
+# 67. Về Nghị định 282/2025/NĐ-CP (Xử phạt tiếng ồn/Karaoke)
 
 **Luận điệu:** Cho rằng quy định xử phạt hát karaoke gây ồn ào bất kể khung giờ là "tận thu", "triệt tiêu quyền giải trí của người nghèo"; rêu rao rằng "chỉ người giàu mới được hát".
 * Mục tiêu của Nghị định là bảo vệ sự yên tĩnh, sức khỏe thể chất và tinh thần của cộng đồng, giảm thiểu các xung đột xã hội (đã có nhiều vụ án mạng vì tiếng ồn), hoàn toàn không phải để "tận thu".
@@ -1640,7 +1942,7 @@
 * Quy chuẩn thực tế: Mức cho phép trong khu dân cư là 70dBA (ngày) và 55dBA (đêm), đủ cho sinh hoạt bình thường.
 * Mức phạt thực tế: Với vi phạm tiếng ồn sinh hoạt thông thường, Nghị định 282 chỉ phạt 1-2 triệu đồng; việc đưa con số 160 triệu ra để hù dọa là thủ đoạn kích động tâm lý.
 
-**68. Về Hiệu lực của Quyết định Hành chính và "Chủ quyền số":**
+# 68. Về Hiệu lực của Quyết định Hành chính và "Chủ quyền số"
 
 **Luận điệu:** Cho rằng các quyết định hành chính (đổi tên, sáp nhập) là "vô nghĩa" vì thực tế số (Google Maps, app giao hàng) vẫn dùng tên cũ; rêu rao "chủ quyền số" thuộc về thói quen người dùng và các nền tảng công nghệ, phủ nhận quyền lực quản lý của Nhà nước.
 * Đánh tráo khái niệm: Quyết định hành chính xác lập địa vị pháp lý (con dấu, ngân sách, bầu cử, quyền sở hữu tài sản, an sinh xã hội...), là nền tảng vận hành của xã hội thực, điều mà Google Maps hay các ứng dụng thương mại không thể thay thế.
@@ -1648,7 +1950,7 @@
 * Thói quen và Pháp lý: Việc người dân dùng tên cũ là thói quen tự nhiên trong giai đoạn chuyển tiếp, không làm mất đi hiệu lực pháp lý của tên mới trong các giao dịch chính thức.
 * Chủ quyền số đích thực: Chủ quyền số là quyền của quốc gia trong việc quản lý, kiểm soát dữ liệu và không gian mạng của mình (như Luật An ninh mạng, bảo vệ dữ liệu), chứ không phải là sự phụ thuộc vào thuật toán hay dữ liệu của các tập đoàn công nghệ nước ngoài.
 
-**69. Về Xu hướng Định cư và Lựa chọn Quốc tịch ("Bỏ phiếu bằng chân"):**
+# 69. Về Xu hướng Định cư và Lựa chọn Quốc tịch ("Bỏ phiếu bằng chân")
 
 **Luận điệu:** Cho rằng "100% người dân, kể cả con cháu cộng sản đều chọn hộ chiếu Mỹ/Tàu nếu được chọn", "ai cũng muốn bỏ phiếu bằng chân" sang Mỹ; quy kết việc người dân đi định cư chứng tỏ chế độ Việt Nam kém cỏi.
 * Việc di cư, học tập và làm việc toàn cầu là xu thế của thế giới phẳng. Người dân các nước phát triển (Châu Âu, Hàn Quốc, Nhật Bản) cũng di cư sang Mỹ tìm kiếm cơ hội, điều đó không đồng nghĩa với việc họ ghét bỏ quê hương hay chế độ chính trị của nước mình.
@@ -1671,7 +1973,7 @@
 * "Đi Mỹ" để học tập, làm việc là nhu cầu chính đáng; mang kiến thức, nguồn lực về xây dựng đất nước chính là biểu hiện cụ thể của lòng yêu nước.
 * Tư duy rạch ròi: Phê phán chính sách bá quyền (nếu có) nhưng vẫn học hỏi khoa học, văn minh của họ là thái độ bản lĩnh, tự tin, không phải sự mâu thuẫn hay đạo đức giả.
 
-**70. Về Đề xuất Điểm công dân số trên VNeID:**
+# 70. Về Đề xuất Điểm công dân số trên VNeID
 
 **Luận điệu:** Cho rằng việc chấm điểm công dân là "vi hiến", "phân biệt đối xử", "lấy tiền thuế của dân nghèo nuôi người điểm cao"; tạo ra sự bất bình đẳng giữa người rành công nghệ và người yếu thế.
 * Bản chất không phải phân biệt đối xử mà là cơ chế **khuyến khích** (incentive). Công dân sử dụng dịch vụ công trực tuyến giúp Nhà nước tiết kiệm chi phí vận hành (giấy tờ, nhân sự, thời gian), do đó phần chi phí tiết kiệm được chuyển hóa thành ưu đãi giảm thuế, phí cho họ là hoàn toàn công bằng và hợp lý về mặt kinh tế.
@@ -1688,7 +1990,7 @@
 * Dữ liệu minh bạch: Điểm số được tính dựa trên các hoạt động hành chính công khai (cập nhật dữ liệu, dùng dịch vụ công, đóng góp ý kiến xây dựng pháp luật), không can thiệp vào đời sống riêng tư hay quan điểm cá nhân.
 * Mục tiêu phục vụ: Hệ thống hướng tới việc người dân được hưởng lợi trực tiếp (miễn giảm 127 loại thuế phí, ưu tiên giải quyết thủ tục) khi đồng hành cùng Chính phủ số, không phải công cụ cai trị.
 
-**71. Về Hiệu quả của Truy tố Quốc tế, Cơ chế Interpol và Công ước Hà Nội:**
+# 71. Về Hiệu quả của Truy tố Quốc tế, Cơ chế Interpol và Công ước Hà Nội
 
 **Luận điệu:** Cho rằng việc khởi tố các đối tượng ở nước ngoài (như Lê Trung Khoa, Nguyễn Văn Đài) là "vô giá trị", "hài hước" vì Interpol (Điều 3 Hiến chương) không can thiệp vụ án chính trị và nguyên tắc "tội phạm song trùng" không áp dụng với Điều 117 tại Đức/Châu Âu.
 * Chủ quyền Tư pháp: Việc khởi tố khẳng định mọi hành vi xâm phạm an ninh quốc gia Việt Nam đều phải chịu trách nhiệm trước pháp luật, bất kể thực hiện ở đâu. Đây là cơ sở pháp lý để phong tỏa tài sản, chặn đường nhập cảnh và xử lý các dòng tiền tài trợ trong nước.
@@ -1703,14 +2005,20 @@
 * Không có vùng cấm: Quy chế tị nạn bảo vệ con người, không bảo vệ hành vi phạm tội. Việc tiếp tục lợi dụng lãnh thổ nước ngoài để chỉ đạo chống phá, khủng bố là vi phạm pháp luật quốc tế và nước sở tại.
 * Cảnh tỉnh cộng đồng: Việc khởi tố giúp người dân trong nước nhận diện rõ bản chất tội phạm, tránh bị lôi kéo, tiếp tay (chuyển tiền, chia sẻ thông tin) dẫn đến vướng vào vòng lao lý.
 
-**72. Về Thực trạng Đạo đức xã hội:**
+**Luận điệu:** Tuyên bố "thắng kiện" hoặc cho rằng vụ kiện của doanh nghiệp Việt Nam tại tòa án nước ngoài (như vụ VinFast kiện Lê Trung Khoa tại Đức) là "đàn áp xuyên biên giới" hay "thất bại của doanh nghiệp".
+* Phán quyết của tòa án Đức (Lệnh cấm tạm thời - einstweilige Verfügung) cấm phát tán các nội dung cụ thể mang tính vu khống chứng minh rằng hệ thống pháp luật phương Tây không bảo vệ tin giả dưới danh nghĩa tự do báo chí.
+* Việc phải chịu án phí và đối mặt với mức phạt tiền lớn (tới 250.000 Euro) hoặc phạt tù nếu tái phạm cho thấy tính nghiêm minh của pháp luật sở tại đối với hành vi bôi nhọ, không có chuyện "miễn nhiễm".
+* Việc các nền tảng (như Facebook) tắt kiếm tiền hoặc hạn chế nội dung do vi phạm tiêu chuẩn cộng đồng khẳng định mô hình "báo chí lá cải chính trị hóa" để trục lợi là không bền vững.
+* Quy chế tị nạn chính trị không phải là kim bài miễn tử trước trách nhiệm dân sự; các cá nhân vẫn phải chịu trách nhiệm bồi thường và chấm dứt hành vi xâm phạm danh dự, uy tín của tổ chức, cá nhân khác.
+
+# 72. Về Thực trạng Đạo đức xã hội
 
 **Luận điệu:** Cho rằng xã hội Việt Nam đang "trượt dốc không phanh", cái ác lên ngôi, con người vô cảm tàn nhẫn (giết người, cướp của); quy kết đây là "lỗi của thể chế" hay "cấu trúc xã hội sai lệch".
 * Tội phạm và các hành vi lệch chuẩn là mặt trái tồn tại ở mọi xã hội, kể cả các nước phát triển, không phải sản phẩm riêng của chế độ chính trị nào.
 * Việc truyền thông tập trung đưa tin vụ án là để cảnh báo, răn đe, nhưng vô tình tạo cảm giác "cái ác bao trùm"; thực tế đại đa số người dân vẫn sống nhân ái, tuân thủ pháp luật (như sự đùm bọc trong thiên tai, dịch bệnh).
 * Đổ lỗi cho "thể chế" là cách nhìn phiến diện nhằm phủ nhận vai trò giáo dục của gia đình, nhà trường và trách nhiệm cá nhân của mỗi người trước pháp luật.
 
-**73. Về Nghị định 296/2025/NĐ-CP (Cưỡng chế thi hành quyết định xử phạt vi phạm hành chính):**
+# 73. Về Nghị định 296/2025/NĐ-CP (Cưỡng chế thi hành quyết định xử phạt vi phạm hành chính)
 
 **Luận điệu:** Xuyên tạc quy định cưỡng chế tài sản của thành viên hộ gia đình khi hộ kinh doanh vi phạm là "tru di tam tộc", "làm một người chịu cả nhà", "cướp ngày"; cho rằng đây là "luật rừng", "vi hiến".
 * Bản chất pháp lý: Hộ kinh doanh cá thể hoạt động theo chế độ **trách nhiệm vô hạn**. Theo Luật Dân sự, chủ hộ và các thành viên chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản của hộ bằng **toàn bộ tài sản** của mình, không tách bạch như Công ty TNHH. Quy định này chỉ cụ thể hóa nguyên tắc đó trong thi hành án, không phải "luật rừng".
@@ -1722,7 +2030,7 @@
 * Lành mạnh hóa môi trường: Việc cưỡng chế nghiêm khắc bảo vệ những người làm ăn chân chính khỏi sự cạnh tranh bẩn của những kẻ vi phạm pháp luật nhưng chây ì nộp phạt.
 * Quyền lựa chọn: Nếu lo ngại rủi ro tài sản cá nhân, người dân có quyền chuyển đổi mô hình từ Hộ kinh doanh sang Doanh nghiệp (như Công ty TNHH) để hưởng chế độ trách nhiệm hữu hạn. Nhà nước đang khuyến khích xu hướng này để minh bạch hóa nền kinh tế.
 
-**74. Về Nghị định 335/2025/NĐ-CP (Đánh giá, xếp loại công chức):**
+# 74. Về Nghị định 335/2025/NĐ-CP (Đánh giá, xếp loại công chức)
 
 **Luận điệu:** Cho rằng việc đánh giá công chức theo thang điểm 100 chỉ là "nội bộ tâng bốc nhau", "vừa đá bóng vừa thổi còi"; khẳng định nếu không để người dân trực tiếp chấm điểm thì kết quả vô giá trị.
 * Nghị định 335 chuyển từ đánh giá định tính (cảm tính) sang định lượng cụ thể (sản phẩm, tiến độ, chất lượng) với thang điểm chi tiết. Việc lượng hóa kết quả công việc (KPI) giúp đánh giá khách quan, giảm thiểu sự thiên vị hay "dễ người dễ ta".
@@ -1734,3 +2042,71 @@
 * Bản chất KPI: Đây là công cụ quản trị nhân sự hiện đại (KPI) nhằm nâng cao hiệu suất làm việc, sàng lọc người làm việc kém, "sáng cắp ô đi tối cắp ô về", hoàn toàn không phải hệ thống kiểm soát tư tưởng.
 * Tiêu chí rõ ràng: 70% số điểm dựa trên kết quả thực hiện nhiệm vụ (số lượng, chất lượng, tiến độ), chỉ 30% là tiêu chí chung (phẩm chất, kỷ luật). Điều này khuyến khích người làm được việc, có sản phẩm cụ thể, không phải người chỉ biết "nghe lời".
 * Kết quả đánh giá là căn cứ pháp lý quan trọng để thực hiện tinh giản biên chế, đưa ra khỏi bộ máy những người không hoàn thành nhiệm vụ (dưới 50 điểm), phục vụ mục tiêu xây dựng nền hành chính chuyên nghiệp, hiệu lực.
+
+# 75. Về Lợi dụng quyền khiếu nại, tố cáo và danh nghĩa "người chống tiêu cực"
+
+**Luận điệu:** Tự xưng là "người tố giác tội phạm", "người chống tiêu cực" để livestream chửi bới, vu khống lãnh đạo Đảng, Nhà nước; cho rằng việc bị xử lý là "trù dập người trung thực".
+* Quyền khiếu nại, tố cáo được pháp luật bảo vệ nhưng phải thực hiện đúng quy trình, gửi đúng cơ quan thẩm quyền và chịu trách nhiệm về nội dung. Việc lợi dụng danh nghĩa này để tung tin bịa đặt, xúc phạm danh dự người khác trên mạng xã hội là hành vi vi phạm pháp luật (Điều 331 BLHS).
+* Cần phân biệt rõ giữa người tố cáo chân chính (có bằng chứng, tuân thủ pháp luật) và kẻ mượn danh tố cáo để gây rối, trục lợi hoặc thực hiện mưu đồ chính trị (như tống tiền lãnh đạo, phá hoại Đại hội Đảng).
+* Việc xử lý hình sự các đối tượng này là để bảo vệ sự tôn nghiêm của pháp luật và quyền lợi của công dân khác, không phải là trù dập.
+
+**Luận điệu:** Bịa đặt các vụ án kinh hoàng (như "giết người giấu xác", "bệnh viện là lò mổ") không có bằng chứng để quy kết cơ quan chức năng bao che tội phạm; nâng quan điểm tranh chấp dân sự thành "án chính trị"; xuyên tạc các biện pháp tố tụng (dẫn giải, giám định) là "bắt cóc".
+* Các cáo buộc nghiêm trọng cần phải có chứng cứ pháp lý (kết luận pháp y, điều tra), không thể dựa trên lời nói một chiều. Việc tung tin thất thiệt gây hoang mang dư luận, ảnh hưởng đến an ninh trật tự là tội phạm.
+* Bản chất nhiều vụ việc là tranh chấp dân sự/đất đai hoặc mâu thuẫn cá nhân. Việc chính trị hóa, quy chụp cho lãnh đạo cấp cao nhằm gây sức ép là thủ đoạn diễn biến hòa bình, phá hoại sự ổn định.
+* Các biện pháp tố tụng là quy trình bắt buộc để làm rõ vụ án. Việc chống đối, xuyên tạc là hành vi cản trở người thi hành công vụ.
+
+**Luận điệu:** Gửi "tối hậu thư", đe dọa sẽ tung tin xấu để ngăn cản lãnh đạo vào danh sách nhân sự Đại hội Đảng nếu không đáp ứng yêu sách cá nhân.
+* Đây là hành vi tống tiền chính trị, xâm phạm hoạt động bình thường của hệ thống chính trị. Công tác nhân sự của Đảng được thực hiện theo quy trình chặt chẽ, khách quan, không chịu tác động bởi các tin đồn hay sự đe dọa của cá nhân.
+* Hành vi này cho thấy động cơ không trong sáng của người tố cáo, không phải vì công lý mà vì mục đích vụ lợi hoặc phá hoại.
+
+# 76. Về Phân loại Chính trị (Cánh tả, Cánh hữu, Phát xít)
+
+**Luận điệu:** Đánh đồng Chủ nghĩa Cộng sản với Chủ nghĩa Phát xít (Quốc xã) vì tên gọi có chữ "Xã hội chủ nghĩa"; cho rằng hai chế độ này là "anh em sinh đôi", cùng bản chất độc tài.
+* Chủ nghĩa Quốc xã (Nazism) lợi dụng danh từ "Xã hội chủ nghĩa" để lừa mị giai cấp công nhân nhưng bản chất là cực hữu, bảo vệ chủ nghĩa tư bản độc quyền, phân biệt chủng tộc cực đoan, hoàn toàn đối lập với bản chất nhân văn, quốc tế vô sản và giải phóng con người của Chủ nghĩa Cộng sản.
+* Lịch sử chứng minh những người Cộng sản là lực lượng kiên quyết nhất trong cuộc đấu tranh chống Phát xít (Liên Xô đóng vai trò quyết định tiêu diệt Đức Quốc xã); việc đánh đồng là thủ đoạn xét lại lịch sử nhằm xóa bỏ công lao của phong trào Cộng sản đối với nhân loại.
+
+**Luận điệu:** Cho rằng Việt Nam đã từ bỏ CNXH để chuyển sang "Cánh hữu", trở thành "Tư bản đỏ" do áp dụng kinh tế thị trường; khẳng định Đảng đã "biến chất" để tồn tại.
+* Kinh tế thị trường định hướng XHCN là sự vận dụng sáng tạo chủ nghĩa Mác - Lênin, sử dụng cơ chế thị trường và nguồn vốn như công cụ để xây dựng cơ sở vật chất cho CNXH, không phải là sự từ bỏ mục tiêu chính trị hay lý tưởng công bằng xã hội.
+* Khác với "Cánh hữu" thuần túy ưu tiên lợi nhuận và giới chủ, Nhà nước Việt Nam điều tiết nền kinh tế để đảm bảo an sinh xã hội, giảm nghèo cho đa số nhân dân, giữ vững bản chất nhà nước "của dân, do dân, vì dân".
+
+**Luận điệu:** Tranh cãi việc xếp loại Việt Nam là "Cánh tả" hay "Cánh hữu" theo tiêu chuẩn phương Tây; cho rằng mô hình chính trị Việt Nam là "lai căng", "lạc loài".
+* Khái niệm "Tả - Hữu" xuất phát từ lịch sử nghị trường phương Tây và không phản ánh chính xác thực tiễn chính trị đặc thù của Việt Nam (một đảng cầm quyền đại diện cho lợi ích toàn dân tộc).
+* Việt Nam chắt lọc các giá trị tiến bộ: công bằng xã hội (ưu tiên của cánh tả) kết hợp với lòng yêu nước, giá trị truyền thống (giá trị của cánh hữu), đảm bảo sự ổn định và phát triển phù hợp với văn hóa, lịch sử đất nước thay vì rập khuôn theo nhãn dán chính trị phương Tây.
+
+# 77. Về Phát triển Tây Nguyên và Quyền của người bản địa
+
+**Luận điệu:** Rêu rao rằng người Tây Nguyên bị "lưu vong trên chính quê hương", không còn làm chủ đất đai, trở thành "kẻ làm thuê"; cho rằng "rừng thiêng" bị biến thành tài sản, dự án mà người dân không được đồng thuận.
+* Nhà nước thực hiện nhất quán chính sách giao đất, giao rừng cho cộng đồng các dân tộc thiểu số (DTTS) và các chương trình mục tiêu quốc gia (như Nghị quyết 22-NQ/TW) để đảm bảo tư liệu sản xuất.
+* Người dân là chủ thể kinh tế năng động, không phải "làm thuê". Nhiều hộ nông dân (Ê-đê, Gia-rai, Ba-na) đã làm giàu từ cà phê, hồ tiêu, cao su nhờ vốn vay chính sách và hỗ trợ kỹ thuật của Nhà nước.
+* Việc chuyển đổi mục đích sử dụng đất cho hạ tầng, năng lượng tái tạo là để phục vụ lợi ích chung (điện, đường, trường, trạm) cho chính vùng sâu, vùng xa.
+* Chính sách chi trả dịch vụ môi trường rừng (PFES) đã tạo thu nhập ổn định cho người dân địa phương tham gia giữ rừng, gắn quyền lợi trực tiếp của họ với rừng.
+
+**Luận điệu:** Cho rằng văn hóa, ngôn ngữ bản địa bị "bỏ rơi", "thương mại hóa"; luật tục bị xem nhẹ và người dân "mất quyền quyết định" số phận.
+* Tiếng nói, chữ viết các dân tộc (Ê-đê, Gia-rai...) được đưa vào giảng dạy chính thức; đài phát thanh/truyền hình địa phương phát sóng tiếng dân tộc hàng ngày. Không gian văn hóa Cồng chiêng (Di sản UNESCO) được tôn vinh.
+* Các dự án triển khai đều phải qua quy trình đánh giá tác động môi trường và tham vấn cộng đồng về đền bù, hỗ trợ tái định cư, không có chuyện "không được hỏi ý kiến".
+* Tỷ lệ đại biểu là người DTTS trong Quốc hội và Hội đồng nhân dân các cấp tại các tỉnh Tây Nguyên luôn chiếm tỷ trọng cao, đảm bảo tiếng nói của người bản địa được lắng nghe và tham gia quyết định.
+
+# 78. Về Thể thao và Chính trị (Bóng đá)
+
+**Luận điệu:** Cho rằng Đội tuyển Việt Nam (U23/ĐTQG) thua Trung Quốc là do "nhường", "chỉ đạo ngoại giao", "nước bé phải sợ nước lớn"; quy chụp Đảng ra lệnh thua để ngăn người dân "đi bão" vì sợ bạo loạn.
+* Bóng đá có thắng có thua là quy luật thường tình, phụ thuộc vào phong độ, chiến thuật và sự khắc chế lối chơi trong từng trận đấu (như Argentina từng thua Ả Rập Xê Út, Brazil thua Đức 1-7), không phải do sắp đặt chính trị.
+* Các cầu thủ đã thi đấu hết mình, chấp nhận chấn thương nghiêm trọng (đứt dây chằng, kiệt sức) vì màu cờ sắc áo; không ai "diễn" để hủy hoại sự nghiệp và thân thể mình như vậy.
+* Thực tế lịch sử (như trận thắng Trung Quốc ngày Mùng 1 Tết) chứng minh Việt Nam luôn thi đấu sòng phẳng. Quy chụp "nhường" là xúc phạm nỗ lực của Ban huấn luyện và cầu thủ.
+* Đảng và Nhà nước luôn cổ vũ tinh thần thể thao cao thượng, khơi dậy lòng tự hào dân tộc; luận điệu "ra lệnh thua" là thuyết âm mưu của các nhóm bất mãn nhằm hạ thấp tư thế độc lập tự chủ của đất nước.
+
+**Luận điệu:** Quy kết thất bại là do cầu thủ "bán độ", "làm kinh tế"; so sánh việc thắng đội mạnh (Hàn Quốc) nhưng thua đội khác (Trung Quốc) để khẳng định có "mùi" tiêu cực.
+* Trong bóng đá, tính chất kỵ giơ là bình thường; thắng đội mạnh nhưng thua đội có lối đá khắc chế là chuyện chuyên môn. Chiến thắng trước các đối thủ lớn (như Hàn Quốc) sau đó càng chứng minh thực lực và tinh thần trong sáng của đội tuyển.
+* Cầu thủ hiện nay ý thức rõ giá trị nghề nghiệp và tương lai; không ai dại dột đánh đổi danh dự quốc gia và sự nghiệp lấy lợi ích ngắn hạn từ bán độ.
+* Những cáo buộc vô căn cứ dựa trên cảm xúc nhất thời làm tổn thương tinh thần đoàn kết và sự cống hiến của các vận động viên.
+
+# 79. Về Xử lý sai phạm tại các "Siêu dự án" (Vụ việc Sài Gòn - Đại Ninh)
+
+**Luận điệu:** Cho rằng việc xử lý vụ án Sài Gòn - Đại Ninh chỉ là "thanh trừng phe phái", hoặc Nhà nước bao che cho "nhóm lợi ích" bất động sản; rêu rao rằng "tiền đã tẩu tán hết" không thu hồi được.
+* Việc thu hồi toàn bộ 1.428ha đất dự án và khởi tố hàng loạt cán bộ cấp cao (Bộ trưởng, Bí thư, Chủ tịch tỉnh, Thanh tra Chính phủ) thể hiện quyết tâm "không có vùng cấm", xử lý nghiêm minh sự cấu kết giữa doanh nghiệp và quyền lực để trục lợi.
+* Kết quả thực tế đã thu hồi triệt để tài sản cho Nhà nước (hơn 2.700 tỷ đồng và hàng ngàn ha đất), chứng minh mục tiêu chống tham nhũng là để bảo vệ tài sản công, không phải là "đánh võng" chính trị.
+* Quyết định thu hồi đất chấm dứt tình trạng dự án "treo" lãng phí tài nguyên 13 năm, khẳng định pháp luật đất đai được thực thi nghiêm túc, không có ngoại lệ cho các "siêu dự án".
+
+**Luận điệu:** Xuyên tạc việc thu hồi dự án là "cướp của doanh nghiệp" hoặc "gây bất ổn môi trường đầu tư"; cho rằng Nhà nước "tiền hậu bất nhất" trong cấp phép và thu hồi.
+* Việc thu hồi dựa trên căn cứ pháp lý vững chắc: doanh nghiệp vi phạm Luật Đất đai (không đưa đất vào sử dụng, chậm tiến độ dù đã gia hạn) và sai phạm trong quá trình cấp phép (hối lộ để sửa kết luận thanh tra).
+* Đây là hành động làm trong sạch môi trường đầu tư, loại bỏ các nhà đầu tư năng lực kém, "tay không bắt giặc" dựa vào quan hệ, để dành nguồn lực cho các doanh nghiệp làm ăn chân chính.
+* Nhà nước bảo vệ nhà đầu tư hợp pháp, nhưng kiên quyết xử lý các hành vi gian lận, thao túng chính sách; điều này tạo niềm tin về sự công bằng và minh bạch của pháp luật.
