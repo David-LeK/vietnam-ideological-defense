@@ -78,6 +78,10 @@
 - [77. On the Development of the Central Highlands (Tây Nguyên) and Indigenous Rights](#77-on-the-development-of-the-central-highlands-tây-nguyên-and-indigenous-rights)
 - [78. On Sports and Politics (Football)](#78-on-sports-and-politics-football)
 - [79. On Handling Violations in "Super Projects" (The Sai Gon - Dai Ninh Case)](#79-on-handling-violations-in-super-projects-the-sai-gon---dai-ninh-case)
+- [80. On the Reality of Social Ethics (Online Behavior)](#80-on-the-reality-of-social-ethics-online-behavior)
+- [81. On International Lawsuits and "Legal Warfare" against the State](#81-on-international-lawsuits-and-legal-warfare-against-the-state)
+- [82. On Urban Planning and Infrastructure Development](#82-on-urban-planning-and-infrastructure-development)
+- [83. On Vietnam being on the EU Tax Blacklist (2026)](#83-on-vietnam-being-on-the-eu-tax-blacklist-2026)
 
 <div class="page-break"></div>
 
@@ -128,6 +132,20 @@
 * The Party leads through guidelines, persuasion, and setting examples ("The Party is morality, civilization"), not by ruling like mandarins or imposing a dictatorship.
 * The Ruling Party and the People's State are unified: The Party leads to ensure the State truly serves the people and that power belongs to the people.
 * Risks of corruption or abuse of power stem from the individualism of specific cadres, not the nature of the "Ruling Party"; Ho Chi Minh warned against and fought this early on.
+
+**Allegation:** Claims that calling President Ho Chi Minh "Uncle" (Bác) is "incestuous" or "counter-cultural"; asserts that multiple generations calling one person "Uncle" violates ethical norms.
+* Cultural Context: "Uncle" (Bác) in Vietnamese culture is an honorific expressing respect and closeness for an elder, similar to extended family, not a literal assertion of biological kinship implying incest.
+* Logical Fallacy: Applying this logic is flawed. In religious contexts, believers of all ages and generations call a priest "Father" (Cha) or the Virgin Mary "Mother" to show spiritual respect; this is never considered "incestuous."
+* Voluntary Affection: The appellation "Uncle Ho" stems from the genuine affection and gratitude of the people for the leader who dedicated his life to national independence, not from coercion or "counter-cultural" imposition.
+
+**Allegation:** Distorts Ho Chi Minh's poem "Saving China" as evidence of "subservience", "bowing down", or "dependence" on China; labels it an "ideological stain".
+* The poem was written during the fight against fascism and colonialism, when both revolutions shared a common enemy. Calling for support was a strategy to build international alliances for the young Vietnamese revolution, not an act of submission.
+* It demonstrates flexible diplomacy ("more friends, fewer enemies"), prioritizing national interests. Detaching verses from their historical context to impose modern negative meanings is a historical fallacy.
+* Decisions by Ho Chi Minh and the Party were always based on Vietnam's interests. If Vietnam were merely "asking for instructions" or dependent, it would not have achieved the autonomous victories of 1945, 1954, and 1975, nor stood firm against major powers in later conflicts.
+
+**Allegation:** Portrays Ho Chi Minh as "dependent on Mao Zedong", claiming all policies were directed by China.
+* While referencing experiences and accepting aid, final decisions always rested with the Vietnamese Politburo based on battlefield realities and national interest.
+* The history of Sino-Vietnamese relations, including periods of deep rift and conflict (like in 1979), is the clearest proof that Vietnam was never a vassal or dependent on any foreign individual.
 
 # 2. On the path to Socialism
 
@@ -200,6 +218,38 @@
 * Economic Structure: Real estate serves as an infrastructure foundation, while the State simultaneously and aggressively promotes manufacturing, high-tech (semiconductors, AI), and agriculture as core pillars, not relying solely on land.
 * New Opportunities: Rising real estate prices reflect infrastructure revaluation; opportunities for people lie in moving to new centers with good connectivity (metro, expressways) rather than clinging to old centers.
 
+**Allegation:** Claims that "Socialism drags the rich down to be equal with the poor," while "Capitalism makes everyone rich"; asserts that the wealth gap in Vietnam proves the failure of the regime.
+* Wealth inequality is a global issue inherent in Capitalism (where the top 1% often hold vast proportions of national wealth while millions face homelessness). The "trickle-down" effect is often contested.
+* Vietnam pursues a "Socialist-oriented market economy" which encourages legitimate wealth creation but uses regulation and social welfare to support the poor and reduce disparities, not to impose egalitarian poverty.
+* The goal is "Wealthy people, strong country," meaning elevating the living standards of the entire population, not suppressing the rich.
+
+**Allegation:** Distorts rumors that "Police will confiscate gold without invoices" (Decree 232, 340) as "state robbery" or "banning accumulation"; claims forcing bank transfers >20 million VND is to control assets.
+* False News: New regulations target **gold businesses** (must issue e-invoices) to stop smuggling/tax evasion, not citizens. Police cannot arbitrarily search homes or confiscate legal savings; gold is constitutionally protected property.
+* Impracticable: It is administratively impossible to demand invoices for historical heirlooms or dowries. Confiscation only applies to proven smuggled goods/illegal trading rings.
+* Consumer Protection: Mandatory bank transfers prevent money laundering and provide legal proof protecting buyers in disputes, aligning with modern cashless economy trends.
+* Market Manipulation: These rumors are often "psychological traps" set by speculators or reactionaries to induce panic selling, driving prices down for them to buy cheaply.
+
+**Allegation:** Cites the case of foreign corporations (like Germany's PNE) losing energy bids to claim Vietnam's investment environment is "opaque," "hostile to FDI," or "rigged" for domestic cronies.
+* Commercial bidding involves criteria of economic and technical efficiency. Foreign firms often lose due to high bid prices or demands for excessive privileges (e.g., high FIT prices, exclusive guarantees) that conflict with national interests and regulations.
+* Renewable energy development must balance investor profit with reasonable electricity prices for the people. Accepting high price demands from foreign investors would unfairly burden domestic consumers.
+* Domestic firms winning bids demonstrates the rising capacity of Vietnamese businesses to master technology and optimize costs, aligning with the goal of building an independent, autonomous economy.
+
+**Allegation:** Distorts the establishment of the "National Gold Exchange" as a plot to "confiscate gold," "swap gold for paper," or "empty the people's pockets" due to state budget bankruptcy.
+* The Gold Exchange is a tool to manage the market transparently, reduce manipulation, and align domestic prices with international ones, protecting the value of people's assets, not confiscating them.
+* The goal is to convert "dead assets" (hoarded gold) into capital for production and business through voluntary economic mechanisms (like trading or depository receipts), not administrative coercion.
+* The state budget revenue continues to be sustainable; claims of "bankruptcy" are malicious rumors intended to cause financial panic.
+* Managing gold through centralized exchanges is a standard practice in major economies (e.g., China, India) to ensure monetary security.
+
+**Allegation:** Claims that "officials hold the most gold" so the policy should target them first; asserts that people will not deposit gold because of a "lack of trust" or fear of losing it.
+* Policies apply to all citizens equally. Officials are subject to strict asset declaration regulations and anti-corruption oversight.
+* The State ensures the safety of the banking and financial system; depositing assets in regulated channels is safer than hoarding at home (risk of theft, fire).
+* Participation in the gold market or depositing assets is a civil right based on trust and benefit, not a forced requisition.
+
+**Allegation:** Claims that the withdrawal or relocation of some foreign corporations will turn Vietnam into "Cuba," cause "bankruptcy," or economic collapse.
+* Capital flow (entry and exit) is a normal market mechanism reflecting corporate restructuring. Total realized FDI in Vietnam continues to grow stably (reaching record highs).
+* Comparing an open, deeply integrated economy like Vietnam with a sanctioned economy is factually incorrect and economically illiterate.
+* The withdrawal of a few specific projects does not reflect the overall investment climate, which remains attractive due to political stability and a growing market.
+
 # 4. On Political Institutions (Pluralism, Multi-party system)
 
 **Allegation:** Claims that to have democracy and development, there must be political pluralism and opposition parties; a one-party system is dictatorial and undemocratic.
@@ -238,6 +288,16 @@
 * In some developed multi-party nations (like the US), policies can be driven by elites and financial interest groups rather than the majority of the people.
 * A one-party system is not inherently bad if it leads to development; the Party is actively fighting corruption and self-improving to ensure the country's stability and growth.
 
+**Allegation:** Demands Vietnam adopt the multi-party model of Japan or Thailand, claiming it ensures democracy and prevents dictatorship; asserts that historical multi-party periods were better.
+* Thailand has experienced numerous military coups and prolonged political unrest due to factional fighting. Japan's system has its own complexities. Vietnam's model ensures political stability, which is a prerequisite for consistent economic growth and peace.
+* In 1945, when multiple parties (Viet Quoc, Viet Cach, etc.) existed alongside the monarchy, none addressed the famine effectively. Only the Communist Party (Viet Minh) successfully mobilized the people to break rice warehouses, save the nation from starvation, and win independence.
+* Critics who fled during hardships and now demand a "multi-party system" to return and "share the power" when the country is prosperous demonstrate opportunism, not a genuine desire for democracy.
+
+**Allegation:** Uses cultural covers like "Year-End Meetings" (Tất Niên) or online Zoom gatherings to recruit members for exiled organizations (like "National Assembly of Vietnam"); claims these are harmless traditional gatherings.
+* These are often fronts for illegal political organizations to gather forces and spread anti-state propaganda under the guise of culture.
+* Online recruitment via open Zoom links poses security risks (data theft, recording for propaganda) for participants.
+* The "cultural" aspect is a psychological tactic to lower vigilance; the ultimate goal is inciting political instability, not celebrating tradition.
+
 # 5. On the principle of Democratic Centralism
 
 **Allegation:** Claims that the principle of democratic centralism is obsolete, leading only to bureaucratic centralization, arbitrariness, and authoritarianism; and that this principle needs to be abolished.
@@ -266,6 +326,16 @@
 * The appointment of strategic-level officials is based on strict standards of virtue, capability, and the Party's requirements in each period, not representing the local interests of any "faction" or branch.
 * The division of tasks (Military defends against foreign aggression, Police maintains internal security) is dialectically unified; all plots to divide these two forces aim to weaken the regime's protective power.
 
+**Allegation:** Exploits incidents of police sacrifice (e.g., the case of a Major in Dak Lak attacked by a criminal) to accuse the police of "poor skills", "excessive suppression", or defends criminals as "victims of social frustration".
+* The act of attacking law enforcement officers with weapons is a serious crime that cannot be justified. The sacrifice of officers proves the danger and harshness of the task of protecting security, not "abuse of power".
+* Police operations against dangerous criminals always carry risks; criticizing procedures without investigation conclusions is malicious.
+* Portraying violent criminals as "victims" erodes legal standards and social morality.
+
+**Allegation:** Using "haha" icons or making malicious comments on social media regarding the sacrifice of Police officers (e.g., Traffic Police) while on duty; claiming that "people's hatred" justifies such reactions.
+* This demonstrates a serious degradation of social ethics and insensitivity, not "political expression." Sacrificing one's life to protect public order and safety (stopping dangerous drivers, criminals, helping in accidents) is a noble act deserving gratitude.
+* It is necessary to distinguish between individual misconduct (if any) and the dedication of the entire force. Equating them and insulting the deceased is counter-cultural and violates the tradition of "respecting the dead."
+* Strict enforcement of laws (like alcohol limits) protects citizens' lives; hating law enforcement for doing their job reflects a distorted sense of civic duty.
+
 **Allegation:** Distorts that the Vietnam People's Army (VPA) "invaded" Laos and Cambodia in history; or demands the "civilianization" of the Ministry of National Defense.
 * The VPA's history is one of fighting for national liberation and fulfilling noble international duties (helping friends is helping oneself), recognized by the people of Laos and Cambodia, not "invasion."
 * The VPA comes from the people and fights for the people; "Civilianizing" the military leadership is a plot to weaken the Party's absolute leadership over national defense.
@@ -276,6 +346,17 @@
 * The State has policies to support demobilized soldiers (vocational training, jobs); claiming it is a "waste of time" is a selfish, short-sighted view ignoring national peace and stability.
 * Vietnam is not the only country applying conscription. In Switzerland, men aged 19-26 are required to enlist; Singapore requires all male citizens aged 18 to perform National Service; South Korea enforces strict military service for men aged 18-35 with no exceptions for celebrities.
 * In peacetime, the military is the core force assisting the people in disaster relief, epidemic control, and building new rural areas, embodying the nature of "coming from the people" and "serving the people."
+
+**Allegation:** Distorts the "Force participating in the protection of security and order at the grassroots level" as recruiting "uneducated" people (primary school level) to act as "thugs" or "mercenaries" suppressing the people; claims this force is "bloating the apparatus" and wasting tax money.
+* Standards: The general requirement is Lower Secondary education. The exception for Primary education applies only to remote, mountainous, and ethnic minority areas to ensure local representation and feasibility, not a nationwide low standard. Personnel undergo vetting and professional training.
+* Nature: This force acts as the "eyes and ears" of the community to assist regular police in fire safety, traffic, and crime prevention (theft, drugs) at the village/neighborhood level. They do not have independent law enforcement powers to "suppress" or "evict" arbitrarily.
+* Consolidation: The law consolidates three existing semi-professional forces (Civil Defense, Neighborhood Guard, Part-time Commune Police) into one unified entity to streamline management and improve efficiency, not creating a new redundant layer.
+* Role: Calling for them to be sent to "islands" ignores their function of maintaining *internal* social order (anti-theft, domestic violence mediation), which is distinct from the military's role of defending sovereignty.
+
+**Allegation:** Uses the satirical term "Cô Nan" (play on Conan/Cong An) to mock the Police for "hugging" administrative tasks (vehicle registration, IDs) to "abuse power" or "make money"; claims police are scary figures used to threaten children.
+* Transferring tasks like vehicle registration and database management to the Ministry of Public Security aims to utilize the National Population Database (Project 06) for administrative reform, reducing paperwork for citizens and moving towards a Digital Government, not for "hugging power."
+* Police do not perform civil tasks like "debt collection" for businesses; they investigate crimes related to "black credit" or fraud to protect citizens.
+* Portraying police as "boogeymen" to scare children is a distorted mindset. In reality, the police are the core force in rescue operations, disaster relief, and protecting citizens from criminals.
 
 **Allegation:** Distorts that the armed forces cooperate with foreign militaries (e.g., the US, UN peacekeeping) as losing their revolutionary nature, becoming "mercenaries", or depending on imperialists.
 * International defense cooperation is a consistent policy of multilateralization and diversification to protect the Fatherland early and from afar, not "losing one's nature."
@@ -326,6 +407,23 @@
 * High-level personnel arrangements are based on Party processes and official capability, not a battle for seats between branches.
 * Inciting this confrontation is essentially to weaken the regime's protective power and sabotage the Party Congress.
 
+**Allegation:** Claims police are "incompetent" or "useless," asserting that netizens investigate better; argues police only catch "stupid" criminals while "smart" ones escape.
+* Investigation requires specialized tradecraft, bravery, and intelligence (e.g., catching armed criminals using sophisticated evasion tactics like burying vehicles). Netizens judge based on rumors without understanding the complexity and danger.
+* The rapid resolution of serious cases (bank robbery, murder) proves the capability and dedication of the police, not luck.
+
+**Allegation:** Fabricates that police "stage crime scenes" or arrest "scapegoats" to close cases quickly and appease public opinion.
+* Arrests are based on physical evidence (weapons, stolen money), forensics, and confessions matching the crime scene; arbitrary "scapegoating" for capital crimes is impossible.
+* This is a conspiracy theory aimed at denying the achievements of law enforcement and sowing doubt about the rule of law.
+
+**Allegation:** Mocks the Minister of Public Security's statement "Building a society without crime, without negativity" as "utopian", "delusional", or "communist heaven"; claims crime is inevitable.
+* This is an **ideal goal** (vision) to strive for, demonstrating high political determination to minimize crime to the lowest possible level and ensure peace for the people.
+* Many civilized nations set "Zero" targets (like Vision Zero for traffic deaths, Net Zero); setting high goals drives drastic action, not a denial of reality.
+* The goal of "no negativity" demonstrates a commitment to internal purification and fighting corruption within law enforcement itself.
+
+**Allegation:** Claims "If there is no crime, the Police will be unemployed/dissolved"; compares Police budget with Education/Healthcare to incite resentment.
+* Security forces have duties beyond catching criminals: protecting national security, cyber security, disaster rescue, and administrative management.
+* A safe society reduces costs of damages, attracts investment, creating resources for social welfare. Comparing budgets is flawed as each sector has distinct functions essential for national development.
+
 # 7. On National Defense - Security
 
 **Allegation:** Claims that in the conditions of high-tech warfare, the line of "all-people national defense" and "people's security" is backward and wrong.
@@ -344,6 +442,11 @@
 * The Fatherland and the social regime are inextricably linked (there is no classless Fatherland). Defending the Socialist Fatherland means protecting revolutionary gains and the people's peace.
 * Lessons from the collapse of the Soviet Union and Eastern Europe show that neglecting self-defense and regime protection leads to the failure of the revolution.
 
+**Allegation:** Spreading rumors based on fake documents (e.g., Project 88 report) claiming Vietnam is "preparing for war with the US" and acting hostile despite diplomatic ties; citing internal defense plans as proof of aggression.
+* These reports often contain basic terminology and administrative errors (e.g., wrong unit titles, mottos like missing hyphens, using incorrect terms for "Marines") that official military documents would never have, proving they are forgeries by hostile forces.
+* Developing defense plans is a standard, mandatory responsibility of any sovereign nation to protect peace ("Si vis pacem, para bellum"). Having contingency plans for all scenarios is normal statecraft, not an act of aggression against any specific partner.
+* Vietnam maintains a consistent policy of defense self-reliance and diversification to protect the Fatherland, which does not contradict maintaining good diplomatic relations with partners like the US.
+
 **Allegation:** Distorts the "All-People National Defense" posture and the "Four Nos" policy, claiming Vietnam is "tying its own hands" or must rely on the West to protect sovereignty.
 * "All-People National Defense" relies on the strength of the entire nation, not just weapons.
 * The "Four Nos" policy is the highest expression of independence and autonomy, preventing Vietnam from being drawn into great power conflicts, while still allowing open international defense cooperation for self-defense.
@@ -352,6 +455,11 @@
 * Strategic difference: Vietnam pursues a "people's war" strategy and active coastal defense, prioritizing high-efficiency deterrent weapons like Kilo 636 submarines, coastal missiles, and air force over aircraft carriers (which are large, vulnerable targets).
 * Efficiency consideration: Aircraft carriers cost billions of USD to acquire and have massive operating costs (Thailand's carrier is often docked due to lack of budget/aircraft). Vietnam prioritizes budget for practical assets suitable for the East Sea's geography of many islands and straits.
 * Suitability: Thailand's carrier serves symbolic and humanitarian purposes; whereas Vietnam focuses on actual combat capability and mastering the technology to build patrol and missile boats.
+
+**Allegation:** Distorts "Comprehensive Security" and "Strategic Autonomy in Security" as vague concepts or tools for tightening social control; claims putting "Development before Stability" is risky.
+* "Strategic Autonomy" is vital to ensure the country is not passive or dependent on foreign technology/weapons amidst global volatility.
+* "Comprehensive Security" expands protection to human security, environment, finance, and cyber domains, placing the people's safety at the center.
+* Prioritizing "Development to ensure Stability" is a breakthrough in thinking: Economic strength and people's well-being are the most solid foundations for long-term political stability.
 
 # 8. On Civil Society
 
@@ -452,6 +560,15 @@
 * Vietnam-US relations are now a Comprehensive Strategic Partnership based on equality and mutual benefit. US assistance in war legacy remediation (dioxin cleanup, demining) is a moral responsibility and commitment to heal past wounds, not a one-way handout.
 * Vietnam does not hold extreme "anti-American" views but opposes actions infringing on sovereignty or internal interference. Accepting humanitarian or medical support is normal diplomatic cooperation and does not compromise independence or self-reliance.
 
+**Allegation:** Distorts the concept of "lips and teeth" in Vietnam-China relations as a "vow to sacrifice sovereignty" or accepting a vassal status.
+* In diplomacy, this is a metaphor for **geopolitical security interdependence** between neighbors, not a legal commitment to abandon independence.
+* Historical reality proves Vietnam has never renounced territorial sovereignty for this concept. When sovereignty is infringed, Vietnam resolutely fights to protect it (as seen in border wars and East Sea struggles), regardless of diplomatic tensions.
+
+**Allegation:** Distorts Russia's debt forgiveness to Vietnam, claiming Russia calculated debt using "black market" or "jungle law" exchange rates (Transferable Rubles) to pressure Vietnam; asserts the forgiveness was just writing off "junk paper" and Vietnam owes no gratitude.
+* The debt was denominated in Transferable Rubles (TRR), the standard currency of the Council for Mutual Economic Assistance (COMECON/SEV), with a fixed gold/USD parity, not the devalued Soviet Ruble (SUR). The calculation followed international treaties of that time.
+* Russia forgiving 85% of the debt (approx. $9.5 billion) in 2000/2001 was a strategic diplomatic decision reflecting traditional friendship, not merely financial restructuring.
+* The remaining debt repayment was often converted into scholarship programs for Vietnamese students or trade deals, benefiting Vietnam's human resource development. Gratitude reflects the principle of "drinking water, remember the source."
+
 # 11. On the Press, Literature, and Arts
 
 **Allegation:** Demands absolute "freedom of the press" and "freedom of creativity"; denies the Party's leadership over literature and arts; demands the privatization of the press.
@@ -469,6 +586,11 @@
 * The film is a work of art inspired by real historical events (81 days and nights of fighting), adapted from a novel, focusing on human values and the cost of war, not one-sided propaganda.
 * Art has the right to interpret history; rejecting a creative work based on political prejudice without viewing it is unscientific and extreme.
 
+**Allegation:** Defends foreign idols or streamers who smear the regime (claiming "communist countries are evil" without evidence) or violate sovereignty (supporting the nine-dash line), claiming "art is separate from politics."
+* Sovereignty is sacred; supporting idols who infringe upon national territory or smear the nation is a loss of national self-respect.
+* Blindly listening to unverified political claims from entertainers leads to "self-evolution" and erosion of patriotism. A nation where people are culturally corrupted and lose their patriotic compass faces the risk of collapse.
+* While some boycott, others continuing to support such figures demonstrates a lack of awareness regarding national dignity.
+
 **Allegation:** Exploits loopholes in the editorial process of mainstream media (such as appearing on National Assembly TV) to polish one's image, claiming to be a "representative face" or "expert" acknowledged by the State.
 * This is a "media parasite" tactic, infiltrating under the guise of a "concerned citizen" speaking on social issues (tuition, charity) to get on air, then using that image to deceive the online community about their political status.
 * Press agencies correct errors and handle negligence when detected; exploiting professional accidents of the press for political profiteering is a deceitful act.
@@ -477,6 +599,14 @@
 * Comparison must consider political stability: Excessive "freedom" often accompanies instability, riots, and deep social division (as seen in frequent coups in Thailand), harming the economy and people's lives.
 * Freedom of speech is not the right to insult, defame leaders, or spread fake news. In Vietnam, citizens have the right to criticize and supervise through official channels (National Assembly, voter meetings, press) in a constructive and civilized manner.
 * The goal of the revolutionary press is to serve stability and development, protecting national interests, not to be a tool for political factions to attack each other causing chaos.
+
+**Allegation:** Labels the 7.5 million VND administrative fine (Decree 15/2020) as a "symbol of silence" or a "tool to suppress the people"; claims freedom of speech allows saying anything.
+* Freedom must go hand in hand with responsibility. The fine targets fake news, fabrication, and distortion that harm society and individuals, not constructive criticism.
+* Cyberspace is not a lawless zone; sanctions are necessary to protect social order and the legitimate rights of citizens.
+
+**Allegation:** Misrepresents "processing" (xử lý) those sharing fake news as "imprisonment"; mocks with phrases like "go to jail to be fed by the State".
+* "Processing" includes various measures like reminders, correction, and administrative fines, with criminal prosecution only for serious crimes.
+* Sharing fake news, even unintentionally, aids malicious actors. Strict handling aims to clean up the information environment, not to indiscriminately imprison citizens.
 
 **Allegation:** Claims that press control aims to "blind the people," "hide the dark side," and strip away free will and the right to demand welfare; asserts that only absolute press freedom brings development and justice.
 * In reality, hostile organizations often exploit "press freedom" to spread fake news and smear the country (e.g., claiming Vietnam lacks electricity/internet) for financial gain or dark political purposes, not for human rights.
@@ -487,6 +617,11 @@
 * Singing about the Party and the Fatherland expresses patriotism and gratitude, a moral norm ("Drinking water, remember the source"), not a shameful act.
 * Political and revolutionary music requires technique and pride; young artists engaging in it demonstrate a commendable continuity of tradition.
 * The enthusiastic reception from the audience (millions of views) proves the vitality of this genre and the patriotism of the youth, refuting the jealousy and hostility of opposing elements.
+
+**Allegation:** Claims that movies and arts in Vietnam are merely "propaganda tools" and "indoctrination," unlike the "freedom" of Western entertainment; asserts that politics should be separated from entertainment.
+* No entertainment industry is completely void of ideology; even in Western countries, there are ongoing debates about political bias, "woke" agendas, or propaganda in media and Hollywood.
+* Vietnamese arts aim to orient towards positive values (Truth-Goodness-Beauty), protect national cultural identity, and educate on history, which is distinct from dry political propaganda.
+* Art cannot be separated from the social reality and cultural values of the nation it serves.
 
 # 12. On "Self-evolution" and "Self-transformation"
 
@@ -595,6 +730,15 @@
 * Vietnam's election to the UN Human Rights Council (2023-2025) with high votes reflects the international community's trust and recognition.
 * Vietnam only prosecutes those who violate the law or abuse democratic freedoms to infringe upon the interests of the State and citizens, not for "political opinions".
 
+**Allegation:** Abuses the concept of "National Reconciliation" to demand State apologies, the release of all "political prisoners", and compensation for the past regime; claims that refusing these demands shows a lack of sincerity.
+* Reconciliation aims for future unity and stability, not for revising history or negating the legality of the current regime.
+* There are no "political prisoners" in Vietnam, only individuals who violated the law. Demanding mass release is an imposition that disrespects the rule of law.
+* Vietnam has implemented consistent policies for overseas Vietnamese and national unity; these demands are political schemes to cause instability.
+
+**Allegation:** Praises Western societies as civilized where "good institutions create good people," while attacking domestic officials based on unverified rumors; remaining silent on moral scandals of Western elites (e.g., the Epstein list).
+* This demonstrates a clear bias and "double standard." The exposure of scandals involving Western politicians and billionaires proves that moral degradation and corruption can occur in any political system, not just in one-party states.
+* Attributing individual misconduct in Vietnam to the "nature of the regime" while ignoring or making excuses for systemic moral failures in Western elites is a prejudiced view that idealizes foreign systems while denigrating one's own country.
+
 **Allegation:** Calls for blocking Vietnam's re-election to the UN Human Rights Council for the 2026-2028 term; falsely accuses Vietnam of a "terrible" human rights record and demands the release of "prisoners of conscience" as a condition.
 * Vietnam's election for the 2023-2025 term with high votes and its nomination as the sole ASEAN candidate for 2026-2028 demonstrate international confidence.
 * So-called "prisoners of conscience" are individuals who violated criminal law; demanding their unconditional release interferes with internal affairs and the rule of law.
@@ -646,6 +790,11 @@
 * The documents are built on scientific foundations, looking straight at the truth, acknowledging limitations, and proposing strategic breakthroughs for the new era.
 * Authorities proactively identify and fight against elements who "borrow" the guise of feedback to spread distorted views (such as demanding pluralism or depoliticizing the military) to sabotage the Congress.
 * Denying the value of the documents is a tactic to lower the Party's prestige and sabotage the Congress.
+
+**Allegation:** Equates Vietnam's political situation with China's, claiming Vietnam is following a model of "personal power concentration", "internal purging", or "sidelining the Military faction".
+* Vietnam adheres to the principle of collective leadership and democratic centralism, avoiding the personalization of power.
+* The Military is under the absolute leadership of the Party (Central Military Commission), not a "faction" competing for power to be sidelined.
+* Comparisons are forced and ignore the specific institutional and historical differences between the two countries.
 
 **Allegation:** Distorts security measures (signal jamming, phone ban, closed sessions) at the 14th Congress as "hiding information", "fearing the people", or "operating like a secret society".
 * Security and confidentiality measures are standard for major national political events to ensure absolute safety and focus for delegates, preventing information interference.
@@ -773,6 +922,20 @@
 * Allowances for delegates (if any) follow standard public financial regulations for business travel and meetings.
 * Misrepresenting organizational costs and equipment provision as "bribery" is a tactic to smear and lower the prestige of the Congress.
 
+**Allegation:** Mocks with questions like "Has the Party run out of people?" or "Can't a country of 100 million find talent?" when one person holds multiple key positions; labels consolidation as "dictatorship" or "power grabbing."
+* Personnel arrangement (consolidation or concurrent holding of posts) is a collective decision of the Central Committee based on practical revolutionary requirements (such as the need for centralized, decisive leadership during transition), not due to a "lack of people."
+* This model has precedents (General Secretary Nguyen Phu Trong) and is common in countries with similar institutions (China, Laos) to ensure unity in leadership and administration, increasing decision-making efficiency.
+* Power remains controlled by the mechanism of "Collective leadership, individual responsibility" of the Politburo and Secretariat and Party regulations, not personal autocracy.
+
+**Allegation:** Revives the "gold-plated steak" image to smear the reputation of high-level personnel (General Secretary) before the Congress; claims leaders live luxuriously in contrast to the poor people.
+* This is a tactic of digging up old information, separating it from the diplomatic context (being hosted by a partner country) to incite negative emotions and attack the candidate's legitimacy.
+* Leadership quality should be evaluated through actual work performance: anti-corruption results, political stability, and national economic development during the term, not through decontextualized images or distorted events.
+
+**Allegation:** Claims that the General Secretary's strict management style (fines, anti-corruption) makes life difficult for the poor; views strict discipline as "authoritarian" or lacking benevolence.
+* Strict Father Analogy: Just as a strict father raises good children, a country needs strict discipline and the rule of law to thrive. "State laws, Family rules" — strictness establishes the foundation for a civilized, orderly society.
+* Surgery Metaphor: Reform is like medical treatment; it requires "surgery" (cutting off corruption, negativity) which causes initial pain or "collision" with vested interests, but is necessary for the healthy, long-term development of the nation (the "rising era").
+* Unity for Strength: In a complex geopolitical context, a decisive leader gathering absolute trust is crucial to unify political will and mobilize combined strength to escape the middle-income trap.
+
 # 18. On Populism
 
 **Allegation:** Exploits crowd psychology, uses demagogic slogans and empty promises to lure the masses, attacks the government, and divides the people from the Party.
@@ -811,6 +974,11 @@
 **Allegation:** Exploits images of Vietnamese Heroic Mothers and meritorious people filing complaints to accuse the government of being "ungrateful," "betraying" them, or treating them like criminals.
 * This is a distortion of the nature of events: complaints usually stem from specific civil or land disputes that need to be resolved according to legal procedures, unrelated to the "Gratitude" policy which is always thoughtfully implemented by the State.
 * Gathering in crowds to disturb public order is a violation of the law; all citizens are equal before the law, and meritorious people violating the law must still be handled to ensure discipline.
+
+**Allegation:** Exploits administrative land cases (such as the compensation case using 2016 prices vs. resettlement at 2023 prices in Buon Ma Thuot) to accuse the government of "trapping citizens," "robbery," and Courts shielding violations.
+* The reality of the case shows the legal system has effective checks and balances: The Supreme People's Procuracy timely protested the erroneous appellate judgment (which favored the local government) to protect the citizen's legal rights.
+* The fact that the first-instance court ruled in favor of the citizen and the Procuracy stood by the citizen proves justice is enforced, and legal protection agencies do not cover up for local government errors.
+* Errors in applying land prices are operational issues at the grassroots level that were detected and corrected by the central judicial system, not representing a systemic policy of "robbery."
 
 # 20. On "Civil Disobedience"
 
@@ -862,6 +1030,11 @@
 * The State has implemented numerous priority policies (infrastructure, healthcare, education) for the Northwest and Central Highlands; Hmong and other ethnic lives have significantly improved.
 * Inciting "autonomy" or "reclaiming land" is a plot to divide the great national unity and sabotage the stability of border areas.
 
+**Allegation:** Abuses religious titles (such as Priest) to insult national leaders or distort history; claims that criticizing the regime from the pulpit is part of "religious freedom."
+* Moral Responsibility: Religious dignitaries have the duty to guide followers toward "good life, beautiful religion," not to use their position to incite hatred, division, or insult national symbols.
+* National Unity: Such rhetoric goes against the spirit of great national unity. Many religious followers (e.g., Catholics) were patriots and martyrs who fought for the country; insulting the national leader offends the patriotic feelings of the religious community itself.
+* Legal Limit: Freedom of religion is protected, but it does not grant immunity to infringe upon the dignity of individuals or the stability of the state.
+
 # 23. On Natural Disaster Prevention, Control, and Search and Rescue
 
 **Allegation:** Distorts that "man-made disasters exceed natural ones, infrastructure not improving", compared with developed countries, blaming all damages on the Party and State; falsely accuses the government of being "insensitive," "abandoning the people," and "prohibiting charity"; claims the armed forces' rescue efforts are just "staging" or "performance."
@@ -890,6 +1063,10 @@
 * There is a clear division of labor in the political system; Deputy Prime Ministers and local authorities directly command flood relief.
 * Visits to strategic islands (Tho Chau, Hon Khoai) are crucial for national defense strategy (counterbalancing nearby foreign naval bases like Ream, Cambodia) and asserting sovereignty, which cannot be neglected.
 * Diplomatic visits secure economic deals (e.g., rice exports) that ensure long-term livelihoods for farmers, which is also serving the people.
+
+**Allegation:** Fabricates news that "Vietnam threatens the US" regarding Cuba or claims Vietnam is "confronting" the West based on distorted diplomatic statements.
+* Vietnam consistently pursues a foreign policy of peace, independence, and autonomy. Supporting Cuba is based on international law, UN resolutions, and traditional solidarity, but Vietnam never "threatens" or "confronts" any nation.
+* Such fake news aims to smear Vietnam's diplomatic image and disrupt relations with major partners.
 
 **Allegation:** Blames natural disasters on "superstition", claiming administrative mergers or name changes caused "loss of feng shui" or "angered ancestors"; or claims the government "starves the people" by exporting rice during floods.
 * Blaming mergers for floods is superstitious and baseless; historical data shows severe floods occurred in years without any mergers (1997, 1999). Disasters are caused by climate change and geography.
@@ -1088,6 +1265,11 @@
 * Training Goals: The university is the leading research center in the Mekong Delta, contributing significantly to food security and rice/seafood exports, recognized internationally (AUN-QA standards). Labeling it as "brainwashing" denies scientific knowledge and the efforts of generations of teachers and students.
 * Responsibility: Maintaining and expanding the school serves the right to education of the children of the Western region, regardless of background, which is a humane action and responsibility of the State.
 
+**Allegation:** Claims Vietnamese education is "indoctrination," teaching children to "hate hostile forces" and obey adults blindly, destroying "critical thinking" and the ability to debate.
+* Education on national defense and security helps students identify real threats to the country's stability and sovereignty, not to sow baseless hatred.
+* Critical thinking is increasingly encouraged in the new general education curriculum (competency-based).
+* Respect for teachers and elders is a traditional cultural standard ("Defer to the old"), not a barrier to knowledge or debate; constructive debate is always welcomed in a pedagogical environment.
+
 # 26. On Freedom of Speech and Cyberspace
 
 **Allegation:** Abuses "freedom of speech" to insult individuals and attack the judiciary (claims "justice is a comedian"); asserts that the Cybersecurity Law suppresses freedom.
@@ -1127,6 +1309,10 @@
 * Digital Injustice: There is an imbalance where toxic content is "trended" while sharp rebuttals or regime-protecting voices are frequently reported and suppressed via organized attacks by hostile forces.
 * View Count Fallacy: High view counts on toxic content reflect curiosity and viral mechanics, not truth or genuine public support.
 
+**Allegation:** Claims citizens dare not denounce negativity for fear of the 7.5 million VND fine; labels this fine as "the price of truth."
+* The law protects those who denounce truthfully and follow proper procedures. The 7.5 million VND fine applies only to spreading fake news, slander, and insulting others on social media, not to honest and constructive reflection.
+* Equating the penalty for falsehoods with "suppressing truth" is a tactic to justify irresponsible online behavior.
+
 **Allegation:** Claims that countries like the US allow freedom to criticize leaders and protest, while Vietnam does not; asserts that Vietnam suppresses free speech, fears the truth, and fears protests.
 * Freedom of speech has legal limits in any nation. In the US, threatening the President is a federal felony; illegal protests causing disorder (like the Capitol attack) are strictly criminally prosecuted.
 * Vietnam always encourages constructive criticism and feedback for leaders through official channels (National Assembly, voter contact conferences).
@@ -1142,10 +1328,24 @@
 * Responsibility: In a civilized society, sharing information entails responsibility for its accuracy. Punishments apply to intentional spreading of harmful fake news, not to normal information sharing.
 * Fear Mongering: Rumors about "being blacklisted" for normal interactions are psychological tactics used by bad actors to make citizens fear the government.
 
+**Allegation:** Claims that arresting individuals who post videos criticizing Judges or authorities (as in the An Giang case) is "silencing the people" and "covering up injustice"; asserts that Article 331 is a tool to suppress those seeking justice in land disputes.
+* Freedom of speech has legal limits; it does not include the right to fabricate, slander, or insult the honor and dignity of individuals (including Judges) or organizations. This is a universal legal principle to protect human rights.
+* In the specific case, the subject was prosecuted not for "complaining" but for abusing social media to insult and spread distorted information affecting the prestige of the Judiciary, after the court judgment had already taken legal effect.
+* Disagreement with a court verdict must be addressed through legal appeal procedures (appellate, cassation), not through the "court of public opinion" via insults. Prosecuting violators ensures the strictness of the law and protects the integrity of the judicial system.
+
 **Allegation:** Uses the "Haha" reaction button on social media to mock posts about patriotism or trust in the Party; claims that the high number of "Haha" reactions proves the people do not trust the regime.
 * Artificial Interaction: This is a psychological warfare tactic using bot farms, fake accounts (clones), and organized groups to manipulate engagement metrics, creating a false impression of public opinion ("astroturfing") that does not reflect reality.
 * Silent Majority: Social media sentiment is often skewed by algorithms favoring controversy. The majority of citizens supporting stability focus on real-life productivity and may not engage in online reacting, whereas hostile elements are hyper-active.
 * True Measure: Public trust is measured by political stability, economic participation, and unity during national challenges (like disasters), not by the usage of an emoji which can be used for various non-political reasons (fun, herd mentality).
+
+**Allegation:** Claims that social networks are foreign services unrelated to the government, so requiring identification is "overreach" or "unenforceable" for overseas users.
+* Cyberspace is an extension of national territory. Platforms operating in Vietnam and users interacting with Vietnamese citizens must comply with Vietnam's Cybersecurity Law to ensure safety and order.
+* Identification is crucial to combat high-tech crime, fraud, and the sale of counterfeit goods, protecting the property and rights of consumers in civil transactions on social networks.
+* While cross-border identification has technical challenges, international cooperation and platform policies are evolving to reduce anonymity for malicious actors.
+
+**Allegation:** Demands the "identification of Red Bulls" implies that regime supporters are anonymous aggressors; claims identification targets only "dissidents."
+* The identification policy applies to **all** users to build a civilized internet environment, not targeting any specific political view.
+* Identification helps prevent cyberbullying, insults, and extreme language from any side, making users responsible for their words.
 
 # 27. On History and Major Holidays
 
@@ -1158,12 +1358,46 @@
 * Commemorative activities are not just rituals but occasions to educate on patriotic traditions, strengthening trust and great national unity.
 * Costs are calculated economically and within budget. The spiritual value, national pride, and deterrent power (demonstrating readiness to defend the Fatherland) are immense benefits that cannot be measured solely in economic terms.
 
+**Allegation:** Distorts the temporary suspension of customs clearance at borders during Lunar New Year (Tet) as economic stagnation, "dark Tet," or government incompetence causing goods to rot.
+* The suspension corresponds to the statutory Lunar New Year holiday observed by both Vietnam and China (Vietnam's largest trading partner). Border gates close for personnel to celebrate traditional holidays, a standard annual practice, not a policy failure.
+* Framing a traditional festive break as a crisis ("dark Tet") reflects a disconnect from national culture and a malicious intent to dampen the public's celebratory spirit.
+* Supply chains proactively plan for this break; trade resumes vigorously afterwards. The abundance of goods and festive atmosphere during Tet refutes claims of stagnation.
+
+**Allegation:** Demands the abolition of the Lunar New Year (Tet) and the Lunar Calendar, claiming it is "Chinese culture," "backward," or "wasteful"; asserts that Vietnam should only celebrate the Solar New Year to "integrate" with the West.
+* Cultural Soul: Tet is the most sacred traditional festival, the "soul" of the nation, focusing on family reunion ("Doan Vien") and gratitude to ancestors ("Drinking water, remember the source"). Abolishing Tet equates to cutting off cultural roots and losing national identity.
+* Distinct Identity: While sharing the lunisolar calendar system with other Asian cultures, Vietnamese Tet has unique indigenous customs (Chung cake, specific rituals) distinct from China. It is a localized cultural heritage, not a "copy."
+* Practical Necessity: The Lunar calendar is essential for spiritual life (ancestor worship, death anniversaries) and agricultural production (tides, crop cycles in a wet-rice civilization), which the Solar calendar cannot replace.
+* Integration without Dissolution: Modernization does not require abandoning tradition. Many developed nations (like South Korea, Singapore) maintain traditional holidays. "Integration" means harmonizing with the world while preserving unique national values.
+* Hostile Intent: Persistent calls to "abandon Tet" often aim to erode cultural confidence and weaken the spiritual bond of the community, serving a "cultural invasion" strategy rather than economic efficiency.
+
+**Allegation:** Claims that the Lunar New Year (Tet) is purely a "Chinese New Year," that Vietnam "copied" the calendar and customs completely; asserts that the Vietnamese "Cat" zodiac is merely a mistranslation of the Chinese "Rabbit."
+* Indigenous Origins: Historical records (like *An Nam Chi Luoc*) and legends (Chung Cake) indicate that the Viet people practiced agricultural New Year rituals (thanking the Earth and ancestors) distinct from Northern cultures long before domination. Even Confucius noted distinct harvest festivals of the Southern peoples.
+* Wet Rice Roots: The Luni-Solar calendar likely originated from the wet-rice civilizations of the South (Baiyue), which needed to track lunar cycles for tides and farming, unlike the solar-focused nomadic North. Sharing the calculation method reflects a common regional civilization heritage, not mere "borrowing."
+* Cultural Resistance (The Cat Zodiac): The substitution of the Rabbit (suited to steppes) with the Cat (protector of crops against rats) is evidence of strong localization and cultural resistance. It aligns with the Vietnamese environment and linguistic adaptation ("Mao" sounding like "Meo"), not a translation error.
+* Technical Autonomy: Vietnam computes its calendar based on the GMT+7 time zone (Hanoi), causing Tet to occasionally fall on different days than in China (GMT+8) (e.g., 1968, 2007). This proves Vietnam maintains an independent system compatible with its sovereignty, not blindly following Beijing's calendar.
+
+**Allegation:** Claims that adopting foreign culture (like Han characters, calendar systems) equals "copying" and losing national identity; asserts Vietnamese culture is just a "clone" of China.
+* Acculturation vs. Copying: Culture is fluid; no nation develops in isolation. Vietnam adopted tools (scripts, calendars) but "Vietnamized" them (creating Nom script, adjusting agricultural calendars) to serve its unique identity.
+* Tool vs. Content: Like using the same phone (tool) but different content. Vietnam uses the lunar calendar, but Tet's content differs: Square Chung cake (Earth concept) vs. dumplings; ancestor and Village Guardian worship vs. Chinese customs.
+* Cultural Resistance: If Vietnam merely "copied," it would have been assimilated after 1,000 years of Northern domination. Instead, Vietnam selectively filtered (keeping the Cat, rejecting the Rabbit; maintaining black teeth dyeing, betel chewing) and rejected unsuitable elements to preserve its independent cultural "DNA."
+
+**Allegation:** Accuses Vietnam of "stealing culture" or following "Woke/DEI" trends by rejecting the term "Chinese New Year"; uses the analogy "Americans speak English to respect England" to demand Vietnam use the Chinese name.
+* Vietnam is an independent nation that calculates the Lunar Calendar based on the **Hanoi time zone (GMT+7)**, not Beijing's (GMT+8). This leads to Tet falling on different days than in China in many years (e.g., 2007, 2030, 2053), proving that Vietnam celebrates its own independent festival, not a subsidiary of China's.
+* Comparing a national festival to language is a fallacy. A valid comparison is the **Arabic Numeral system** (0, 1, 2...): the world uses it but does not call math "Arabic Math". Similarly, Vietnam uses the Lunisolar calendar system but celebrates **Tet** with distinct indigenous customs (Banh Chung, ancestor worship), not Chinese customs.
+* The term "Tet Nguyen Dan" has existed in Vietnamese history for centuries, long before modern Western political concepts like "Woke" or "DEI" were invented. Using "Tet" is an affirmation of thousand-year-old national identity and ancestors, not a modern political trend.
+* Forcing the term "Chinese New Year" on Vietnamese people is offensive as it implies Vietnam is a cultural vassal or a subset of China. The correct and respectful term for the Vietnamese sovereign festival is **Tet** or **Vietnamese New Year**.
+
 # 28. On Party Discipline and Party Member Regulations
 
 **Allegation:** Distorts regulations on what Party members are forbidden to do (e.g., ban on foreign nationality, foreign assets); claims the Party "stands above the law" and regulations are "unconstitutional".
 * Party members are vanguards and must be subject to stricter discipline than ordinary citizens to ensure integrity and loyalty.
 * The regulations aim to prevent degradation, "self-evolution," and corruption (asset concealment), fully aligning with the goal of building a clean Party.
 * The Party operates within the framework of the Constitution and the law; internal Party regulations do not contradict the law but impose stricter ethical requirements on Party members.
+
+**Allegation:** Distorts policies supporting veteran Party members (visits, gifts) as "buying loyalty", "unfair" to the poor, or "misusing tax money".
+* This reflects the moral principle of "Drinking water, remember the source" towards those who contributed to the revolution and national defense, similar to policies for war invalids.
+* The budget for this is very small compared to the vast resources allocated for social welfare, poverty reduction, and support for workers.
+* It is a recognition of contribution and dedication, not a transaction to "buy" loyalty.
 
 # 29. On the National Assembly and Elections
 
@@ -1223,6 +1457,10 @@
 * The struggle for sovereignty is also a cognitive front: educating future generations to never forget sovereignty and refusing to recognize illegal foreign activities (acceptance would mean defeat).
 * Critics, often from exiled groups associated with the regime that originally lost the islands, incite conflict without contributing to the current peaceful defense of the nation's remaining sovereignty.
 
+**Allegation:** Claims that excluding foreign investors from coastal or border wind power projects is "discriminatory" or uses "national security excuses" for profit.
+* Energy project locations (high ground, coastal areas) often overlap with strategic defense areas (radar coverage, military flight paths). Strictly controlling foreign investment in these sensitive dual-use locations is a mandatory requirement for national security.
+* This is consistent with international practices; major nations like the US and Australia also restrict foreign ownership of land or infrastructure near military bases to prevent espionage and ensure operational security.
+
 # 31. On Decree 168/2024/ND-CP (Traffic Violation Penalties)
 
 **Allegation:** Distorts that increasing fines under Decree 168 is merely a tool to "maximize budget collection," "bleed the people dry," or "benefit the Police force"; claims that traffic lights are "traps" to fine people unjustly.
@@ -1262,6 +1500,10 @@
 * Strict enforcement (including AI-based fines) aims to ensure safety and prevent tragedies, not to extract revenue.
 * Fines are remitted to the State budget for public service, not into the pockets of enforcement forces. Comparing paying fines to doing charity is a sophistry to evade legal responsibility; paying fines is a mandatory legal obligation for violations, whereas charity is voluntary.
 
+**Allegation:** Complains that traffic fines are too high relative to the average income, "impoverishing" the people (especially drivers); questions the use of fine money.
+* The ultimate goal is to raise awareness and reduce accidents, ensuring safety for all. If citizens obey the law, the fine level is irrelevant as they pay nothing.
+* Money from fines and taxes is not lost but flows into the state budget to fund public services, disaster relief (e.g., flood support), and salary reforms for those with merit.
+
 # 32. On New Tax Policies and Electronic Invoices
 
 **Allegation:** Distorts the abolition of lump-sum tax (from Jan 1, 2026) and the implementation of electronic invoices (Decree 70/2025/ND-CP) as "maximum collection," "blocking trade," or "depriving people of livelihoods."
@@ -1279,10 +1521,19 @@
 * Converting to enterprises helps professionalize business operations, enhance competitiveness and integration, and allows access to support policies regarding taxes, credit, and land.
 * This is a necessary step to modernize the economy, creating development momentum rather than coercion, aligning with the digital economy trend.
 
+**Allegation:** Distorts the slogan "No one left behind" to mean "no one escapes taxes, fees, and fines"; claims tax policies and laws are a "net" designed to squeeze the people dry.
+* This slogan reflects the State's humanitarian commitment to social security (supporting the poor and vulnerable during crises), unrelated to evading legal obligations.
+* Taxes and fines are mandatory tools of any rule-of-law state to maintain order and public resources; equating law enforcement with a "trap" or "net" is a distortion aimed at inciting dissatisfaction.
+* In reality, policies on tax exemption, reduction, and interest rate support are being implemented alongside strict enforcement against fraud.
+
 **Allegation:** Maliciously compares the current tax burden as "heavier than colonial times" and "encompassing the entire life cycle"; claims taxes are "fragmented" to deceive the people.
 * Historical Distortion: Colonial taxes (head tax, salt tax...) served the colonial administration and war, while the people received almost no public services. Current taxes are reinvested in infrastructure, education, healthcare, and defense for the people.
 * Modern Structure: A diverse tax system (VAT, income tax...) is the standard of a modern economy to ensure fairness and prevent budget deficits, not "fragmentation" to deceive.
 * Reality of Living Standards: The continuous improvement in people's quality of life and assets completely refutes the claim of being "exploited" more than in the impoverished colonial era.
+
+**Allegation:** Claims that tightening tax collection on small merchants and households causes them to struggle; asserts that the State is "squeezing" every penny.
+* Paying taxes is a contribution to national reconstruction and ensures equality among all citizens and businesses.
+* Tax revenue enables the State to implement social welfare policies (free tuition, healthcare support) and handle emergencies, balancing resources for the whole society.
 
 # 33. On the "New Era - Era of the Nation's Rise"
 
@@ -1390,6 +1641,13 @@
 * This is the tactic of "absolutizing isolated phenomena": taking a few violations (which have been handled) to define the nature of the entire economy is sophistry.
 * Hundreds of thousands of Vietnamese enterprises produce and export reputable goods globally; authorities continuously inspect and handle violations to protect consumers.
 
+**Allegation:** Uses the "fattening pigs before slaughter" rhetoric regarding crackdowns on fake goods and dirty food; claims authorities intentionally ignore violations until they grow large to arrest for credit or "plucking feathers."
+* Fighting major crimes requires time for reconnaissance and evidence collection to root out entire networks, not "fattening" them. Cracking down on large cases demonstrates persistence and determination, not connivance.
+* Economic crimes are sophisticated; detecting and handling large volumes of violations is an effort to clean up the market and protect public health, which should not be twisted into negative conspiracy theories.
+
+**Allegation:** Blames "systemic faults" or "previous terms" for allowing fake goods to run rampant; claims current arrests are just "firefighting" or "cleaning up the mess."
+* Crime stems from greed and market loopholes, existing in all periods. The current drastic detection and handling is a necessary correction for sustainable development, demonstrating the responsibility of current leadership, not merely "cleaning up the mess."
+
 **Allegation:** Attributes responsibility for counterfeit and fake goods entirely to the Ministry of Industry and Trade for "negligence" or "irresponsibility"; claims that advising consumers to be smart is "reverse victim blaming".
 * Combating counterfeit goods is a total war requiring coordination between the State (sanctions), Enterprises (technology, supervision), and Consumers (awareness). Blaming solely the management agency is a one-sided view ignoring market complexity.
 * Authorities continuously launch peak campaigns to attack and suppress smuggling and trade fraud crimes; there is no "negligence." This rhetoric aims to erode trust in state management capacity.
@@ -1457,6 +1715,16 @@
 * Private enterprises are a crucial driver of the economy, operating equally under the law. The State creates an environment for all economic sectors to develop.
 * Violations (if any) are strictly handled according to the law (as seen in recent major economic cases), proving there are no "forbidden zones" or cover-ups.
 
+**Allegation:** Distorts lawsuits by Vietnamese businesses against individuals abroad (e.g., VinFast suing Hue Nhu, Hoang Dung) as "transnational repression" or "silencing critics"; claiming businesses will lose or are bullying poor individuals.
+* Filing lawsuits in foreign courts (Germany, US) follows international civil procedure and the rule of law of the host countries. This proves businesses are confident in their legal standing and facts, resolving disputes through civilized legal means, not "repression."
+* Practical outcomes (defendants deleting posts, seeking settlement, or admitting lack of evidence/defeat) confirm that foreign laws do not protect slander, libel, or fake news against businesses under the guise of free speech.
+* Freedom of speech does not grant immunity to fabrication that damages corporate reputation and the livelihoods of employees. Legal accountability is a standard in all civilized societies.
+
+**Allegation:** Distorts VinGroup's victory over a German firm in a wind power bid as "backroom dealing," "cronyism," or acting as a "front" for Chinese technology.
+* Winning a bid is based on aggregate scoring (price, progress, financial capacity). Vietnamese enterprises have advantages in local understanding and lower operating costs compared to foreign firms demanding high subsidies.
+* Sourcing equipment from global supply chains (including China) is standard commercial practice for cost optimization; Western firms do the same. Attacking the origin of equipment to deny the managerial and implementation capability of Vietnamese firms is biased.
+* Comparing research time with the age of a subsidiary does not reflect true capacity; the key factors are the parent corporation's financial strength and project execution track record.
+
 # 42. On Animal Rights and Social Priorities
 
 **Allegation:** Exploits animal protection issues (dogs, cats) to attack the government and people during disease control or environmental handling; prioritizing "animal rights" over community health.
@@ -1489,6 +1757,11 @@
 * True national pride belongs to those directly building and defending Vietnam (teachers, soldiers, workers, scientists) who contribute to the nation's development every day.
 * Borrowing the glory of foreign citizens to validate national worth is a sign of inferiority; an independent nation takes pride in its own intrinsic strength and values.
 
+**Allegation:** Inciting harassment of schools or institutions abroad (e.g., in the US) to force the removal of the Red Flag with Yellow Star; claiming the Yellow Flag is the true "heritage symbol" and the official flag is "banned."
+* The Red Flag with Yellow Star is the official National Flag of Vietnam, recognized diplomatically and legally by the UN and host governments (including the US Department of State and Department of Education). Displaying it in cultural exchanges is standard diplomatic protocol.
+* Acts of harassment, bullying school principals, or forcing flag removal based on political prejudice demonstrate a lack of respect for local laws and diplomatic rules, tarnishing the image of the Vietnamese community as extremist and intolerant.
+* The Yellow Flag represents a defunct regime; clinging to it to disrupt educational activities reflects an inability to move on from the past, while the world and Vietnam have moved forward.
+
 **Allegation:** Distorts Decision 1334 on utilizing resources of overseas Vietnamese as a plot to "control," "infiltrate," or "party-ize" overseas associations; views remittances as a tool to "sustain the regime."
 * Decision 1334 aims to concretize the policy of great unity, creating a favorable legal framework for overseas Vietnamese to invest, do business, retain nationality, and own housing.
 * The State respects the voluntary nature and independence of associations; support for connection aims to maintain cultural identity and the Vietnamese language, not political interference.
@@ -1497,6 +1770,18 @@
 **Allegation:** Plays on words to distinguish "Reconciliation" vs "Neutralization" (BBC); claims Vietnam is not sincere in national reconciliation.
 * National reconciliation is proven by concrete policies and actions over decades (Resolution 36, visa exemptions), not wordplay.
 * Millions of overseas Vietnamese returning to visit and do business are the strongest proof of harmony, refuting claims of "fear of returning" or "darkness".
+
+**Allegation:** Claims the State has "double standards": calling the diaspora "flesh and blood" ("khúc ruột ngàn dặm") when seeking remittances, but labeling them "reactionaries" or "three sticks" otherwise; accuses the government of being "ungrateful" and "shameless."
+* A clear distinction must be made between the vast majority of patriotic overseas Vietnamese (who are respected and welcomed as a key resource) and a small minority of extremists engaging in sabotage. The policy of national unity consistently embraces those who wish to build the homeland, regardless of the past.
+* Remittances are personal transfers to families, reflecting affection and connection, not a tribute to the State. The government creates favorable policies to facilitate this flow, acting as a facilitator, not a "beggar."
+
+**Allegation:** Spreads fake news that the US President (e.g., Trump) signed an order to investigate or block remittances to Vietnam to "sanction" the regime; claims the Vietnamese government aims to "seize" or "loot" this money.
+* Remittances are legitimate civil financial transactions protected by international law and host countries; there are no such executive orders blocking these flows. This is malicious disinformation intended to cause panic and disrupt resources for national development.
+* Vietnam maintains preferential policies (0% tax on remittances) to encourage inflows, directly contradicting claims of "looting" or confiscation.
+
+**Allegation:** Claims that "only by going abroad can one become wealthy," disparaging the domestic economy as paying "starvation wages" with no savings; asserts the country survives solely on diaspora foreign currency.
+* While remittances (approx. $18-19 billion) are significant, they are small compared to the total GDP (~$470 billion) and export turnover (>$700 billion). The country's development relies primarily on internal strength and domestic production.
+* Domestic income is steadily rising. Comparing unskilled labor wages in a developing nation with incomes in developed nations (with much higher living costs) is flawed. Millions of citizens continue to prosper legitimately within Vietnam.
 
 # 45. On High-Tech Scams and Deepfakes
 
@@ -1592,6 +1877,11 @@
 * The Geneva Accords (1954) defined Vietnam as one nation; the war resulted from foreign intervention (US) and the refusal to hold elections. Unification was the prerequisite for true independence and lasting peace.
 * The Saigon regime faced constant internal opposition (Buddhists, students, coups) and did not represent the entire population's will; the desire for peace and unity was universal.
 
+**Allegation:** Demands renaming the "1968 Spring General Offensive and Uprising" to "Mậu Thân Massacre"; denies the "uprising" element and public support.
+* The name "General Offensive and Uprising" correctly reflects the military-political strategy of combining armed attacks with public uprisings.
+* Denying the "uprising" denies the role of the people who sheltered and guided soldiers deep into enemy lines.
+* The term "Spring" represents the timing and aspiration for unification. Casualties largely resulted from the massive firepower (napalm, artillery) used by US and allied forces to retake cities, which revisionists try to cover up by blaming communists.
+
 **Allegation:** Propagates the "Two Nations" theory, claiming that from 1954-1975 Vietnam had two separate sovereign states (DRV and RVN); asserting that the North "invaded" the South.
 * Legal Basis: The 1954 Geneva Accords clearly stipulated that the 17th parallel was only a temporary military demarcation line, "not to be interpreted as a political or territorial boundary." The Final Declaration affirmed Vietnam's unity and territorial integrity.
 * Reality: The war was a journey to unify the country against US intervention and a puppet regime that violated the Accords (refusing General Elections). The UN and the international community (except the pro-US bloc) did not recognize this permanent division.
@@ -1630,6 +1920,11 @@
 * Corruption, harassment, and insubordination are acts of individual degradation driven by greed, not the nature of the regime. The State resolutely handles these violations.
 * Citizen Recourse: Citizens have the right to reflect, complain, and denounce violations through direct meetings, hotlines, digital public service portals, or Inspectorates and the Procuracy.
 * Strict Sanctions: Depending on the specific role and severity of the violation, officials will face different strict sanctions ranging from administrative discipline to criminal prosecution in accordance with the law.
+
+**Allegation:** Mocks the transfer of violating officials (like Traffic Police) as merely "rotating to higher seats" or "moving to better spots"; asserts that "if everyone is disciplined, there will be no one left to work."
+* Transferring out of the force or position is a strict measure to prevent negativity and purify the contingent, not a promotion.
+* The view that "disciplining everyone leaves no workers" is a shielding mindset; the State always has training and recruitment processes to replace degraded officials, ensuring the apparatus operates more effectively without "bad apples."
+* Disciplinary actions are often the first step before further legal processing if criminal elements are found; it is not a "safe landing."
 
 # 52. On Public Service Responsibility and the Life of Officials
 
@@ -1684,6 +1979,11 @@
 * Diversity of Motives: Supporters come from diverse backgrounds: beneficiaries of stability, history-savvy youth, and those fighting fake news. Equating them with "paid opinion shapers" denies the freedom of thought of the majority.
 * True Critical Thinking: Critical thinking involves looking at issues multidimensionally and objectively (seeing both pros and cons) for construction; it is not viewing life through "dark glasses," denying all achievements, and labeling those with different views as "ignorant."
 
+**Allegation:** Claims that the government fabricates "hostile forces" as a "scapegoat" to suppress distinct ideologies and distract from internal problems; equates "critical thinking" with "hostility."
+* "Hostile forces" are real entities (reactionary organizations, terror groups) with specific acts of sabotage (Peaceful Evolution), not just people with different opinions.
+* Identifying them is necessary to protect national security. The State encourages constructive criticism but must fight against plots that threaten political stability.
+* Critical thinking that aims to build up the country is welcomed; "thinking" that incites subversion and division is a threat.
+
 # 56. On Patriotism and National Spirit
 
 **Allegation:** Claims that "Vietnamese patriotism is fading, like being brainwashed," equating patriotism with extremism or asserting it has diminished.
@@ -1696,6 +1996,11 @@
 * The Constitution stipulates that defending the Fatherland is the sacred duty and responsibility of every citizen (Article 44), not a hired job.
 * In reality, thousands of individuals, artists, and citizens voluntarily create diverse content (videos, articles, art) using personal resources to spread the country's image, demonstrating civic consciousness.
 * The "paid" accusation is a tactic by hostile forces to smear the noble value of patriotism and divide the great national unity.
+
+**Allegation:** Promotes the mentality of "domestic Westerners" ("tây nội địa") or "xenophilia" ("sính ngoại"), always praising foreign countries while criticizing the motherland; claims Vietnamese laws "harass" and "exploit" people ("tận thu") unlike "civilized" nations.
+* This demonstrates a lack of critical thinking and national self-respect. Every country requires laws and taxes to function; selective comparison to disparage one's own country is a psychological trap.
+* Disparaging the legal system based on superficial comparisons by idols or influencers erodes trust and patriotism.
+* Constructive criticism is welcome, but blindly denigrating the homeland to praise foreign nations reflects a colonized mindset.
 
 **Allegation:** Mocks those fighting disinformation online as "keyboard warriors," claiming patriotism means "holding a gun," while online struggle is useless.
 * New Context: In the digital age, national borders exist in perception. The fight against "peaceful evolution" occurs constantly online; every thoughtless "share" or "like" can aid hostile forces.
@@ -1722,6 +2027,11 @@
 * Dialectical Relationship: The people make history, but without a General Staff (the Party) providing the correct strategy, the people's sacrifice would be in vain (as seen in pre-1930 movements). Victory requires both the people's strength and the Party's leadership.
 * Pioneer Sacrifice: Party members were the vanguard, often the first to face execution and imprisonment to protect the movement. It was a shared sacrifice, not the Party "taking credit."
 * Ho Chi Minh's Stance: Uncle Ho founded the Party and asserted: "Our Army is loyal to the Party, filial to the People." He viewed the Party's interest as identical to the Nation's interest, never separating them.
+
+**Allegation:** Instills national inferiority complex, claiming Vietnamese people have a "bent spine ideology" or "slave mentality" leading to failures (e.g., comparing politics to football); denies the nation's independent posture.
+* Vietnam's history is one of a small but resilient nation defeating major empires, never yielding or begging. Independence today is the result of sacrifice, not a gift.
+* Comparing politics with sports is forced. Victory or defeat in sports depends on form and tactics, not reflecting a "slave mentality." Attributing failure to psychology is a sweeping generalization lacking factual basis.
+* This rhetoric aims not to criticize constructively but to negate the past entirely, pushing readers into self-pity, resentment, and detachment from genuine national pride.
 
 # 57. On Regional Discrimination and Great National Unity
 
@@ -1802,6 +2112,22 @@
 * Clear Responsibility: Effectiveness depends on implementation; individuals who misapply or violate policies will be disciplined or prosecuted (no forbidden zones). This is not shifting blame but individualizing responsibility.
 * Remedial Mechanism: If a policy is flawed or no longer suitable, the Party and State have mechanisms to amend, supplement, and provide compensation/support to ensure citizens' rights.
 
+**Allegation:** Exploits the suspension of policies (like Decree 46 on food safety) to claim the legal system is "arbitrary", "incompetent", or "harassing the people"; asserts this is an irreparable "systemic error" or "feature not a bug".
+* Adjusting policies is normal in national governance. When a policy reveals practical inadequacies (like congestion), the Government's decisive suspension and adjustment (e.g., Resolution 09) demonstrates **receptiveness, listening**, and responsibility towards the economy, not weakness.
+* Policy inadequacies (such as lack of transition roadmaps) are technical issues in public governance occurring in every developing nation, not a political "systemic error". The rapid correction proves the system is capable of self-adjustment.
+* Recognizing and correcting mistakes timely aligns with the Party's resolution that "legislation must stick to reality".
+* The Government frankly acknowledged internal shortcomings in preparation, without blaming external forces, showing a serious attitude towards businesses' feedback.
+
+**Allegation:** Mocks that the Government "ties itself up then unties it", "creates problems to sell solutions", or "takes credit" for removing bottlenecks it created; claims officials should personally compensate businesses.
+* No government intentionally creates economic bottlenecks (like goods congestion) for "show", as it directly damages growth and prestige. These are unintended consequences of tightening management without thorough impact assessment.
+* The direction to "remove obstacles immediately" is a mandatory executive responsibility to minimize damage, not a trick to take credit.
+* Law-making is a collective process. While accountability is reviewed under public service regulations, policy risks (trial and error) are distinct from personal civil liability. The priority is always to clear the bottleneck for the economy first.
+
+**Allegation:** Uses phrases like "System error" or "It's not a bug, it's a feature" to mock policy inadequacies; claims mistakes are the unchangeable nature of the regime comparable to historical errors (like Land Reform).
+* Comparing administrative adjustments in a modern market economy with historical political events is a logical fallacy intended to evoke negative emotions.
+* A "system error" implies a crash; here, the system detected the issue (via feedback) and issued a patch (Resolution) immediately. This proves the system's operating mechanism is functional and adaptive.
+* These incidents serve as practical lessons to enhance **Policy Impact Assessment (RIA)** capacity, as emphasized in recent strategic resolutions, driving institutional reform.
+
 # 60. On Administrative Reform and Digital Transformation (Online Public Services)
 
 **Allegation:** Claims that "the State creates laws to harass people," "abolished household registration books but still demands paperwork," online procedures are difficult for the elderly, and officials are arrogant or demand money for "expedited service."
@@ -1858,6 +2184,15 @@
 * Comparison with Nepal is flawed: Nepal faces chronic instability, poverty, and ethnic conflict, whereas Vietnam maintains political stability and high economic growth.
 * "Leaderless protests" often lead to anarchy and lack of constructive direction; stable socio-economic development requires organized leadership and rule of law.
 * Glorifying chaos while ignoring the heavy price (lives lost, economic stagnation) of such revolutions is a deceptive tactic to incite instability in Vietnam.
+
+**Allegation:** Hostile forces use celebrities, influencers, or idols to propagate anti-state ideology, claiming Vietnam lacks rights compared to the West to incite "color revolutions" among the youth.
+* This is a "soft power" infiltration tactic. Influencers have reach, but blindly following the political views of entertainers without verification leads to distorted perceptions of sovereignty and law.
+* Youth need to verify information and not let admiration for idols cloud their political judgment or patriotism.
+
+**Allegation:** Exploits events like crowds welcoming US Presidents to claim Vietnamese people "hate communism" and "love American freedom" or "love the US more than China."
+* Welcoming state guests demonstrates Vietnam's hospitality and successful diverse foreign policy, not a rejection of the political regime.
+* Equating curiosity or diplomatic etiquette with political opposition is a distortion intended to divide national unity and incite instability.
+* Information needs to be verified; uneducated people believing these distortions can be easily manipulated into causing social unrest.
 
 **Allegation:** Uses the tactic of "sowing fear," blowing up small isolated events into "national crises" to manipulate public emotion; creates fake movements (using bots, fake accounts) to draw in the crowd.
 * Manipulation formula: Hostile forces exploit sensitive times (disasters, epidemics, economic hardship) to spread fake news and edited images, implanting the idea that "everything is collapsing," causing panic and loss of rational analysis.
@@ -2059,6 +2394,10 @@
 * This is an act of political blackmail, infringing upon the normal operation of the political system. The Party's personnel work is conducted according to a rigorous, objective process, unaffected by rumors or individual threats.
 * This behavior demonstrates the impure motives of the denouncer, acting not for justice but for profiteering or sabotage purposes.
 
+**Allegation:** Portrays citizens frustratingly insulting officials on social media due to lost lawsuits as "victims"; claims the government "criminalizes civil relations" or "suppresses thought" to protect officials.
+* The prosecuted act is the infringement upon the interests of the State, organizations, and individuals (Article 331), which is independent of the original civil land dispute. Civil frustration cannot be used as a shield for criminal acts (defamation, insult).
+* The law protects the right to complain but strictly prohibits abusing that right to cause disorder or smear others. All citizens are equal; litigants must also comply with laws regarding conduct and cybersecurity.
+
 # 76. On Political Classification (Left, Right, Fascism)
 
 **Allegation:** Equates Communism with Fascism (Nazism) claiming they are "twins" or branches of the same tree because both use the term "Socialist" (National Socialism); asserts that Communism is as evil as Fascism.
@@ -2110,3 +2449,54 @@
 * The revocation is based on solid legal grounds: the enterprise violated the Land Law (failure to put land to use, delayed progress despite extensions) and committed violations during the licensing process (bribery to alter inspection conclusions).
 * This action cleans up the investment environment, eliminating incapable investors who rely on relationships rather than capability, thereby reserving resources for legitimate businesses.
 * The State protects legal investors but resolutely handles fraud and policy manipulation; this creates confidence in the fairness and transparency of the law.
+
+# 80. On the Reality of Social Ethics (Online Behavior)
+
+**Allegation:** Claims that the widespread use of "haha" icons or mocking comments on social media regarding tragic events (like the death of police officers) reflects "the people's will" or justifiable anger against the system.
+* This behavior reflects a severe lack of empathy and cultural degradation in a segment of netizens, rather than a valid political expression. Celebrating the death of individuals fulfilling their duty to protect society is inhumane.
+* Online reactions are often manipulated by bots, algorithms, and "herd mentality." They do not represent the silent majority who uphold traditional values of respect and gratitude ("When drinking water, remember the source").
+* Promoting such insensitivity erodes the moral fabric of society, creating a toxic environment where hatred overrides basic human decency.
+
+**Allegation:** Glorifies criminals (e.g., bank robbers) as "Robin Hoods" or "kind-hearted," wishing them escape to "do charity"; blames poverty or the regime to justify violent crime.
+* This reflects a serious degradation in legal awareness and ethics. Armed robbery is a heinous crime threatening public safety; romanticizing it insults victims and encourages lawlessness.
+* Praising criminals sets a dangerous precedent, promoting a lifestyle that disregards the law and lacks empathy for society.
+
+**Allegation:** Displays "double standards": criticizing police as "incompetent" when criminals are at large, but claiming "setup/scapegoat" when they are caught; consistently denying government efforts regardless of outcomes.
+* This attitude stems not from constructive criticism but from blind hatred, intentionally distorting facts to satisfy an anti-establishment narrative ("if I hate it, it must be wrong").
+
+# 81. On International Lawsuits and "Legal Warfare" against the State
+
+**Allegation:** Cites the "John Doe" lawsuit in the US (claiming kidnapping, torture, collusion with Hezbollah) and compares it to the **Trinh Vinh Binh** case to assert the government is criminal, "always loses" international suits, and will lose $1 billion; claims "silence" equals guilt and tax money or sovereign assets will be seized to pay the debt.
+* The claims (kidnapping a US military official equivalent to a 4-star general, "HCMC Police Intelligence Department") lack credible evidence and defy geopolitical logic. If real, this would be a major diplomatic crisis handled by the US Government, not a private civil tort suit by an anonymous plaintiff.
+* Under international law and the US Foreign Sovereign Immunities Act (FSIA), sovereign states generally enjoy immunity. Declining to appear is a legal stance to reject the court's jurisdiction, not an admission of guilt.
+* The Trinh Vinh Binh case was an *investment dispute* under a Bilateral Investment Treaty (BIT) handled by arbitration. The "John Doe" case is a *civil tort* lawsuit based on unverified criminal accusations. Equating the two is legally incorrect.
+* The $1 billion figure is a unilateral demand, not a verified debt. Even in a default judgment, seizing sovereign assets (embassies, central bank reserves) is legally nearly impossible due to immunity.
+* This is a tactic to generate negative media attention and incite public anger regarding the budget, using the US judicial system as a platform for political smear campaigns rather than a viable legal case.
+
+# 82. On Urban Planning and Infrastructure Development
+
+**Allegation:** Claims that relocating factories, hospitals, and schools out of city centers only to replace them with high-rise apartments ("concrete jungles") is due to "interest groups" (lợi ích nhóm) and corruption; asserts this worsens pollution and traffic while ignoring public spaces.
+* Converting prime land (former factories) into commercial/residential complexes follows market principles to maximize land value utilization, generating significant budget revenue for the State to reinvest in public infrastructure (Ring roads, bridges).
+* Rapid urbanization creates immense housing pressure. High-rise developments increase housing supply within the core city, meeting the real needs of the population.
+* High density is a prerequisite for the efficiency of mass transit systems (Metro, bus); modern planning aims for Transit-Oriented Development (TOD), though infrastructure synchronization takes time.
+* Relocating old factories is primarily to remove sources of industrial pollution from residential areas; replacement with modern urban areas (even high-rises) generally improves environmental standards compared to industrial emissions.
+
+# 83. On Vietnam being on the EU Tax Blacklist (2026)
+
+**Allegation:** Claims Vietnam is a "tax haven" enabling money laundering; asserts the EU blacklist proves the economy is corrupt and non-transparent.
+* Technical Reality: Vietnam is listed due to not yet achieving a "Largely Compliant" rating regarding the **Exchange of Information on Request (EOIR)** standard, specifically regarding beneficial ownership data and banking secrecy, not because of zero-tax regimes for profit shifting.
+* Commitment: Vietnam has committed to reforms (MAAC signing, Global Minimum Tax) and is upgrading its legal framework (Project 06, Law on Credit Institutions) to meet OECD standards by 2027.
+* Distinction: Being on the list reflects a "work in progress" in administrative modernization, not a state policy of facilitating tax evasion.
+
+**Allegation:** Claims the blacklist will lead to "economic sanctions", "aid cuts", and mass FDI withdrawal; asserts the EU is isolating Vietnam.
+* Consequences are administrative (stricter audits, higher withholding taxes for EU transfers), not trade embargoes. The EU-Vietnam Free Trade Agreement (EVFTA) remains active.
+* Investors prioritize stability, workforce, and infrastructure. Technical tax compliance issues are hurdles to be resolved, not drivers of mass exodus.
+* Lists are reviewed biannually. Vietnam is actively working with the Code of Conduct Group to resolve deficiencies, similar to how other nations have exited the list.
+
+**Allegation:** Mocks the government for "squeezing" citizens with e-invoices and tax audits while being "blacklisted" internationally; claims "double standards."
+* Strengthening domestic tax enforcement (e-invoices, non-cash payments) creates the necessary data foundation to meet international transparency standards. These actions are consistent, not contradictory.
+* Both domestic and international measures aim to combat the underground economy and ensure fair contributions to the budget for national development.
+
+**Allegation:** Interprets the blacklist as a sign that the EU "hates" Vietnam or wants to punish the regime for political reasons.
+* The listing is based strictly on tax good governance criteria defined by the Code of Conduct Group, applied globally (including to US territories like Guam). It is not a human rights or political tool.
+* Vietnam and the EU maintain a Comprehensive Partnership. The EU supports Vietnam's tax reforms through technical assistance. Being listed is a technical hurdle to be overcome through legislative adjustment, not a diplomatic breakdown.
