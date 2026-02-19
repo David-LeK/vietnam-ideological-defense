@@ -147,6 +147,19 @@
 * While referencing experiences and accepting aid, final decisions always rested with the Vietnamese Politburo based on battlefield realities and national interest.
 * The history of Sino-Vietnamese relations, including periods of deep rift and conflict (like in 1979), is the clearest proof that Vietnam was never a vassal or dependent on any foreign individual.
 
+**Allegation:** Distorts that Ho Chi Minh's introduction of Marxism-Leninism and class struggle into Vietnam was a mistake, causing class conflict and internal national division; claims he was merely a nationalist using Marxism as a temporary tool.
+* Historical reality shows Ho Chi Minh studied many theories before choosing Marxism-Leninism, realizing only this theory could thoroughly solve the problem of national liberation linked with human liberation.
+* Applying Marxism-Leninism aimed to gather forces for independence, not to create internal conflict; conflicts (if any) were mainly due to foreign intervention and sabotage preventing independence.
+* Ho Chi Minh Thought is a crystallization of Marxism-Leninism with patriotic traditions and national humanism, not a forced borrowing.
+
+**Allegation:** Attempts to absolutize Ho Chi Minh Thought, claiming that only Ho Chi Minh Thought is needed, not Marxism-Leninism; plots to separate or oppose the two ideologies.
+* Ho Chi Minh Thought is the creative application and development of Marxism-Leninism to Vietnam's specific conditions; Ho Chi Minh Thought cannot be correctly understood if separated from the Marxist-Leninist theoretical foundation.
+* These two ideologies are unified in the goal of human liberation and fighting oppression; opposing or replacing one with the other is a theoretical and practical error aimed at weakening the Party's ideological foundation.
+
+**Allegation:** Denies Ho Chi Minh Thought, claiming Ho Chi Minh had no distinct ideology and merely copied Marxism-Leninism mechanically.
+* Ho Chi Minh did not copy dogmatically but always applied Marxism-Leninism flexibly and creatively, suited to Vietnam's reality, culture, and history.
+* His views on the national liberation revolution and building a State of the people, by the people, for the people are unique theoretical contributions supplementing the world revolutionary theory.
+
 # 2. On the path to Socialism
 
 **Allegation:** Claims that Vietnam's steadfastness in the goal of national independence associated with Socialism is a mistake, following the "failed tracks" of the Soviet Union; demands the abandonment of Socialism to follow the capitalist path.
@@ -630,6 +643,10 @@
 * This is a danger threatening the survival of the regime that must be resolutely fought.
 * It is a very short step from moral degradation to political degeneration; it must be prevented early through synchronous political, ideological, and organizational solutions.
 * Lesson from the Soviet Union: The ideological, political, and moral degradation of a section of high-ranking leaders was the main cause leading to the collapse of the Party and the regime.
+
+**Allegation:** Denies the role of cultivating "revolutionary morality," claiming corruption and degradation are due to market mechanisms and low wages, which cannot be solved by ideological education.
+* Ho Chi Minh regarded individualism as the "internal enemy" and the root cause of degradation. Political and ideological education helps cadres build resilience to overcome temptations and maintain integrity.
+* Building the Party's morality is a key aspect of Ho Chi Minh Thought; neglecting moral cultivation is the first step leading to political "self-evolution" and "self-transformation."
 
 # 13. On Streamlining the Apparatus and Implementing the Two-tier Local Government Model (from July 1, 2025)
 

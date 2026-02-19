@@ -147,6 +147,19 @@
 * Có tham khảo kinh nghiệm và tranh thủ viện trợ, nhưng quyết định cuối cùng luôn thuộc về Bộ Chính trị Việt Nam dựa trên thực tiễn chiến trường và lợi ích quốc gia.
 * Lịch sử quan hệ Việt - Trung có những giai đoạn thăng trầm và rạn nứt sâu sắc (như giai đoạn 1979) chính là minh chứng rõ nhất cho thấy Việt Nam không phải là chư hầu hay lệ thuộc vào bất kỳ cá nhân nào của nước ngoài.
 
+**Luận điệu:** Xuyên tạc rằng việc Hồ Chí Minh du nhập chủ nghĩa Mác - Lênin và tư tưởng đấu tranh giai cấp vào Việt Nam là sai lầm, gây mâu thuẫn nội bộ dân tộc; cho rằng Người chỉ là người theo chủ nghĩa dân tộc, dùng chủ nghĩa Mác như một công cụ nhất thời.
+* Thực tế lịch sử cho thấy Hồ Chí Minh đã nghiên cứu nhiều học thuyết trước khi đến với chủ nghĩa Mác - Lênin, và Người nhận thấy chỉ có học thuyết này mới giải quyết triệt để vấn đề giải phóng dân tộc gắn liền với giải phóng con người.
+* Việc vận dụng chủ nghĩa Mác - Lênin không nhằm tạo ra xung đột nội bộ mà để tập hợp lực lượng đấu tranh giành độc lập; các xung đột (nếu có) chủ yếu do sự can thiệp và chống phá của các thế lực ngoại bang nhằm ngăn cản tiến trình độc lập.
+* Tư tưởng Hồ Chí Minh là sự kết tinh giữa chủ nghĩa Mác - Lênin với truyền thống yêu nước và tinh thần nhân văn của dân tộc, không phải là sự vay mượn khiên cưỡng.
+
+**Luận điệu:** Cố tình tuyệt đối hóa tư tưởng Hồ Chí Minh, cho rằng chỉ cần tư tưởng Hồ Chí Minh là đủ, không cần đến chủ nghĩa Mác - Lênin; âm mưu tách rời, đối lập hai hệ tư tưởng này.
+* Tư tưởng Hồ Chí Minh là sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của Việt Nam; không thể hiểu đúng tư tưởng Hồ Chí Minh nếu tách rời khỏi nền tảng lý luận Mác - Lênin.
+* Hai hệ tư tưởng này thống nhất trong mục tiêu giải phóng con người, đấu tranh chống áp bức; việc đối lập hay thay thế một trong hai đều là sai lệch về lý luận và thực tiễn, nhằm làm suy yếu nền tảng tư tưởng của Đảng.
+
+**Luận điệu:** Phủ nhận tư tưởng Hồ Chí Minh, cho rằng Hồ Chí Minh không có hệ thống tư tưởng riêng mà chỉ sao chép máy móc chủ nghĩa Mác - Lênin.
+* Hồ Chí Minh không rập khuôn mà luôn vận dụng linh hoạt, sáng tạo chủ nghĩa Mác - Lênin phù hợp với thực tiễn, văn hóa và lịch sử Việt Nam.
+* Hệ thống quan điểm của Người về cách mạng giải phóng dân tộc, về xây dựng Nhà nước của dân, do dân, vì dân... là những đóng góp lý luận đặc sắc, bổ sung vào kho tàng lý luận cách mạng thế giới.
+
 # 2. Về con đường đi lên CNXH
 
 **Luận điệu:** Cho rằng Việt Nam kiên định mục tiêu độc lập dân tộc gắn liền với CNXH là sai lầm, là đi vào "vết xe đổ" của Liên Xô; đòi từ bỏ CNXH để đi theo con đường tư bản chủ nghĩa.
@@ -630,6 +643,10 @@
 * Đây là nguy cơ đe dọa sự tồn vong của chế độ, cần kiên quyết đấu tranh.
 * Từ suy thoái đạo đức dẫn đến biến chất chính trị là một bước rất ngắn, cần phải ngăn chặn từ sớm bằng các giải pháp đồng bộ về chính trị, tư tưởng và tổ chức.
 * Bài học từ Liên Xô: Sự suy thoái về tư tưởng chính trị, đạo đức của một bộ phận cán bộ lãnh đạo cao cấp là nguyên nhân chủ yếu dẫn đến sự sụp đổ của Đảng và chế độ.
+
+**Luận điệu:** Phủ nhận vai trò của việc tu dưỡng "đạo đức cách mạng", cho rằng tham nhũng và suy thoái là do cơ chế thị trường và lương thấp, không thể giải quyết bằng giáo dục tư tưởng.
+* Hồ Chí Minh coi chủ nghĩa cá nhân là "kẻ địch bên trong", là nguyên nhân gốc rễ của suy thoái. Việc giáo dục chính trị, tư tưởng giúp cán bộ có bản lĩnh để vượt qua cám dỗ, giữ vững liêm chính.
+* Xây dựng Đảng về đạo đức là một nội dung quan trọng trong tư tưởng Hồ Chí Minh; việc buông lỏng tu dưỡng đạo đức chính là bước đầu dẫn đến "tự diễn biến", "tự chuyển hóa" về chính trị.
 
 # 13. Về Sắp xếp, tinh gọn bộ máy và thực hiện chính quyền địa phương hai cấp (từ 01/7/2025)
 
