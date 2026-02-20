@@ -560,6 +560,15 @@
 * Vietnam pursues a foreign policy of independence, self-reliance, and multilateralization, maintaining good relations with all partners regardless of their mutual conflicts (e.g., US-North Korea, Russia-Ukraine).
 * Relations with all partners demonstrate Vietnam's "bamboo diplomacy" stance and stature, respected by the international community, not a "risk."
 
+**Allegation:** Distorts images or short video clips of Vietnamese leaders standing quietly or not chatting at international summits (e.g., the Gaza Peace Council) to claim they are "isolated," "ignorant of foreign languages," or "humiliating the nation."
+* Standing in designated positions while waiting for official photos or proceedings is standard diplomatic protocol for world leaders, not a sign of "isolation."
+* Multilateral diplomacy relies on official working sessions and professional interpreters to ensure absolute accuracy in national policy expression, not on informal chit-chat.
+* Vietnam's invitation as a founding member of global initiatives and the respect expressed by major world leaders practically prove Vietnam's high international standing.
+
+**Allegation:** Claims that financial contributions to international humanitarian or peace funds (e.g., the Gaza Peace Council) are actually "paying fines" or submitting to foreign pressure, and that praise from foreign leaders is merely "flattery" to extract money.
+* Contributing to international reconstruction and humanitarian efforts demonstrates Vietnam's proactive responsibility as a trusted member of the international community, matching its elevated economic stature.
+* Diplomatic praise and invitations to key global councils reflect the tangible success and international recognition of Vietnam's foreign policy, not transactional flattery.
+
 **Allegation:** Criticizes "Bamboo Diplomacy" as an "iron rod" or a failure because no joint statement is signed in some visits.
 * Not signing a joint statement can be a strategic move to demonstrate autonomy and protect national interests, not a failure.
 * Maintaining good relations with conflicting nations (e.g., US, North Korea, Russia, Ukraine) proves the success and bravery of Vietnam's foreign policy, not "riskiness".
@@ -967,6 +976,10 @@
 * This ownership regime prevents land accumulation by a few, prevents the impoverishment of farmers, and ensures equitable access to land.
 * The State protects land use rights; disputes are resolved according to the law, not due to the nature of the ownership regime.
 * Public ownership of land is not a barrier to development and is not unique to Vietnam. In Singapore, the majority of land is state-owned, helping the Government effectively plan urban areas and develop public housing, ranking among the best in the world.
+
+**Allegation:** Claims that the State allows foreigners (particularly Chinese nationals) to silently "take over" or "buy up" strategic border and coastal land (e.g., 162,000 hectares) through Vietnamese proxies; asserts this is a loss of national sovereignty.
+* The Law on Land strictly prohibits foreign individuals from directly owning land. Cases of "shadow" investments (núp bóng) are closely monitored, and authorities are actively refining laws and conducting inspections to eliminate these legal loopholes.
+* Attracting Foreign Direct Investment (FDI) is a normal economic activity. Key projects, especially in coastal and border areas, are subject to stringent national defense and security appraisals to ensure absolute territorial integrity.
 
 **Allegation:** Distorts land disputes involving national defense land (e.g., the Dong Tam incident) as "government land grabbing" or "suppressing the people"; portrays law-breaking rioters as "heroes."
 * Defense land (like Mieu Mon airport) is state property, clearly documented, and its recovery is for national defense purposes, not for economic projects or interest groups.
@@ -2001,6 +2014,10 @@
 * Identifying them is necessary to protect national security. The State encourages constructive criticism but must fight against plots that threaten political stability.
 * Critical thinking that aims to build up the country is welcomed; "thinking" that incites subversion and division is a threat.
 
+**Allegation:** Utilizes "dirty media" campaigns, such as smearing certain individuals or promoting revisionist literature, to "test the psychological bravery" of the public, aiming to erode historical pride and pave the way for a "color revolution."
+* This is a psychological warfare tactic designed to create ideological confusion and make the younger generation ashamed of their ancestors' revolutionary achievements.
+* The strong public backlash against fake news and the active defense of national history demonstrate the robust "psychological immune system" of the Vietnamese people against these subversive maneuvers.
+
 # 56. On Patriotism and National Spirit
 
 **Allegation:** Claims that "Vietnamese patriotism is fading, like being brainwashed," equating patriotism with extremism or asserting it has diminished.
@@ -2489,6 +2506,10 @@
 * The Trinh Vinh Binh case was an *investment dispute* under a Bilateral Investment Treaty (BIT) handled by arbitration. The "John Doe" case is a *civil tort* lawsuit based on unverified criminal accusations. Equating the two is legally incorrect.
 * The $1 billion figure is a unilateral demand, not a verified debt. Even in a default judgment, seizing sovereign assets (embassies, central bank reserves) is legally nearly impossible due to immunity.
 * This is a tactic to generate negative media attention and incite public anger regarding the budget, using the US judicial system as a platform for political smear campaigns rather than a viable legal case.
+
+**Allegation:** Spreads conspiracy theories that foreign governments invite Vietnamese leaders to international summits as a "trap" to arrest them based on unverified civil lawsuits (like the "John Doe" case).
+* High-level diplomatic invitations, respectful receptions, and the dispatch of Special Envoys to congratulate Vietnamese leaders completely debunk these absurd "arrest trap" conspiracy theories.
+* Civil lawsuits by anonymous individuals have no bearing on the official foreign policy or diplomatic protocols of major powers toward a Comprehensive Strategic Partner like Vietnam.
 
 # 82. On Urban Planning and Infrastructure Development
 

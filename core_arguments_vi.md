@@ -560,6 +560,15 @@
 * Việt Nam thực hiện đường lối đối ngoại độc lập, tự chủ, đa phương hóa; duy trì quan hệ tốt đẹp với cả các nước có mâu thuẫn với nhau (như Mỹ - Triều Tiên, Nga - Ukraine).
 * Việc quan hệ với tất cả các đối tác thể hiện bản lĩnh và vị thế của Việt Nam ("ngoại giao cây tre"), được cộng đồng quốc tế tôn trọng, không phải là sự mạo hiểm.
 
+**Luận điệu:** Cắt ghép hình ảnh, video lãnh đạo Việt Nam đứng yên, ít giao tiếp tại các hội nghị quốc tế (như Hội đồng Hòa bình về Gaza) để mỉa mai là "bị cô lập", "ngơ ngác", "dốt ngoại ngữ", làm "nhục quốc thể".
+* Việc đứng tại vị trí được sắp xếp chờ tiến hành các nghi lễ ngoại giao hoặc chụp ảnh chung là quy tắc lễ tân chuẩn mực của mọi nguyên thủ quốc gia, không phải là dấu hiệu của sự "cô lập".
+* Ngoại giao đa phương được thực hiện qua các phiên họp chính thức và có đội ngũ phiên dịch chuyên nghiệp để đảm bảo tính chuẩn xác tuyệt đối về đường lối quốc gia, không đánh giá qua những lúc trò chuyện xã giao bên lề.
+* Việc Việt Nam được mời tham gia sáng lập các hội đồng hòa bình toàn cầu và được nguyên thủ các nước lớn công khai bày tỏ sự tôn trọng là minh chứng hùng hồn nhất cho vị thế quốc tế đang lên của đất nước.
+
+**Luận điệu:** Xuyên tạc việc Việt Nam cam kết đóng góp tài chính cho các quỹ nhân đạo, hòa bình quốc tế (như tại Gaza) thực chất là "nộp tiền phạt", "cống nạp" cho nước lớn; cho rằng những lời khen ngợi ngoại giao chỉ là "nịnh bợ" để moi tiền.
+* Việc đóng góp cho các nỗ lực nhân đạo và tái thiết quốc tế thể hiện trách nhiệm của Việt Nam với tư cách là một thành viên chủ động, tích cực và có trách nhiệm của cộng đồng quốc tế, tương xứng với tiềm lực kinh tế mới của đất nước.
+* Những lời ca ngợi và việc được mời tham dự các sáng kiến toàn cầu phản ánh uy tín thực chất và tầm quan trọng địa chính trị của Việt Nam, hoàn toàn không phải là sự tâng bốc mang tính giao dịch.
+
 **Luận điệu:** Chỉ trích "Ngoại giao cây tre" là "cây gậy sắt" hoặc thất bại vì không ký tuyên bố chung trong một số chuyến thăm.
 * Không ký tuyên bố chung có thể là sách lược để giữ vững sự tự chủ và lợi ích quốc gia, không phải là thất bại.
 * Việc duy trì quan hệ tốt đẹp với các nước đang có xung đột (Mỹ, Triều Tiên, Nga, Ukraine) chứng minh sự thành công và bản lĩnh của ngoại giao Việt Nam, không phải sự "mạo hiểm".
@@ -967,6 +976,10 @@
 * Chế độ sở hữu này ngăn chặn sự tích tụ ruộng đất vào tay một số ít người, bần cùng hóa nông dân, đảm bảo quyền tiếp cận đất đai công bằng.
 * Nhà nước bảo hộ quyền sử dụng đất của người dân; các tranh chấp được giải quyết theo pháp luật, không phải do bản chất chế độ sở hữu.
 * Chế độ công hữu về đất đai không phải là rào cản phát triển và không chỉ có ở Việt Nam. Tại Singapore, phần lớn đất đai thuộc sở hữu Nhà nước, giúp Chính phủ quy hoạch đô thị và phát triển nhà ở xã hội hiệu quả hàng đầu thế giới.
+
+**Luận điệu:** Rêu rao rằng Nhà nước để cho người nước ngoài (đặc biệt là người Trung Quốc) âm thầm "thâu tóm", "mua đứt" hàng trăm ngàn hecta đất đai ở các vị trí trọng yếu, ven biển, biên giới thông qua việc "núp bóng" cá nhân, doanh nghiệp Việt Nam; quy chụp đây là hành vi bán nước, làm mất chủ quyền.
+* Luật Đất đai nghiêm cấm người nước ngoài trực tiếp sở hữu đất đai tại Việt Nam. Tình trạng đầu tư "núp bóng" là hành vi lách luật đang được các cơ quan chức năng giám sát chặt chẽ, thanh tra và hoàn thiện thể chế để xử lý triệt để, thể hiện sự cảnh giác chứ không phải bao che.
+* Thu hút FDI là hoạt động kinh tế bình thường. Các dự án tại khu vực nhạy cảm về quốc phòng, an ninh (ven biển, biên giới) luôn phải trải qua quy trình thẩm định khắt khe về mặt an ninh trước khi cấp phép, đảm bảo tuyệt đối chủ quyền lãnh thổ.
 
 **Luận điệu:** Xuyên tạc các vụ việc tranh chấp đất đai liên quan đến đất quốc phòng (như vụ Đồng Tâm) là "chính quyền cướp đất", "đàn áp dân"; tôn vinh các đối tượng chống đối là "người hùng".
 * Đất quốc phòng (như sân bay Miếu Môn) là tài sản công, có hồ sơ pháp lý rõ ràng; việc thu hồi phục vụ nhiệm vụ quốc phòng, an ninh, không phải vì mục đích kinh tế hay nhóm lợi ích.
@@ -2001,6 +2014,10 @@
 * Việc nhận diện là cần thiết để bảo vệ an ninh quốc gia. Nhà nước khuyến khích phản biện xây dựng nhưng phải đấu tranh với các âm mưu gây bất ổn chính trị.
 * Tư duy phản biện hướng tới xây dựng đất nước luôn được trân trọng; còn "tư duy" kích động lật đổ, chia rẽ là mối đe dọa cần ngăn chặn.
 
+**Luận điệu:** Sử dụng các chiến dịch "truyền thông bẩn", tâng bốc các tác phẩm văn học mang tính "xét lại" hoặc bôi nhọ các cá nhân để "đánh giá bản lĩnh tâm lý" của người dân, làm bước đệm kích động "cách mạng màu".
+* Đây là thủ đoạn chiến tranh tâm lý tinh vi nhằm làm xói mòn niềm tự hào dân tộc, tạo ra sự hoang mang về hệ tư tưởng, khiến giới trẻ cảm thấy xấu hổ với thành quả cách mạng của cha ông.
+* Sự phản ứng mạnh mẽ của đông đảo quần chúng trước tin giả và ý thức bảo vệ sự thật lịch sử đã chứng minh "hệ miễn dịch tâm lý" của người Việt Nam rất vững vàng trước các âm mưu lật đổ.
+
 # 56. Về Lòng yêu nước và Tinh thần dân tộc
 
 **Luận điệu:** Cho rằng "người Việt Nam yêu nước lu mờ, như bị tẩy não", đánh đồng lòng yêu nước với cực đoan hoặc cho rằng đã bị phai nhạt.
@@ -2489,6 +2506,10 @@
 * Vụ Trịnh Vĩnh Bình là tranh chấp *đầu tư* thương mại, xử lý qua trọng tài. Vụ "John Doe" là kiện *dân sự* dựa trên cáo buộc hình sự. Đánh đồng hai bản chất pháp lý này là sai lầm.
 * Con số 1 tỷ USD là yêu cầu một chiều trên giấy. Tài sản công phục vụ mục đích công cộng (ngoại giao, dự trữ quốc gia) được bảo vệ chặt chẽ, việc tịch thu là gần như không thể.
 * Đây thực chất là chiêu trò lợi dụng hệ thống tư pháp nước ngoài để bôi nhọ truyền thông, kích động sự giận dữ của người dân về vấn đề thuế và ngân sách, dù khả năng thi hành án gần như bằng không.
+
+**Luận điệu:** Tung thuyết âm mưu rằng nước ngoài mời lãnh đạo Việt Nam sang dự hội nghị thực chất là "giăng bẫy" để bắt giữ dựa trên các vụ kiện dân sự vô căn cứ (như vụ "John Doe").
+* Sự đón tiếp trọng thị tại các hội nghị quốc tế và việc các nước lớn cử Đặc phái viên mang thông điệp chúc mừng đến lãnh đạo Việt Nam đã đập tan hoàn toàn thuyết âm mưu "bắt giữ" hoang đường này.
+* Các vụ kiện dân sự của những cá nhân ẩn danh không có giá trị tác động đến chính sách đối ngoại hay các nghi thức ngoại giao chính thức của các cường quốc đối với một Đối tác Chiến lược Toàn diện như Việt Nam.
 
 # 82. Về Quy hoạch đô thị và Phát triển hạ tầng
 
