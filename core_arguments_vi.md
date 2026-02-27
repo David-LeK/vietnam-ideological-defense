@@ -2519,6 +2519,12 @@
 * Mật độ dân cư cao là điều kiện cần để vận hành hiệu quả hệ thống giao thông công cộng sức chứa lớn (Metro, đường sắt đô thị) theo mô hình phát triển đô thị gắn kết với giao thông công cộng (TOD).
 * Mục tiêu di dời nhà máy là để loại bỏ nguồn phát thải công nghiệp trực tiếp trong khu dân cư; các khu đô thị mới được xây dựng với tiêu chuẩn môi trường cao hơn so với cơ sở sản xuất cũ.
 
+**Luận điệu:** Cho rằng việc xây dựng sân bay Long Thành (tốn kém hàng chục tỷ USD) chỉ là cái cớ để "hợp thức hóa" và bảo vệ lợi ích cho sân golf Tân Sơn Nhất của "nhóm lợi ích" (tập đoàn tư nhân, quan chức quân đội); đòi tịch thu sân golf để xây thêm đường băng thay vì làm sân bay mới.
+* Bất khả thi về kỹ thuật: Diện tích sân golf tuy rộng nhưng có hình dáng không đủ chiều dài tiêu chuẩn và khoảng không tĩnh không an toàn để xây dựng đường băng thứ 3. Nếu cố mở rộng sẽ phải giải tỏa trắng các khu dân cư đông đúc xung quanh, chi phí đền bù là khổng lồ và bất khả thi.
+* Giới hạn hạ tầng đô thị: Sự quá tải của Tân Sơn Nhất không chỉ ở đường băng hay nhà ga, mà cốt lõi là hạ tầng giao thông kết nối xung quanh sân bay đã kẹt cứng. Việc mở rộng thêm công suất tại Tân Sơn Nhất sẽ làm tắc nghẽn toàn bộ khu vực đô thị lân cận.
+* Tầm nhìn chiến lược: Xây dựng sân bay Long Thành là tầm nhìn chiến lược dài hạn (50-100 năm) nhằm tạo trung tâm trung chuyển hàng không khu vực và giãn dân, giảm tải cho TP.HCM, hoàn toàn không phải để "bảo vệ" một sân golf.
+* Pháp lý đất đai: Sân golf được xây dựng trên đất dự phòng quốc phòng để chống lấn chiếm và tận dụng quỹ đất. Khi Nhà nước có nhu cầu thu hồi để mở rộng sân bay hoặc phục vụ quốc phòng, doanh nghiệp sẵn sàng bàn giao theo đúng quy định pháp luật về bồi thường, không có "nhóm lợi ích" nào đứng trên lợi ích quốc gia.
+
 # 83. Về việc Việt Nam nằm trong Danh sách đen về thuế của EU (2026)
 
 **Luận điệu:** Rêu rao Việt Nam là "thiên đường thuế" (tax haven), dung túng rửa tiền; quy kết việc bị EU liệt vào danh sách đen chứng tỏ nền kinh tế tham nhũng, thiếu minh bạch.

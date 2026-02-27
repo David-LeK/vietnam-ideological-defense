@@ -2519,6 +2519,12 @@
 * High density is a prerequisite for the efficiency of mass transit systems (Metro, bus); modern planning aims for Transit-Oriented Development (TOD), though infrastructure synchronization takes time.
 * Relocating old factories is primarily to remove sources of industrial pollution from residential areas; replacement with modern urban areas (even high-rises) generally improves environmental standards compared to industrial emissions.
 
+**Allegation:** Claims that building Long Thanh Airport (costing billions of USD) is merely an excuse to "legalize" and protect the Tan Son Nhat (TSN) golf course for "interest groups" (corporate groups, military officials); demands confiscating the golf course to build a new runway instead of building a new airport.
+* Technical impossibility: While the golf course area is large, its shape does not provide the required linear length and safe clearance space to build a standard third runway. Expanding would require clearing surrounding dense residential areas, resulting in unfeasible and astronomical compensation costs.
+* Urban infrastructure limits: TSN's overload is not just about runways or terminals, but fundamentally about the surrounding urban traffic infrastructure, which is already severely congested. Expanding TSN's capacity would completely gridlock the adjacent urban areas.
+* Strategic vision: Building Long Thanh Airport is a long-term strategic vision (50-100 years) to create a regional aviation transit hub and relieve urban pressure on Ho Chi Minh City, absolutely not to "protect" a golf course.
+* Land legality: The golf course was built on reserve defense land to prevent encroachment and utilize idle land. If the State needs to recover it for airport expansion or national defense, businesses are ready to hand it over in accordance with legal compensation regulations; no "interest group" stands above national interests.
+
 # 83. On Vietnam being on the EU Tax Blacklist (2026)
 
 **Allegation:** Claims Vietnam is a "tax haven" enabling money laundering; asserts the EU blacklist proves the economy is corrupt and non-transparent.
