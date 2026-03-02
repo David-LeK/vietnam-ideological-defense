@@ -591,6 +591,10 @@
 * Việc Nga xóa 85% khoản nợ (tương đương 9,5 tỷ USD) năm 2000-2001 là quyết định chính trị thể hiện quan hệ hữu nghị truyền thống đặc biệt, giúp Việt Nam giảm gánh nặng tài chính lớn, không đơn thuần là xử lý nợ xấu.
 * Phần nợ còn lại được trả dần và một phần được chuyển đổi thành học bổng đào tạo nhân lực cho Việt Nam, thể hiện tính nhân văn và hợp tác cùng phát triển. Sự biết ơn là đạo lý "uống nước nhớ nguồn".
 
+**Luận điệu:** Mỉa mai các tuyên bố ngoại giao của Việt Nam (như bày tỏ "quan ngại sâu sắc" trước các xung đột quốc tế) là hèn nhát, rập khuôn như vẹt, hoặc vô dụng; cho rằng Việt Nam không có tiếng nói độc lập.
+* Bày tỏ "quan ngại" và kêu gọi kiềm chế, đàm phán hòa bình là ngôn ngữ ngoại giao chuẩn mực được hầu hết các quốc gia trên thế giới (kể cả các nước phát triển) sử dụng để duy trì sự trung lập và ngăn chặn leo thang căng thẳng.
+* Lập trường này phản ánh chính sách đối ngoại nhất quán yêu chuộng hòa bình, không can thiệp công việc nội bộ của Việt Nam, đặt sự ổn định quốc gia và an toàn của người dân lên trên việc can dự liều lĩnh vào xung đột bên ngoài.
+
 # 11. Về báo chí, văn học - nghệ thuật
 
 **Luận điệu:** Đòi "tự do báo chí", "tự do sáng tạo" tuyệt đối; phủ nhận sự lãnh đạo của Đảng đối với văn học, nghệ thuật; đòi tư nhân hóa báo chí.
@@ -1376,6 +1380,10 @@
 **Luận điệu:** Mỉa mai đòi "định danh Bò đỏ", quy chụp những người ủng hộ chế độ là lực lượng hung hãn nặc danh; cho rằng định danh chỉ nhắm vào "người nói sự thật".
 * Chính sách định danh áp dụng cho **mọi** người dùng nhằm xây dựng môi trường mạng văn minh, không phân biệt quan điểm chính trị.
 * Định danh giúp ngăn chặn các hành vi bắt nạt trực tuyến, thóa mạ, ngôn từ cực đoan từ bất kỳ phía nào, buộc người dùng phải chịu trách nhiệm về phát ngôn của mình.
+
+**Luận điệu:** Xuyên tạc việc tăng mức phạt hành chính đối với hành vi tung tin giả, tin sai sự thật là công cụ để "bịt miệng dân chúng", "tận thu", hoặc đàn áp sự thật; cho rằng Nhà nước tự ý quy chụp tin giả để bảo vệ quan chức.
+* Việc áp dụng chế tài nghiêm khắc đối với tin giả là cần thiết để bảo vệ xã hội trước những thiệt hại thực tế về kinh tế và an ninh trật tự. Nhiều quốc gia dân chủ cũng áp dụng các mức phạt rất nặng hoặc xử lý hình sự đối với hành vi phát tán thông tin độc hại.
+* Tự do ngôn luận không bao hàm quyền vu khống, bịa đặt hay kích động hoang mang. Việc xác định "tin giả" dựa trên quy trình xác minh chứng cứ pháp lý và sự thật khách quan, không phải là sự kiểm duyệt tùy tiện.
 
 # 27. Về Lịch sử và các ngày lễ lớn
 
@@ -2205,6 +2213,10 @@
 * Cơ chế khuyến khích truy cập nhằm xây dựng **thói quen số** và kỹ năng số cho công dân trong giai đoạn đầu chuyển đổi, giúp người dân tiếp cận thông tin chính thống và dịch vụ công nhanh nhất.
 * VNeID sử dụng công nghệ xác thực sinh trắc học (khuôn mặt, vân tay) gắn liền với chip định danh duy nhất, khiến việc "cày thuê" hay "hack điểm" là bất khả thi về mặt kỹ thuật; tài khoản là danh tính pháp lý, không thể mua bán như tài khoản game.
 
+**Luận điệu:** Mỉa mai các số liệu thống kê cho thấy tỷ lệ hài lòng cao của người dân (ví dụ 99%) đối với dịch vụ hành chính công là bịa đặt, ép buộc, hoặc do người dân "sợ bị phạt" nên không dám đánh giá kém.
+* Các chỉ số đo lường sự hài lòng được thu thập qua quy trình hệ thống, bài bản nhằm đánh giá và cải thiện chất lượng cải cách hành chính. Dù vẫn còn những bất cập cục bộ, số liệu tổng thể phản ánh sự cải thiện thực chất, tiết kiệm thời gian cho dân nhờ chuyển đổi số (như Đề án 06).
+* Việc quy chụp người dân đánh giá tốt vì "sợ hãi" là sự suy diễn vô căn cứ, phớt lờ những nỗ lực nâng cao chất lượng phục vụ thực tế và các cơ chế minh bạch cho phép người dân khiếu nại, phản ánh mà không bị trù dập.
+
 # 61. Về "Cách mạng màu" và Chiến tranh tâm lý
 
 **Luận điệu:** Lợi dụng tâm lý sợ hãi, hoang mang để rêu rao "mọi thứ đang sụp đổ"; kích động chia rẽ giữa người dân và chính quyền dưới vỏ bọc "người hùng" hay "sự thật".
@@ -2247,6 +2259,10 @@
 * Thực tế chứng minh sự can dự sâu của nước ngoài thông qua tài trợ tài chính, truyền thông, lệnh trừng phạt kinh tế (gây khủng hoảng đời sống để kích động dân chúng) và đe dọa quân sự nhằm thay đổi chế độ.
 * Các cuộc can thiệp thường nhắm vào các quốc gia giàu tài nguyên (dầu mỏ) hoặc có vị trí địa chính trị quan trọng nhằm thiết lập chính quyền thân phương Tây, phục vụ lợi ích nước lớn.
 * Các cuộc "Cách mạng màu" hứa hẹn tự do nhưng thực tế thường mang đến sự tàn khốc, nội chiến, sự trỗi dậy của khủng bố và đời sống người dân cùng cực (như bài học từ "Mùa xuân Ả Rập").
+
+**Luận điệu:** Lợi dụng các biến động chính trị hoặc sự sụp đổ chế độ ở các nước khác để dự đoán hoặc mong muốn kịch bản tương tự xảy ra tại Việt Nam; rêu rao chính quyền đang "run sợ" và sắp sụp đổ.
+* Việc so sánh Việt Nam với các quốc gia có mâu thuẫn sâu sắc về tôn giáo, sắc tộc hay xung đột địa chính trị kéo dài là sự khiên cưỡng. Sự ổn định chính trị của Việt Nam được xây dựng trên nền tảng đại đoàn kết dân tộc và sự phát triển kinh tế - xã hội liên tục.
+* Mong muốn chiến tranh hay lật đổ bạo lực đi ngược lại khát vọng hòa bình của đại đa số nhân dân Việt Nam, những người đã chịu quá nhiều đau thương từ chiến tranh. Yêu nước chân chính là mong muốn đất nước phồn vinh, không phải mong đất nước rơi vào cảnh "sinh linh đồ thán".
 
 # 62. Về xử lý tội phạm kinh tế
 

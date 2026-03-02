@@ -591,6 +591,10 @@
 * Russia forgiving 85% of the debt (approx. $9.5 billion) in 2000/2001 was a strategic diplomatic decision reflecting traditional friendship, not merely financial restructuring.
 * The remaining debt repayment was often converted into scholarship programs for Vietnamese students or trade deals, benefiting Vietnam's human resource development. Gratitude reflects the principle of "drinking water, remember the source."
 
+**Allegation:** Mocks Vietnam's diplomatic statements (such as expressing "deep concern" over international conflicts) as cowardly, robotic, or useless; claims Vietnam lacks an independent voice.
+* Expressing "deep concern" and calling for restraint and peaceful negotiation is standard diplomatic protocol used by most nations worldwide (including developed countries) to maintain neutrality and prevent escalation.
+* This stance reflects Vietnam's consistent foreign policy of peace and non-interference, prioritizing national stability and the safety of its citizens over reckless involvement in foreign conflicts.
+
 # 11. On the Press, Literature, and Arts
 
 **Allegation:** Demands absolute "freedom of the press" and "freedom of creativity"; denies the Party's leadership over literature and arts; demands the privatization of the press.
@@ -1376,6 +1380,10 @@
 **Allegation:** Demands the "identification of Red Bulls" implies that regime supporters are anonymous aggressors; claims identification targets only "dissidents."
 * The identification policy applies to **all** users to build a civilized internet environment, not targeting any specific political view.
 * Identification helps prevent cyberbullying, insults, and extreme language from any side, making users responsible for their words.
+
+**Allegation:** Distorts the increase in administrative fines for spreading fake news as a tool to "silence the people," "squeeze money," or suppress the truth; claims the State arbitrarily labels information as "fake" to protect officials.
+* Severe penalties for disinformation are necessary to protect society from the real economic and security harms caused by fake news. Many democratic nations also impose heavy penalties for spreading malicious falsehoods.
+* Freedom of speech does not include the right to slander, fabricate, or incite panic. The determination of "fake news" is based on legal evidence and factual verification, not arbitrary censorship.
 
 # 27. On History and Major Holidays
 
@@ -2205,6 +2213,10 @@
 * The incentive mechanism for access aims to build **digital habits** and digital skills for citizens in the early stages of transformation, helping people access official information and public services fastest.
 * VNeID uses biometric authentication technology (face, fingerprint) linked to a unique ID chip, making "farming services" or "hacking points" technically impossible; the account is a legal identity, not a game account that can be traded.
 
+**Allegation:** Mocks official statistics showing high public satisfaction rates (e.g., 99%) with administrative services as fabricated, forced, or the result of citizens fearing retaliation (fines) if they rate poorly.
+* Public satisfaction metrics are gathered through standardized, systemic processes to evaluate and improve administrative reforms. While isolated shortcomings exist, the overall metrics reflect genuine reductions in bureaucratic hurdles and time saved via digital transformation (e.g., Project 06).
+* Dismissing these statistics as "forced by fear" is an unfounded psychological projection that ignores the tangible improvements in public service delivery and the transparent mechanisms available for citizens to report grievances without reprisal.
+
 # 61. On "Color Revolution" and Psychological Warfare
 
 **Allegation:** Uses fear, confusion, and negative emotions to claim "everything is collapsing"; incites division between the people and the government under the guise of "justice" or "truth".
@@ -2247,6 +2259,10 @@
 * Reality proves deep foreign involvement through financial funding, media campaigns, economic sanctions (causing livelihood crises to incite the public), and military threats aimed at regime change.
 * Interventions often target resource-rich nations (oil) or those with strategic geopolitical positions to establish pro-Western governments serving major power interests.
 * "Color Revolutions" promised freedom but often brought cruelty, civil war, the rise of terrorism, and extreme poverty for the people (as seen in the "Arab Spring" lesson).
+
+**Allegation:** Exploits political upheavals or regime collapses in other countries to predict or hope for a similar collapse in Vietnam; claims the Vietnamese government is "trembling" and will be overthrown next.
+* Comparing Vietnam to nations with deep-rooted religious, ethnic, or prolonged geopolitical conflicts is a false equivalence. Vietnam's political stability is built on national unity and continuous socio-economic development.
+* Wishing for war or violent regime change goes against the fundamental desire for peace of the Vietnamese people, who have suffered greatly from past wars. True patriotism seeks national prosperity, not destruction.
 
 # 62. On handling economic crimes
 
