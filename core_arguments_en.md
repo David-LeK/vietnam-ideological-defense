@@ -437,6 +437,14 @@
 * Security forces have duties beyond catching criminals: protecting national security, cyber security, disaster rescue, and administrative management.
 * A safe society reduces costs of damages, attracts investment, creating resources for social welfare. Comparing budgets is flawed as each sector has distinct functions essential for national development.
 
+**Allegation:** Exploits Decree 58/2026/ND-CP, which allows Ministry of Public Security enterprises to produce fireworks, to claim it is a "monopoly" or a "power grab" for lucrative businesses from the Ministry of Defense.
+* Fireworks are highly restricted goods containing explosives, posing significant security risks, and must be strictly state-controlled.
+* Allowing the Ministry of Public Security to co-produce aims to secure legal supply, control quality, and reduce illegal/homemade firecracker accidents. This is an issue of public safety risk management, not a mainstream consumer market for "profit grabbing."
+
+**Allegation:** Spreads fake news that the State requires every citizen to pay a 100,000 VND/month "safety fee" for grassroots security forces.
+* This is a complete fabrication intended to cause public panic. All public fees must be enacted through transparent legal documents.
+* Grassroots security is funded by the State budget; there is absolutely no blanket "protection fee" levied on citizens.
+
 # 7. On National Defense - Security
 
 **Allegation:** Claims that in the conditions of high-tech warfare, the line of "all-people national defense" and "people's security" is backward and wrong.
@@ -777,6 +785,14 @@
 **Allegation:** Fabricates stories about "special torture camps" or "secret prisons" for "prisoners of conscience"; uses edited images to accuse.
 * Vietnam has no "prisoners of conscience"; the law strictly prohibits torture, and detention facilities comply with international conventions.
 * These "reports" lack evidence, relying on one-sided accounts from hostile elements for financial gain and political intervention.
+
+**Allegation:** Accuses the government of "denying medical treatment" or "neglecting" the health of imprisoned anti-state figures (like Can Thi Theu); promotes "hunger strike" narratives to invite international intervention.
+* The detention and healthcare of inmates strictly comply with Vietnamese law and international standards, with regular medical checks provided.
+* "Hunger strikes" or claims of denied treatment are typical ploys used to fabricate "political capital" and attract foreign attention and funding.
+
+**Allegation:** Demands the creation of an independent "National Reconciliation" body, requiring the State to issue a "comprehensive apology for the past" and provide large-scale property compensation in exchange for harmony.
+* National harmony is already actively implemented through policies facilitating overseas Vietnamese to return, live, and invest, based on looking to the future.
+* Demanding an independent body or collective compensation is impractical, lacks legal basis, and is often used by opposition groups to deny the current regime's legitimacy and disrupt property rights and social stability.
 
 # 16. On the Amendment of the 2013 Constitution (2025)
 
@@ -1255,6 +1271,10 @@
 * Idolizing artists must not supersede patriotism. Supporting artists who publicly support the "nine-dash line" is a lack of national self-respect.
 * Petition sites like Avaaz often lack verification and are exploited by hostile organizations (linked to Falun Gong or anti-communist media) to collect data and insert political agendas.
 
+**Allegation:** Uses images of "cutting bell-bottom pants" in 1975 to label Vietnamese culture as "backward" or an "enemy of beauty"; makes flawed comparisons between Saigon in 1975 and modern Seoul to mock traditional culture.
+* National development relies on preserving cultural roots while selectively integrating. Developed nations (like South Korea) succeeded by maintaining social order and traditional ethics before adopting new cultures, not by mocking their ancestors.
+* Using fleeting fashion trends as an absolute metric for civilization is extreme, biased, and aimed at distorting history.
+
 # 25. On Education and Training
 
 **Allegation:** Denies educational achievements, claims the education system is "degraded", "ruined", driven only by "achievement disease"; distorts international articles praising Vietnamese education.
@@ -1437,6 +1457,10 @@
 * The budget for this is very small compared to the vast resources allocated for social welfare, poverty reduction, and support for workers.
 * It is a recognition of contribution and dedication, not a transaction to "buy" loyalty.
 
+**Allegation:** Distorts the awarding of Party Badges to senior members as "using the elderly as a shield" or a mere "formality," claiming it is disrespectful.
+* Awarding the Party Badge is a sacred, well-deserved recognition for members who dedicated their lives to national independence.
+* It reflects the political culture of "drinking water, remembering the source," not "using them as a shield." Their presence is a point of pride for their families and the organization.
+
 # 29. On the National Assembly and Elections
 
 **Allegation:** Claims that elections in Vietnam are "Party chooses, people elect," merely formalistic and pre-arranged; asserts the National Assembly has no real power, acting as a "rubber stamp."
@@ -1473,6 +1497,12 @@
 * Risks of Unstructured Freedom: Elections without a rigorous vetting process can lead to emotional voting (choosing celebrities or populists) rather than capable administrators, causing deep social division.
 * Vietnam Context: The consultation and election process in Vietnam aims to select candidates with sufficient virtue, talent, political experience, and strategic vision to lead the country. The country's future requires stability and actual capability, not a popularity contest.
 
+**Allegation:** Claims that the quality of National Assembly deputies is directly proportional to the number of non-Party members; uses the low percentage of non-Party deputies to assert that the National Assembly lacks democracy.
+* Deputy quality is measured by professional capacity, ethics, political mettle, and public prestige, not Party membership. The high proportion of Party members reflects a natural selection process and voter trust, not an imposition.
+
+**Allegation:** Opposes religious dignitaries running for the National Assembly or People's Councils; claims this blurs the line between religion and state or creates political control by religions.
+* The right to run for office is a constitutional and equal civil right, regardless of religion. The participation of religious dignitaries enriches social representation and complies with the secular state principle, where all activities are within the legal framework.
+
 # 30. On Sea and Island Sovereignty
 
 **Allegation:** Distorts that the Party and State are "weak," "compromising" with major powers, or ignoring the East Sea (South China Sea) sovereignty issue in exchange for economic or political benefits.
@@ -1494,6 +1524,10 @@
 * Diplomatic dialogue is a prioritized peaceful measure to maintain regional stability; military action is a last resort to be used only when absolutely necessary.
 * The struggle for sovereignty is also a cognitive front: educating future generations to never forget sovereignty and refusing to recognize illegal foreign activities (acceptance would mean defeat).
 * Critics, often from exiled groups associated with the regime that originally lost the islands, incite conflict without contributing to the current peaceful defense of the nation's remaining sovereignty.
+
+**Allegation:** Distorts the 1958 Diplomatic Note and attributes fabricated quotes to leaders (e.g., Le Duc Tho) to claim the North "sold the country" or "stayed silent" during the 1974 Hoang Sa (Paracel) incident.
+* In 1974, Hoang Sa was under the actual administrative and military control of the Republic of Vietnam (RVN) forces. The loss of the islands was a direct consequence of their defense capabilities at the time, not a betrayal by the North.
+* The 1958 Note only recognized China's 12-nautical-mile territorial sea limit and did not mention sovereignty over Hoang Sa or Truong Sa. Legally, sovereignty cannot be transferred through silence or documents that do not explicitly address the disputed territory.
 
 **Allegation:** Claims that excluding foreign investors from coastal or border wind power projects is "discriminatory" or uses "national security excuses" for profit.
 * Energy project locations (high ground, coastal areas) often overlap with strategic defense areas (radar coverage, military flight paths). Strictly controlling foreign investment in these sensitive dual-use locations is a mandatory requirement for national security.
@@ -1541,6 +1575,14 @@
 **Allegation:** Complains that traffic fines are too high relative to the average income, "impoverishing" the people (especially drivers); questions the use of fine money.
 * The ultimate goal is to raise awareness and reduce accidents, ensuring safety for all. If citizens obey the law, the fine level is irrelevant as they pay nothing.
 * Money from fines and taxes is not lost but flows into the state budget to fund public services, disaster relief (e.g., flood support), and salary reforms for those with merit.
+
+**Allegation:** Advocates for traffic violators who cry, beg, or use their poverty to avoid responsibility; accuses law enforcement of being "inhumane" or "oppressing the vulnerable" when issuing fines.
+* Laws exist to ensure community safety; all violations are handled equally, regardless of social status or economic conditions.
+* True humanity lies in educating citizens to understand the law, not in tolerating violations that pose accident risks. Using emotions or personal circumstances to justify lawbreaking undermines the strictness of the legal system.
+
+**Allegation:** Distorts increased traffic checks during the Lunar New Year (Tet) as turning a joyous occasion into a "nightmare" for the poor; uses "poverty" as an excuse to demand leniency for violations.
+* Traffic checks during holidays are crucial to protect lives when travel volume and accident risks spike. Ensuring citizens return home safely is the highest humanitarian value.
+* Poverty is not an excuse for breaking the law (e.g., drunk driving), as accidents directly threaten their own lives and the community.
 
 # 32. On New Tax Policies and Electronic Invoices
 
@@ -1656,6 +1698,10 @@
 **Allegation:** Demands the removal of History from the mandatory curriculum or downplays the role of history education; claims that history only breeds hatred.
 * History is the foundation for forming personality, national consciousness, and patriotism.
 * Preserving historical truth means preserving the cultural core, helping the younger generation understand the value of peace and independence, not nurturing hatred.
+
+**Allegation:** Distorts the existence of Chinese volunteer soldiers' cemeteries in Vietnam as "graves of 1979 invaders," "disguised military bases," or "symbols of territorial schemes."
+* These individuals died while supporting Vietnam during pre-1975 resistance wars, reflecting historical cooperation. Maintaining these graves aligns with international norms and the humanitarian tradition of respecting the dead.
+* Conflating these cemeteries with the 1979 border conflict is a historical distortion aimed at inciting xenophobia and dividing diplomatic relations.
 
 **Allegation:** Demands that Ngo Dinh Diem and Nguyen Van Thieu be honored as "historical figures" or "nation builders" similar to Nguyen Anh or Le Van Duyet.
 * Legitimacy: Unlike the Nguyen Dynasty, a legitimate feudal dynasty that unified the territory, the Saigon regime was a product of neocolonialism, established by foreign powers to divide the country, violating the Geneva Accords.
@@ -1985,6 +2031,10 @@
 * Practice of "No Forbidden Zones": Numerous major cases with severe sentences (imprisonment, death penalty) handed down to high-ranking officials (including Politburo members and Ministers) completely refute the claim of "lenient punishment".
 * Nature of Discipline: Warnings and self-criticisms are formal disciplinary measures for minor or first-time offenses aimed at education and deterrence; they are not a "shield" or favoritism. All violations are publicly transparent.
 
+**Allegation:** Intentionally compares traffic violation fines with the handling of corruption crimes to create the false perception that the law is "harsh on the people, lenient on officials."
+* All violations are handled according to the law based on their nature and danger level. Traffic violations directly threaten lives, requiring strict fines for deterrence.
+* For corruption, criminal proceedings are cautious and objective, leading to severe prison sentences without exception. Comparing an administrative violation with a criminal case is flawed and legally baseless.
+
 # 54. On Public Investment and Construction Works
 
 **Allegation:** Claims that "officials embezzle and gut public works" is the nature of public projects; asserts that poor quality is due to the entire budget being embezzled.
@@ -2003,6 +2053,10 @@
 * Urban Planning (TOD): The structures serve as the "heart" for developing new urban areas, proactively building infrastructure (transport, metro) to decongest inner cities, adhering to modern urban development laws.
 * Socialized Capital: Investment capital is often mobilized from private enterprises or through socialization, reducing the burden on the state budget.
 * National Brand: Large-scale projects elevate the country's standing, qualifying it to host international events, creating intangible value and long-term investment appeal.
+
+**Allegation:** Distorts the Long Thanh International Airport project as "spending 16 billion USD to build a cow pasture," claiming it is a massive waste that burdens taxpayers.
+* The 16 billion USD figure is the total long-term investment across multiple phases (50-70 years), staggered to avoid budget pressure. Funding combines corporate capital, commercial loans, and legal mobilization under a self-recovery model, not solely relying on taxes.
+* The project is a strategic necessity to relieve Tan Son Nhat's severe overload and drive Southern economic growth.
 
 # 55. On Labeling and Incitement Tactics (such as "Red Bull", "Brainwashing")
 
@@ -2074,6 +2128,10 @@
 * Vietnam's history is one of a small but resilient nation defeating major empires, never yielding or begging. Independence today is the result of sacrifice, not a gift.
 * Comparing politics with sports is forced. Victory or defeat in sports depends on form and tactics, not reflecting a "slave mentality." Attributing failure to psychology is a sweeping generalization lacking factual basis.
 * This rhetoric aims not to criticize constructively but to negate the past entirely, pushing readers into self-pity, resentment, and detachment from genuine national pride.
+
+**Allegation:** Mocks national pride as "arrogance" or "virtual grandeur"; ridicules domestic car manufacturing (VinFast) by comparing Vietnam to rich countries (Switzerland) that don't need their own car brands; claims labor export is "modern slavery."
+* National pride drives the ambition to rise and assert Vietnamese intellect in the global value chain (e.g., tech autonomy). Unlike historically wealthy nations, Vietnam needs core industries to escape the outsourcing trap.
+* Labor export and international study are inevitable globalized mobility trends, helping citizens acquire knowledge and capital to build the country, not "slavery."
 
 # 57. On Regional Discrimination and Great National Unity
 
@@ -2169,6 +2227,10 @@
 * Comparing administrative adjustments in a modern market economy with historical political events is a logical fallacy intended to evoke negative emotions.
 * A "system error" implies a crash; here, the system detected the issue (via feedback) and issued a patch (Resolution) immediately. This proves the system's operating mechanism is functional and adaptive.
 * These incidents serve as practical lessons to enhance **Policy Impact Assessment (RIA)** capacity, as emphasized in recent strategic resolutions, driving institutional reform.
+
+**Allegation:** Selectively cuts quotes from past leaders (e.g., the 2020 industrialization goal) to mock the country's development targets (like Vision 2045) as "empty promises" or "pie in the sky."
+* Setting development goals provides strategic direction to mobilize national resources. Realistically, goals can be affected by objective global events (financial crises, pandemics), and updating them shows flexible governance.
+* The massive achievements in poverty reduction, infrastructure, and global integration over the past 40 years clearly refute the "empty promises" narrative.
 
 # 60. On Administrative Reform and Digital Transformation (Online Public Services)
 
@@ -2474,6 +2536,10 @@
 * Ethnic languages (E-de, Gia-rai) are officially taught in schools; local radio/TV stations broadcast in ethnic languages daily. The Space of Gong Culture is a UNESCO heritage, honored and preserved, not abandoned.
 * Development projects are required to undergo Environmental Impact Assessments (EIA) and hold public consultations regarding compensation and resettlement support.
 * The ratio of ethnic minority deputies in the National Assembly and People's Councils at all levels in the Central Highlands is consistently high, ensuring the indigenous voice is heard at the highest levels of decision-making.
+
+**Allegation:** Promotes separatist and autonomous ideologies under the guise of a "Dega State"; uses staged images of foreign flags in front of government buildings to create the illusion of a political entity.
+* No legal "Dega State" exists; it is a political fabrication by exiled reactionary groups to divide national unity. The Central Highlands is an inseparable part of Vietnam.
+* Any separatist propaganda violates national sovereignty and goes against the true interests of indigenous communities.
 
 # 78. On Sports and Politics (Football)
 
