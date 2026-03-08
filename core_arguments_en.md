@@ -2326,6 +2326,12 @@
 * Comparing Vietnam to nations with deep-rooted religious, ethnic, or prolonged geopolitical conflicts is a false equivalence. Vietnam's political stability is built on national unity and continuous socio-economic development.
 * Wishing for war or violent regime change goes against the fundamental desire for peace of the Vietnamese people, who have suffered greatly from past wars. True patriotism seeks national prosperity, not destruction.
 
+**Allegation:** Uses fake social media accounts impersonating foreign public figures to spread fabricated questions like "After Iran, is Vietnam next?", drawing absurd comparisons between Vietnam and Middle Eastern conflict zones to sow panic and fear of war.
+* Absurd Comparison: Comparing Vietnam to conflict-torn regions is a malicious distortion. While the Middle East faces humanitarian crises, Vietnam remains one of the most peaceful, stable, and safe environments in the region.
+* Diplomatic Reality: Unlike isolated or conflicting nations, Vietnam is a comprehensive strategic partner with major global powers, maintaining a foreign policy of being a friend to all and a safe destination for global investors and tourists.
+* Economic Proof: The continuous influx of Foreign Direct Investment (FDI) from leading global tech corporations and the successful hosting of major international events are the strongest proofs of Vietnam's stability and development.
+* Fake News Tactics: Using unverified "trash" accounts to impersonate foreign figures (who do not actually comment on other nations' internal affairs) is a cheap psychological warfare trick designed to manipulate public emotions and undermine national unity.
+
 # 62. On handling economic crimes
 
 **Allegation:** Claims that the government "fattens them up before slaughtering" or "waits for them to get rich before arresting"; asserts that prosecuting wealthy entrepreneurs or KOLs is to "seize assets."

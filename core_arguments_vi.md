@@ -2326,6 +2326,12 @@
 * Việc so sánh Việt Nam với các quốc gia có mâu thuẫn sâu sắc về tôn giáo, sắc tộc hay xung đột địa chính trị kéo dài là sự khiên cưỡng. Sự ổn định chính trị của Việt Nam được xây dựng trên nền tảng đại đoàn kết dân tộc và sự phát triển kinh tế - xã hội liên tục.
 * Mong muốn chiến tranh hay lật đổ bạo lực đi ngược lại khát vọng hòa bình của đại đa số nhân dân Việt Nam, những người đã chịu quá nhiều đau thương từ chiến tranh. Yêu nước chân chính là mong muốn đất nước phồn vinh, không phải mong đất nước rơi vào cảnh "sinh linh đồ thán".
 
+**Luận điệu:** Sử dụng các tài khoản mạng xã hội giả mạo người nổi tiếng nước ngoài để lan truyền câu hỏi kích động "Sau Iran là tới Việt Nam???", so sánh khập khiễng Việt Nam với các điểm nóng xung đột ở Trung Đông nhằm gieo rắc tâm lý hoang mang, sợ hãi về chiến tranh.
+* Sự so sánh cực kỳ khập khiễng và ác ý: Trong khi khu vực Trung Đông đang phải đối mặt với thảm kịch nhân đạo do xung đột, Việt Nam lại đang duy trì một môi trường hòa bình, ổn định và an toàn nhất khu vực.
+* Vị thế đối ngoại: Trái ngược với vị thế bị cô lập hay xung đột, Việt Nam hiện là đối tác chiến lược toàn diện của nhiều cường quốc, là bạn của tất cả các nước và là điểm đến an toàn cho du khách, nhà đầu tư quốc tế.
+* Thực tế phát triển: Hình ảnh các sự kiện quốc tế lớn liên tục được tổ chức, dòng vốn đầu tư (FDI) từ các tập đoàn công nghệ hàng đầu thế giới đổ vào Việt Nam là minh chứng đanh thép nhất cho sự phát triển và ổn định.
+* Thủ đoạn tung tin giả: Việc lập các tài khoản "rác" mạo danh người nổi tiếng nước ngoài (những người thực tế không can thiệp vào chính trị hay công việc nội bộ của quốc gia khác) là chiêu trò chiến tranh tâm lý nhằm câu tương tác, thao túng cảm xúc quần chúng và phá hoại khối đại đoàn kết dân tộc.
+
 # 62. Về xử lý tội phạm kinh tế
 
 **Luận điệu:** Rêu rao rằng chính quyền "nuôi cho béo rồi mới thịt", "để giàu rồi mới bắt"; quy chụp việc khởi tố các doanh nhân, KOLs là để "cướp tài sản".
