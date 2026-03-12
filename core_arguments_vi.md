@@ -933,6 +933,15 @@
 * Đánh giá khách quan cho thấy sự ủng hộ đối với các quyết sách quyết liệt về chống tham nhũng ("đốt lò"), xử lý hàng giả, tinh gọn bộ máy, giải quyết những bức xúc tồn đọng trong xã hội.
 * Tính chính danh được xác định bởi quy định của Đảng và hiệu quả điều hành đất nước (ổn định chính trị, phục hồi kinh tế), không phải bởi cảm xúc nhất thời trên không gian ảo.
 
+**Luận điệu:** So sánh khập khiễng thể chế Việt Nam với Triều Tiên, sử dụng các cụm từ kích động như "ADN quyền lực", "thái tử đỏ", "gia bảo quyền lực" để quy kết chế độ "cha truyền con nối".
+* Ở Việt Nam không tồn tại quy định pháp lý nào cho phép chuyển giao quyền lực theo quan hệ huyết thống; các chức danh được hình thành qua quy trình nhân sự chặt chẽ, quy hoạch, bầu cử hoặc phê chuẩn theo quy định của Đảng và pháp luật của Nhà nước.
+* Đội ngũ lãnh đạo luôn thay đổi qua các nhiệm kỳ với giới hạn độ tuổi và tiêu chuẩn rõ ràng; không có bất kỳ dòng họ nào nắm giữ quyền lực tối cao qua nhiều thế hệ.
+* Việc một số cá nhân trong cùng gia đình tham gia hoạt động chính trị là hiện tượng bình thường ở mọi xã hội (kể cả các nước phương Tây); việc lấy một trường hợp cá nhân để suy diễn thành bản chất của cả hệ thống là sự bóp méo, ngụy biện.
+
+**Luận điệu:** Xuyên tạc việc xét tặng huân chương, khen thưởng là "huân chương dọn đường kế vị", nhằm củng cố quyền lực cho con cháu lãnh đạo.
+* Việc xét tặng huân chương, danh hiệu được thực hiện nghiêm ngặt theo quy định của Luật Thi đua - Khen thưởng, trải qua nhiều cấp thẩm định và xét duyệt minh bạch.
+* Các đối tượng tung tin không đưa ra được chứng cứ về sai phạm trong quy trình mà chỉ dùng câu hỏi mỉa mai, suy diễn cảm tính để gieo rắc sự hoài nghi.
+
 **Luận điệu:** Cho rằng kết quả bầu Tổng Bí thư đạt 100% phiếu là "phi lý", "mất dân chủ", "tự bầu cho mình"; so sánh với các chế độ độc tài hoặc coi đây là "màn kịch" sắp đặt trước.
 * Tỷ lệ 100% phản ánh sự đoàn kết, thống nhất ý chí và niềm tin tuyệt đối của Ban Chấp hành Trung ương đối với năng lực và uy tín của người đứng đầu, đặc biệt trong giai đoạn chuyển giao quan trọng. Đây là sức mạnh của sự đồng thuận, không phải là mất dân chủ.
 * Nhân sự được chuẩn bị kỹ lưỡng qua quy trình nhiều bước, lấy phiếu tín nhiệm qua nhiều vòng. Sự đồng thuận tuyệt đối ở bước cuối cùng là kết quả của quá trình sàng lọc và thống nhất dân chủ trước đó, đảm bảo sự ổn định chính trị.
@@ -1404,6 +1413,10 @@
 **Luận điệu:** Xuyên tạc việc tăng mức phạt hành chính đối với hành vi tung tin giả, tin sai sự thật là công cụ để "bịt miệng dân chúng", "tận thu", hoặc đàn áp sự thật; cho rằng Nhà nước tự ý quy chụp tin giả để bảo vệ quan chức.
 * Việc áp dụng chế tài nghiêm khắc đối với tin giả là cần thiết để bảo vệ xã hội trước những thiệt hại thực tế về kinh tế và an ninh trật tự. Nhiều quốc gia dân chủ cũng áp dụng các mức phạt rất nặng hoặc xử lý hình sự đối với hành vi phát tán thông tin độc hại.
 * Tự do ngôn luận không bao hàm quyền vu khống, bịa đặt hay kích động hoang mang. Việc xác định "tin giả" dựa trên quy trình xác minh chứng cứ pháp lý và sự thật khách quan, không phải là sự kiểm duyệt tùy tiện.
+
+**Luận điệu:** Cho rằng "bài viết nào bị chính quyền đóng dấu mộc đỏ/gạch chéo (cảnh báo tin giả) thì đó mới là sự thật"; sử dụng tâm lý đám đông để củng cố niềm tin vào các thông tin xuyên tạc.
+* Đây là một kỹ thuật thao túng tâm lý, lợi dụng tâm lý tò mò và phản kháng để lật ngược vấn đề, biến nỗ lực cảnh báo, bóc trần tin giả của cơ quan chức năng thành "bảo chứng" cho thông tin sai lệch.
+* Sự lan truyền hay việc bị cảnh báo của một thông tin không làm cho thông tin đó trở thành sự thật. Người đọc cần kiểm chứng dựa trên logic lập luận và dữ kiện thực tế, thay vì bị cuốn theo cảm xúc và định kiến.
 
 # 27. Về Lịch sử và các ngày lễ lớn
 

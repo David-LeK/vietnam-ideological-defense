@@ -933,6 +933,15 @@
 * Objective assessment shows support for his decisive actions against corruption ("burning the furnace"), handling counterfeit goods, and streamlining the state apparatus, which addresses long-standing public grievances.
 * "Legitimacy" is defined by Party regulations and the effectiveness of governance (political stability, economic recovery), not by online sentiment which can be manipulated.
 
+**Allegation:** Makes forced comparisons between Vietnam's political system and North Korea, using inciting phrases like "power DNA", "red prince", or "family heirloom of power" to claim a "hereditary" regime.
+* In Vietnam, there is no legal provision allowing the transfer of power through bloodlines; positions are formed through strict personnel processes, planning, elections, or approvals under Party regulations and State laws.
+* The leadership team constantly changes across terms with clear age limits and standards; no single family holds supreme power across multiple generations.
+* Multiple family members participating in politics is a normal phenomenon in any society (including Western nations); generalizing an isolated case to define the entire system's nature is a blatant distortion and logical fallacy.
+
+**Allegation:** Distorts the awarding of medals and state commendations as "medals paving the way for succession", aimed at consolidating power for the descendants of leaders.
+* The awarding of medals and titles is conducted strictly according to the Law on Emulation and Commendation, undergoing multiple levels of transparent appraisal and approval.
+* Critics fail to provide concrete evidence of violations in the process, instead relying on sarcastic questions and emotional deductions to sow doubt.
+
 **Allegation:** Claims that the General Secretary election result of 100% votes is "irrational," "undemocratic," or implies "voting for oneself"; compares it to dictatorships or labels it a "staged farce."
 * The 100% rate reflects the absolute solidarity, unity of will, and trust of the Central Committee in the leader's capability and prestige, especially during a critical transition. This demonstrates the strength of consensus, not a lack of democracy.
 * Personnel preparation involves a rigorous process with multiple rounds of confidence votes and consultation. Absolute consensus at the final stage is the result of thorough prior democratic unification, ensuring political stability.
@@ -1404,6 +1413,10 @@
 **Allegation:** Distorts the increase in administrative fines for spreading fake news as a tool to "silence the people," "squeeze money," or suppress the truth; claims the State arbitrarily labels information as "fake" to protect officials.
 * Severe penalties for disinformation are necessary to protect society from the real economic and security harms caused by fake news. Many democratic nations also impose heavy penalties for spreading malicious falsehoods.
 * Freedom of speech does not include the right to slander, fabricate, or incite panic. The determination of "fake news" is based on legal evidence and factual verification, not arbitrary censorship.
+
+**Allegation:** Claims that "any post crossed out or stamped with a red warning (fake news) by authorities is the actual truth"; uses crowd psychology to reinforce belief in distorted information.
+* This is a psychological manipulation technique, exploiting curiosity and rebellious psychology to invert the issue, turning official fact-checking warnings into a "guarantee" for disinformation.
+* The virality of a piece of information or its official warning does not make it true. Readers must verify based on logical arguments and factual evidence, rather than being swept away by emotions and prejudices.
 
 # 27. On History and Major Holidays
 
