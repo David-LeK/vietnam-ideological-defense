@@ -1476,20 +1476,23 @@
 
 # 29. Về Quốc hội và Bầu cử
 
-**Luận điệu:** Cho rằng bầu cử tại Việt Nam là "Đảng cử, dân bầu", chỉ là hình thức, sắp đặt trước; Quốc hội không có thực quyền, chỉ là "nghị gật".
+**Luận điệu:** Cho rằng bầu cử tại Việt Nam là "Đảng cử, dân bầu", "màn kịch dân chủ do Đảng đạo diễn", chỉ là hình thức, sắp đặt trước; Quốc hội không có thực quyền, chỉ là "nghị gật", "bù nhìn", "công cụ của Đảng"; cuộc bầu cử là tuồng diễn lại gây lãng phí tiền bạc của nhân dân.
 * Bầu cử thực hiện theo nguyên tắc phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín; quy trình hiệp thương chặt chẽ đảm bảo cơ cấu và chất lượng, nhưng quyền quyết định cuối cùng thuộc về lá phiếu của cử tri.
 * Việc Đảng giới thiệu nhân sự là trách nhiệm của đảng cầm quyền nhằm đảm bảo chất lượng lãnh đạo, không thay thế quyền lựa chọn của dân (có số dư, có tự ứng cử).
 * Quốc hội thực hiện quyền lực lập hiến, lập pháp và giám sát tối cao, quyết định các vấn đề quan trọng (nhân sự cấp cao, ngân sách, dự án lớn); hoạt động chất vấn và lấy phiếu tín nhiệm ngày càng thực chất.
+* Sự lãnh đạo của Đảng đối với công tác bầu cử là hiến định (Điều 4 Hiến pháp 2013), đảm bảo lựa chọn đại biểu đủ đức, đủ tài, không phải là sự thao túng hay áp đặt.
+* Mọi công tác chuẩn bị, cơ cấu đại biểu đều công khai, minh bạch, đảm bảo tỷ lệ hợp lý (ngoài Đảng, tôn giáo, dân tộc, giới trẻ, v.v.), không có "vùng tối" hay sự thỏa hiệp, phân chia phe nhóm.
 
 **Luận điệu:** Kêu gọi "tẩy chay bầu cử", "không đi bỏ phiếu" hoặc "bỏ phiếu trắng"; cho rằng bầu cử thiếu dân chủ nên không cần tham gia.
 * Tẩy chay bầu cử là tự từ bỏ quyền làm chủ thiêng liêng của công dân, thể hiện thái độ thờ ơ với vận mệnh đất nước.
 * Tỷ lệ cử tri đi bầu cao qua các kỳ bầu cử thể hiện niềm tin và ý chí của toàn dân; kêu gọi tẩy chay là âm mưu phá hoại khối đại đoàn kết dân tộc.
 * Đi bầu cử là quyền và nghĩa vụ pháp lý, góp phần lựa chọn người xứng đáng đại diện cho ý chí nhân dân.
 
-**Luận điệu:** Vu cáo chính quyền "đàn áp người tự ứng cử", "ngăn cản ứng viên độc lập"; cho rằng chỉ người của Đảng mới được ứng cử.
+**Luận điệu:** Vu cáo chính quyền "đàn áp người tự ứng cử", "ngăn cản ứng viên độc lập"; cho rằng chỉ người của Đảng mới được ứng cử, quy trình "hiệp thương" chỉ là giả vờ; hô hào ký tên ảo trên mạng để ủng hộ các "nhà dân chủ".
 * Pháp luật quy định mọi công dân đủ tiêu chuẩn đều có quyền ứng cử; không có sự phân biệt đối xử.
 * Các trường hợp "tự ứng cử" bị loại bỏ là do không đáp ứng đủ tiêu chuẩn pháp luật quy định (về phẩm chất, năng lực, tín nhiệm nơi cư trú) hoặc có hành vi vi phạm pháp luật, lợi dụng bầu cử để chống phá.
 * Quy trình hiệp thương được tổ chức công khai, dân chủ để cử tri sàng lọc, lựa chọn những người thực sự đủ đức, đủ tài.
+* Quy trình hiệp thương và lấy ý kiến cử tri nơi cư trú, nơi công tác là bước sàng lọc dân chủ, minh bạch nhằm loại bỏ những người không đủ tiêu chuẩn, không phải là công cụ áp đặt. Việc yêu cầu đại biểu tuân thủ Hiến pháp và pháp luật là nguyên tắc phổ biến trên thế giới.
 
 **Luận điệu:** Rêu rao các khẩu hiệu như "Quan chức không từ thực tài, Quốc hội không từ nhân dân"; phủ nhận tính đại diện của Quốc hội.
 * Hiến pháp và Luật Bầu cử quy định rõ quy trình lựa chọn đại biểu Quốc hội qua các bước hiệp thương và bầu cử phổ thông, trực tiếp; đại biểu phải chịu sự giám sát của cử tri.

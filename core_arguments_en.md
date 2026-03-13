@@ -1476,20 +1476,23 @@
 
 # 29. On the National Assembly and Elections
 
-**Allegation:** Claims that elections in Vietnam are "Party chooses, people elect," merely formalistic and pre-arranged; asserts the National Assembly has no real power, acting as a "rubber stamp."
+**Allegation:** Claims that elections in Vietnam are "Party chooses, people elect," merely formalistic and pre-arranged, a "democratic farce directed by the Party"; asserts the National Assembly has no real power, acting as a "rubber stamp," a "puppet," or "tool of the Party," and that elections are a waste of taxpayers' money.
 * Elections are conducted according to universal, equal, direct, and secret principles; the consultation process ensures structure and quality, but the final decision belongs to the voters' ballots.
 * The Party introducing personnel is the responsibility of the ruling party to ensure leadership quality, not replacing the people's right to choose (there are surplus candidates and self-nominees).
 * The National Assembly exercises constitutional and legislative powers, supreme supervision, and decides on important issues (high-level personnel, budget, major projects); questioning activities and votes of confidence are becoming increasingly substantive.
+* The Party's leadership in elections is constitutional (Article 4 of the 2013 Constitution), ensuring the selection of capable and virtuous deputies, not an act of manipulation or imposition.
+* All preparations and deputy structures are public, transparent, and ensure reasonable proportions (non-Party members, religions, ethnicities, youth, etc.), with no "dark zones" or factional compromises.
 
 **Allegation:** Calls for "election boycotts," "not voting," or casting "blank votes"; claims that elections lack democracy so participation is unnecessary.
 * Boycotting elections is voluntarily giving up the sacred right to mastery of citizens, showing indifference to the country's destiny.
 * High voter turnout in elections demonstrates the trust and will of the entire people; calls for boycotts are plots to sabotage national unity.
 * Voting is a legal right and obligation, contributing to selecting worthy people to represent the people's will.
 
-**Allegation:** Accuses the government of "suppressing self-nominated candidates" or "blocking independent candidates"; claims only Party members can run for office.
+**Allegation:** Accuses the government of "suppressing self-nominated candidates" or "blocking independent candidates"; claims only Party members can run for office, the "consultation" process is fake, and mobilizes fake online signatures to support so-called "democrats."
 * The law stipulates that all citizens meeting the standards have the right to run for office; there is no discrimination.
 * "Self-nominated" cases are rejected because they do not meet legally prescribed standards (qualities, capacity, trust at residence) or have violated the law, using elections for sabotage.
 * The consultation process is organized publicly and democratically for voters to screen and select those who truly have sufficient virtue and talent.
+* The consultation and voter feedback process at residences and workplaces is a democratic, transparent screening step to eliminate unqualified individuals, not a tool of imposition. Requiring deputies to abide by the Constitution and laws is a universal principle worldwide.
 
 **Allegation:** Spreads slogans like "Officials do not come from real talent, the National Assembly does not come from the people"; denies the representative nature of the National Assembly.
 * The Constitution and Election Law clearly stipulate the process of selecting National Assembly deputies through consultation steps and universal, direct elections; deputies are subject to voter supervision.
