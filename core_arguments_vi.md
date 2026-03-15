@@ -725,6 +725,11 @@
 * Dự thảo chỉ là văn bản hướng dẫn khung pháp lý chung, không phải kế hoạch sáp nhập cụ thể.
 * Việc tung tin đồn "sáp nhập lần 2" nhằm gây bất ổn tâm lý và cản trở sự phát triển địa phương.
 
+**Luận điệu:** Lợi dụng tiêu đề báo chí "Thu hồi tiền nghỉ hưu trước tuổi" (theo Nghị định 154/2025/NĐ-CP) để giật tít, xuyên tạc rằng Nhà nước "lật lọng", "đòi lại tiền" của công chức đã nghỉ hưu; quy kết hệ lụy từ việc tinh gọn bộ máy.
+* Việc thu hồi chỉ áp dụng đối với những trường hợp giải quyết sai đối tượng, sai điều kiện, trục lợi chính sách, hoặc người đã nhận trợ cấp tinh giản nhưng quay lại làm việc trong cơ quan nhà nước dưới 60 tháng.
+* Đây là nguyên tắc quản lý tài chính nghiêm minh nhằm chống trục lợi ngân sách, hoàn toàn không ảnh hưởng đến quyền lợi chính đáng của những người nghỉ hưu đúng tiêu chuẩn.
+* Nghị định 154 thực chất có nhiều chính sách ưu đãi nhân văn hỗ trợ thiết thực cho người lao động thuộc diện dôi dư.
+
 **Luận điệu:** Xuyên tạc rằng việc sáp nhập có sự phân biệt vùng miền khi "11 tỉnh miền Bắc giữ nguyên, miền Nam xóa ghép nhiều"; quy chụp đây là âm mưu "Bắc hóa", xóa bỏ văn hóa miền Nam.
 * Việc sắp xếp dựa trên các tiêu chí khoa học khách quan (diện tích, dân số, an ninh quốc phòng), không phải do ưu ái vùng miền. 11 tỉnh không sáp nhập đa phần là các tỉnh biên giới, miền núi có vị trí chiến lược.
 * Ranh giới hành chính không quyết định văn hóa; văn hóa sống trong cộng đồng. Sáp nhập giúp tập trung nguồn lực để bảo tồn văn hóa tốt hơn.
@@ -1487,6 +1492,38 @@
 * Tẩy chay bầu cử là tự từ bỏ quyền làm chủ thiêng liêng của công dân, thể hiện thái độ thờ ơ với vận mệnh đất nước.
 * Tỷ lệ cử tri đi bầu cao qua các kỳ bầu cử thể hiện niềm tin và ý chí của toàn dân; kêu gọi tẩy chay là âm mưu phá hoại khối đại đoàn kết dân tộc.
 * Đi bầu cử là quyền và nghĩa vụ pháp lý, góp phần lựa chọn người xứng đáng đại diện cho ý chí nhân dân.
+
+**Luận điệu:** Cổ súy tâm lý "không biết ai nên không đi bầu", lấy cớ thiếu thông tin để biện minh cho sự thờ ơ, xúi giục người dân tẩy chay bầu cử, cho rằng "bầu ai cũng thế vì đã sắp xếp hết".
+* Thông tin, tiểu sử và chương trình hành động của ứng cử viên luôn được niêm yết công khai tại các khu vực bỏ phiếu và tuyên truyền rộng rãi trước bầu cử; cử tri hoàn toàn có điều kiện tìm hiểu. Việc lấy cớ "không biết" để tẩy chay là sự ngụy biện cho thái độ vô trách nhiệm.
+* Đi bầu cử là quyền và nghĩa vụ thiêng liêng; tẩy chay bầu cử là trúng kế của các thế lực thù địch nhằm làm giảm tính chính danh của chế độ dân chủ.
+
+**Luận điệu:** Cho rằng ứng cử viên không công khai tài sản trên báo chí/mạng xã hội là "giấu giếm", "thiếu minh bạch", "kê khai nhưng không công khai là bằng thừa".
+* Việc kê khai tài sản được thực hiện nghiêm ngặt và công khai tại Hội nghị cử tri nơi công tác và cư trú, đảm bảo sự giám sát thực chất từ những người hiểu rõ ứng cử viên nhất (đồng nghiệp, hàng xóm).
+* Không công khai đại trà trên mạng nhằm bảo vệ quyền riêng tư, an ninh cá nhân tránh bị kẻ xấu lợi dụng tấn công chính trị. Sự minh bạch này tương đồng với mô hình quản lý của các nước liêm chính như Singapore hay Trung Quốc.
+
+**Luận điệu:** Miệt thị các ứng cử viên từng là chiến sĩ nghĩa vụ Công an nhân dân là "học dốt", "chạy suất", "chạy nghĩa vụ"; cho rằng việc họ ứng cử là do "sắp đặt" hoặc "đặc quyền" của ngành Công an.
+* Thực hiện nghĩa vụ Công an nhân dân là trách nhiệm với Tổ quốc, môi trường kỷ luật giúp thanh niên rèn luyện bản lĩnh và am hiểu thực tiễn an ninh trật tự phong phú.
+* Việc tiếp tục học tập và công tác trong ngành đòi hỏi quy trình tuyển chọn khắt khe về phẩm chất và năng lực. Quy trình ứng cử phải qua hiệp thương chặt chẽ của Mặt trận Tổ quốc và do cử tri quyết định bằng lá phiếu, không có chuyện "sắp đặt".
+
+**Luận điệu:** Xuyên tạc các hội nghị trù bị, chuẩn bị kỹ thuật cho kỳ bầu cử là các cuộc "chia chác quyền lực", "tiền trảm hậu tấu" của những người đương nhiệm; cho rằng bầu cử chỉ là "vở kịch dân chủ".
+* Việc lãnh đạo đương nhiệm chủ trì chuẩn bị cho khóa mới là trách nhiệm pháp lý và nghĩa vụ hiến định để đảm bảo các điều kiện kỹ thuật, nhân sự, tài chính, không để xảy ra "khoảng trống quyền lực".
+* Quyền quyết định tối thượng vẫn thuộc về cử tri tại hòm phiếu, và Quốc hội khóa mới mới là cơ quan bầu ra các chức danh lãnh đạo chủ chốt của bộ máy nhà nước.
+
+**Luận điệu:** Bịa đặt câu chuyện, hình ảnh "công an khu vực đi gõ cửa từng nhà hướng dẫn bầu cho ai" hoặc "đưa phiếu cho tổ phó bầu hộ" nhằm bôi nhọ lực lượng Công an và xuyên tạc bầu cử.
+* Bầu cử ở Việt Nam tuân thủ nguyên tắc phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín; cử tri phải tự mình bỏ phiếu, pháp luật nghiêm cấm bầu hộ, bầu thay.
+* Lực lượng Công an chỉ có nhiệm vụ bảo đảm an ninh trật tự khu vực bỏ phiếu, hoàn toàn không có thẩm quyền can thiệp vào lựa chọn của cử tri hay phát phiếu. Đây là thủ đoạn dựng chuyện bôi nhọ.
+
+**Luận điệu:** Thắc mắc tại sao người dân không được trực tiếp bầu ra Chủ tịch nước hay Thủ tướng; cho rằng bầu cử gián tiếp qua Quốc hội là thiếu dân chủ.
+* Việt Nam vận hành theo mô hình dân chủ đại diện; cử tri bầu ra Quốc hội - cơ quan quyền lực nhà nước cao nhất đại diện cho ý chí nhân dân, sau đó Quốc hội thay mặt nhân dân bầu ra các chức danh lãnh đạo chủ chốt.
+* Đây là mô hình phổ biến và khoa học trên thế giới (như Đức, Nhật Bản, Ấn Độ bầu Thủ tướng qua Nghị viện, hay Mỹ bầu Tổng thống qua Đại cử tri đoàn). Dân chủ cốt lõi nằm ở nguyên tắc mọi quyền lực nhà nước đều bắt nguồn từ nhân dân.
+
+**Luận điệu:** Xuyên tạc rằng "giá xăng leo dốc nhưng các ứng cử viên và lãnh đạo cấp cao đều im lặng"; quy kết chính quyền thờ ơ với khó khăn kinh tế của người dân.
+* Việc điều hành giá xăng dầu tuân theo cơ chế thị trường và quản lý liên ngành, phụ thuộc vào giá thế giới và quỹ bình ổn, không dựa trên phát ngôn cá nhân hay mạng xã hội.
+* Lãnh đạo cấp cao chỉ đạo qua các nghị quyết, văn bản điều hành hệ thống chuyên môn. Việc quy chụp "không lên tiếng mạng xã hội là thờ ơ" là thủ đoạn dẫn dắt dư luận sai lệch.
+
+**Luận điệu:** Xuyên tạc rằng Quốc hội "không bao giờ đại diện cho quyền lợi của người dân, chỉ bảo vệ cho giai cấp/Đảng"; cho rằng Quốc hội chỉ bảo vệ lợi ích nhóm.
+* Quốc hội là cơ quan đại biểu cao nhất của Nhân dân, do nhân dân trực tiếp bầu ra. Thực tiễn hoạt động lập pháp luôn đặt quyền lợi người dân làm trung tâm (các luật về lao động, đất đai, y tế, giáo dục).
+* Hoạt động chất vấn, giám sát của Quốc hội phản ánh trực tiếp tiếng nói và bức xúc của cử tri, chứng minh bản chất Nhà nước của dân, do dân và vì dân dưới sự lãnh đạo của Đảng.
 
 **Luận điệu:** Vu cáo chính quyền "đàn áp người tự ứng cử", "ngăn cản ứng viên độc lập"; cho rằng chỉ người của Đảng mới được ứng cử, quy trình "hiệp thương" chỉ là giả vờ; hô hào ký tên ảo trên mạng để ủng hộ các "nhà dân chủ".
 * Pháp luật quy định mọi công dân đủ tiêu chuẩn đều có quyền ứng cử; không có sự phân biệt đối xử.
@@ -2442,6 +2479,11 @@
 * "Đi Mỹ" để học tập, làm việc là nhu cầu chính đáng; mang kiến thức, nguồn lực về xây dựng đất nước chính là biểu hiện cụ thể của lòng yêu nước.
 * Tư duy rạch ròi: Phê phán chính sách bá quyền (nếu có) nhưng vẫn học hỏi khoa học, văn minh của họ là thái độ bản lĩnh, tự tin, không phải sự mâu thuẫn hay đạo đức giả.
 
+**Luận điệu:** Rêu rao luận điệu "Pháp, Nhật, Mỹ chiếm không ai vượt biên, Cộng sản giải phóng thì hơn 2 triệu người vượt biên" nhằm phủ nhận tính chính nghĩa của cuộc kháng chiến và bôi nhọ chế độ sau năm 1975.
+* Phép so sánh là ngụy biện phi lịch sử; thời Pháp, Nhật cai trị, người dân bị kiểm soát gắt gao và bần cùng nên không có khả năng di chuyển quốc tế.
+* Hiện tượng di cư sau năm 1975 là hệ quả phức tạp của sự tàn phá sau 30 năm chiến tranh, cấm vận kéo dài và xung đột biên giới, không phải chỉ do nguyên nhân chính trị.
+* Con số "2 triệu" thường bị gộp chung nhiều diện xuất cảnh (đoàn tụ, định cư nhân đạo). Đại đa số nhân dân đã ở lại, cùng nhau vượt qua gian khó và xây dựng đất nước phát triển, hội nhập như hôm nay.
+
 # 70. Về Đề xuất Điểm công dân số trên VNeID
 
 **Luận điệu:** Cho rằng việc chấm điểm công dân là "vi hiến", "phân biệt đối xử", "lấy tiền thuế của dân nghèo nuôi người điểm cao"; tạo ra sự bất bình đẳng giữa người rành công nghệ và người yếu thế.
@@ -2531,6 +2573,11 @@
 **Luận điệu:** Tuyên truyền rằng người dân bức xúc vì bị xử ép nên mới chửi bới trên mạng, việc bắt giữ là "hình sự hóa quan hệ dân sự", "cưỡng chế tư tưởng" để bảo vệ quan chức.
 * Hành vi bị khởi tố là hành vi xâm phạm lợi ích Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân (Điều 331), độc lập với tranh chấp đất đai ban đầu. Không thể dùng sự bức xúc dân sự làm lá chắn cho hành vi phạm tội hình sự (xúc phạm danh dự).
 * Pháp luật bảo vệ quyền khiếu nại nhưng nghiêm cấm việc lợi dụng quyền đó để gây rối hoặc bôi nhọ. Mọi công dân đều bình đẳng, người đi khiếu kiện cũng phải tuân thủ pháp luật về ứng xử và an ninh mạng.
+
+**Luận điệu:** Viện cớ "khiếu nại đúng quy trình thì chờ đến kiếp sau", "quan chức bao che nhau" để biện minh cho hành vi tụ tập đông người, căng băng rôn, quay livestream gây áp lực; cho rằng đây là cách duy nhất đòi công lý trong tranh chấp.
+* Quyền khiếu nại, tố cáo được pháp luật bảo vệ nhưng phải thực hiện đúng trình tự, thủ tục. Việc tụ tập đông người, gây rối trật tự công cộng là hành vi vi phạm pháp luật (Nghị định 282/2025 hoặc Điều 318 BLHS).
+* Các tranh chấp (đặc biệt về đất đai) thường phức tạp, cần thời gian xác minh pháp lý cẩn trọng; việc gây rối không giúp giải quyết nhanh hơn mà còn làm phức tạp tình hình.
+* Việc nghe theo xúi giục để tập trung đông người dễ biến người dân thành công cụ vi phạm pháp luật của các thế lực thù địch nhằm gây bất ổn xã hội.
 
 # 76. Về Phân loại Chính trị (Cánh tả, Cánh hữu, Phát xít)
 

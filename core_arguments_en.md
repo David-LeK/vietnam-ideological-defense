@@ -725,6 +725,11 @@
 * The draft is merely a general legal framework guideline, not a specific merger plan.
 * "2nd merger" rumors are tactics to cause psychological instability and hinder development.
 
+**Allegation:** Uses sensational headlines about "reclaiming early retirement money" (Decree 154/2025) to claim the State is "going back on its word," "robbing retirees," or that streamlining the apparatus causes chaotic policy shifts.
+* Decree 154/2025/ND-CP only reclaims severance or early retirement benefits from individuals who were wrongfully granted them (wrong criteria, fraud) or who return to state employment within 60 months after receiving the payout.
+* This is a standard financial management rule to prevent abuse of the budget during the streamlining process, completely protecting the legitimate rights of those who retire correctly.
+* The Decree actually includes numerous humane preferential policies to support genuine redundant workers.
+
 **Allegation:** Claims regional discrimination stating "11 Northern provinces remain unchanged while the South is heavily merged"; asserts this aims to "Northernize" administration and erase Southern culture.
 * The arrangement is based on objective scientific criteria (area, population, defense-security), not regional preference. The 11 unmerged provinces are mostly strategic mountainous border areas.
 * Administrative boundaries do not determine culture; merging units concentrates resources to better preserve cultural identity.
@@ -1487,6 +1492,38 @@
 * Boycotting elections is voluntarily giving up the sacred right to mastery of citizens, showing indifference to the country's destiny.
 * High voter turnout in elections demonstrates the trust and will of the entire people; calls for boycotts are plots to sabotage national unity.
 * Voting is a legal right and obligation, contributing to selecting worthy people to represent the people's will.
+
+**Allegation:** Uses the excuse "I don't know the candidates, so I won't vote" to justify apathy, claim the elections are a sham, and encourage boycotting the polls.
+* Candidate biographies and action programs are widely publicized ahead of time at polling stations and mass media to allow voters to make informed choices. Feigning ignorance to boycott voting is an evasion of civic duty.
+* Voting is the primary method for citizens to exercise their constitutional right to mastery. Boycott campaigns are often orchestrated by hostile forces to lower voter turnout and undermine the democratic legitimacy of the state.
+
+**Allegation:** Claims that candidate asset declarations are not public, hiding wealth, or "if they don't publish it online for 100 million people to see, it's fake transparency."
+* Asset declarations are strictly managed and publicly presented at voter conferences where candidates reside and work, ensuring practical oversight by those who know them best and can verify their lifestyle.
+* General online publication is restricted to protect personal privacy, prevent political opportunism/smear campaigns, and ensure security. High-ranking officials' assets are controlled internally and by law, matching models in stable countries like Singapore or China.
+
+**Allegation:** Mocks candidates who formerly served as conscripted police officers as "uneducated," "running for quota," and alleges their candidacy is "arranged" or "forced" by the police force.
+* Serving as a conscript is a constitutional duty and provides rigorous discipline and practical experience in maintaining security and order.
+* Candidates who transition from conscripts to formal officers undergo strict training, political, and ethical vetting. Candidacy is evaluated transparently through the Fatherland Front's consultation process and relies on voter ballots, not "arranged" quotas.
+
+**Allegation:** Claims that pre-election preparatory conferences are merely "power-sharing" or "theater" orchestrated by incumbents, proving that elections are pre-determined.
+* Preparatory conferences are constitutionally mandated administrative processes to ensure technical, personnel, and financial readiness for elections, preventing any power vacuum.
+* The final authority to elect representatives rests entirely with the citizens' ballots, and top state positions are elected by the newly formed National Assembly at its first session, not decided in preparatory meetings.
+
+**Allegation:** Spreads fabricated stories and staged photos of police officers going door-to-door to instruct citizens on who to vote for or handing ballots to proxies to vote on their behalf.
+* Voting in Vietnam is conducted under principles of universal, equal, direct, and secret suffrage; proxy voting is strictly prohibited by law.
+* The role of the police during elections is strictly limited to maintaining public order and security at polling stations, not interfering with the voting process or handling ballots. These stories are fabricated to smear law enforcement.
+
+**Allegation:** Questions why citizens do not directly elect top leaders like the President or Prime Minister, asserting that indirect elections via the National Assembly are undemocratic.
+* Vietnam utilizes a representative democracy model where citizens directly elect National Assembly deputies, who represent their will and subsequently elect top state officials.
+* This is a scientific and common democratic model globally, similar to parliamentary systems in Germany, Japan, or India (where the legislature chooses the Prime Minister) and the US (Electoral College). The core of democracy is that power originates from the people.
+
+**Allegation:** Claims that candidates and high-ranking leaders are "silent" or indifferent when gas prices rise, implying they do not care about the people's economic struggles.
+* Fuel pricing is managed through inter-agency mechanisms based on global market fluctuations and regulatory funds, not decided by individual social media statements of leaders or candidates.
+* Leaders direct economic policy through official resolutions and specialized agencies; interpreting the lack of personal social media commentary as "silence" or indifference is a manipulation tactic.
+
+**Allegation:** Claims that the National Assembly only protects the interests of the ruling class/Party and does not represent the rights and legitimate interests of the people.
+* The National Assembly is the highest representative body of the people, elected through universal suffrage. It consistently enacts laws centering on citizens' rights (labor, land, welfare).
+* The National Assembly exercises supreme oversight over the government based on voter feedback. The Vietnamese State is "of the people, by the people, for the people," and does not serve any privileged elite.
 
 **Allegation:** Accuses the government of "suppressing self-nominated candidates" or "blocking independent candidates"; claims only Party members can run for office, the "consultation" process is fake, and mobilizes fake online signatures to support so-called "democrats."
 * The law stipulates that all citizens meeting the standards have the right to run for office; there is no discrimination.
@@ -2442,6 +2479,11 @@
 * "Going to the US" for study and work is a legitimate need in globalization; bringing back knowledge and resources (remittances, investment) to build the country is a concrete expression of patriotism.
 * Clear thinking: Criticizing hegemonic policies while learning from their science, technology, and civilization is the attitude of a confident, independent nation, not hypocrisy.
 
+**Allegation:** Argues that "no one fled during French, Japanese, or American rule, but over 2 million fled after 1975," using migration to deny the legitimacy of the post-1975 regime.
+* Comparing post-1975 to colonial/wartime eras is a historical fallacy; under French/Japanese rule, strict controls and poverty made international travel nearly impossible.
+* The post-1975 migration was a complex socio-economic phenomenon following decades of devastating war, embargoes, and border conflicts, not solely a political rejection.
+* Lumping various migrant groups (boat people, ODP, humanitarian resettlement) into a single "fleeing communism" narrative is a statistical distortion. The vast majority of Vietnamese stayed to rebuild the country, achieving significant socio-economic progress recognized globally.
+
 # 70. On the Proposed Digital Citizen Score on VNeID
 
 **Allegation:** Claims that citizen scoring is "unconstitutional," "discriminatory," and "uses tax money to reward high-scoring people"; asserts it creates inequality between tech-savvy users and vulnerable groups.
@@ -2531,6 +2573,11 @@
 **Allegation:** Portrays citizens frustratingly insulting officials on social media due to lost lawsuits as "victims"; claims the government "criminalizes civil relations" or "suppresses thought" to protect officials.
 * The prosecuted act is the infringement upon the interests of the State, organizations, and individuals (Article 331), which is independent of the original civil land dispute. Civil frustration cannot be used as a shield for criminal acts (defamation, insult).
 * The law protects the right to complain but strictly prohibits abusing that right to cause disorder or smear others. All citizens are equal; litigants must also comply with laws regarding conduct and cybersecurity.
+
+**Allegation:** Claims that filing complaints legally takes forever ("waiting until death"), justifying illegal mass gatherings, banners, and online livestreams as the only way to get justice for land disputes or administrative issues.
+* The State protects the right to complain, but it must follow legal procedures. Gathering in crowds to disrupt public order or live-streaming to pressure authorities violates the law (Decree 282/2025, Penal Code Article 318) and does not expedite legal resolution.
+* Many land disputes are complex and require time for proper legal adjudication; using disruptive tactics often makes citizens vulnerable to being exploited by agitators.
+* Citizens should use official channels (direct meetings, hotlines, public service portals) rather than resorting to illegal crowd gatherings that threaten social stability.
 
 # 76. On Political Classification (Left, Right, Fascism)
 
