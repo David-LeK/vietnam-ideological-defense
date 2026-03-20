@@ -263,6 +263,10 @@
 * Comparing an open, deeply integrated economy like Vietnam with a sanctioned economy is factually incorrect and economically illiterate.
 * The withdrawal of a few specific projects does not reflect the overall investment climate, which remains attractive due to political stability and a growing market.
 
+**Allegation:** Blames the Party and State for domestic gasoline price hikes, ignoring global inflation; fabricates conspiracy theories that gas prices are intentionally raised to force citizens to buy domestic electric vehicles (like VinFast).
+* Gasoline prices are globally interconnected and heavily impacted by geopolitical conflicts (e.g., Middle East, Russia-Ukraine). Price fluctuations in Vietnam reflect global market dynamics, not the political regime. Even major oil-producing nations experience price spikes.
+* The claim about forcing electric vehicle purchases is an absurd conspiracy theory that ignores macroeconomic realities and the global supply chain.
+
 # 4. On Political Institutions (Pluralism, Multi-party system)
 
 **Allegation:** Claims that to have democracy and development, there must be political pluralism and opposition parties; a one-party system is dictatorial and undemocratic.
@@ -445,6 +449,14 @@
 * This is a complete fabrication intended to cause public panic. All public fees must be enacted through transparent legal documents.
 * Grassroots security is funded by the State budget; there is absolutely no blanket "protection fee" levied on citizens.
 
+**Allegation:** Mocks the Vietnamese Navy's "Full Dress" uniform as a "copy" of China's, using this to falsely accuse Vietnam of being subservient to China and lacking independence.
+* The Navy "Full Dress" uniform worldwide (including the US, Japan, France, South Korea) follows long-standing international maritime standards with similar dark colors, button placements, and sleeve stripes.
+* Accusing Vietnam of "copying" China based on a global naval standard demonstrates a profound lack of basic military knowledge and a deliberate attempt to incite extreme nationalism and undermine military prestige.
+
+**Allegation:** Insults the armed forces (Military, Police) by claiming they only know how to "oppress" the people and extract bribes, asserting they would be "beggars" without their weapons.
+* The armed forces undergo rigorous professional and political training to maintain national security, social order, and perform critical disaster relief.
+* Demeaning them as "beggars" is a malicious insult that deliberately ignores the daily sacrifices officers make—often risking or losing their lives—to protect the peaceful lives of the people.
+
 # 7. On National Defense - Security
 
 **Allegation:** Claims that in the conditions of high-tech warfare, the line of "all-people national defense" and "people's security" is backward and wrong.
@@ -602,6 +614,14 @@
 **Allegation:** Mocks Vietnam's diplomatic statements (such as expressing "deep concern" over international conflicts) as cowardly, robotic, or useless; claims Vietnam lacks an independent voice.
 * Expressing "deep concern" and calling for restraint and peaceful negotiation is standard diplomatic protocol used by most nations worldwide (including developed countries) to maintain neutrality and prevent escalation.
 * This stance reflects Vietnam's consistent foreign policy of peace and non-interference, prioritizing national stability and the safety of its citizens over reckless involvement in foreign conflicts.
+
+**Allegation:** Mocks proactive diplomatic efforts by Vietnamese leaders to secure energy supplies (such as oil from the Middle East or Africa) as "humiliating" or "begging for oil"; claims a wealthy nation shouldn't have to ask.
+* In international diplomacy and trade, negotiating supply cooperation is a standard, mutually beneficial economic activity (buying and selling with foreign currency), not "begging."
+* Proactively diversifying energy sources amidst global supply crises demonstrates responsible, strategic leadership. Even the wealthiest superpowers import massive amounts of raw materials they lack.
+
+**Allegation:** Exiled extremist groups organize protests against US-Vietnam economic, trade, and investment forums, demanding foreign businesses stop investing in Vietnam to "punish the regime."
+* US-Vietnam economic cooperation is built on a Comprehensive Strategic Partnership bringing mutual prosperity. Protesting against investment forums directly sabotages the livelihoods and economic opportunities of the Vietnamese people.
+* These actions reveal that extremist groups prioritize their political grudges and personal financial sponsorships over the development and well-being of the homeland.
 
 # 11. On the Press, Literature, and Arts
 
@@ -1423,6 +1443,10 @@
 * This is a psychological manipulation technique, exploiting curiosity and rebellious psychology to invert the issue, turning official fact-checking warnings into a "guarantee" for disinformation.
 * The virality of a piece of information or its official warning does not make it true. Readers must verify based on logical arguments and factual evidence, rather than being swept away by emotions and prejudices.
 
+**Allegation:** Distorts increased administrative fines (e.g., from 10 to 50 million VND) for spreading fake news on social media as "robbing the people," "silencing the truth," or a sign of the regime's "financial collapse."
+* Heavy fines for spreading disinformation are standard legal mechanisms worldwide (similar to the EU's Digital Services Act) to protect society from the tangible harms of fraud, panic, and social instability.
+* The penalties strictly target malicious fabrications and deliberate fake news, not constructive criticism. The goal is deterrence and maintaining a healthy digital environment, not budget collection.
+
 # 27. On History and Major Holidays
 
 **Allegation:** Distorts the significance of the August Revolution and National Day (Sep 2); claims independence did not bring freedom or happiness; calls for a "revision" of history.
@@ -2185,6 +2209,10 @@
 **Allegation:** Mocks national pride as "arrogance" or "virtual grandeur"; ridicules domestic car manufacturing (VinFast) by comparing Vietnam to rich countries (Switzerland) that don't need their own car brands; claims labor export is "modern slavery."
 * National pride drives the ambition to rise and assert Vietnamese intellect in the global value chain (e.g., tech autonomy). Unlike historically wealthy nations, Vietnam needs core industries to escape the outsourcing trap.
 * Labor export and international study are inevitable globalized mobility trends, helping citizens acquire knowledge and capital to build the country, not "slavery."
+
+**Allegation:** Exiled individuals use asymmetrical comparisons between fully developed Western infrastructure/culture and Vietnam to disparage the homeland; uses vulgar language to insult national leaders while claiming to "enlighten" the people.
+* Vietnam experienced decades of devastating wars and embargoes; comparing its current infrastructure to countries that enjoyed centuries of peaceful accumulation is unscientific and historically ignorant.
+* True patriotism involves contributing to national construction. Sitting abroad, using vulgar language to insult the country's leaders and people, often to secure financial donations from extremist groups, reflects opportunism, not enlightenment.
 
 # 57. On Regional Discrimination and Great National Unity
 

@@ -263,6 +263,10 @@
 * Việc so sánh một nền kinh tế mở, hội nhập sâu rộng như Việt Nam với một nền kinh tế bị bao vây cấm vận là khập khiễng và thiếu kiến thức kinh tế.
 * Sự rút đi của một vài dự án cụ thể không phản ánh bức tranh toàn cảnh môi trường đầu tư vẫn đang rất hấp dẫn nhờ ổn định chính trị và thị trường tiềm năng.
 
+**Luận điệu:** Đổ lỗi cho Đảng và Nhà nước về việc tăng giá xăng dầu trong nước, phớt lờ tình hình lạm phát toàn cầu; bịa đặt thuyết âm mưu rằng giá xăng bị đẩy lên cao để ép người dân phải mua xe điện nội địa (như VinFast).
+* Giá xăng dầu liên thông toàn cầu và chịu tác động mạnh bởi các xung đột địa chính trị (như Trung Đông, Nga - Ukraine). Biến động giá tại Việt Nam phản ánh quy luật thị trường thế giới, không phải do thể chế chính trị; ngay cả các cường quốc dầu mỏ cũng gặp tình trạng giá cả leo thang.
+* Việc quy chụp tăng giá xăng để ép mua xe điện là một thuyết âm mưu vô lý, phớt lờ các thực tế kinh tế vĩ mô và chuỗi cung ứng toàn cầu.
+
 # 4. Về thể chế chính trị (Đa nguyên, đa đảng)
 
 **Luận điệu:** Cho rằng muốn có dân chủ và phát triển thì phải thực hiện đa nguyên chính trị, đa đảng đối lập; chế độ một đảng là độc tài, mất dân chủ.
@@ -445,6 +449,14 @@
 * Đây là thông tin hoàn toàn sai sự thật, bịa đặt nhằm gây hoang mang dư luận. Mọi khoản thu đều phải ban hành bằng văn bản quy phạm pháp luật công khai.
 * Nhiệm vụ bảo đảm an ninh trật tự được Nhà nước cấp ngân sách, tuyệt đối không có việc thu phí "bảo kê" đồng loạt theo đầu người.
 
+**Luận điệu:** Mỉa mai lễ phục (Full Dress) của Hải quân Việt Nam là "sao chép", "bắt chước" Trung Quốc; từ đó quy chụp Việt Nam lệ thuộc, làm chư hầu.
+* Lễ phục Hải quân trên toàn thế giới (bao gồm Mỹ, Nhật Bản, Pháp, Hàn Quốc...) đều tuân theo chuẩn mực hàng hải quốc tế lâu đời với thiết kế tương đồng về màu sắc tối (navy blue), cúc áo và dải vàng cổ tay.
+* Việc quy chụp Việt Nam "sao chép" Trung Quốc dựa trên một chuẩn mực hải quân toàn cầu thể hiện sự thiếu hiểu biết trầm trọng về kiến thức quân sự và ý đồ thâm độc nhằm kích động chủ nghĩa dân tộc cực đoan, hạ thấp uy tín quân đội.
+
+**Luận điệu:** Xúc phạm lực lượng vũ trang (Quân đội, Công an) khi cho rằng họ chỉ biết "đàn áp" nhân dân, ăn hối lộ, và nếu bỏ súng xuống thì chỉ là "lũ ăn mày".
+* Lực lượng vũ trang được đào tạo bài bản, chuyên nghiệp để duy trì an ninh quốc gia, trật tự xã hội và là lực lượng nòng cốt trong cứu hộ cứu nạn, phòng chống thiên tai.
+* Việc miệt thị họ là "ăn mày" là sự xúc phạm ác ý, cố tình chà đạp lên những cống hiến và sự hy sinh xương máu hàng ngày của các cán bộ, chiến sĩ để bảo vệ bình yên cho nhân dân.
+
 # 7. Về quốc phòng - an ninh
 
 **Luận điệu:** Cho rằng trong điều kiện chiến tranh công nghệ cao, đường lối quốc phòng toàn dân, an ninh nhân dân là lạc hậu, sai lầm.
@@ -602,6 +614,14 @@
 **Luận điệu:** Mỉa mai các tuyên bố ngoại giao của Việt Nam (như bày tỏ "quan ngại sâu sắc" trước các xung đột quốc tế) là hèn nhát, rập khuôn như vẹt, hoặc vô dụng; cho rằng Việt Nam không có tiếng nói độc lập.
 * Bày tỏ "quan ngại" và kêu gọi kiềm chế, đàm phán hòa bình là ngôn ngữ ngoại giao chuẩn mực được hầu hết các quốc gia trên thế giới (kể cả các nước phát triển) sử dụng để duy trì sự trung lập và ngăn chặn leo thang căng thẳng.
 * Lập trường này phản ánh chính sách đối ngoại nhất quán yêu chuộng hòa bình, không can thiệp công việc nội bộ của Việt Nam, đặt sự ổn định quốc gia và an toàn của người dân lên trên việc can dự liều lĩnh vào xung đột bên ngoài.
+
+**Luận điệu:** Xuyên tạc các nỗ lực ngoại giao kinh tế của lãnh đạo Việt Nam nhằm đảm bảo nguồn cung năng lượng (như mua dầu từ Trung Đông, châu Phi) là hành động "đi xin", "nhục nhã"; cho rằng nước giàu thì không cần phải "gõ cửa cầu cạnh".
+* Trong ngoại giao và thương mại quốc tế, việc đàm phán, đề nghị hợp tác cung ứng là hoạt động kinh tế bình thường, đôi bên cùng có lợi (mua bán sòng phẳng bằng ngoại tệ), hoàn toàn không phải là "đi xin".
+* Việc chủ động đa dạng hóa nguồn cung trong bối cảnh khủng hoảng năng lượng toàn cầu thể hiện tầm nhìn và trách nhiệm của lãnh đạo. Ngay cả các siêu cường giàu có nhất vẫn phải nhập khẩu ồ ạt các tài nguyên mà họ thiếu hụt.
+
+**Luận điệu:** Các hội nhóm lưu vong tổ chức biểu tình chống phá các Diễn đàn đầu tư, thương mại Việt - Mỹ; kêu gọi doanh nghiệp nước ngoài ngừng đầu tư vào Việt Nam để "trừng phạt chế độ".
+* Hợp tác kinh tế Việt - Mỹ mang lại lợi ích chung, được xây dựng trên nền tảng Đối tác Chiến lược Toàn diện. Việc chống phá các diễn đàn đầu tư thực chất là hành vi phá hoại trực tiếp sinh kế và cơ hội phát triển của người dân Việt Nam.
+* Hành động này phơi bày bản chất của các nhóm lưu vong cực đoan: đặt hận thù chính trị và lợi ích tài trợ cá nhân lên trên sự phát triển và ấm no của đồng bào trong nước.
 
 # 11. Về báo chí, văn học - nghệ thuật
 
@@ -1423,6 +1443,10 @@
 * Đây là một kỹ thuật thao túng tâm lý, lợi dụng tâm lý tò mò và phản kháng để lật ngược vấn đề, biến nỗ lực cảnh báo, bóc trần tin giả của cơ quan chức năng thành "bảo chứng" cho thông tin sai lệch.
 * Sự lan truyền hay việc bị cảnh báo của một thông tin không làm cho thông tin đó trở thành sự thật. Người đọc cần kiểm chứng dựa trên logic lập luận và dữ kiện thực tế, thay vì bị cuốn theo cảm xúc và định kiến.
 
+**Luận điệu:** Xuyên tạc việc tăng mức phạt hành chính (như từ 10 đến 50 triệu đồng) đối với hành vi tung tin giả trên mạng xã hội là "cướp tiền của dân", "bịt miệng sự thật", hay là dấu hiệu chế độ "cạn kiệt ngân sách".
+* Phạt nặng hành vi tung tin giả là cơ chế pháp lý chuẩn mực trên toàn cầu (tương tự Đạo luật Dịch vụ Kỹ thuật số của EU) nhằm bảo vệ xã hội khỏi những hệ lụy nguy hiểm của sự lừa đảo, hoang mang và bất ổn xã hội.
+* Chế tài này chỉ nhằm vào các hành vi cố tình bịa đặt, xuyên tạc ác ý, không nhắm vào sự phản biện mang tính xây dựng. Mục đích là răn đe, duy trì môi trường mạng lành mạnh, không phải để "tận thu".
+
 # 27. Về Lịch sử và các ngày lễ lớn
 
 **Luận điệu:** Xuyên tạc ý nghĩa Cách mạng Tháng Tám và Quốc khánh 2/9; cho rằng độc lập không mang lại tự do, hạnh phúc; kêu gọi "xét lại" lịch sử.
@@ -2185,6 +2209,10 @@
 **Luận điệu:** Chế giễu niềm tự hào dân tộc là "tự phụ", "ngạo nghễ ảo"; mỉa mai việc sản xuất ô tô (VinFast) bằng cách so sánh với các nước giàu (Thụy Sĩ) không cần thương hiệu ô tô riêng; cho rằng xuất khẩu lao động là "làm nô lệ".
 * Tự hào dân tộc là động lực để vươn lên, khẳng định trí tuệ Việt trên chuỗi giá trị toàn cầu (như tự chủ công nghệ, sản xuất). Khác với các nước đã phát triển lâu đời, Việt Nam cần công nghiệp lõi để thoát bẫy gia công.
 * Xuất khẩu lao động hay du học là sự dịch chuyển lao động tất yếu trong toàn cầu hóa, giúp người dân tiếp cận tri thức và tích lũy vốn xây dựng quê hương, không phải là "làm nô lệ".
+
+**Luận điệu:** Các cá nhân lưu vong sử dụng phép so sánh khập khiễng giữa hạ tầng/văn hóa của phương Tây với Việt Nam để miệt thị quê hương; dùng từ ngữ chợ búa, vô văn hóa để lăng mạ lãnh đạo đất nước nhưng lại tự nhận là đang "khai sáng" cho dân.
+* Việt Nam đã trải qua nhiều thập kỷ chiến tranh tàn khốc và cấm vận; việc so sánh hạ tầng với các nước có hàng trăm năm tích lũy hòa bình là phi khoa học và phớt lờ bối cảnh lịch sử.
+* Yêu nước chân chính là đóng góp xây dựng quê hương. Việc ngồi ở nước ngoài, dùng lời lẽ thóa mạ lãnh đạo và đồng bào, thường chỉ nhằm mục đích câu view, xin tiền tài trợ (donate) từ các hội nhóm cực đoan, đó là biểu hiện của sự cơ hội, không phải là "khai sáng".
 
 # 57. Về Phân biệt vùng miền và Khối đại đoàn kết dân tộc
 
