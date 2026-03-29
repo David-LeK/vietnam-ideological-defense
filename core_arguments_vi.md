@@ -267,6 +267,26 @@
 * Giá xăng dầu liên thông toàn cầu và chịu tác động mạnh bởi các xung đột địa chính trị (như Trung Đông, Nga - Ukraine). Biến động giá tại Việt Nam phản ánh quy luật thị trường thế giới, không phải do thể chế chính trị; ngay cả các cường quốc dầu mỏ cũng gặp tình trạng giá cả leo thang.
 * Việc quy chụp tăng giá xăng để ép mua xe điện là một thuyết âm mưu vô lý, phớt lờ các thực tế kinh tế vĩ mô và chuỗi cung ứng toàn cầu.
 
+**Luận điệu:** Cho rằng việc so sánh giá xăng dầu với các nước lân cận là vô nghĩa nếu không so sánh mức thu nhập bình quân hoặc lương theo giờ; khẳng định so với thu nhập thì giá xăng Việt Nam vẫn đắt đỏ.
+* Xăng dầu là mặt hàng thiết yếu nhập khẩu theo giá thị trường thế giới, không được định giá dựa trên GDP hay thu nhập bình quân của một quốc gia. Do đó, việc duy trì mức giá bán lẻ tuyệt đối thấp hơn các nước có điều kiện kinh tế tương đồng hoặc cao hơn là nỗ lực rất lớn của công tác điều hành.
+* Nhà nước đã chủ động sử dụng Quỹ Bình ổn giá và giảm các loại thuế, phí (thuế bảo vệ môi trường, thuế nhập khẩu về 0%) để gánh chịu cú sốc giá thế giới thay cho người dân, trực tiếp bảo vệ sức mua của mọi tầng lớp thu nhập.
+* So sánh giá tuyệt đối để thấy hiệu quả của việc kiểm soát lạm phát vĩ mô. Ở các nước thu nhập cao nhưng không có cơ chế bình ổn hoặc trợ giá (như Singapore), người dân phải chịu trực tiếp cú sốc giá thế giới.
+* Việc so sánh đơn thuần giữa giá xăng và lương theo giờ là phiến diện nếu không đặt trong bức tranh **chi phí sinh hoạt tổng thể** (cost of living). Tại Việt Nam, các dịch vụ thiết yếu như y tế, giáo dục, thực phẩm và tiện ích công cộng đều có mặt bằng giá thấp hơn đáng kể so với các nước trong khu vực và phương Tây. Hơn nữa, thói quen tiêu dùng và phương tiện di chuyển cũng tạo ra sự khác biệt lớn: ở các nước phát triển (như Mỹ), dù tỷ lệ giá xăng trên thu nhập có thể thấp hơn, nhưng người dân chủ yếu sử dụng ô tô với quãng đường di chuyển xa, đòi hỏi lượng tiêu thụ nhiên liệu khổng lồ và phải đổ xăng thường xuyên. Trong khi đó, tại Việt Nam, phương tiện chủ yếu là xe máy với mức tiêu hao nhiên liệu rất thấp (đổ đầy bình với chi phí nhỏ có thể sử dụng cả tuần). Do đó, tỷ trọng chi phí xăng dầu trên tổng chi tiêu sinh hoạt của người Việt Nam vẫn được duy trì ở mức hợp lý và không tạo ra gánh nặng quá mức như cách lập luận xuyên tạc.
+
+**Luận điệu:** Lập luận rằng vì Việt Nam có mỏ dầu và xuất khẩu dầu thô nên giá xăng trong nước đương nhiên phải rẻ; cho rằng việc so sánh Việt Nam với các nước không có mỏ dầu là khập khiễng.
+* Việt Nam khai thác dầu thô nhưng vẫn phải nhập khẩu một lượng lớn xăng dầu thành phẩm để đáp ứng nhu cầu trong nước, vì các nhà máy lọc hóa dầu nội địa chưa đáp ứng được 100% sản lượng tiêu thụ quốc gia.
+* Giá dầu thô khai thác trong nước vẫn được định giá liên thông với thị trường quốc tế. Ngay cả các cường quốc xuất khẩu dầu mỏ cũng chịu tác động của biến động giá năng lượng toàn cầu.
+* Chính sự điều hành chủ động của Nhà nước (giảm thuế, xả Quỹ bình ổn, đa dạng nguồn cung), chứ không chỉ dựa vào tài nguyên thiên nhiên, mới đảm bảo được giá bán lẻ thấp và nguồn cung ổn định trong các đợt khủng hoảng địa chính trị.
+
+**Luận điệu:** Cho rằng sự chênh lệch giá xăng chỉ là do tỷ giá hối đoái hoặc do mệnh giá tiền đồng (VNĐ) thấp, từ đó phủ nhận ý nghĩa của việc so sánh giá.
+* Các so sánh được thực hiện bằng cách quy đổi giá xăng nước ngoài sang VNĐ theo tỷ giá hối đoái chính thức và khách quan. Mệnh giá của đồng tiền không làm thay đổi giá trị kinh tế thực tế của mặt hàng đó khi quy đổi.
+* Mức giá tuyệt đối thấp hơn tại Việt Nam là kết quả thực tế từ chính sách miễn giảm thuế và Quỹ Bình ổn giá, không phải là ảo ảnh thống kê do tỷ giá tạo ra.
+
+**Luận điệu:** Rêu rao rằng các bài báo ca ngợi giá xăng thấp chỉ là "dọn đường dư luận" để chuẩn bị tăng giá ngay sau đó; quy chụp mọi thông tin tích cực về bình ổn giá đều là lừa dối.
+* Giá xăng dầu tại Việt Nam được điều chỉnh theo chu kỳ dựa trên diễn biến giá thị trường quốc tế và các quy định pháp luật minh bạch (như Nghị quyết 55/NQ-CP), không phải do "dọn đường truyền thông".
+* Việc xả Quỹ Bình ổn là cơ chế minh bạch nhằm kìm hãm đà tăng sốc của giá thế giới, bảo vệ người tiêu dùng, chứ không phải thủ đoạn thao túng tâm lý.
+* Mục đích công bố dữ liệu so sánh là để minh bạch hóa hiệu quả điều hành vĩ mô của Việt Nam trong bối cảnh khu vực biến động, không phải là cái cớ để tăng giá.
+
 # 4. Về thể chế chính trị (Đa nguyên, đa đảng)
 
 **Luận điệu:** Cho rằng muốn có dân chủ và phát triển thì phải thực hiện đa nguyên chính trị, đa đảng đối lập; chế độ một đảng là độc tài, mất dân chủ.

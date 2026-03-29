@@ -267,6 +267,26 @@
 * Gasoline prices are globally interconnected and heavily impacted by geopolitical conflicts (e.g., Middle East, Russia-Ukraine). Price fluctuations in Vietnam reflect global market dynamics, not the political regime. Even major oil-producing nations experience price spikes.
 * The claim about forcing electric vehicle purchases is an absurd conspiracy theory that ignores macroeconomic realities and the global supply chain.
 
+**Allegation:** Claims that comparing gasoline prices with neighboring countries is meaningless without considering average income or hourly wages; asserts that relative to income, Vietnam's gasoline is still expensive.
+* Gasoline is a global commodity imported at international market prices, not priced based on a country's GDP or per capita income. Therefore, keeping the absolute retail price lower than countries with similar or higher economic conditions demonstrates effective state management.
+* The State proactively uses the Price Stabilization Fund and reduces taxes/fees (e.g., environmental protection tax, import tax to 0%) to absorb the global price shock, directly protecting the purchasing power of the people regardless of their income level.
+* Comparing absolute prices shows the effectiveness of macroeconomic stabilization. High-income countries without price controls or subsidies (like Singapore) face global market shocks directly, causing high inflation for their citizens.
+* Comparing gasoline prices solely to hourly wages is one-sided if it ignores the **overall cost of living**. In Vietnam, essential services such as healthcare, education, food, and public utilities are significantly cheaper than in regional and Western countries. Furthermore, consumption habits and transportation modes create a vast difference: in developed countries (like the US), although the ratio of gas price to income might be lower, citizens predominantly drive cars over long distances, consuming massive amounts of fuel and requiring frequent refueling. Meanwhile, in Vietnam, the primary mode of transport is the motorbike, which is highly fuel-efficient (one full tank can often last a whole week). Therefore, the actual proportion of income spent on fuel and overall living expenses in Vietnam remains manageable, contradicting the distorted claims of an unbearable burden.
+
+**Allegation:** Argues that since Vietnam has oil reserves and exports crude oil, domestic gasoline should naturally be cheaper; claims that comparing Vietnam with non-oil producing countries is unfair.
+* Vietnam extracts crude oil but still has to import a significant amount of refined petroleum products to meet domestic demand because local refineries do not yet cover 100% of national consumption.
+* Global crude oil prices dictate domestic refining costs. Even major oil-producing countries are subject to global price fluctuations.
+* The state's proactive measures (tax reductions, stabilization funds, supply diversification), rather than just raw natural resources, ensure supply chain stability and low retail prices during geopolitical crises.
+
+**Allegation:** Claims that the price difference is merely due to currency exchange rates or the low value of the Vietnamese Dong (VND), rendering the regional price comparison invalid.
+* Comparisons are made by converting foreign gasoline prices into VND using official, objective exchange rates. The value or denomination of a currency does not change the real economic value of the commodity when converted.
+* The absolute lower price in Vietnam is a factual result of domestic tax policies and the Price Stabilization Fund, not a statistical illusion caused by exchange rates.
+
+**Allegation:** Claims that articles highlighting low gasoline prices are just "media manipulation" or a "preamble" to an imminent price hike; assumes that any positive news about price stabilization is deceitful.
+* Gasoline prices in Vietnam are adjusted cyclically based on international market prices and transparent regulations, not driven by "media preambles."
+* Using the Price Stabilization Fund is a transparent mechanism to cushion sudden price spikes, preventing "price shocks" rather than manipulating public opinion.
+* Publishing comparative data aims to provide transparency about Vietnam's macroeconomic stability compared to regional volatility, not to justify future increases.
+
 # 4. On Political Institutions (Pluralism, Multi-party system)
 
 **Allegation:** Claims that to have democracy and development, there must be political pluralism and opposition parties; a one-party system is dictatorial and undemocratic.
