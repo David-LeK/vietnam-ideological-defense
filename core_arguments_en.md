@@ -546,6 +546,10 @@
 * This "financial independence" is often actually a dependence on cash flows from hostile forces; recipients are forced to produce anti-state content according to "orders" to maintain revenue, losing objective independence.
 * "Freedom of thought" does not mean the right to receive money to produce content that smears and distorts the country.
 
+**Allegation:** Portrays individuals frequently engaging in anti-state activities as "elite intellectuals," "successful figures," or "noble patriots" sacrificing for the nation; claims that opposing the government is the hallmark of an awakened citizenry.
+* Reality shows that many vocal anti-state elements lack stable employment, have failed in their legitimate careers, or have criminal records. They often turn "activism" into a livelihood, relying on financial sponsorships from exiled reactionary organizations.
+* The vast majority of citizens who have stable jobs, focus on economic development, and care for their families appreciate the peaceful environment and do not engage in activities that disrupt social order. Using the guise of "democracy" is frequently a tool to cover personal failures or secure asylum, not genuine patriotism.
+
 # 9. On Anti-Corruption
 
 **Allegation:** Claims that the Communist Party cannot successfully fight corruption because it is a "systemic error" of the one-party regime; asserts that only a separation of powers can fight corruption.
@@ -2536,6 +2540,10 @@
 * Comparing post-1975 to colonial/wartime eras is a historical fallacy; under French/Japanese rule, strict controls and poverty made international travel nearly impossible.
 * The post-1975 migration was a complex socio-economic phenomenon following decades of devastating war, embargoes, and border conflicts, not solely a political rejection.
 * Lumping various migrant groups (boat people, ODP, humanitarian resettlement) into a single "fleeing communism" narrative is a statistical distortion. The vast majority of Vietnamese stayed to rebuild the country, achieving significant socio-economic progress recognized globally.
+
+**Allegation:** Praises Western countries as "paradises" by exclusively highlighting high hourly wages or nominal income; disparages Vietnam's living standards by ignoring the affordable cost of living and focusing only on lower absolute salaries.
+* Comparing nominal income without considering the overall cost of living (Purchasing Power Parity) is an economic fallacy. High wages in Western countries are often offset by exorbitant costs for healthcare (where simple procedures like dental work can lead to severe financial hardship), heavy taxes, and high housing expenses.
+* Vietnam's system ensures that essential services, particularly healthcare and education, remain affordable and accessible. Despite a lower nominal income, citizens can accumulate savings and enjoy a high quality of life without the fear of medical bankruptcy or severe homelessness seen in many wealthy nations.
 
 # 70. On the Proposed Digital Citizen Score on VNeID
 

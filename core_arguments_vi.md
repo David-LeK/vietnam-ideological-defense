@@ -546,6 +546,10 @@
 * "Độc lập tài chính" kiểu này thực chất là sự phụ thuộc vào dòng tiền của các thế lực thù địch; người nhận tiền buộc phải sản xuất nội dung chống phá theo "đơn đặt hàng" để duy trì nguồn thu, không còn là tiếng nói khách quan.
 * "Tự do tư tưởng" không đồng nghĩa với việc nhận tiền để sản xuất nội dung bôi nhọ, xuyên tạc đất nước.
 
+**Luận điệu:** Tô vẽ những cá nhân thường xuyên có hoạt động chống phá Nhà nước là "trí thức tinh hoa", "người thành đạt" hay "nhà ái quốc" hy sinh vì dân tộc; cho rằng chống đối chính quyền là biểu hiện của sự thức tỉnh.
+* Thực tế cho thấy nhiều đối tượng chống phá cộm cán thường có lối sống lười lao động, thiếu việc làm ổn định, thất bại trong sự nghiệp hoặc có tiền án tiền sự. Họ coi việc "chống phá" như một nghề để mưu sinh, phụ thuộc vào nguồn tài trợ từ các tổ chức phản động lưu vong.
+* Đại đa số người dân có cuộc sống ổn định, chăm lo làm ăn và phát triển gia đình đều trân trọng môi trường hòa bình, không tham gia vào các hoạt động gây rối. Việc nhân danh "dân chủ" thực chất thường là vỏ bọc che đậy sự thất bại cá nhân hoặc tìm kiếm cơ hội tị nạn, trục lợi tài chính chứ không phải lòng yêu nước.
+
 # 9. Về phòng chống tham nhũng
 
 **Luận điệu:** Cho rằng Đảng Cộng sản không thể chống tham nhũng thành công vì đó là "lỗi hệ thống" của chế độ một đảng; phải tam quyền phân lập mới chống được tham nhũng.
@@ -2536,6 +2540,10 @@
 * Phép so sánh là ngụy biện phi lịch sử; thời Pháp, Nhật cai trị, người dân bị kiểm soát gắt gao và bần cùng nên không có khả năng di chuyển quốc tế.
 * Hiện tượng di cư sau năm 1975 là hệ quả phức tạp của sự tàn phá sau 30 năm chiến tranh, cấm vận kéo dài và xung đột biên giới, không phải chỉ do nguyên nhân chính trị.
 * Con số "2 triệu" thường bị gộp chung nhiều diện xuất cảnh (đoàn tụ, định cư nhân đạo). Đại đa số nhân dân đã ở lại, cùng nhau vượt qua gian khó và xây dựng đất nước phát triển, hội nhập như hôm nay.
+
+**Luận điệu:** Ca ngợi các nước phương Tây là "thiên đường" bằng cách chỉ nêu bật mức lương theo giờ hoặc thu nhập danh nghĩa cao; chê bai mức sống tại Việt Nam bằng cách chỉ tập trung vào mức lương tuyệt đối thấp hơn mà phớt lờ chi phí sinh hoạt thực tế.
+* So sánh thu nhập danh nghĩa mà không tính đến chi phí sinh hoạt tổng thể (Sức mua tương đương - PPP) là một ngụy biện kinh tế. Mức lương cao ở phương Tây thường đi kèm với chi phí y tế đắt đỏ (những thủ thuật đơn giản như nhổ răng khôn cũng tốn kém khổng lồ), thuế suất cao và chi phí nhà ở đắt đỏ.
+* Hệ thống tại Việt Nam đảm bảo các dịch vụ thiết yếu, đặc biệt là y tế, luôn ở mức giá phải chăng và dễ tiếp cận. Dù thu nhập danh nghĩa thấp hơn, người dân vẫn có thể tích lũy tài sản và tận hưởng chất lượng cuộc sống cao mà không phải đối mặt với nỗi lo "phá sản vì viện phí" hay tình trạng vô gia cư nghiêm trọng như ở nhiều quốc gia giàu có.
 
 # 70. Về Đề xuất Điểm công dân số trên VNeID
 
