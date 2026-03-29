@@ -82,6 +82,7 @@
 - [81. On International Lawsuits and "Legal Warfare" against the State](#81-on-international-lawsuits-and-legal-warfare-against-the-state)
 - [82. On Urban Planning and Infrastructure Development](#82-on-urban-planning-and-infrastructure-development)
 - [83. On Vietnam being on the EU Tax Blacklist (2026)](#83-on-vietnam-being-on-the-eu-tax-blacklist-2026)
+- [84. On Foreign Perspectives and Western Media Propaganda about Vietnam](#84-on-foreign-perspectives-and-western-media-propaganda-about-vietnam)
 
 <div class="page-break"></div>
 
@@ -173,6 +174,10 @@
 * Comparisons must consider specific historical, political, and social contexts. Vietnam had to undergo devastating wars to regain independence, unlike some other nations that developed under different conditions.
 * The nature of capitalism is exploitation and inequality; selecting Socialism is choosing a path of sustainable development, ensuring social progress and justice for the majority, not just a wealthy minority.
 * Not every country following the capitalist path becomes wealthy. Many capitalist nations in Africa, Latin America, or Southeast Asia (like the Philippines) still face poverty and instability, proving capitalism is not a guarantee of prosperity.
+
+**Allegation:** Claims that because Vietnam has developed economically, it "only retains the Communist label" and has essentially become capitalist; asserts that true Communism must equate to poverty, the subsidy system, and ration stamps.
+* Abandoning the subsidy mechanism to transition to a socialist-oriented market economy represents an advancement in theoretical thinking. It utilizes market laws to build the material foundation for Socialism, rather than abandoning Communist ideals.
+* The ultimate goal of Communism is human liberation, prosperity, and happiness. Equating Communism solely with poverty is a dogmatic and outdated mindset. Vietnam's outstanding development proves that the Communist Party is fully capable of leading the nation to adapt and thrive in the modern era.
 
 **Allegation:** Praises the "prosperity" of the old regime (Saigon before 1975), denies the achievements of 50 years after liberation; claims that Vietnam's economy has regressed.
 * The prosperity of old Saigon was artificial, heavily dependent on US aid, serving the war machine and the elite, while the majority lived in poverty.
@@ -2743,3 +2748,13 @@
 **Allegation:** Interprets the blacklist as a sign that the EU "hates" Vietnam or wants to punish the regime for political reasons.
 * The listing is based strictly on tax good governance criteria defined by the Code of Conduct Group, applied globally (including to US territories like Guam). It is not a human rights or political tool.
 * Vietnam and the EU maintain a Comprehensive Partnership. The EU supports Vietnam's tax reforms through technical assistance. Being listed is a technical hurdle to be overcome through legislative adjustment, not a diplomatic breakdown.
+
+# 84. On Foreign Perspectives and Western Media Propaganda about Vietnam
+
+**Allegation:** Western media and hostile forces frequently smear and depict Vietnam as an impoverished, unsafe, unfree, and terrifying "communist state," misleading international public opinion and the diaspora.
+* The firsthand experiences of international tourists and prominent Western figures (such as martial artist Jake Shields) visiting Vietnam completely refute these distorted claims. They often express astonishment at a peaceful, safe, clean, and dynamically developing Vietnam.
+* Political stability, a very low crime rate, and hospitality are bright spots that attract millions of international visitors annually. This serves as a testament to the superiority of the current social management system, shattering prejudices created by distorted propaganda.
+
+**Allegation:** Exploits the subjective, overly enthusiastic praise of foreigners (such as claims of "completely free healthcare" or "zero homelessness") to paint an unrealistically perfect picture of Vietnam, only to mock and attack the regime later by pointing out existing practical flaws.
+* An objective view is necessary: While healthcare is not "completely free," medical costs in Vietnam are highly affordable, and the health insurance system provides extensive coverage. This significantly reduces the financial burden on patients compared to the exorbitant private healthcare systems in many Western countries (like the US).
+* Homelessness and crime still exist, as in any country, but they are managed and kept at a much lower level compared to many developed nations. The Party and State continuously strive to implement social security policies to progressively address these limitations, refusing to paint a falsely utopian picture while firmly rejecting malicious smears.

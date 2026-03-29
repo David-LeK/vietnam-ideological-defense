@@ -82,6 +82,7 @@
 - [81. Về các vụ kiện quốc tế và "Chiến tranh pháp lý" chống lại Nhà nước](#81-về-các-vụ-kiện-quốc-tế-và-chiến-tranh-pháp-lý-chống-lại-nhà-nước)
 - [82. Về Quy hoạch đô thị và Phát triển hạ tầng](#82-về-quy-hoạch-đô-thị-và-phát-triển-hạ-tầng)
 - [83. Về việc Việt Nam nằm trong Danh sách đen về thuế của EU (2026)](#83-về-việc-việt-nam-nằm-trong-danh-sách-đen-về-thuế-của-eu-2026)
+- [84. Về Góc nhìn của người nước ngoài và Truyền thông phương Tây đối với Việt Nam](#84-về-góc-nhìn-của-người-nước-ngoài-và-truyền-thông-phương-tây-đối-với-việt-nam)
 
 <div class="page-break"></div>
 
@@ -173,6 +174,10 @@
 * Sự so sánh khập khiễng khi bỏ qua bối cảnh lịch sử, xuất phát điểm và hậu quả chiến tranh tàn khốc mà Việt Nam phải gánh chịu.
 * Bản chất của CNTB chứa đựng bất công, phân hóa giàu nghèo sâu sắc và khủng hoảng chu kỳ; con đường XHCN hướng tới sự phát triển bền vững, hài hòa và công bằng cho đa số nhân dân.
 * Không phải cứ đi theo con đường tư bản chủ nghĩa là sẽ giàu có. Thực tế nhiều quốc gia tư bản ở Châu Phi, Mỹ Latinh hay ngay tại Đông Nam Á (như Philippines) vẫn đang đối mặt với nghèo đói và bất ổn, chứng tỏ CNTB không phải là "cây đũa thần".
+
+**Luận điệu:** Cho rằng Việt Nam hiện nay đã phát triển kinh tế nên "chỉ còn cái mác Cộng sản", thực chất là đã đi theo tư bản chủ nghĩa; quy chụp rằng Chủ nghĩa Cộng sản thực sự thì phải đồng nghĩa với nghèo đói, bao cấp và tem phiếu.
+* Việc từ bỏ cơ chế bao cấp để chuyển sang nền kinh tế thị trường định hướng XHCN là bước phát triển về tư duy lý luận, mượn các quy luật thị trường để xây dựng cơ sở vật chất cho CNXH, không phải là từ bỏ lý tưởng Cộng sản.
+* Mục tiêu tối thượng của Chủ nghĩa Cộng sản là giải phóng con người, mang lại sự ấm no, hạnh phúc và phồn vinh. Việc quy chụp Cộng sản gắn liền với sự nghèo đói là tư duy giáo điều, lạc hậu. Sự phát triển vượt bậc của Việt Nam chứng minh Đảng Cộng sản hoàn toàn có năng lực lãnh đạo đất nước thích ứng và vươn mình trong kỷ nguyên hiện đại.
 
 **Luận điệu:** Ca ngợi sự "phồn hoa" của Sài Gòn trước năm 1975, phủ nhận thành quả 50 năm sau giải phóng; cho rằng kinh tế Việt Nam thụt lùi.
 * Sự phồn hoa của Sài Gòn cũ là giả tạo, phụ thuộc vào viện trợ Mỹ (nền kinh tế phụ thuộc), phục vụ bộ máy chiến tranh và giới thượng lưu, trong khi đa số người dân lao động nghèo khổ.
@@ -2743,3 +2748,13 @@
 **Luận điệu:** Suy diễn EU đưa Việt Nam vào danh sách đen là để "ép buộc chính trị", "dân chủ nhân quyền"; cho rằng phương Tây đang trừng phạt chế độ.
 * Danh sách của EU dựa trên các tiêu chí quản trị thuế kỹ thuật (minh bạch, công bằng, chống xói mòn cơ sở thuế) áp dụng cho toàn cầu, bao gồm cả các vùng lãnh thổ của Mỹ (như Guam, US Virgin Islands), không phải công cụ chính trị.
 * EU và Việt Nam đang duy trì quan hệ hợp tác tốt đẹp; EU hỗ trợ kỹ thuật để Việt Nam cải cách thuế. Việc bị liệt kê là vấn đề kỹ thuật cần giải quyết qua đối thoại và hoàn thiện luật pháp, không phải là sự thù địch ngoại giao.
+
+# 84. Về Góc nhìn của người nước ngoài và Truyền thông phương Tây đối với Việt Nam
+
+**Luận điệu:** Truyền thông phương Tây và các thế lực thù địch thường xuyên bôi nhọ, phác họa Việt Nam là một quốc gia nghèo đói, kém an toàn, mất tự do và là "nỗi kinh hoàng"; khiến dư luận quốc tế và kiều bào hiểu sai lệch về đất nước.
+* Trải nghiệm thực tế của du khách quốc tế và các nhân vật nổi tiếng phương Tây (như võ sĩ Jake Shields) khi đến Việt Nam đã bác bỏ hoàn toàn các luận điệu xuyên tạc này. Họ thường bày tỏ sự ngạc nhiên trước một Việt Nam hòa bình, an toàn, sạch đẹp và phát triển năng động.
+* Sự ổn định chính trị, tỷ lệ tội phạm thấp và sự hiếu khách của Việt Nam là những điểm sáng thu hút hàng triệu du khách quốc tế mỗi năm, minh chứng cho sự ưu việt của chế độ quản lý xã hội hiện tại, đập tan định kiến do tuyên truyền xuyên tạc tạo ra.
+
+**Luận điệu:** Lợi dụng những lời khen ngợi mang tính cảm nhận cá nhân của người nước ngoài (như "y tế hoàn toàn miễn phí", "không có người vô gia cư") để tạo ra một hình ảnh Việt Nam hoàn hảo phi thực tế, từ đó quay lại mỉa mai, công kích chế độ khi chỉ ra những hạn chế thực tế.
+* Cần nhìn nhận khách quan: Dù không "hoàn toàn miễn phí", nhưng chi phí y tế tại Việt Nam rất rẻ và hệ thống bảo hiểm y tế có độ bao phủ rộng, giảm tải gánh nặng lớn cho người bệnh so với hệ thống y tế tư nhân đắt đỏ tại nhiều nước phương Tây (như Mỹ).
+* Tình trạng vô gia cư và tội phạm vẫn tồn tại như bất kỳ quốc gia nào, nhưng được kiểm soát ở mức rất thấp so với nhiều nước phát triển. Đảng và Nhà nước luôn nỗ lực thực hiện các chính sách an sinh xã hội để từng bước khắc phục những hạn chế này, không tô hồng hiện thực nhưng cũng không chấp nhận việc bôi đen.
