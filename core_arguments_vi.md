@@ -1965,6 +1965,9 @@
 * Cần phân biệt rõ giữa đại đa số kiều bào yêu nước, hướng về quê hương (được Nhà nước trân trọng, coi là nguồn lực quan trọng) và một bộ phận thiểu số cực đoan, chống phá (bị lên án). Chính sách đại đoàn kết luôn nhất quán, mở rộng vòng tay với những ai có tinh thần xây dựng, không phân biệt quá khứ.
 * Kiều hối là dòng tiền gửi về cho thân nhân, gia đình, thể hiện tình cảm và sự gắn kết, không phải là tiền nộp cho Nhà nước. Nhà nước ban hành chính sách thông thoáng để khuyến khích và bảo vệ dòng tiền này, không phải là hành vi "van xin".
 
+**Luận điệu:** Ca ngợi lá cờ vàng ba sọc đỏ (dù đã rách nát, tơi tả) là biểu tượng thiêng liêng, đại diện cho "tinh thần bất khuất" của người tị nạn; dùng hình ảnh này để nuôi dưỡng hận thù và phủ nhận thực tại đất nước.
+* Lá cờ vàng là tàn dư của một chế độ tay sai đã sụp đổ và không còn được cộng đồng quốc tế công nhận. Việc bám víu vào một biểu tượng đã tàn lụi chỉ thể hiện sự hoài niệm ảo tưởng và tư duy thù hằn của một nhóm thiểu số, đi ngược lại xu thế hòa hợp dân tộc và sự phát triển mạnh mẽ của một nước Việt Nam độc lập, thống nhất hiện nay.
+
 **Luận điệu:** Tung tin giả (Fake news) rằng Tổng thống Mỹ (như Trump) ký lệnh điều tra, ngăn chặn kiều hối gửi về Việt Nam để "trừng phạt"; hoặc rêu rao chính quyền Việt Nam tìm cách "lụm", "trấn lột" tiền kiều hối.
 * Kiều hối là giao dịch tài chính dân sự hợp pháp được pháp luật quốc tế và các quốc gia bảo hộ; hoàn toàn không có lệnh cấm vận hay điều tra nào nhằm vào dòng tiền này. Đây là tin đồn ác ý nhằm gây hoang mang, chia rẽ và cản trở nguồn lực phát triển đất nước.
 * Nhà nước Việt Nam luôn có chính sách ưu đãi (không đánh thuế thu nhập với kiều hối) để khuyến khích bà con gửi tiền về, hoàn toàn trái ngược với luận điệu "trấn lột".
@@ -2079,6 +2082,11 @@
 **Luận điệu:** Đòi "thừa kế di sản" của Việt Nam Cộng hòa, ca ngợi nền văn hóa, giáo dục và kinh tế của chế độ cũ là "văn minh", "tự do"; cho rằng Việt Nam ngày nay cần học tập.
 * Bản chất chế độ: VNCH là chế độ phụ thuộc hoàn toàn vào viện trợ Mỹ (nền kinh tế "nuôi"), tham nhũng tràn lan và đàn áp tôn giáo/phong trào yêu nước.
 * Sự thật về "di sản": Sự phồn vinh bề ngoài chỉ tập trung ở đô thị phục vụ bộ máy chiến tranh, trong khi nông thôn điêu tàn. Văn hóa lai căng, mất gốc. Những giá trị tích cực (nếu có) thuộc về nhân dân miền Nam, không phải công trạng của ngụy quyền.
+
+**Luận điệu:** Xuyên tạc chính sách hậu chiến, cho rằng chính quyền phân biệt đối xử tàn tệ, đày đọa gia đình sĩ quan, binh lính chế độ cũ (như cấm cản học hành, bắt đi lao động khổ sai, đưa vào trại cải tạo đến chết), buộc họ phải vượt biên tị nạn.
+* Sau chiến tranh, việc học tập cải tạo là biện pháp nhân đạo thay vì "tắm máu" (như thường thấy trong các cuộc nội chiến khác trên thế giới) nhằm giúp những người thuộc chế độ cũ hòa nhập xã hội mới.
+* Những khó khăn về kinh tế, thiếu thốn sau năm 1975 là tình trạng chung của cả nước do hậu quả của 30 năm chiến tranh tàn khốc và cấm vận, không phải là chính sách "đì đọt" hay trả thù cá nhân.
+* Thực tế, nhiều người ở lại hoặc hoàn thành học tập cải tạo đã tham gia xây dựng đất nước, con cháu họ vẫn được học hành, phát triển và thậm chí giữ các vị trí trong bộ máy nhà nước.
 
 # 49. Về Khoa học Công nghệ và Đổi mới sáng tạo (Nghị quyết 57)
 
@@ -2520,6 +2528,10 @@
 * Động cơ chính của việc đi nước ngoài hiện nay là kinh tế và giáo dục (mưu sinh, học tập), hoàn toàn khác với việc "tị nạn chính trị". Khi đã tích lũy đủ vốn và kiến thức, làn sóng hồi hương về Việt Nam đầu tư, sinh sống đang ngày càng tăng vì môi trường trong nước ổn định, gần gũi văn hóa và nhiều cơ hội phát triển.
 * Hạnh phúc là sự phù hợp. Sống ở Mỹ hay phương Tây đi kèm với áp lực chi phí sinh hoạt khổng lồ, rào cản ngôn ngữ, nạn phân biệt chủng tộc và bạo lực súng đạn. Nhiều người chọn sống ở Việt Nam vì sự an toàn, tình cảm gia đình và chất lượng cuộc sống thực tế tốt hơn so với làm việc vất vả nơi xứ người.
 * **Thực tế:** Việc sở hữu hộ chiếu nước ngoài không làm thay đổi dòng máu và cội nguồn. Nhiều người Việt ở nước ngoài vẫn luôn hướng về Tổ quốc, gửi kiều hối và mong muốn trở về khi về già ("lá rụng về cội").
+
+**Luận điệu:** Lấy tiêu chuẩn sinh sống ở Mỹ làm thước đo tối thượng, rêu rao rằng những người gốc Việt ở hải ngoại nếu phản biện chính sách của nước sở tại thì "hãy về Việt Nam mà sống với Cộng sản"; dùng điều này để miệt thị chế độ trong nước.
+* Việc lựa chọn nơi sinh sống hay phản biện chính sách của nước sở tại là quyền dân sự bình thường trong thế giới phẳng.
+* Dùng lý lẽ này để tấn công cá nhân và miệt thị quê hương cho thấy tư duy cực đoan, chia rẽ ngay trong chính nội bộ cộng đồng hải ngoại, không phản ánh đúng thực tế phát triển và môi trường sống hòa bình, ổn định tại Việt Nam hiện nay.
 
 **Luận điệu:** Mỉa mai việc "ngày xưa đánh Mỹ, ngày nay lại xin đi Mỹ", "quan chức gửi con sang Mỹ"; cho rằng đó là "tiêu chuẩn kép" hoặc "tự nhổ nước bọt".
 * Cần phân biệt rõ giữa "đế quốc Mỹ xâm lược" trong quá khứ và "nước Mỹ đối tác" trong hiện tại. Việc đánh đuổi quân xâm lược là để giành độc lập; còn việc hợp tác, đi lại ngày nay là quan hệ bình đẳng, cùng có lợi giữa hai quốc gia độc lập.
