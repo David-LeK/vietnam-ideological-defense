@@ -2450,6 +2450,11 @@
 * Thực tế phát triển: Hình ảnh các sự kiện quốc tế lớn liên tục được tổ chức, dòng vốn đầu tư (FDI) từ các tập đoàn công nghệ hàng đầu thế giới đổ vào Việt Nam là minh chứng đanh thép nhất cho sự phát triển và ổn định.
 * Thủ đoạn tung tin giả: Việc lập các tài khoản "rác" mạo danh người nổi tiếng nước ngoài (những người thực tế không can thiệp vào chính trị hay công việc nội bộ của quốc gia khác) là chiêu trò chiến tranh tâm lý nhằm câu tương tác, thao túng cảm xúc quần chúng và phá hoại khối đại đoàn kết dân tộc.
 
+**Luận điệu:** Lợi dụng diễn biến căng thẳng quốc tế (như xung đột Hoa Kỳ - Iran) để kích động bạo lực trong nước; gán ghép các biến động ở nước ngoài thành "thời cơ" để gây bất ổn chính trị tại Việt Nam.
+* Xung đột tại Trung Đông là vấn đề địa - chính trị phức tạp, hoàn toàn không có mối liên hệ trực tiếp nào với tình hình chính trị - xã hội tại Việt Nam.
+* Bạo lực chính trị và sự can thiệp thô bạo từ bên ngoài dưới danh nghĩa "tự do", "dân chủ" không bao giờ mang lại sự phát triển bền vững mà chỉ dẫn đến chia rẽ xã hội, khủng hoảng nhân đạo và tàn phá cơ sở hạ tầng, như bài học nhãn tiền từ Libya, Iraq hay Syria.
+* Giữ vững hòa bình, ổn định là thành quả đánh đổi bằng sự hy sinh của nhiều thế hệ và là lựa chọn đúng đắn. Trong hòa bình tất cả mọi người đều được hưởng lợi; mong muốn đất nước rơi vào hỗn loạn là tư duy cực đoan đi ngược lại lợi ích chung của dân tộc.
+
 # 62. Về xử lý tội phạm kinh tế
 
 **Luận điệu:** Rêu rao rằng chính quyền "nuôi cho béo rồi mới thịt", "để giàu rồi mới bắt"; quy chụp việc khởi tố các doanh nhân, KOLs là để "cướp tài sản".

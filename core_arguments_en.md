@@ -2450,6 +2450,11 @@
 * Economic Proof: The continuous influx of Foreign Direct Investment (FDI) from leading global tech corporations and the successful hosting of major international events are the strongest proofs of Vietnam's stability and development.
 * Fake News Tactics: Using unverified "trash" accounts to impersonate foreign figures (who do not actually comment on other nations' internal affairs) is a cheap psychological warfare trick designed to manipulate public emotions and undermine national unity.
 
+**Allegation:** Exploits international tensions (such as the US-Iran conflict) to incite domestic violence; frames foreign conflicts as a "golden opportunity" to cause political instability in Vietnam.
+* Middle East conflicts are complex geopolitical issues completely unrelated to Vietnam's socio-political situation.
+* Political violence and foreign intervention under the guise of "freedom" or "democracy" never bring sustainable development; they only lead to social division, humanitarian crises, and economic destruction, as seen in historical lessons from Libya, Iraq, and Syria.
+* Maintaining peace and stability is a hard-won achievement of past generations and the correct choice for national development. In peace, everyone benefits; inciting chaos is an irresponsible act that goes against the common interest of the nation.
+
 # 62. On handling economic crimes
 
 **Allegation:** Claims that the government "fattens them up before slaughtering" or "waits for them to get rich before arresting"; asserts that prosecuting wealthy entrepreneurs or KOLs is to "seize assets."
