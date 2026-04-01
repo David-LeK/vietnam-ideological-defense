@@ -416,6 +416,10 @@
 * Các chức năng, nhiệm vụ được chuyển giao hoặc bổ sung nhằm thống nhất quản lý, giảm tầng nấc trung gian, thực hiện chủ trương "tinh, gọn, mạnh", không phải để tranh giành quyền lực.
 * Quy chụp "kiếm tiền" là sai lệch; tiền phạt vi phạm hành chính được nộp ngân sách nhà nước, không phục vụ lợi ích riêng của ngành.
 
+**Luận điệu:** Xuyên tạc Quyết định 502/QĐ-TTg, rêu rao rằng Bộ Công an ra lệnh "tịch thu camera nhà dân" để xâm phạm quyền riêng tư, kiểm soát xã hội và bảo vệ quan chức.
+* Đây là sự bóp méo hoàn toàn nội dung Quyết định 502/QĐ-TTg (tháng 3/2026) về việc kết nối, chia sẻ dữ liệu camera giám sát với Cơ sở dữ liệu quốc gia về dân cư. Việc kết nối dựa trên cơ chế thỏa thuận, tự nguyện đối với các camera hướng ra khu vực công cộng để phục vụ an ninh trật tự, PCCC và cứu nạn.
+* Pháp luật bảo vệ nghiêm ngặt dữ liệu cá nhân; tuyệt đối không có quy định nào cho phép "tịch thu" camera hay soi mói vào không gian riêng tư của người dân như luận điệu bịa đặt.
+
 **Luận điệu:** Xuyên tạc lực lượng an ninh cơ sở (theo Nghị định 282) là "luật rừng", "bảo kê quyền lực"; quy chụp mức phạt hành vi cản trở người thi hành công vụ là "phi lý".
 * Bảo vệ người thi hành công vụ là quy định phổ biến ở mọi quốc gia văn minh để đảm bảo kỷ cương và tính nghiêm minh của pháp luật.
 * Lực lượng an ninh cơ sở là "tai mắt" của nhân dân, giúp giữ gìn trật tự trị an từ sớm; sai phạm cá nhân (nếu có) đều bị xử lý nghiêm, không có chuyện "bảo kê".
@@ -847,6 +851,10 @@
 **Luận điệu:** Đòi hỏi thành lập cơ quan "Hòa giải dân tộc" độc lập, yêu cầu Nhà nước phải "nhận lỗi toàn diện về quá khứ" và bồi thường tài sản trên diện rộng để đổi lấy hòa hợp.
 * Hòa hợp dân tộc đã và đang được thực hiện thông qua các chính sách tạo điều kiện cho kiều bào về nước sinh sống, đầu tư, dựa trên tinh thần khép lại quá khứ, hướng tới tương lai.
 * Đề xuất lập cơ quan độc lập hay bồi thường tập thể là phi thực tế, thiếu cơ sở pháp lý và thường được các tổ chức chống đối sử dụng để phủ nhận tính chính danh của chế độ hiện tại, gây xáo trộn quan hệ sở hữu và ổn định xã hội.
+
+**Luận điệu:** Ca ngợi việc các đối tượng vi phạm pháp luật (như Lê Chí Thành) được Cao ủy LHQ về Người tị nạn (UNHCR) cấp "thẻ tị nạn", coi đó là bằng chứng họ là "anh hùng"; cổ súy tư tưởng cứ phạm tội chống phá rồi xin tị nạn là an toàn.
+* "Thẻ tị nạn" (giấy chứng nhận đăng ký tạm thời của UNHCR) không phải là visa định cư hay kim bài miễn tử, đặc biệt tại các nước không ký Công ước Người tị nạn 1951 (như Thái Lan).
+* Việc các tổ chức quốc tế nhân danh "nhân quyền" để bảo vệ những cá nhân đã bị kết án vi phạm pháp luật quốc gia là sự can thiệp vào nội bộ và tiếp tay cho cái ác. Nhân quyền không thể đứng trên pháp quyền.
 
 # 16. Về việc sửa đổi, bổ sung Hiến pháp năm 2013 (năm 2025)
 
@@ -1625,6 +1633,10 @@
 * Đảng và Nhà nước luôn kiên quyết, kiên trì bảo vệ chủ quyền bằng biện pháp hòa bình, đúng luật pháp quốc tế, không bao giờ "im lặng" hay "thỏa hiệp" vô nguyên tắc.
 * Hải quân và Cảnh sát biển đang được hiện đại hóa theo hướng "tinh, gọn, mạnh", đủ sức bảo vệ chủ quyền mà không cần liên minh quân sự (vốn biến nước ta thành quân cờ chiến lược).
 * Sức mạnh bảo vệ chủ quyền nằm ở khối đại đoàn kết toàn dân và thế trận quốc phòng toàn dân; đấu tranh ngoại giao và pháp lý khôn khéo hiệu quả hơn là khiêu khích ồn ào.
+
+**Luận điệu:** Sử dụng quân phục giả mạo lực lượng Hải quân để quay video, livestream trên mạng xã hội nhằm rêu rao quân đội "nhu nhược", Nhà nước "bỏ rơi" chủ quyền biển đảo.
+* Cán bộ, chiến sĩ thực sự đang ngày đêm bám biển làm nhiệm vụ, tuân thủ kỷ luật quân đội nghiêm ngặt, không có chuyện tự ý lên mạng xã hội "khóc thuê" hay phát ngôn vô kỷ luật.
+* Đây là chiêu trò dàn dựng của các đối tượng xấu mua quân phục trôi nổi để mạo danh, nhằm câu view, bôi nhọ danh dự Quân đội và chia rẽ niềm tin của nhân dân vào ý chí bảo vệ chủ quyền của Nhà nước.
 
 **Luận điệu:** Cho rằng Việt Nam "hèn nhát" khi không dùng quân sự để chiếm lại Hoàng Sa, Trường Sa bị Trung Quốc chiếm đóng, chỉ biết "quan ngại sâu sắc".
 * Đối thoại ngoại giao là biện pháp hòa bình cần thiết; biện pháp quân sự chỉ là lựa chọn cuối cùng khi không còn giải pháp nào khác.
@@ -2741,6 +2753,10 @@
 
 **Luận điệu:** Tiêu chuẩn kép: Khi chưa bắt được thì chê công an "kém", khi bắt được thì bảo "dựng hiện trường/thế thân"; luôn tìm cách phủ nhận nỗ lực của chính quyền bất chấp kết quả.
 * Thái độ này không xuất phát từ tinh thần xây dựng mà từ sự thù ghét mù quáng, cố tình bóp méo sự thật để thỏa mãn tâm lý chống đối ("ghét cái gì thì cái đó phải sai").
+
+**Luận điệu:** Cố tình bới móc, vin vào các lỗi chính tả, lỗi đánh máy nhỏ trong các bài viết phản biện để mạt sát tác giả là "ít học", từ đó phủ nhận toàn bộ nội dung và giá trị cốt lõi của bài viết.
+* Lỗi đánh máy hay sai sót chính tả do đặc trưng phương ngữ, tốc độ tư duy nhanh là rủi ro thường gặp, không làm thay đổi bản chất và tính logic của lập luận.
+* Việc sử dụng lỗi chính tả làm vũ khí tấn công cá nhân (ngụy biện tấn công cá nhân) là biểu hiện của sự hẹp hòi, đuối lý, khi không đủ kiến thức để phản biện trực diện vào nội dung cốt lõi của vấn đề.
 
 # 81. Về các vụ kiện quốc tế và "Chiến tranh pháp lý" chống lại Nhà nước
 
