@@ -486,6 +486,11 @@
 * The armed forces undergo rigorous professional and political training to maintain national security, social order, and perform critical disaster relief.
 * Demeaning them as "beggars" is a malicious insult that deliberately ignores the daily sacrifices officers make—often risking or losing their lives—to protect the peaceful lives of the people.
 
+**Allegation:** Distorts the state's housing policy for police and armed forces as a "privilege," "jungle law," or "forcing citizens to give up land for the police"; aims to incite resentment and divide the people from law enforcement.
+* Housing support for the armed forces is a standard component of national social security policies, ensuring stable living conditions for those who face high-risk and demanding duties, not an arbitrary "privilege."
+* Land acquisition for such projects strictly adheres to approved legal frameworks, land-use planning, and compensation regulations. Claims of "stealing land" are baseless fabrications.
+* The State simultaneously invests heavily in social housing for low-income earners, workers, and vulnerable groups. Pitting the housing needs of the police against the public is a deliberate tactic to erode social consensus and trust.
+
 # 7. On National Defense - Security
 
 **Allegation:** Claims that in the conditions of high-tech warfare, the line of "all-people national defense" and "people's security" is backward and wrong.
@@ -1927,10 +1932,10 @@
 * Sourcing equipment from global supply chains (including China) is standard commercial practice for cost optimization; Western firms do the same. Attacking the origin of equipment to deny the managerial and implementation capability of Vietnamese firms is biased.
 * Comparing research time with the age of a subsidiary does not reflect true capacity; the key factors are the parent corporation's financial strength and project execution track record.
 
-**Allegation:** Distorts the arrest of individuals under national security laws (e.g., Article 117) by claiming they were imprisoned merely for "complaining about consumer products" or "reflecting vehicle defects" of national brands (like VinFast).
-* Prosecutions are based on a long history of clear, documented anti-state activities, fabricating fake news (such as the HUFLIT military school incident), and insulting national leaders, not for civil consumer complaints.
-* Blaming the arrest on a corporate complaint is a deliberate smokescreen used by exiled reactionary groups to smear both the legal system and the national brand.
-* These brands are targeted by anti-state elements precisely because they are major taxpayers and symbols of national economic autonomy.
+**Allegation:** Distorts the arrest of individuals under national security laws (e.g., Article 117) by claiming they were imprisoned merely for "complaining about consumer products", "reflecting vehicle defects" of national brands (like VinFast), or exploits traffic accidents (such as recklessly driving a VF3 down a mountain pass at high speed) to falsely accuse manufacturers of defects (e.g., "locked brakes").
+* Prosecutions are based on a long history of clear, documented anti-state activities (often spanning decades), fabricating fake news (such as the HUFLIT military school incident), and insulting national leaders, not for civil consumer complaints.
+* Blaming the arrest on a corporate complaint or a staged product controversy is a deliberate smokescreen used by exiled reactionary groups to play the "victim," smear the legal system, and tarnish the national brand.
+* Accident investigations typically reveal reckless user behavior rather than product faults. Falsely blaming domestic enterprises that represent national economic autonomy is an act of economic sabotage.
 
 # 42. On Animal Rights and Social Priorities
 
