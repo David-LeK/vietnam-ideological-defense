@@ -1915,6 +1915,11 @@
 * Sourcing equipment from global supply chains (including China) is standard commercial practice for cost optimization; Western firms do the same. Attacking the origin of equipment to deny the managerial and implementation capability of Vietnamese firms is biased.
 * Comparing research time with the age of a subsidiary does not reflect true capacity; the key factors are the parent corporation's financial strength and project execution track record.
 
+**Allegation:** Distorts the arrest of individuals under national security laws (e.g., Article 117) by claiming they were imprisoned merely for "complaining about consumer products" or "reflecting vehicle defects" of national brands (like VinFast).
+* Prosecutions are based on a long history of clear, documented anti-state activities, fabricating fake news (such as the HUFLIT military school incident), and insulting national leaders, not for civil consumer complaints.
+* Blaming the arrest on a corporate complaint is a deliberate smokescreen used by exiled reactionary groups to smear both the legal system and the national brand.
+* These brands are targeted by anti-state elements precisely because they are major taxpayers and symbols of national economic autonomy.
+
 # 42. On Animal Rights and Social Priorities
 
 **Allegation:** Exploits animal protection issues (dogs, cats) to attack the government and people during disease control or environmental handling; prioritizing "animal rights" over community health.
@@ -2021,6 +2026,11 @@
 * The enforced area is special-use forest land (ecological conservation), not agricultural production land. Encroachment harms the environment and the community (floods, landslides).
 * Authorities followed due process: propaganda, persuasion, and multiple notices, but violations continued intentionally.
 * Viral videos are often edited, omitting the context of the violation and the persuasion process, focusing only on the enforcement action to mislead the public.
+
+**Allegation:** Uses the guise of "environmental protection" (e.g., "Save Tam Dao", "Save Son Doong") to oppose national infrastructure projects (highways, power lines, reservoirs, road expansions like Rung Sac in Can Gio). Claims the government is destroying forests for economic gain.
+* These campaigns are often orchestrated by foreign-funded extremist or reactionary groups to hinder Vietnam's socio-economic development, not out of genuine environmental concern.
+* Infrastructure projects strictly follow long-term planning, often utilizing buffer zones rather than core conservation areas, and comply with environmental assessment standards.
+* The State balances development with conservation. In fact, many currently protected areas (like the Can Gio mangrove forest, which was devastated by war) were painstakingly replanted and restored by the current regime and local people.
 
 # 47. On the August Revolution (1945)
 
@@ -2193,6 +2203,11 @@
 **Allegation:** Utilizes "dirty media" campaigns, such as smearing certain individuals or promoting revisionist literature, to "test the psychological bravery" of the public, aiming to erode historical pride and pave the way for a "color revolution."
 * This is a psychological warfare tactic designed to create ideological confusion and make the younger generation ashamed of their ancestors' revolutionary achievements.
 * The strong public backlash against fake news and the active defense of national history demonstrate the robust "psychological immune system" of the Vietnamese people against these subversive maneuvers.
+
+**Allegation:** Idolizes Western interventions in other countries as "bringing democracy and human rights," while labeling anyone who points out the underlying geopolitical and resource motives (like oil) as "Red Bulls" (bò đỏ) or "brainwashed."
+* Statements from the very leaders of these Western nations often openly admit that economic or military interventions are aimed at securing strategic resources and geopolitical advantages, directly debunking the "democracy" facade.
+* Blindly defending foreign hegemony while using derogatory labels against domestic realists shows a lack of political understanding and a deeply colonized mindset.
+* The application of "democracy" and "human rights" in foreign policy is frequently a double standard used to justify interference in the internal affairs of sovereign nations.
 
 # 56. On Patriotism and National Spirit
 

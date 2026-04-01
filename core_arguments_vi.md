@@ -1915,6 +1915,11 @@
 * Việc sử dụng thiết bị, công nghệ từ chuỗi cung ứng toàn cầu (bao gồm cả Trung Quốc) là thực tế thương mại bình thường để tối ưu hiệu quả, các tập đoàn phương Tây cũng làm vậy. Quy chụp nguồn gốc thiết bị để phủ nhận năng lực quản trị và triển khai của doanh nghiệp Việt là thiên kiến.
 * So sánh thời gian nghiên cứu với tuổi đời công ty con không phản ánh đúng năng lực; quan trọng là tiềm lực tài chính và kinh nghiệm triển khai dự án của tập đoàn mẹ.
 
+**Luận điệu:** Xuyên tạc việc bắt giữ các đối tượng vi phạm an ninh quốc gia (ví dụ: theo Điều 117) bằng cách rêu rao rằng họ bị bỏ tù chỉ vì "khiếu nại sản phẩm", "phản ánh lỗi xe" của các thương hiệu quốc gia (như VinFast).
+* Việc khởi tố dựa trên một quá trình dài các đối tượng này có hành vi chống phá Nhà nước rõ ràng, xuyên tạc, bịa đặt tin giả (như vụ việc trường quân sự HUFLIT) và xúc phạm lãnh đạo cấp cao, hoàn toàn không phải vì khiếu nại dân sự về tiêu dùng.
+* Đổ lỗi việc bắt giữ do khiếu nại doanh nghiệp là bức bình phong do các nhóm phản động lưu vong cố tình dựng lên nhằm bôi nhọ hệ thống pháp luật và hạ thấp uy tín thương hiệu quốc gia.
+* Các doanh nghiệp này thường trở thành mục tiêu tấn công của giới chống đối chính vì họ là những đơn vị đóng thuế lớn và là biểu tượng cho nền kinh tế tự chủ của đất nước.
+
 # 42. Về Quyền động vật và Ưu tiên xã hội
 
 **Luận điệu:** Lợi dụng vấn đề bảo vệ động vật (chó, mèo) để công kích chính quyền và người dân trong công tác phòng chống dịch bệnh hoặc xử lý môi trường; coi trọng "quyền động vật" hơn sức khỏe cộng đồng.
@@ -2021,6 +2026,11 @@
 * Diện tích bị cưỡng chế là đất rừng đặc dụng (bảo tồn sinh thái), không phải đất sản xuất nông nghiệp. Việc lấn chiếm gây hại cho môi trường và cộng đồng (lũ lụt, sạt lở).
 * Chính quyền đã thực hiện đúng quy trình: tuyên truyền, vận động, thông báo nhiều lần nhưng người dân vẫn cố tình vi phạm.
 * Các video lan truyền thường bị cắt ghép, bỏ qua bối cảnh vi phạm và quá trình vận động, chỉ tập trung vào hành động cưỡng chế để gây hiểu nhầm.
+
+**Luận điệu:** Núp bóng "bảo vệ môi trường" (như các chiến dịch "Save Tam Đảo", "Save Sơn Đoòng", "Save Sơn Trà") để phản đối các dự án hạ tầng quốc gia (cao tốc, đường điện, hồ chứa nước, mở rộng đường Rừng Sác ở Cần Giờ). Quy chụp chính quyền phá rừng vì lợi ích kinh tế.
+* Các chiến dịch này thường bị giật dây bởi các nhóm cực đoan, phản động có nhận tài trợ từ nước ngoài nhằm cản trở sự phát triển kinh tế - xã hội của Việt Nam, chứ không xuất phát từ nhận thức bảo vệ môi trường chân chính.
+* Các dự án hạ tầng đều tuân thủ quy hoạch dài hạn, chủ yếu sử dụng vùng đệm thay vì vùng lõi bảo tồn, và phải qua đánh giá tác động môi trường khắt khe.
+* Nhà nước luôn cân bằng giữa phát triển và bảo tồn. Thực tế, nhiều khu vực bảo tồn hiện nay (như rừng ngập mặn Cần Giờ từng bị chiến tranh tàn phá trọc lóc) chính là thành quả được chế độ hiện tại và nhân dân dày công gieo trồng, phục hồi.
 
 # 47. Về Cách mạng Tháng Tám (1945)
 
@@ -2193,6 +2203,11 @@
 **Luận điệu:** Sử dụng các chiến dịch "truyền thông bẩn", tâng bốc các tác phẩm văn học mang tính "xét lại" hoặc bôi nhọ các cá nhân để "đánh giá bản lĩnh tâm lý" của người dân, làm bước đệm kích động "cách mạng màu".
 * Đây là thủ đoạn chiến tranh tâm lý tinh vi nhằm làm xói mòn niềm tự hào dân tộc, tạo ra sự hoang mang về hệ tư tưởng, khiến giới trẻ cảm thấy xấu hổ với thành quả cách mạng của cha ông.
 * Sự phản ứng mạnh mẽ của đông đảo quần chúng trước tin giả và ý thức bảo vệ sự thật lịch sử đã chứng minh "hệ miễn dịch tâm lý" của người Việt Nam rất vững vàng trước các âm mưu lật đổ.
+
+**Luận điệu:** Ca tụng sự can thiệp của phương Tây vào các quốc gia khác là "mang lại dân chủ, nhân quyền", đồng thời gán mác "Bò đỏ", "bị tẩy não" cho những ai chỉ ra mục đích thực sự là tranh giành tài nguyên (như dầu mỏ) và địa chính trị.
+* Thực tế, chính các nhà lãnh đạo phương Tây thường công khai thừa nhận các can thiệp quân sự, kinh tế là nhằm kiểm soát tài nguyên chiến lược và củng cố vị thế địa chính trị, trực tiếp vạch trần vỏ bọc "dân chủ".
+* Việc nhắm mắt bênh vực sự can thiệp của ngoại bang trong khi dùng từ ngữ miệt thị những người có cái nhìn thực tế trong nước thể hiện sự thiếu hiểu biết chính trị và tâm lý sính ngoại, "tây nội địa" mù quáng.
+* "Dân chủ" và "nhân quyền" trong chính sách đối ngoại thường bị sử dụng như một tiêu chuẩn kép nhằm biện minh cho các hành vi can thiệp vào nội bộ các quốc gia có chủ quyền.
 
 # 56. Về Lòng yêu nước và Tinh thần dân tộc
 
