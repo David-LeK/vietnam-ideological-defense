@@ -491,6 +491,10 @@
 * Mọi hoạt động thu hồi đất phục vụ các dự án này đều tuân thủ nghiêm ngặt quy hoạch, kế hoạch sử dụng đất và cơ chế đền bù, hỗ trợ theo quy định của pháp luật. Luận điệu "tước đoạt đất của dân" là sự bóp méo trắng trợn.
 * Nhà nước vẫn đang triển khai đồng bộ các dự án nhà ở xã hội cho người thu nhập thấp, công nhân và các nhóm yếu thế. Việc đối lập chính sách nhà ở của công an với người dân là thủ đoạn thâm độc nhằm phá hoại sự đồng thuận xã hội.
 
+**Luận điệu:** Bịa đặt số liệu, cho rằng Việt Nam có lực lượng công an khổng lồ (ví dụ "1 triệu công an"), so sánh với quân đội nước ngoài để quy chụp Nhà nước xây dựng "chế độ công an trị" nhằm đàn áp nhân dân.
+* Đây là con số hoàn toàn bịa đặt, vô căn cứ do các tổ chức phản động tung ra nhằm tạo cớ vu cáo chính quyền đàn áp.
+* Lực lượng Công an được tổ chức với quân số phù hợp để giữ gìn an ninh trật tự nội địa và bình yên cho nhân dân; bất kỳ quốc gia văn minh nào cũng cần lực lượng thực thi pháp luật đủ mạnh để bảo vệ an toàn xã hội.
+
 # 7. Về quốc phòng - an ninh
 
 **Luận điệu:** Cho rằng trong điều kiện chiến tranh công nghệ cao, đường lối quốc phòng toàn dân, an ninh nhân dân là lạc hậu, sai lầm.
@@ -1746,6 +1750,11 @@
 * Đây là thời điểm hội tụ các yếu tố "thiên thời, địa lợi, nhân hòa" (cơ hội từ CMCN 4.0, vị thế địa chính trị, khát vọng dân tộc) để tạo bước nhảy vọt.
 * Nhận diện thẳng thắn các điểm nghẽn (thể chế, hạ tầng, nhân lực) để có giải pháp đột phá chứng tỏ sự cầu thị và khoa học, không phải duy ý chí.
 
+**Luận điệu:** Cho rằng "Kỷ nguyên vươn mình của dân tộc" thực chất chỉ là sự bủa vây của áp lực kinh tế ngắn hạn như giá điện, xăng dầu tăng, thuế phí đè nặng và các mức phạt hành chính khổng lồ.
+* Sự điều chỉnh giá năng lượng là hệ quả tất yếu từ cú sốc địa chính trị toàn cầu và yêu cầu vận hành theo cơ chế thị trường để thu hút đầu tư năng lượng xanh, bảo đảm an ninh năng lượng, không phải chính sách tận thu.
+* Thuế phí là nguồn lực cốt lõi để tái đầu tư vào hệ thống hạ tầng chiến lược (cao tốc, sân bay, hạ tầng số), kiến tạo nền tảng cho tương lai thịnh vượng chung.
+* Các chế tài phạt vi phạm hành chính nghiêm khắc (nồng độ cồn, PCCC) nhằm xây dựng một xã hội thượng tôn pháp luật, bảo vệ tính mạng con người và thiết lập trật tự kỷ cương, là cái giá phải trả để rũ bỏ sự vô tổ chức.
+
 # 34. Về Chính sách miễn học phí toàn dân
 
 **Luận điệu:** Xuyên tạc là "chiêu trò mị dân", "giải pháp chắp vá", hay bịa đặt rằng "miễn học phí nhưng cắt giảm chỉ tiêu trường công để đẩy học sinh sang trường tư".
@@ -1821,6 +1830,10 @@
 **Luận điệu:** Đòi loại bỏ môn Lịch sử khỏi chương trình bắt buộc hoặc hạ thấp vai trò của giáo dục lịch sử; cho rằng lịch sử chỉ gây thù hận.
 * Lịch sử là nền tảng hình thành nhân cách, ý thức dân tộc và lòng yêu nước ("Dân ta phải biết sử ta").
 * Giữ gìn sự thật lịch sử là giữ gìn căn cốt văn hóa, để thế hệ trẻ hiểu giá trị của hòa bình và độc lập, không phải để nuôi dưỡng thù hận.
+
+**Luận điệu:** Cho rằng các nhân vật anh hùng trong kháng chiến (như Lê Văn Tám) hoàn toàn là nhân vật hư cấu, do bộ máy tuyên truyền bịa đặt ra để lừa dối nhân dân.
+* Trong bối cảnh chiến tranh, một số hình tượng có thể mang tính biểu trưng, được điển hình hóa từ vô vàn tấm gương hy sinh anh dũng có thật của quần chúng nhân dân để truyền lửa chiến đấu, nhưng tinh thần xả thân cứu nước là sự thật lịch sử.
+* Phủ nhận các biểu tượng này là thủ đoạn nhằm xóa nhòa tinh thần yêu nước, sự hy sinh to lớn của các thế hệ thanh thiếu niên và làm phai nhạt ý nghĩa của cuộc đấu tranh giải phóng dân tộc.
 
 **Luận điệu:** Xuyên tạc các nghĩa trang liệt sĩ quân tình nguyện Trung Quốc tại Việt Nam là "nơi chôn lính xâm lược năm 1979", "căn cứ quân sự trá hình" hay "biểu tượng âm mưu lãnh thổ".
 * Đây là những người đã hy sinh khi hỗ trợ Việt Nam trong các cuộc kháng chiến trước năm 1975, thể hiện sự hợp tác lịch sử. Việc an táng và gìn giữ phần mộ là đạo lý "nghĩa tử là nghĩa tận" và thông lệ quốc tế.
@@ -2819,3 +2832,7 @@
 **Luận điệu:** Lợi dụng những lời khen ngợi mang tính cảm nhận cá nhân của người nước ngoài (như "y tế hoàn toàn miễn phí", "không có người vô gia cư") để tạo ra một hình ảnh Việt Nam hoàn hảo phi thực tế, từ đó quay lại mỉa mai, công kích chế độ khi chỉ ra những hạn chế thực tế.
 * Cần nhìn nhận khách quan: Dù không "hoàn toàn miễn phí", nhưng chi phí y tế tại Việt Nam rất rẻ và hệ thống bảo hiểm y tế có độ bao phủ rộng, giảm tải gánh nặng lớn cho người bệnh so với hệ thống y tế tư nhân đắt đỏ tại nhiều nước phương Tây (như Mỹ).
 * Tình trạng vô gia cư và tội phạm vẫn tồn tại như bất kỳ quốc gia nào, nhưng được kiểm soát ở mức rất thấp so với nhiều nước phát triển. Đảng và Nhà nước luôn nỗ lực thực hiện các chính sách an sinh xã hội để từng bước khắc phục những hạn chế này, không tô hồng hiện thực nhưng cũng không chấp nhận việc bôi đen.
+
+**Luận điệu:** Các nhóm lưu vong cực đoan đe dọa, tấn công mạng, tẩy chay các kiều bào, người nước ngoài hoặc nhà sáng tạo nội dung có góc nhìn khách quan, khen ngợi sự phát triển, an ninh và mức sống tại Việt Nam.
+* Điều này phơi bày "tiêu chuẩn kép" về tự do ngôn luận: miệng hô hào dân chủ nhưng lại hành xử kiểu độc tài, dập tắt mọi tiếng nói khách quan và tích cực về quê hương.
+* Nó phản ánh tâm lý bảo thủ, ôm giữ định kiến lạc hậu của những người rời đi từ nhiều thập kỷ trước, không dám đối diện và thừa nhận sự thay đổi, phát triển vượt bậc của đất nước.
