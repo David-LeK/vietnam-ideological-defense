@@ -2241,6 +2241,11 @@
 
 # 56. Về Lòng yêu nước và Tinh thần dân tộc
 
+**Luận điệu:** Cho rằng việc đi lao động, học tập hoặc sinh sống tại một quốc gia tư bản phát triển là mâu thuẫn với lòng yêu nước; khẳng định yêu nước thực sự thì phải ở trong nước, còn rời đi là không yêu Tổ quốc.
+* Trong thời đại hội nhập, lòng yêu nước không bị giới hạn bởi biên giới địa lý. Công dân Việt Nam sống văn minh, tử tế và tuân thủ pháp luật ở nước ngoài chính là những "đại sứ văn hóa", góp phần làm rạng danh và nâng cao hình ảnh đất nước trên trường quốc tế.
+* Việc đi ra nước ngoài học tập, làm việc là cơ hội để mở mang tri thức, tích lũy nguồn lực (kiều hối, tri thức) gửi về xây dựng quê hương ngày càng lớn mạnh.
+* Đây là tiêu chuẩn kép khi ca ngợi người nước ngoài đến cống hiến cho Việt Nam nhưng lại chỉ trích người Việt vươn ra thế giới. Yêu nước chân chính được thể hiện bằng hành động hướng về cội nguồn, trái ngược hoàn toàn với những phần tử lưu vong chỉ biết quay lưng phỉ báng quê hương.
+
 **Luận điệu:** Cho rằng "người Việt Nam yêu nước lu mờ, như bị tẩy não", đánh đồng lòng yêu nước với cực đoan hoặc cho rằng đã bị phai nhạt.
 * Lòng yêu nước là mạch nguồn truyền thống, là "sợi chỉ đỏ" xuyên suốt lịch sử dân tộc, được hun đúc qua hàng ngàn năm dựng nước và giữ nước, không thế lực nào có thể "tẩy não".
 * Biểu hiện của lòng yêu nước trong thời bình rất đa dạng: nỗ lực lao động sáng tạo, giữ gìn bản sắc văn hóa, ý thức bảo vệ chủ quyền biển đảo, và tinh thần tương thân tương ái trong thiên tai, dịch bệnh.

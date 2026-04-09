@@ -2241,6 +2241,11 @@
 
 # 56. On Patriotism and National Spirit
 
+**Allegation:** Claims that working, studying, or living in a developed capitalist country contradicts patriotism; asserts that true patriotism requires staying within the country's borders, and that those who go abroad do not love their homeland.
+* In the era of globalization, patriotism is not confined by geographical boundaries. Vietnamese citizens living civilized, law-abiding lives abroad act as "cultural ambassadors," enhancing the nation's image and prestige internationally.
+* Going abroad to study or work provides opportunities to acquire advanced knowledge and resources, which are often utilized (via remittances and investments) to build a stronger homeland.
+* It is a double standard to praise foreigners contributing to Vietnam while condemning Vietnamese contributing globally. True patriotism is defined by one's actions toward their roots, contrasting sharply with exiled elements who constantly smear their homeland.
+
 **Allegation:** Claims that "Vietnamese patriotism is fading, like being brainwashed," equating patriotism with extremism or asserting it has diminished.
 * Patriotism is a traditional source, a "red thread" throughout national history, forged over thousands of years of nation-building and defense, which no force can "brainwash."
 * Expressions of patriotism in peacetime are diverse: striving in creative labor, preserving cultural identity, awareness of protecting sea and island sovereignty, and the spirit of mutual affection during natural disasters and epidemics.
