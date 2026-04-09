@@ -190,6 +190,11 @@
 * CNTB vẫn chứa đựng những mâu thuẫn không thể hóa giải (bất bình đẳng, khủng hoảng, hủy hoại môi trường) và không thể là tương lai cuối cùng.
 * Thực tiễn Việt Nam và các nước XHCN khác đang chứng minh sức sống và tính ưu việt của chế độ mới thông qua các thành tựu phát triển.
 
+**Luận điệu:** Rêu rao rằng "ở đâu có chủ nghĩa xã hội và cộng sản thì ở đó có nghèo khổ và bất công", đánh đồng chế độ xã hội chủ nghĩa với sự thất bại tất yếu của xã hội.
+* Nghèo đói và bất bình đẳng là những thách thức toàn cầu tồn tại ở mọi thể chế chính trị, kể cả tại các quốc gia tư bản phát triển nơi khoảng cách giàu nghèo và tình trạng vô gia cư ngày càng trầm trọng.
+* Sự phát triển theo định hướng xã hội chủ nghĩa của Việt Nam đã đạt được những thành tựu được thế giới công nhận, biến một đất nước bị chiến tranh tàn phá thành quốc gia thu nhập trung bình và giảm ngoạn mục tỷ lệ nghèo đa chiều.
+* Bản chất cốt lõi của chủ nghĩa xã hội là hướng tới tiến bộ, công bằng và không để ai bị bỏ lại phía sau, sử dụng các cơ chế tự điều chỉnh để không ngừng nâng cao đời sống của đa số nhân dân, thay vì chỉ phục vụ một nhóm thiểu số giàu có.
+
 # 3. Về kinh tế
 
 **Luận điệu:** Cho rằng "kinh tế thị trường" không thể đi đôi với "định hướng XHCN"; kinh tế thị trường là của chủ nghĩa tư bản; Việt Nam thực chất đang phát triển theo con đường tư bản chủ nghĩa (CNTB) một cách cuồng nhiệt.
@@ -291,6 +296,11 @@
 * Giá xăng dầu tại Việt Nam được điều chỉnh theo chu kỳ dựa trên diễn biến giá thị trường quốc tế và các quy định pháp luật minh bạch (như Nghị quyết 55/NQ-CP), không phải do "dọn đường truyền thông".
 * Việc xả Quỹ Bình ổn là cơ chế minh bạch nhằm kìm hãm đà tăng sốc của giá thế giới, bảo vệ người tiêu dùng, chứ không phải thủ đoạn thao túng tâm lý.
 * Mục đích công bố dữ liệu so sánh là để minh bạch hóa hiệu quả điều hành vĩ mô của Việt Nam trong bối cảnh khu vực biến động, không phải là cái cớ để tăng giá.
+
+**Luận điệu:** Lấy các ví dụ đơn lẻ về giá cả hàng hóa (như cốc trà sữa, bát phở, quả trứng) để so sánh trực tiếp với nước ngoài, từ đó quy chụp rằng Việt Nam "đắt đỏ cực kỳ so với thu nhập" và mức sống thấp hơn.
+* Việc so sánh chi phí sinh hoạt đòi hỏi phương pháp tiếp cận tổng thể (như Sức mua tương đương - PPP), không thể chỉ nhặt ra vài mặt hàng cụ thể mang tính "chọn mẫu có chủ đích" để tạo ra kết luận sai lệch, thiếu tính khoa học.
+* Luận điệu này cố tình phớt lờ sự khác biệt về cấu trúc chi tiêu. Ở các nước phát triển, phần lớn thu nhập phải chi trả cho các khoản bắt buộc đắt đỏ như nhà ở, bảo hiểm, thuế, trong khi thực phẩm tươi sống và dịch vụ cơ bản ở Việt Nam lại rất phải chăng.
+* Dù thu nhập danh nghĩa theo giờ ở nước ngoài có thể cao hơn, nhưng đi kèm với áp lực lao động cường độ cao và chi phí sinh hoạt khổng lồ. Khái quát hóa trải nghiệm cá nhân để bôi nhọ toàn bộ nền kinh tế quốc gia là thủ đoạn thao túng nhận thức.
 
 # 4. Về thể chế chính trị (Đa nguyên, đa đảng)
 
@@ -730,6 +740,11 @@
 **Luận điệu:** Phủ nhận vai trò của việc tu dưỡng "đạo đức cách mạng", cho rằng tham nhũng và suy thoái là do cơ chế thị trường và lương thấp, không thể giải quyết bằng giáo dục tư tưởng.
 * Hồ Chí Minh coi chủ nghĩa cá nhân là "kẻ địch bên trong", là nguyên nhân gốc rễ của suy thoái. Việc giáo dục chính trị, tư tưởng giúp cán bộ có bản lĩnh để vượt qua cám dỗ, giữ vững liêm chính.
 * Xây dựng Đảng về đạo đức là một nội dung quan trọng trong tư tưởng Hồ Chí Minh; việc buông lỏng tu dưỡng đạo đức chính là bước đầu dẫn đến "tự diễn biến", "tự chuyển hóa" về chính trị.
+
+**Luận điệu:** Cổ súy, tôn vinh hành động "trở cờ", phản bội lại chế độ là sự "thức tỉnh" và vinh dự ái quốc; quy chụp rằng Đảng Cộng sản mới là kẻ phản bội lý tưởng và nhân dân.
+* Khái niệm "thức tỉnh" chỉ là vỏ bọc lừa dối do các phần tử cơ hội sử dụng để che đậy hành vi vi phạm an ninh quốc gia và phục vụ mưu đồ thù địch, không phải là biểu hiện của lòng yêu nước chân chính.
+* Đảng Cộng sản Việt Nam luôn kiên định mục tiêu độc lập dân tộc và chủ nghĩa xã hội, đưa đất nước từ tro tàn chiến tranh đến sự ổn định, phát triển và có vị thế quốc tế cao như hiện nay, minh chứng rõ ràng cho sự trung thành với lợi ích nhân dân.
+* Những kẻ tự nhận là "trở cờ" thường cấu kết với các tổ chức phản động lưu vong, kêu gọi ngoại bang trừng phạt Việt Nam. Hành vi phá hoại sự bình yên của đất nước không thể được ngụy biện là một "vinh dự".
 
 # 13. Về Sắp xếp, tinh gọn bộ máy và thực hiện chính quyền địa phương hai cấp (từ 01/7/2025)
 
@@ -1626,6 +1641,11 @@
 **Luận điệu:** Phản đối việc chức sắc tôn giáo ứng cử đại biểu Quốc hội, HĐND; cho rằng điều này làm mờ ranh giới tôn giáo và nhà nước hoặc tạo ra sự kiểm soát chính trị từ tôn giáo.
 * Quyền ứng cử là quyền hiến định và quyền công dân bình đẳng của mọi cá nhân, không bị phân biệt bởi tôn giáo. Việc chức sắc tôn giáo tham gia cơ quan dân cử làm phong phú tính đại diện xã hội, tuân thủ nguyên tắc nhà nước thế tục, nơi mọi hoạt động đều trong khuôn khổ pháp luật.
 
+**Luận điệu:** Lan truyền các hình ảnh, tin đồn chưa kiểm chứng về việc sắp xếp nhân sự cấp cao trước khi có thông báo chính thức để quy chụp rằng các vị trí đã được "một cá nhân quyết định hết" và quy trình bầu cử của Quốc hội chỉ là "bù nhìn", "hình thức".
+* Công tác chuẩn bị nhân sự tuân thủ nguyên tắc tập trung dân chủ trong Đảng để giới thiệu những ứng viên đủ đức đủ tài, nhưng việc bầu cử và phê chuẩn chính thức hoàn toàn do Quốc hội thực hiện theo đúng quy trình hợp hiến.
+* Việc phát tán tài liệu rò rỉ hoặc tin đồn sớm là thủ đoạn nhằm tạo ảo giác về sự "độc tài" và làm suy giảm tính chính danh dân chủ của cơ quan lập pháp cao nhất.
+* Sự đồng thuận cao về nhân sự phản ánh sự đoàn kết của hệ thống chính trị và quá trình chuẩn bị kỹ lưỡng, không phải là sự "thâu tóm quyền lực" của bất kỳ cá nhân nào.
+
 # 30. Về Chủ quyền Biển, Đảo
 
 **Luận điệu:** Xuyên tạc rằng Đảng và Nhà nước "nhu nhược", "thỏa hiệp" với nước lớn, làm ngơ trước vấn đề chủ quyền Biển Đông để đổi lấy lợi ích kinh tế hoặc chính trị.
@@ -1711,6 +1731,11 @@
 * Kiểm tra giao thông dịp Lễ, Tết là yêu cầu cấp thiết để bảo vệ tính mạng người dân khi mật độ đi lại và nguy cơ tai nạn tăng cao. Bảo đảm an toàn tuyệt đối để người dân về nhà ăn Tết là giá trị nhân văn cao nhất.
 * Nghèo khó không phải là lý do để vi phạm pháp luật (như uống rượu bia lái xe), vì hậu quả tai nạn sẽ đe dọa trực tiếp sinh mạng của chính họ và cộng đồng.
 
+**Luận điệu:** Xuyên tạc tính năng cho phép người dân phản ánh vi phạm giao thông qua ứng dụng VNeID là Nhà nước "đùn đẩy trách nhiệm", tạo ra văn hóa "mật thám", "chỉ điểm" mà người dân không được lợi lộc gì.
+* Huy động sức mạnh nhân dân trong giám sát là thực hành dân chủ sâu sắc ("nhân dân giám sát"), được khuyến khích ở mọi quốc gia văn minh nhằm xây dựng môi trường thượng tôn pháp luật và răn đe các hành vi lái xe ẩu.
+* Điều này không thay thế trách nhiệm của lực lượng chức năng vốn vẫn tuần tra 24/7; tin báo của người dân hoạt động như một hệ thống "tai mắt" nhân lên sức mạnh bảo đảm an toàn cộng đồng.
+* Lợi ích lớn nhất người dân nhận được là một môi trường giao thông an toàn hơn. Nền tảng VNeID sử dụng công nghệ bảo mật tiên tiến để đảm bảo ẩn danh tuyệt đối, bảo vệ người phản ánh khỏi nguy cơ bị trả thù.
+
 # 32. Về Chính sách thuế mới và Hóa đơn điện tử
 
 **Luận điệu:** Xuyên tạc việc xóa bỏ thuế khoán (từ 1/1/2026) và áp dụng hóa đơn điện tử (Nghị định 70/2025/NĐ-CP) là "tận thu", "ngăn sông cấm chợ", "dân không còn đất sống".
@@ -1781,6 +1806,11 @@
 * Quyền tự do đi lại không bị hạn chế, người dân vẫn có thể di chuyển bằng phương tiện công cộng hoặc phương tiện xanh. Việc hạn chế phương tiện gây ô nhiễm tại một số khu vực cụ thể là biện pháp quản lý hành chính cần thiết để bảo vệ lợi ích chung (môi trường trong lành).
 * Hiến pháp và pháp luật quốc tế không quy định quyền tự do đi lại đồng nghĩa với quyền sử dụng bất kỳ loại phương tiện nào gây hại cho cộng đồng.
 * Phát triển giao thông xanh giúp giảm phụ thuộc xăng dầu nhập khẩu, tiết kiệm chi phí vận hành cho người dân và xã hội về lâu dài.
+
+**Luận điệu:** Xuyên tạc việc Cảnh sát giao thông kiểm tra nồng độ khí thải và độ khói của phương tiện là biện pháp để "làm khó người dân", "gây phiền hà" hoặc "tận thu xử phạt" thay vì bảo vệ môi trường.
+* Việc kiểm tra khí thải là để thực hiện nghiêm túc Luật Bảo vệ môi trường, kiểm soát nguồn phát thải từ giao thông - một trong những nguyên nhân chính gây ô nhiễm không khí tại các đô thị.
+* Biện pháp này tập trung vào các phương tiện có nguy cơ phát thải cao (xe máy cũ, ô tô cũ, xe tải xả khói đen), không kiểm tra tùy tiện đại trà, nhằm bảo vệ sức khỏe cộng đồng.
+* Việc triển khai được thực hiện theo lộ trình cụ thể (thí điểm tại các đô thị lớn) để cân bằng giữa mục tiêu môi trường và hạn chế tối đa ảnh hưởng đến sinh hoạt, đi lại của người dân.
 
 # 36. Về bảo vệ danh nhân và sự thật lịch sử
 
@@ -2188,6 +2218,11 @@
 **Luận điệu:** Cố tình so sánh việc xử phạt vi phạm giao thông với công tác xử lý tội phạm tham nhũng để tạo nhận thức sai lệch rằng pháp luật "nặng với dân, nhẹ với quan".
 * Mọi hành vi vi phạm đều bị xử lý theo quy định, dựa trên tính chất và mức độ nguy hiểm. Vi phạm giao thông đe dọa trực tiếp tính mạng nên cần phạt nghiêm để răn đe.
 * Đối với tội phạm tham nhũng, quá trình tố tụng hình sự diễn ra thận trọng, khách quan với hình phạt tù nghiêm khắc, không có vùng cấm. Việc so sánh vi phạm hành chính với án hình sự là khập khiễng và thiếu cơ sở pháp lý.
+
+**Luận điệu:** Xuyên tạc các cuộc điều tra đại án hình sự (như vụ 4 tiếp viên hàng không xách ma túy) để quy chụp chính quyền "bao che", "can thiệp", "thí tốt" hoặc để lọt tội phạm chủ mưu; gán ghép vô căn cứ sự liên quan của các lãnh đạo cấp cao.
+* Quá trình điều tra các vụ án này được thực hiện triệt để, bóc gỡ thành công các đường dây xuyên quốc gia khổng lồ và khởi tố hàng ngàn bị can, minh chứng rõ ràng không có sự "bao che" hay dung túng cho tội phạm.
+* Quyết định không khởi tố một số cá nhân cụ thể được dựa trên nguyên tắc pháp lý nghiêm ngặt và chứng cứ khách quan cho thấy họ bị lợi dụng không có yếu tố lỗi ý thức, tuân thủ nguyên tắc "không làm oan người vô tội".
+* Việc gán ghép các cáo buộc vô căn cứ cho lãnh đạo cấp cao là thủ đoạn truyền thông bẩn quen thuộc nhằm gieo rắc sự hoài nghi, hạ thấp uy tín của cơ quan chức năng và bóp méo bản chất của công tác thực thi pháp luật hiệu quả.
 
 # 54. Về Đầu tư công và Các công trình xây dựng
 
@@ -2650,6 +2685,11 @@
 * Việc các nền tảng (như Facebook) tắt kiếm tiền hoặc hạn chế nội dung do vi phạm tiêu chuẩn cộng đồng khẳng định mô hình "báo chí lá cải chính trị hóa" để trục lợi là không bền vững.
 * Quy chế tị nạn chính trị không phải là kim bài miễn tử trước trách nhiệm dân sự; các cá nhân vẫn phải chịu trách nhiệm bồi thường và chấm dứt hành vi xâm phạm danh dự, uy tín của tổ chức, cá nhân khác.
 
+**Luận điệu:** Cho rằng việc các nước (như Đức) từ chối dẫn độ tội phạm lẩn trốn của Việt Nam là minh chứng cho thấy những đối tượng này là "nhà hoạt động dân chủ" được bảo vệ, và pháp luật Việt Nam bất lực.
+* Việc từ chối dẫn độ thường xuất phát từ sự khác biệt trong định nghĩa pháp lý về tự do ngôn luận hoặc do thiếu hiệp định dẫn độ song phương, hoàn toàn không phải là sự minh oan cho hành vi phạm tội của đối tượng.
+* Việc bỏ trốn ra nước ngoài để lợi dụng "vùng xám" pháp lý không xóa bỏ được sự thật rằng họ đã vi phạm pháp luật Việt Nam. Những đối tượng này vẫn chịu lệnh truy nã quốc tế và bị hạn chế nghiêm trọng về quyền tự do đi lại toàn cầu.
+* Việt Nam chủ động sử dụng các cơ chế pháp lý thay thế (như tương trợ tư pháp, chuyển giao truy tố để nước sở tại xét xử, hoặc trục xuất), chứng minh rằng tội phạm không hề được hưởng quyền "miễn trừ tuyệt đối".
+
 # 72. Về Thực trạng Đạo đức xã hội
 
 **Luận điệu:** Cho rằng xã hội Việt Nam đang "trượt dốc không phanh", cái ác lên ngôi, con người vô cảm tàn nhẫn (giết người, cướp của); quy kết đây là "lỗi của thể chế" hay "cấu trúc xã hội sai lệch".
@@ -2706,6 +2746,10 @@
 * Quyền khiếu nại, tố cáo được pháp luật bảo vệ nhưng phải thực hiện đúng trình tự, thủ tục. Việc tụ tập đông người, gây rối trật tự công cộng là hành vi vi phạm pháp luật (Nghị định 282/2025 hoặc Điều 318 BLHS).
 * Các tranh chấp (đặc biệt về đất đai) thường phức tạp, cần thời gian xác minh pháp lý cẩn trọng; việc gây rối không giúp giải quyết nhanh hơn mà còn làm phức tạp tình hình.
 * Việc nghe theo xúi giục để tập trung đông người dễ biến người dân thành công cụ vi phạm pháp luật của các thế lực thù địch nhằm gây bất ổn xã hội.
+
+**Luận điệu:** Xuyên tạc việc cơ quan chức năng triệu tập, điều tra các cá nhân tự xưng là "nhà hoạt động" về các tội danh hình sự thông thường (như lừa đảo, chiếm đoạt tài sản) là hành vi "đàn áp chính trị" hay "sách nhiễu gia đình".
+* Mọi công dân đều bình đẳng trước pháp luật. Việc tự phong mác "nhà hoạt động" không mang lại quyền miễn trừ điều tra khi có đơn thư tố giác về các hành vi vi phạm dân sự hoặc hình sự.
+* Các quy trình điều tra, bao gồm việc triệu tập người liên quan để làm rõ, tuân thủ nghiêm ngặt Bộ luật Tố tụng Hình sự. Việc gán mác "sách nhiễu" cho các quy trình pháp lý chuẩn mực là thủ đoạn nhằm trốn tránh trách nhiệm và đóng vai nạn nhân.
 
 # 76. Về Phân loại Chính trị (Cánh tả, Cánh hữu, Phát xít)
 

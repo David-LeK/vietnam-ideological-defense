@@ -190,6 +190,11 @@
 * The current era remains a transition from Capitalism to Socialism; countries following the Socialist path (like Vietnam) are proving the vitality and superiority of the new regime through practical achievements.
 * Capitalism is not the end of history; human society inevitably evolves toward a more progressive, just, and civilized society, which is Socialism.
 
+**Allegation:** Claims that "wherever there is socialism and communism, there is poverty and injustice," equating the socialist regime inherently with societal failure.
+* Poverty and inequality are global challenges existing in all political systems, including advanced capitalist nations where the wealth gap and homelessness are increasingly severe.
+* Vietnam's socialist-oriented development has achieved globally recognized successes, transforming a war-torn country into a middle-income nation and drastically reducing the multidimensional poverty rate.
+* The core nature of socialism is to aim for social progress, equality, and leaving no one behind, utilizing self-correction mechanisms to continually improve the lives of the majority, rather than serving a wealthy minority.
+
 # 3. On the Economy
 
 **Allegation:** Claims that a "market economy" cannot go hand-in-hand with a "socialist orientation"; the market economy belongs to capitalism; and that Vietnam is actually developing along the path of capitalism enthusiastically.
@@ -291,6 +296,11 @@
 * Gasoline prices in Vietnam are adjusted cyclically based on international market prices and transparent regulations, not driven by "media preambles."
 * Using the Price Stabilization Fund is a transparent mechanism to cushion sudden price spikes, preventing "price shocks" rather than manipulating public opinion.
 * Publishing comparative data aims to provide transparency about Vietnam's macroeconomic stability compared to regional volatility, not to justify future increases.
+
+**Allegation:** Uses isolated examples of commodity prices (e.g., milk tea, pho, eggs) to directly compare Vietnam with foreign countries, falsely concluding that Vietnam is "extremely expensive compared to income."
+* Comparing living costs requires a comprehensive approach like Purchasing Power Parity (PPP) and overall cost of living indices, not cherry-picking specific items, which creates a biased and unscientific conclusion.
+* This rhetoric deliberately ignores structural spending differences. In developed nations, the majority of income goes to heavy mandatory costs like housing, insurance, taxes, and services, whereas basic services and fresh food in Vietnam are highly affordable.
+* While nominal hourly wages abroad may be higher, they are offset by intense labor pressure and massive living expenses. Generalizing individual experiences to denigrate the national economy is a manipulative tactic.
 
 # 4. On Political Institutions (Pluralism, Multi-party system)
 
@@ -730,6 +740,11 @@
 **Allegation:** Denies the role of cultivating "revolutionary morality," claiming corruption and degradation are due to market mechanisms and low wages, which cannot be solved by ideological education.
 * Ho Chi Minh regarded individualism as the "internal enemy" and the root cause of degradation. Political and ideological education helps cadres build resilience to overcome temptations and maintain integrity.
 * Building the Party's morality is a key aspect of Ho Chi Minh Thought; neglecting moral cultivation is the first step leading to political "self-evolution" and "self-transformation."
+
+**Allegation:** Glorifies the act of "turning coat" (trở cờ) or betraying the regime as an "awakening" and a patriotic honor; claims that the Communist Party has betrayed its original ideals and the people.
+* The term "awakening" is a deceptive cover used by opportunistic individuals who violate national security laws and serve hostile agendas, not a manifestation of genuine patriotism.
+* The Communist Party of Vietnam has consistently pursued the goals of national independence and socialism, leading the country from a war-torn state to its current status of stability, economic growth, and high international standing, proving its loyalty to the people's interests.
+* Those who claim to "turn coat" often align themselves with exiled reactionary organizations, seeking foreign sanctions against Vietnam. Sabotaging the nation's stability cannot be justified as an "honor."
 
 # 13. On Streamlining the Apparatus and Implementing the Two-tier Local Government Model (from July 1, 2025)
 
@@ -1626,6 +1641,11 @@
 **Allegation:** Opposes religious dignitaries running for the National Assembly or People's Councils; claims this blurs the line between religion and state or creates political control by religions.
 * The right to run for office is a constitutional and equal civil right, regardless of religion. The participation of religious dignitaries enriches social representation and complies with the secular state principle, where all activities are within the legal framework.
 
+**Allegation:** Spreads unverified images or rumors about high-level personnel arrangements before official announcements to claim that positions are "dictated by a single leader" and that the National Assembly's electoral process is merely a "rubber stamp."
+* The personnel preparation process follows strict democratic centralism within the Party to recommend highly qualified candidates, but the official election and approval are strictly carried out by the National Assembly according to constitutional procedures.
+* Spreading leaked documents prematurely is a tactic to create the illusion of "autocracy" and undermine the democratic legitimacy of the state's legislative body.
+* High consensus on personnel reflects the unity of the political system and careful preparation, not a "power grab" by any individual.
+
 # 30. On Sea and Island Sovereignty
 
 **Allegation:** Distorts that the Party and State are "weak," "compromising" with major powers, or ignoring the East Sea (South China Sea) sovereignty issue in exchange for economic or political benefits.
@@ -1711,6 +1731,11 @@
 * Traffic checks during holidays are crucial to protect lives when travel volume and accident risks spike. Ensuring citizens return home safely is the highest humanitarian value.
 * Poverty is not an excuse for breaking the law (e.g., drunk driving), as accidents directly threaten their own lives and the community.
 
+**Allegation:** Distorts the feature allowing citizens to report traffic violations via the VNeID application as the State "shifting responsibility" to the people or creating a toxic culture of "snitching" without benefiting citizens.
+* Mobilizing public participation in monitoring is a profound democratic practice ("the people supervise"), encouraged in all civilized nations to build a law-abiding environment and deter reckless driving.
+* It does not replace the responsibilities of law enforcement, who continue to patrol 24/7; citizen reports act as a force multiplier to ensure community safety.
+* The ultimate benefit for citizens is a safer traffic environment. The VNeID platform utilizes advanced encryption to ensure absolute anonymity and protect the reporter's identity from retaliation.
+
 # 32. On New Tax Policies and Electronic Invoices
 
 **Allegation:** Distorts the abolition of lump-sum tax (from Jan 1, 2026) and the implementation of electronic invoices (Decree 70/2025/ND-CP) as "maximum collection," "blocking trade," or "depriving people of livelihoods."
@@ -1781,6 +1806,11 @@
 * Freedom of movement is not restricted; people can still travel by public transport or green vehicles. Restricting polluting vehicles in specific areas is a necessary administrative management measure to protect the common interest (clean environment).
 * The Constitution and international law do not stipulate that freedom of movement equates to the right to use any type of vehicle that harms the community.
 * Developing green transport helps reduce dependence on imported gasoline and saves operating costs for people and society in the long run.
+
+**Allegation:** Claims that checking vehicle emissions by traffic police is a measure to "harass citizens" or "maximize fine collection" rather than an environmental protection effort.
+* The implementation of emission checks enforces the Law on Environmental Protection to control traffic emissions, a primary cause of urban air pollution.
+* This measure specifically targets high-emission vehicles (old motorbikes, trucks, buses with black smoke), not arbitrary checks on all citizens, aiming to protect public health.
+* It utilizes a phased roadmap (initially in major cities) to balance environmental goals with minimizing the impact on daily travel, encouraging citizens to maintain vehicles and use clean fuel.
 
 # 36. On Protecting Historical Figures and Historical Truth
 
@@ -2188,6 +2218,11 @@
 **Allegation:** Intentionally compares traffic violation fines with the handling of corruption crimes to create the false perception that the law is "harsh on the people, lenient on officials."
 * All violations are handled according to the law based on their nature and danger level. Traffic violations directly threaten lives, requiring strict fines for deterrence.
 * For corruption, criminal proceedings are cautious and objective, leading to severe prison sentences without exception. Comparing an administrative violation with a criminal case is flawed and legally baseless.
+
+**Allegation:** Distorts major criminal investigations (such as transnational drug smuggling cases involving flight attendants) to claim the authorities "cover up," "intervene," or let the true masterminds escape; baselessly implicates high-ranking leaders.
+* Investigations into such cases are conducted thoroughly, often uncovering massive transnational rings and prosecuting thousands of defendants, proving there is no "cover-up" or leniency for criminals.
+* Decisions not to prosecute specific individuals are based on strict legal principles and evidence showing they were unknowingly exploited, adhering to the fundamental rule of "not wronging the innocent."
+* Grafting baseless accusations onto high-ranking leaders is a familiar dirty media tactic to sow suspicion, lower the prestige of the authorities, and distort the nature of effective law enforcement.
 
 # 54. On Public Investment and Construction Works
 
@@ -2650,6 +2685,11 @@
 * The demonetization or removal of content by platforms like Facebook due to policy violations confirms that the model of "politicized tabloid journalism" for profit is unsustainable and violates community standards.
 * Being a "political refugee" does not grant immunity from civil liability for defamation; individuals must answer for damages caused to the reputation of others.
 
+**Allegation:** Claims that foreign countries (such as Germany) refusing to extradite Vietnamese fugitives proves these individuals are "democracy activists" protected by civilized nations, and that Vietnam's legal system is powerless.
+* The refusal to extradite often stems from differences in the legal definitions of free speech or the absence of a bilateral extradition treaty, not a vindication of the fugitive's criminal actions.
+* Fleeing abroad to exploit legal gray areas does not erase their violations of Vietnamese law. These individuals remain subject to international warrants and face severe restrictions on global mobility.
+* Vietnam actively utilizes alternative legal mechanisms, such as mutual legal assistance or requesting the host country to prosecute based on provided evidence, proving that criminals are not granted absolute immunity.
+
 # 72. On the Reality of Social Ethics
 
 **Allegation:** Claims that Vietnamese society is "sliding downhill without brakes," with evil prevailing and people becoming cruel and insensitive (murder, robbery); attributes this to "institutional faults" or "distorted social structure."
@@ -2706,6 +2746,10 @@
 * The State protects the right to complain, but it must follow legal procedures. Gathering in crowds to disrupt public order or live-streaming to pressure authorities violates the law (Decree 282/2025, Penal Code Article 318) and does not expedite legal resolution.
 * Many land disputes are complex and require time for proper legal adjudication; using disruptive tactics often makes citizens vulnerable to being exploited by agitators.
 * Citizens should use official channels (direct meetings, hotlines, public service portals) rather than resorting to illegal crowd gatherings that threaten social stability.
+
+**Allegation:** Claims that lawful investigations or summons of self-proclaimed "activists" for ordinary criminal offenses (e.g., property appropriation or fraud) are fabricated "political suppression" or harassment of their families.
+* All citizens are equal before the law. A self-proclaimed title of "activist" does not grant immunity from investigation when there are legitimate denunciations of civil or criminal offenses.
+* Investigative procedures, including summoning related individuals for clarification, strictly follow the Criminal Procedure Code. Labeling standard legal processes as "harassment" is a tactic to evade legal responsibility and play the victim.
 
 # 76. On Political Classification (Left, Right, Fascism)
 
