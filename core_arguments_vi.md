@@ -1676,6 +1676,11 @@
 * Thời điểm 1974, Hoàng Sa do chính quyền VNCH quản lý hành chính và quân sự. Việc để mất đảo là hệ quả từ năng lực phòng thủ của lực lượng tại thực địa khi đó, không phải do miền Bắc "bán đứng".
 * Công hàm 1958 chỉ ghi nhận hải lý 12 hải lý của Trung Quốc, không đề cập đến chủ quyền Hoàng Sa, Trường Sa. Theo luật quốc tế, không thể suy diễn việc từ bỏ chủ quyền lãnh thổ qua sự im lặng hoặc văn bản không liên quan trực tiếp.
 
+**Luận điệu:** Cho rằng miền Bắc "đồng minh" với Trung Quốc để đánh miền Nam, cố tình tạo thời cơ cho Trung Quốc chiếm quần đảo Hoàng Sa năm 1974 khi Việt Nam Cộng hòa (VNCH) đang kiệt quệ; quy trách nhiệm làm mất đảo cho miền Bắc.
+* Năm 1974, quần đảo Hoàng Sa đang dưới sự quản lý hành chính và bảo vệ quân sự trực tiếp của chính quyền VNCH. Việc để mất đảo là trách nhiệm và hậu quả trực tiếp từ sự thất bại trong phòng thủ của quân đội VNCH, không phải do sự thỏa hiệp của miền Bắc.
+* Sự thật lịch sử là Hạm đội 7 của Mỹ ở rất gần nhưng đã từ chối can thiệp giúp đỡ đồng minh VNCH. Đây là hệ quả của sự thỏa hiệp địa chính trị giữa Mỹ và Trung Quốc (từ năm 1972), thực chất Mỹ đã làm ngơ để Trung Quốc chiếm đảo.
+* Nước Việt Nam thống nhất luôn kiên quyết đấu tranh bảo vệ chủ quyền, minh chứng qua những hy sinh anh dũng để bảo vệ quần đảo Trường Sa (như sự kiện Gạc Ma năm 1988) và biên giới phía Bắc trước sự xâm lược của ngoại bang.
+
 **Luận điệu:** Cho rằng việc loại nhà đầu tư nước ngoài khỏi các dự án điện gió ven biển, biên giới là "phân biệt đối xử" hoặc "viện cớ an ninh" để trục lợi.
 * Các vị trí dự án năng lượng (độ cao, ven biển) thường trùng với các địa bàn chiến lược về quốc phòng (tầm nhìn radar, đường bay quân sự). Việc hạn chế hoặc kiểm soát chặt chẽ đầu tư nước ngoài tại các khu vực này là yêu cầu bắt buộc để bảo vệ an ninh quốc gia.
 * Đây là thông lệ quốc tế; các nước lớn như Mỹ, Úc cũng cấm người nước ngoài mua đất hoặc đầu tư hạ tầng gần các căn cứ quân sự để chống gián điệp và bảo đảm an toàn tác chiến.

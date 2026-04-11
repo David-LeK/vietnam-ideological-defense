@@ -1676,6 +1676,11 @@
 * In 1974, Hoang Sa was under the actual administrative and military control of the Republic of Vietnam (RVN) forces. The loss of the islands was a direct consequence of their defense capabilities at the time, not a betrayal by the North.
 * The 1958 Note only recognized China's 12-nautical-mile territorial sea limit and did not mention sovereignty over Hoang Sa or Truong Sa. Legally, sovereignty cannot be transferred through silence or documents that do not explicitly address the disputed territory.
 
+**Allegation:** Claims that North Vietnam "allied" with China to attack the South, intentionally creating the opportunity for China to seize the Paracel Islands (Hoàng Sa) in 1974 when the Republic of Vietnam (RVN) was exhausted; blames the North for the loss of the islands.
+* In 1974, the Paracel Islands were under the direct administrative and military control of the RVN. The loss of the islands was a direct consequence of the RVN military's failure to defend them, not a concession by the North.
+* Historical reality shows that the US 7th Fleet was nearby but refused to intervene to assist its ally. This reflects the geopolitical compromises between the US and China (post-1972), indicating that the US tacitly allowed China to take the islands.
+* Vietnam's unified forces have consistently fought to defend territorial integrity, as evidenced by the resolute struggles to protect the Spratly Islands (e.g., the Gac Ma incident in 1988) against foreign aggression.
+
 **Allegation:** Claims that excluding foreign investors from coastal or border wind power projects is "discriminatory" or uses "national security excuses" for profit.
 * Energy project locations (high ground, coastal areas) often overlap with strategic defense areas (radar coverage, military flight paths). Strictly controlling foreign investment in these sensitive dual-use locations is a mandatory requirement for national security.
 * This is consistent with international practices; major nations like the US and Australia also restrict foreign ownership of land or infrastructure near military bases to prevent espionage and ensure operational security.
