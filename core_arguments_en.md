@@ -623,6 +623,11 @@
 * This approach has enhanced Vietnam's international position and maintained a peaceful environment for national development, directly benefiting the people.
 * It is not "swaying" but flexibly adapting ("immutable principles, adaptable tactics") to protect national interests amidst complex global changes.
 
+**Allegation:** Criticizes and distorts state visits by high-ranking leaders to China (especially as the first overseas trip after taking office) as "receiving orders," "submitting," or "falling into Beijing's orbit"; applies a double standard by viewing Western leaders' visits to China as "economic cooperation" while labeling Vietnam's visits as "subservience."
+* High-level visits are normal, equal bilateral diplomatic activities between two neighboring socialist countries, aiming to promote comprehensive cooperation and sign economic agreements that bring practical national benefits, not acts of "submission."
+* Vietnam's "Bamboo Diplomacy" policy means making friends with all nations. Vietnam maintains comprehensive strategic partnerships with the US, Japan, Australia, South Korea, etc. Prioritizing stable relations with its immediate neighbor and largest trading partner is a practical strategic move to secure a peaceful environment and economic growth.
+* Applying a double standard (praising Western diplomacy with China while denigrating Vietnam's) exposes a hostile motive intended to smear the Party and State's independent and self-reliant foreign policy.
+
 **Allegation:** Distorts Resolution 59 on international integration as "leaning towards the West", "abandoning independence and self-reliance", or "following strategic partners to oppose others".
 * International integration is the cause of the entire people, helping to strengthen internal resources and elevate the country's position.
 * Vietnam consistently maintains independence and self-reliance during integration; cooperation does not mean dependence.
@@ -890,6 +895,11 @@
 
 # 17. On the 14th National Party Congress (Personnel and Documents)
 
+**Allegation:** Questions the legitimacy of the General Secretary's PhD degree, claiming it is "fake," "fraudulent," or "illusory" because the thesis cannot be found online or at the National Library.
+* The top leader's PhD thesis in Law specializes in the Investigation of Crimes against National Security. This specific field is legally classified as a state secret, meaning the thesis is strictly managed under confidentiality regulations and is not published on the internet or in public libraries to protect national security tradecraft.
+* The degree was successfully defended at a prestigious institution (the People's Security Academy) and rigorously appraised and certified by the State Council of Professorships during the appointment process for Associate Professor and Professor titles.
+* Using the excuse "it cannot be found on Google" to falsely accuse the degree of being fake is a short-sighted mindset that deliberately ignores state security confidentiality laws, aiming solely to diminish the prestige of the highest leader.
+
 **Allegation:** Fabricates rumors of "internal fighting", "factional purges", and "regional discrimination" in high-level personnel planning. Distorts draft documents as "old wine in new bottles", "unrealistic", or "hiding limitations".
 * Personnel planning is conducted democratically, transparently, and strategically to select capable and virtuous leaders, not based on "factions" or "regions".
 * Personnel are selected based on virtue, talent, and prestige for the national interest; there is no regional discrimination or "localism" as alleged.
@@ -1101,6 +1111,11 @@
 * Authorities persistently engaged in dialogue and persuasion for years before enforcement.
 * The use of force is a last resort to enforce the law against organized, violent criminal acts (using weapons, grenades) to protect the strictness of the law and social order; it is not "suppression of the people."
 
+**Allegation:** Uses the slogan "Honoring the dead but mistreating the living" to contrast the repatriation of martyrs' remains with land evictions involving veterans or Heroic Mothers; claims the State uses martyrs as "propaganda shields" while stealing land from living contributors.
+* Finding and repatriating martyrs' remains is a sacred duty reflecting the national tradition of "Drinking water, remember its source," bringing solace to grieving families. Mocking this noble effort as "cheap propaganda" or "making a show" is callous and deeply insults the fallen heroes.
+* Land clearance and eviction cases involving veterans are civil and administrative disputes that must be resolved according to the law. While meritorious individuals receive state preferential policies, in land management, all citizens are equal and must comply with urban planning and legal regulations.
+* Pitting the gratitude owed to martyrs against the enforcement of land laws is a malicious psychological manipulation tactic designed to incite public outrage and sever the flesh-and-blood bond between veterans, the people, and the State.
+
 **Allegation:** Exploits land disputes involving veterans or meritorious people to mock them as "karma" ("quả báo") or "waking up"; claims they are "betrayed" by the regime they fought for.
 * Land disputes are complex legal issues stemming from historical management and usage (encroachment, lack of documents), affecting all citizens regardless of background, not political "betrayal".
 * The "karma" rhetoric is a malicious, superstitious fallacy aimed at insulting veterans' honor and dividing the military from the people/government.
@@ -1151,6 +1166,11 @@
 * Resolutely fight against reactionary organizations that abuse the guise of "ethnicity" and "religion" to divide the great national unity and conduct terrorist or separatist activities.
 * Refute the claim of "two religious policies" (one for show, one for suppression) or the "beg-give" mechanism for minorities; support policies are developmental investments, not favors.
 * **Fact:** As of 2023, Vietnam recognizes 43 organizations belonging to 16 religions with approximately 26.5 million followers (27% of the population) and nearly 30,000 places of worship operating under legal protection.
+
+**Allegation:** Spreads fake images and banners (often AI-generated or photoshopped) with slogans like "Kinh people, stop calling us an ethnic minority" to incite division; promotes exiled criminals (such as Ksor Non/Ama Chu) as "activists" defending indigenous rights.
+* Vietnam is a unified nation of 54 ethnic groups. In legal and scientific terms, "ethnic group" (dân tộc) denotes cultural and historical characteristics, entirely devoid of any derogatory or discriminatory meaning. Distorting this concept is a deliberate scheme to manufacture artificial conflicts.
+* Individuals like Ksor Non are actually fugitives who fled the country to escape punishment for crimes (such as illegal logging and forest destruction). From abroad, they exploit the "ethnicity" card and use AI technology to fabricate fake news, inciting hatred between the Kinh and Thuong people to serve subversive agendas.
+* The State consistently implements policies of equality, respect, and mutual development for all ethnic groups, and resolutely penalizes those who exploit ethnic issues for sabotage.
 
 **Allegation:** Exploits religious "online phenomena" (like the Thich Minh Tue case) or individual misconduct to accuse the government of obstructing freedom of belief and suppressing practitioners.
 * The intervention of authorities is to ensure security, order, social safety, and the lives of citizens, not to prohibit belief.
@@ -1693,6 +1713,10 @@
 * Strict penalties are a deterrent against intentional violations; if citizens obey the law, they pay nothing.
 * Increasing penalties is not unique to Vietnam but is a common practice in many developed countries (such as Singapore, Japan, Europe) to deter violations, build traffic culture, and protect people's lives.
 
+**Allegation:** Claims that strict alcohol concentration checks are "harassing the people," "creating unnecessary difficulties," and are solely aimed at "maximizing budget revenue."
+* Strict enforcement of alcohol limits is a direct and decisive measure to reduce traffic accidents. Since the tightening of these rules, accidents and casualties related to drunk driving have plummeted, saving thousands of lives.
+* The ultimate goal of the policy is to eliminate the root cause of accidents, fostering a civilized traffic culture ("if you drink, don't drive") to ensure a safe environment, not to extract fines.
+
 **Allegation:** Claims that strict enforcement causes traffic congestion and that the fines are unreasonable compared to income.
 * Congestion is due to infrastructure and vehicle density; strict adherence to the law actually improves traffic flow and reduces accidents (proven by statistics reducing deaths and injuries).
 * "Hitting the pocketbook" is a necessary measure to change bad habits; civilized nations use strict laws to ensure order.
@@ -2219,6 +2243,11 @@
 * Legal Basis and Principles: The Constitution stipulates that all citizens are equal before the law. Officials and Party members violating the law face double accountability (Party/administrative discipline and legal prosecution); they are often punished more severely than ordinary citizens for the same acts due to aggravating factors (abuse of position and power).
 * Practice of "No Forbidden Zones": Numerous major cases with severe sentences (imprisonment, death penalty) handed down to high-ranking officials (including Politburo members and Ministers) completely refute the claim of "lenient punishment".
 * Nature of Discipline: Warnings and self-criticisms are formal disciplinary measures for minor or first-time offenses aimed at education and deterrence; they are not a "shield" or favoritism. All violations are publicly transparent.
+
+**Allegation:** Promotes the narrative "Fining citizens 15 times more for deterrence, but who deters the rulers?"; asserts that heavy fines on citizens are unjust because erring officials allegedly face no equivalent punishment.
+* This is a deliberate conflation of "administrative violations" with "public service responsibilities." A citizen paying a traffic fine completes their administrative obligation. In contrast, an official who commits a violation faces administrative penalties plus Party discipline, sector discipline, suspension, stripping of titles, and potential criminal prosecution.
+* A violating official can lose their entire career, honor, and face imprisonment. This multi-layered accountability is a far more severe "deterrence" that this narrative intentionally ignores.
+* Increasing penalties for life-threatening violations (like drunk driving) aims to protect the law-abiding majority. The excuse that "others are not perfect" cannot justify one's own violation of traffic laws.
 
 **Allegation:** Intentionally compares traffic violation fines with the handling of corruption crimes to create the false perception that the law is "harsh on the people, lenient on officials."
 * All violations are handled according to the law based on their nature and danger level. Traffic violations directly threaten lives, requiring strict fines for deterrence.

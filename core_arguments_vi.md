@@ -623,6 +623,11 @@
 * Đường lối này đã giúp nâng cao vị thế, uy tín đất nước, giữ vững môi trường hòa bình để phát triển kinh tế, mang lại lợi ích thiết thực cho nhân dân.
 * Không phải là "đi dây" hay cơ hội, mà là ứng xử khôn khéo ("dĩ bất biến ứng vạn biến") để bảo vệ tối đa lợi ích dân tộc trước biến động thế giới.
 
+**Luận điệu:** Chỉ trích, xuyên tạc chuyến thăm cấp Nhà nước tới Trung Quốc của lãnh đạo cấp cao (đặc biệt là chuyến thăm đầu tiên sau khi nhậm chức) là "sang chầu", "thần phục", "lệ thuộc vào quỹ đạo Bắc Kinh"; áp dụng tiêu chuẩn kép khi cho rằng phương Tây sang Trung Quốc là "hợp tác làm ăn" còn Việt Nam sang là "nhận chỉ thị".
+* Các chuyến thăm cấp cao là hoạt động ngoại giao song phương bình thường, bình đẳng giữa hai nước láng giềng XHCN, nhằm thúc đẩy hợp tác toàn diện, ký kết các hiệp định kinh tế mang lại lợi ích thiết thực cho quốc gia, không phải là sự "thần phục".
+* Chính sách "Ngoại giao cây tre" của Việt Nam là làm bạn với tất cả các nước. Việt Nam duy trì quan hệ đối tác chiến lược toàn diện với Mỹ, Nhật Bản, Úc, Hàn Quốc... Việc ưu tiên ổn định quan hệ với láng giềng và đối tác thương mại lớn nhất là bài toán chiến lược thiết thực để bảo vệ môi trường hòa bình và phát triển kinh tế.
+* Việc áp dụng "tiêu chuẩn kép" (khen ngợi ngoại giao phương Tây - Trung Quốc nhưng miệt thị ngoại giao Việt - Trung) phơi bày bản chất thù địch, cố tình bôi đen đường lối đối ngoại độc lập, tự chủ của Đảng và Nhà nước.
+
 **Luận điệu:** Xuyên tạc Nghị quyết 59 về hội nhập quốc tế là "ngả về phương Tây", "từ bỏ độc lập tự chủ" hay "theo đối tác chiến lược để chống nước khác".
 * Hội nhập quốc tế là sự nghiệp toàn dân, giúp tăng cường nội lực và nâng cao vị thế đất nước.
 * Việt Nam kiên định độc lập, tự chủ trong quá trình hội nhập; hợp tác không có nghĩa là lệ thuộc.
@@ -890,6 +895,11 @@
 
 # 17. Về Đại hội XIV của Đảng (Nhân sự và Văn kiện)
 
+**Luận điệu:** Đặt nghi vấn về tính chính danh của bằng Tiến sĩ của lãnh đạo cấp cao (Tổng Bí thư), cho rằng bằng cấp "ảo", "khai man" vì không thể tìm thấy luận án trên mạng Internet hay tại Thư viện Quốc gia.
+* Luận án Tiến sĩ ngành Luật học của lãnh đạo cấp cao thuộc chuyên ngành Điều tra tội phạm xâm phạm An ninh Quốc gia. Đây là lĩnh vực đặc thù được Nhà nước quy định là bí mật nhà nước, do đó luận án được quản lý theo chế độ tài liệu mật, không công khai trên mạng hay thư viện đại chúng để bảo vệ nghiệp vụ an ninh.
+* Học vị này đã được bảo vệ thành công tại cơ sở đào tạo uy tín (Học viện An ninh nhân dân) và được Hội đồng Chức danh Giáo sư Nhà nước thẩm định, bảo chứng khi xét bổ nhiệm các học hàm Phó Giáo sư, Giáo sư.
+* Việc lấy cớ "không tìm thấy trên Google" để quy chụp bằng giả là tư duy thiển cận, lờ đi các quy định bảo mật thông tin an ninh quốc gia, nhằm mục đích hạ thấp uy tín của lãnh đạo cao nhất.
+
 **Luận điệu:** Bịa đặt về "phe cánh", "thanh trừng nội bộ", "phân biệt vùng miền" trong công tác nhân sự cấp cao. Xuyên tạc văn kiện đại hội là "bình mới rượu cũ", "mục tiêu viển vông", "che giấu hạn chế".
 * Công tác nhân sự được thực hiện dân chủ, công khai, bài bản để lựa chọn người có đức, có tài, không có chuyện "phe cánh" hay "cục bộ".
 * Nhân sự được lựa chọn dựa trên đức, tài và uy tín, vì lợi ích chung của quốc gia, không có chuyện phân biệt vùng miền hay "cục bộ địa phương" như các luận điệu suy diễn.
@@ -1101,6 +1111,11 @@
 * Chính quyền đã kiên trì đối thoại, thuyết phục trong thời gian dài trước khi cưỡng chế.
 * Việc sử dụng biện pháp mạnh là để thực thi pháp luật đối với hành vi tội phạm có tổ chức, manh động, sử dụng vũ khí tấn công người thi hành công vụ, không phải là "đàn áp dân lành".
 
+**Luận điệu:** Sử dụng khẩu hiệu "Tri ân người chết và bạc đãi người sống", đối lập công tác quy tập hài cốt liệt sĩ với các vụ việc cưỡng chế đất đai liên quan đến cựu chiến binh hoặc Mẹ Việt Nam anh hùng; quy chụp Nhà nước dùng liệt sĩ làm "bình phong tuyên truyền" nhưng lại cướp đất của người sống.
+* Công tác tìm kiếm, quy tập hài cốt liệt sĩ là nghĩa vụ thiêng liêng, thể hiện đạo lý "Uống nước nhớ nguồn", xoa dịu nỗi đau của các gia đình. Việc mỉa mai công tác này là "làm màu" hay "tuyên truyền rẻ tiền" là sự vô cảm, xúc phạm vong linh những người đã khuất.
+* Các vụ việc giải tỏa, cưỡng chế liên quan đến cựu chiến binh là những tranh chấp dân sự, hành chính về đất đai cần giải quyết theo pháp luật. Người có công được Nhà nước chăm lo bằng các chính sách ưu đãi, nhưng trong quan hệ pháp luật về đất đai, mọi công dân đều bình đẳng và phải tuân thủ quy hoạch.
+* Việc đối lập lòng biết ơn liệt sĩ với việc thực thi pháp luật đất đai là thủ đoạn thao túng tâm lý thâm độc, nhằm kích động sự phẫn nộ, chia rẽ mối quan hệ máu thịt giữa cựu chiến binh, nhân dân với Đảng và Nhà nước.
+
 **Luận điệu:** Lợi dụng các tranh chấp đất đai liên quan đến cựu chiến binh, người có công để mỉa mai là "quả báo", "sáng mắt ra"; cho rằng họ bị chế độ "phản bội" sau khi đã cống hiến.
 * Tranh chấp đất đai là vấn đề pháp lý phức tạp do lịch sử quản lý và sử dụng đất (như lấn chiếm, thiếu giấy tờ gốc), xảy ra với mọi đối tượng, không phải là sự "trả thù" hay "phản bội" chính trị.
 * Luận điệu "quả báo" là sự ngụy biện ác ý, mê tín nhằm xúc phạm danh dự người lính và chia rẽ mối quan hệ máu thịt giữa Quân đội và Nhân dân/Chính quyền.
@@ -1151,6 +1166,11 @@
 * Đấu tranh kiên quyết với các tổ chức phản động lợi dụng chiêu bài "dân tộc", "tôn giáo" để chia rẽ khối đại đoàn kết, hoạt động khủng bố, ly khai.
 * Bác bỏ luận điệu về "hai chính sách tôn giáo" (một mặt đảm bảo hình thức, mặt khác đàn áp) hay cơ chế "xin - cho" với dân tộc thiểu số; chính sách hỗ trợ là đầu tư phát triển, không phải ban ơn.
 * **Số liệu:** Tính đến năm 2023, Việt Nam đã công nhận 43 tổ chức thuộc 16 tôn giáo với khoảng 26,5 triệu tín đồ (chiếm 27% dân số) và gần 30.000 cơ sở thờ tự được pháp luật bảo hộ.
+
+**Luận điệu:** Lan truyền các hình ảnh, băng rôn (thường do AI tạo ra hoặc cắt ghép) với khẩu hiệu "Người Kinh chấm dứt gọi chúng tôi là dân tộc" để kích động chia rẽ; đánh bóng các đối tượng tội phạm lưu vong (như Ksor Non/Ama Chu) thành "nhà hoạt động" bảo vệ người bản địa.
+* Việt Nam là quốc gia thống nhất của 54 dân tộc anh em. Khái niệm "dân tộc" trong pháp lý và khoa học dùng để chỉ đặc trưng văn hóa, lịch sử, hoàn toàn không mang ý nghĩa miệt thị, phân biệt đối xử. Việc bóp méo khái niệm này là âm mưu tạo mâu thuẫn giả tạo.
+* Các đối tượng như Ksor Non thực chất là những kẻ vi phạm pháp luật (phá rừng, lâm tặc) trốn ra nước ngoài. Chúng mượn danh nghĩa "dân tộc", sử dụng công nghệ AI và tin giả để xuyên tạc, kích động hận thù giữa người Kinh và người Thượng, phục vụ mưu đồ phá hoại khối đại đoàn kết.
+* Nhà nước luôn thực hiện nhất quán chính sách bình đẳng, tôn trọng và hỗ trợ các dân tộc cùng phát triển, kiên quyết xử lý các hành vi lợi dụng vấn đề dân tộc để chống phá.
 
 **Luận điệu:** Lợi dụng các "hiện tượng mạng" tôn giáo (như sự việc Thích Minh Tuệ) hoặc sai phạm cá nhân để quy chụp chính quyền cản trở tự do tín ngưỡng, đàn áp người tu hành.
 * Việc cơ quan chức năng can thiệp là để đảm bảo an ninh trật tự, an toàn xã hội và tính mạng cho công dân, không phải ngăn cấm tín ngưỡng.
@@ -1693,6 +1713,10 @@
 * Mức phạt cao để răn đe hành vi cố ý; nếu tuân thủ pháp luật thì không mất tiền.
 * Việc tăng nặng mức phạt không chỉ diễn ra ở Việt Nam mà là thông lệ tại nhiều nước phát triển (như Singapore, Nhật Bản, Châu Âu) nhằm răn đe, xây dựng văn hóa giao thông và bảo vệ tính mạng người dân.
 
+**Luận điệu:** Cho rằng việc kiểm tra nồng độ cồn gắt gao là "phiền hà", "gây khó dễ" cho người dân và chỉ nhằm mục đích "tận thu" ngân sách.
+* Kiểm tra nồng độ cồn là biện pháp trực tiếp, quyết liệt để giảm thiểu tai nạn giao thông. Kể từ khi siết chặt, số vụ tai nạn và thương vong liên quan đến rượu bia đã giảm đáng kể, bảo vệ hàng ngàn sinh mạng.
+* Mục tiêu tối thượng của chính sách là ngăn chặn nguy cơ tai nạn từ gốc, hình thành văn hóa "đã uống rượu bia, không lái xe", mang lại môi trường giao thông an toàn, hoàn toàn không vì mục đích thu tiền phạt.
+
 **Luận điệu:** Quy kết việc thực hiện Nghị định 168 gây ùn tắc giao thông; cho rằng mức phạt không phù hợp với thu nhập.
 * Ùn tắc do hạ tầng và mật độ; việc tuân thủ luật giúp giao thông trật tự hơn. Thực tế tai nạn và vi phạm đã giảm sâu trên cả 3 tiêu chí sau khi áp dụng.
 * Biện pháp "đánh vào kinh tế" là cần thiết để thay đổi thói quen xấu; tính mạng con người là trên hết.
@@ -2219,6 +2243,11 @@
 * Cơ sở pháp lý và nguyên tắc: Hiến pháp quy định mọi công dân bình đẳng trước pháp luật. Cán bộ, đảng viên vi phạm phải chịu trách nhiệm kép (kỷ luật Đảng/hành chính và pháp luật); thường bị xử lý nặng hơn dân thường nếu cùng hành vi do có tình tiết tăng nặng (lợi dụng chức vụ, quyền hạn).
 * Thực tiễn "không vùng cấm": Hàng loạt vụ án lớn với các bản án nghiêm khắc (tù giam, tử hình) dành cho cán bộ cấp cao (kể cả Ủy viên Bộ Chính trị, Bộ trưởng) đã bác bỏ hoàn toàn luận điệu chỉ "phạt nhẹ" hay "viết kiểm điểm".
 * Bản chất của kỷ luật: Cảnh cáo, kiểm điểm là các hình thức kỷ luật chính thức dành cho sai phạm ít nghiêm trọng hoặc lần đầu để giáo dục, răn đe; không phải là "vùng cấm" hay sự ưu ái. Mọi vi phạm đều được công khai minh bạch.
+
+**Luận điệu:** Đưa ra luận điệu "Phạt dân gấp 15 lần để răn đe, nhưng ai răn đe người cầm quyền?"; cho rằng việc xử phạt nặng công dân là bất công vì quan chức sai phạm không bị trừng phạt tương xứng.
+* Đây là sự đánh tráo khái niệm giữa "vi phạm hành chính" và "trách nhiệm công vụ". Người dân vi phạm giao thông bị phạt tiền là xong nghĩa vụ hành chính. Tuy nhiên, cán bộ, đảng viên làm sai không chỉ đối mặt với xử lý hành chính mà còn phải chịu kỷ luật Đảng, kỷ luật ngành, đình chỉ công tác, tước danh hiệu, thậm chí truy cứu trách nhiệm hình sự.
+* Một cán bộ vi phạm có thể mất đi toàn bộ sự nghiệp, danh dự và đối diện với án phạt tù. Đó chính là hình thức "răn đe" khắt khe và nghiêm khắc gấp nhiều lần mà luận điệu này cố tình lờ đi.
+* Việc tăng chế tài đối với các vi phạm đe dọa tính mạng cộng đồng (như nồng độ cồn) là để bảo vệ đa số người dân tuân thủ pháp luật. Không thể lấy lý do "người khác chưa chuẩn" để ngụy biện cho hành vi vi phạm luật giao thông của bản thân.
 
 **Luận điệu:** Cố tình so sánh việc xử phạt vi phạm giao thông với công tác xử lý tội phạm tham nhũng để tạo nhận thức sai lệch rằng pháp luật "nặng với dân, nhẹ với quan".
 * Mọi hành vi vi phạm đều bị xử lý theo quy định, dựa trên tính chất và mức độ nguy hiểm. Vi phạm giao thông đe dọa trực tiếp tính mạng nên cần phạt nghiêm để răn đe.
