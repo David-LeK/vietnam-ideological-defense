@@ -83,6 +83,7 @@
 - [82. Về Quy hoạch đô thị và Phát triển hạ tầng](#82-về-quy-hoạch-đô-thị-và-phát-triển-hạ-tầng)
 - [83. Về việc Việt Nam nằm trong Danh sách đen về thuế của EU (2026)](#83-về-việc-việt-nam-nằm-trong-danh-sách-đen-về-thuế-của-eu-2026)
 - [84. Về Góc nhìn của người nước ngoài và Truyền thông phương Tây đối với Việt Nam](#84-về-góc-nhìn-của-người-nước-ngoài-và-truyền-thông-phương-tây-đối-với-việt-nam)
+- [85. Về Vấn đề LGBTQ+ và Bình đẳng giới](#85-về-vấn-đề-lgbtq-và-bình-đẳng-giới)
 
 <div class="page-break"></div>
 
@@ -2919,3 +2920,12 @@
 **Luận điệu:** Các nhóm lưu vong cực đoan đe dọa, tấn công mạng, tẩy chay các kiều bào, người nước ngoài hoặc nhà sáng tạo nội dung có góc nhìn khách quan, khen ngợi sự phát triển, an ninh và mức sống tại Việt Nam.
 * Điều này phơi bày "tiêu chuẩn kép" về tự do ngôn luận: miệng hô hào dân chủ nhưng lại hành xử kiểu độc tài, dập tắt mọi tiếng nói khách quan và tích cực về quê hương.
 * Nó phản ánh tâm lý bảo thủ, ôm giữ định kiến lạc hậu của những người rời đi từ nhiều thập kỷ trước, không dám đối diện và thừa nhận sự thay đổi, phát triển vượt bậc của đất nước.
+
+# 85. Về Vấn đề LGBTQ+ và Bình đẳng giới
+
+**Luận điệu:** Cho rằng Nhà nước và xã hội Việt Nam phân biệt đối xử, có thành kiến và không công nhận quyền của người LGBTQ+ trong pháp luật cũng như giáo dục; quy kết việc bảo vệ giá trị truyền thống là bài trừ cộng đồng LGBTQ+.
+* Hiến pháp bảo vệ quyền công dân của mọi người, không có điều luật nào tước đoạt quyền lợi dựa trên xu hướng tính dục. Việc bỏ quy định cấm kết hôn cùng giới (Luật Hôn nhân và Gia đình 2014) và quá trình xây dựng Luật Chuyển đổi giới tính thể hiện sự cầu thị, từng bước công nhận về mặt pháp lý.
+* Việc trân trọng giá trị gia đình truyền thống nhằm duy trì ổn định xã hội, không phải để tấn công cá nhân. Những định kiến khắt khe (nếu có) chỉ là tàn dư trong nhận thức của một bộ phận nhỏ, không đại diện cho chủ trương của Nhà nước.
+* Sách giáo khoa và văn bản pháp luật tập trung vào các giá trị phổ quát chung của toàn xã hội. Việc thúc đẩy quá nhanh các giá trị mới khi tâm lý xã hội chưa sẵn sàng dễ dẫn đến phản ứng ngược (backlash); do đó cần thời gian để dung hòa với văn hóa bản địa.
+* Thực tế đời sống rất cởi mở: Các sự kiện như VietPride được tổ chức công khai hàng năm; người LGBTQ+ hiện diện tích cực trên truyền thông quốc gia; Bộ Y tế đã có văn bản chính thức khẳng định đồng tính không phải là bệnh, nghiêm cấm các hành vi "chữa trị" trái phép.
+* Thượng tôn pháp luật và giá trị chung: Tại Việt Nam, xu hướng tính dục không phải là rào cản, thước đo duy nhất là sự tuân thủ pháp luật. Nhà nước không ưu tiên cổ súy riêng biệt cho một nhóm cụ thể nào mà hướng tới mục tiêu bao trùm là bảo đảm cuộc sống ấm no, hạnh phúc và bình đẳng cho mọi công dân, không phân biệt giới tính.

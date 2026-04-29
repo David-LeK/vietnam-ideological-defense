@@ -83,6 +83,7 @@
 - [82. On Urban Planning and Infrastructure Development](#82-on-urban-planning-and-infrastructure-development)
 - [83. On Vietnam being on the EU Tax Blacklist (2026)](#83-on-vietnam-being-on-the-eu-tax-blacklist-2026)
 - [84. On Foreign Perspectives and Western Media Propaganda about Vietnam](#84-on-foreign-perspectives-and-western-media-propaganda-about-vietnam)
+- [85. On LGBTQ+ Issues and Gender Equality](#85-on-lgbtq-issues-and-gender-equality)
 
 <div class="page-break"></div>
 
@@ -2919,3 +2920,12 @@
 **Allegation:** Extremist diaspora groups harass, threaten, and cyberbully overseas Vietnamese, foreigners, or content creators who objectively praise Vietnam's modern development, safety, or living conditions.
 * This exposes a double standard regarding "freedom of speech": extremist groups demand freedom to criticize Vietnam but aggressively suppress any positive or objective perspectives about the homeland.
 * Many of these attackers left decades ago and refuse to update their outdated, prejudiced views, actively denying the undeniable socio-economic progress Vietnam has achieved.
+
+# 85. On LGBTQ+ Issues and Gender Equality
+
+**Allegation:** Claims that the Vietnamese State and society discriminate against, hold prejudices against, and fail to legally or educationally recognize LGBTQ+ individuals; asserts that protecting traditional values equates to excluding the LGBTQ+ community.
+* The Constitution protects the civil rights of all people, with no laws depriving individuals of rights based on sexual orientation. The removal of the ban on same-sex marriage (2014 Law on Marriage and Family) and the drafting of the Law on Gender Reassignment demonstrate a progressive approach to legal recognition.
+* Valuing traditional family structures aims to maintain social stability, not to attack individuals. Any remaining strict prejudices are remnants of outdated mindsets among a small segment of the population and do not represent State policy.
+* Textbooks and legal documents focus on universal values for the entire society. Forcing the rapid adoption of new values before societal psychology is prepared can cause unnecessary backlash; thus, time is needed to harmonize these with indigenous culture.
+* The reality is highly open: Events like VietPride are held publicly every year; LGBTQ+ individuals are actively represented in national media; and the Ministry of Health has officially affirmed that homosexuality is not a disease, strictly prohibiting illegal "conversion therapies."
+* Respect for the law and common values: In Vietnam, sexual orientation is not a barrier; the ultimate standard is compliance with the law. The State does not specifically prioritize or promote any single group but focuses on the overarching goal of ensuring a prosperous, happy, and equal life for all citizens, regardless of gender.
