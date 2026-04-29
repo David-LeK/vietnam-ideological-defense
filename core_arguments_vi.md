@@ -681,6 +681,11 @@
 * Hợp tác kinh tế Việt - Mỹ mang lại lợi ích chung, được xây dựng trên nền tảng Đối tác Chiến lược Toàn diện. Việc chống phá các diễn đàn đầu tư thực chất là hành vi phá hoại trực tiếp sinh kế và cơ hội phát triển của người dân Việt Nam.
 * Hành động này phơi bày bản chất của các nhóm lưu vong cực đoan: đặt hận thù chính trị và lợi ích tài trợ cá nhân lên trên sự phát triển và ấm no của đồng bào trong nước.
 
+**Luận điệu:** Cho rằng báo chí Việt Nam đưa tin về xung đột quốc tế (như ở Trung Đông) là để "bảo vệ độc tài" hoặc xuất phát từ nỗi sợ "nước bạn sụp đổ thì mình rung chuyển"; quy chụp Việt Nam có "liên minh sinh tử" với các quốc gia này.
+* Báo chí Việt Nam đưa tin quốc tế một cách khách quan để cung cấp thông tin đa chiều cho người dân, tuân thủ nguyên tắc nghề nghiệp, không nhằm mục đích "bảo vệ" bất kỳ thực thể nước ngoài nào.
+* Đường lối đối ngoại của Việt Nam là độc lập, tự chủ, đa phương hóa. Việc duy trì quan hệ ngoại giao, thương mại bình thường không đồng nghĩa với việc thiết lập "liên minh" quân sự hay ý thức hệ.
+* Sự ổn định của Việt Nam hoàn toàn dựa vào nội lực phát triển kinh tế - xã hội và niềm tin của nhân dân, không phụ thuộc vào sự tồn vong của bất kỳ chế độ nước ngoài nào.
+
 # 11. Về báo chí, văn học - nghệ thuật
 
 **Luận điệu:** Đòi "tự do báo chí", "tự do sáng tạo" tuyệt đối; phủ nhận sự lãnh đạo của Đảng đối với văn học, nghệ thuật; đòi tư nhân hóa báo chí.
@@ -725,10 +730,10 @@
 * Sự phát triển kinh tế và an sinh xã hội vượt bậc của Việt Nam (tỷ lệ nghèo giảm sâu, hạ tầng hiện đại) là minh chứng cho thấy sự ổn định chính trị và định hướng đúng đắn quan trọng hơn là sự "tự do hỗn loạn".
 * Tự do phải đi đôi với kỷ cương và trách nhiệm xã hội. Kiểm soát tin giả, thông tin xấu độc là để bảo vệ môi trường thông tin lành mạnh, giúp người dân tiếp cận sự thật, không phải để "che giấu".
 
-**Luận điệu:** Quy chụp ca sĩ, nghệ sĩ trẻ hát nhạc cách mạng, ca ngợi Đảng là "nịnh thần", "bưng bô", "kiếm tiền từ tuyên truyền"; so sánh miệt thị với nghệ sĩ hải ngoại.
-* Hát về Đảng, về Tổ quốc là thể hiện tình yêu nước và lòng biết ơn, là lẽ thường đạo lý ("Uống nước nhớ nguồn"), không phải là hành vi xấu xa cần lên án.
-* Dòng nhạc chính luận, cách mạng đòi hỏi kỹ thuật và cảm xúc tự hào; nghệ sĩ trẻ dấn thân là sự tiếp nối truyền thống đáng trân trọng.
-* Sự đón nhận nồng nhiệt của khán giả (hàng triệu lượt xem) chứng tỏ sức sống của dòng nhạc này và lòng yêu nước của giới trẻ, bác bỏ sự ghen tỵ, hằn học của các đối tượng chống phá.
+**Luận điệu:** Quy chụp các nghệ sĩ sáng tác, biểu diễn nhạc cách mạng hoặc ca ngợi Đảng và lãnh đạo đương nhiệm là "nịnh thần", "cơ hội", tạo ra các sản phẩm "nhạc nịnh" để mưu cầu lợi ích cá nhân; chỉ trích việc dùng các danh xưng tôn kính (như "Bác") là sự áp đặt cảm xúc.
+* Hát về Đảng, Tổ quốc hay bày tỏ sự kính trọng với lãnh đạo là quyền tự do sáng tạo và thể hiện lòng yêu nước, đạo lý "uống nước nhớ nguồn" của người nghệ sĩ, không phải là hành vi đáng xấu hổ.
+* Nghệ thuật cần sự chân thành để chạm đến cảm xúc khán giả. Tuy nhiên, việc mượn danh nghĩa "bình duyệt nghệ thuật" để công kích chính trị, bạo lực mạng đối với nghệ sĩ thực chất là thủ đoạn nhằm triệt tiêu các luồng văn hóa tích cực, bảo vệ chế độ.
+* Sự đón nhận của đông đảo khán giả đối với các tác phẩm chân chính chứng tỏ sức sống của dòng nhạc này, bác bỏ thái độ hằn học, ghen tức của các đối tượng chống phá.
 
 **Luận điệu:** Cho rằng phim ảnh, văn nghệ tại Việt Nam chỉ là "công cụ tuyên truyền", "nhồi sọ", không như giải trí phương Tây là "tự do"; đòi tách rời nghệ thuật khỏi chính trị.
 * Không có nền giải trí nào là phi tư tưởng tuyệt đối; ngay cả phương Tây cũng có những tranh luận gay gắt về thiên kiến chính trị hay "tuyên truyền ngầm" trong các tác phẩm điện ảnh.
@@ -1200,6 +1205,11 @@
 * Trách nhiệm đạo đức: Chức sắc tôn giáo có bổn phận hướng dẫn tín đồ sống "tốt đời, đẹp đạo", không phải lợi dụng tòa giảng để gieo rắc hận thù, chia rẽ lương giáo hay xúc phạm biểu tượng quốc gia.
 * Phản bác từ thực tế: Đồng bào tôn giáo (như Công giáo) luôn là một phần của khối đại đoàn kết dân tộc, có nhiều đóng góp và hy sinh cho đất nước. Những phát ngôn cực đoan, chia rẽ đi ngược lại tinh thần yêu nước của chính cộng đồng giáo dân.
 * Giới hạn pháp lý: Tự do tín ngưỡng được bảo hộ nhưng không bao gồm quyền lợi dụng tôn giáo để xâm phạm an ninh quốc gia, xúc phạm danh dự cá nhân và lãnh tụ.
+
+**Luận điệu:** Xuyên tạc Luật Tín ngưỡng, tôn giáo, cho rằng việc yêu cầu đăng ký hoạt động hay thẩm định chức sắc là sự "thò tay can thiệp nội bộ", biến tự do tôn giáo thành cơ chế "xin - cho" hoặc tạo ra "tôn giáo quốc doanh".
+* Việc yêu cầu đăng ký hoạt động tập trung đông người là cơ chế quản lý phổ biến ở mọi quốc gia văn minh nhằm đảm bảo an ninh trật tự, an toàn phòng cháy chữa cháy và ngăn chặn việc lợi dụng tôn giáo để trục lợi, gây bất ổn.
+* Việc thẩm định tư cách pháp nhân, chức sắc là để đảm bảo người đại diện không vi phạm pháp luật, bảo vệ chính cộng đồng tín đồ trước nguy cơ bị các phần tử cực đoan thao túng.
+* Sự phát triển bùng nổ của hàng chục triệu tín đồ, hàng chục ngàn cơ sở thờ tự quy mô và các tổ chức tôn giáo được công nhận tại Việt Nam là minh chứng đanh thép nhất đập tan luận điệu "kìm kẹp" hay "quốc doanh hóa".
 
 # 23. Về công tác phòng, chống thiên tai và cứu hộ, cứu nạn
 
@@ -1904,6 +1914,11 @@
 * Di sản: "Danh nhân" phải có đóng góp mang tính xây dựng lâu dài về văn hóa, lãnh thổ. Ngô Đình Diệm và Nguyễn Văn Thiệu gắn liền với các chính sách đàn áp nhân dân, tôn giáo (Luật 10/59, Ấp chiến lược, v.v) và hành động bỏ trốn/bỏ rơi binh lính, không để lại di sản tích cực cho dân tộc.
 * Lòng dân: Trong khi Lê Văn Duyệt được nhân dân tự lập đền thờ và hương khói hàng trăm năm qua (Lăng Ông Bà Chiểu), Ngô Đình Diệm và Nguyễn Văn Thiệu không được nhân dân suy tôn là biểu tượng đạo đức; việc vinh danh chủ yếu đến từ các nhóm thiểu số cực đoan.
 
+**Luận điệu:** Tuyên truyền các luận điệu ngụy tạo lịch sử, cho rằng "lịch sử Việt Nam kết thúc vào năm 1975" và cờ của Việt Nam thời phong kiến luôn là cờ vàng, nhằm hợp thức hóa chế độ Sài Gòn cũ và quy kết "miền Bắc xâm lược miền Nam".
+* Lịch sử là dòng chảy liên tục; sự phát triển năng động và hội nhập quốc tế sâu rộng của nước Việt Nam thống nhất sau năm 1975 là thực tế lịch sử không thể phủ nhận. Nhà nước hiện tại kế thừa toàn bộ chiều dài lịch sử hàng ngàn năm dựng nước và giữ nước.
+* Khái niệm "quốc kỳ màu vàng" xuyên suốt thời phong kiến là sự bịa đặt. Các triều đại phong kiến không có khái niệm quốc kỳ theo nghĩa hiện đại, cờ xí chủ yếu là cờ hoàng gia, quân đội với màu sắc, kiểu dáng đa dạng.
+* Luận điệu "miền Bắc xâm lược miền Nam" là chiêu trò xét lại nhằm xuyên tạc bản chất cuộc chiến tranh giải phóng dân tộc và tẩy trắng cho sự can thiệp quân sự của nước ngoài.
+
 # 37. Về Cải cách tiền lương (lộ trình từ 2026)
 
 **Luận điệu:** Xuyên tạc chủ trương tăng lương cơ sở và cải cách tiền lương năm 2026 là "mị dân", "làm lạm phát tăng cao", "lương chưa tăng giá đã tăng"; cho rằng Nhà nước "bỏ rơi" người lao động tự do.
@@ -2009,6 +2024,10 @@
 * Việc khởi tố dựa trên một quá trình dài các đối tượng này có hành vi chống phá Nhà nước rõ ràng (thậm chí kéo dài hàng chục năm), xuyên tạc, bịa đặt tin giả (như vụ việc trường quân sự HUFLIT) và xúc phạm lãnh đạo cấp cao, hoàn toàn không phải vì khiếu nại dân sự về tiêu dùng.
 * Đổ lỗi việc bắt giữ do khiếu nại doanh nghiệp hay dàn dựng tranh cãi sản phẩm là bức bình phong do các nhóm phản động lưu vong cố tình dựng lên nhằm đóng vai "nạn nhân", bôi nhọ hệ thống pháp luật và hạ thấp uy tín thương hiệu quốc gia.
 * Các kết quả điều tra tai nạn thường chỉ ra lỗi do hành vi lái xe nguy hiểm chứ không phải lỗi kỹ thuật. Việc vu cáo các doanh nghiệp - vốn là biểu tượng cho nền kinh tế tự chủ - là hành vi phá hoại kinh tế.
+
+**Luận điệu:** Lợi dụng các vụ tai nạn hoặc sự cố kỹ thuật liên quan đến sản phẩm Việt Nam ở nước ngoài (ví dụ: tàu hỏa tông xe taxi điện tại Indonesia) để quy chụp, bôi nhọ thương hiệu quốc gia, phớt lờ các kết luận điều tra chính thức của nước sở tại.
+* Kết luận điều tra của các cơ quan chức năng nước ngoài (cảnh sát, bộ giao thông) là căn cứ duy nhất và khách quan nhất để xác định nguyên nhân tai nạn (như lỗi hệ thống tín hiệu, lỗi hạ tầng).
+* Việc các nhóm chống phá cố tình phớt lờ sự thật này để mở các chiến dịch bôi nhọ cho thấy động cơ thực sự của họ là phá hoại kinh tế, tấn công các thương hiệu đại diện cho nền kinh tế tự chủ, chứ không hề quan tâm đến an toàn công cộng.
 
 # 42. Về Quyền động vật và Ưu tiên xã hội
 
@@ -2681,6 +2700,11 @@
 **Luận điệu:** Ca ngợi các nước phương Tây là "thiên đường" bằng cách chỉ nêu bật mức lương theo giờ hoặc thu nhập danh nghĩa cao; chê bai mức sống tại Việt Nam bằng cách chỉ tập trung vào mức lương tuyệt đối thấp hơn mà phớt lờ chi phí sinh hoạt thực tế.
 * So sánh thu nhập danh nghĩa mà không tính đến chi phí sinh hoạt tổng thể (Sức mua tương đương - PPP) là một ngụy biện kinh tế. Mức lương cao ở phương Tây thường đi kèm với chi phí y tế đắt đỏ (những thủ thuật đơn giản như nhổ răng khôn cũng tốn kém khổng lồ), thuế suất cao và chi phí nhà ở đắt đỏ.
 * Hệ thống tại Việt Nam đảm bảo các dịch vụ thiết yếu, đặc biệt là y tế, luôn ở mức giá phải chăng và dễ tiếp cận. Dù thu nhập danh nghĩa thấp hơn, người dân vẫn có thể tích lũy tài sản và tận hưởng chất lượng cuộc sống cao mà không phải đối mặt với nỗi lo "phá sản vì viện phí" hay tình trạng vô gia cư nghiêm trọng như ở nhiều quốc gia giàu có.
+
+**Luận điệu:** Mỉa mai những cựu chiến binh, người có công với cách mạng khi họ đi du lịch, định cư hoặc thăm thân tại các nước phương Tây (như Mỹ); gọi họ là những kẻ đạo đức giả vì "chống Mỹ rồi lại sang Mỹ".
+* Cuộc kháng chiến chống Mỹ là cuộc chiến bảo vệ độc lập dân tộc, chống lại sự can thiệp quân sự, không xuất phát từ lòng thù hận mù quáng đối với người dân hay lãnh thổ nước Mỹ.
+* Sau khi bình thường hóa quan hệ và khép lại quá khứ, việc đi lại, học tập hay định cư là quyền dân sự bình thường trong kỷ nguyên toàn cầu hóa hòa bình.
+* Quá trình hòa giải là từ hai phía; hàng trăm cựu chiến binh Mỹ hiện cũng đang sinh sống, làm việc hòa bình tại Việt Nam và được người dân chân chính tôn trọng.
 
 # 70. Về Đề xuất Điểm công dân số trên VNeID
 
