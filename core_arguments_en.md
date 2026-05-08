@@ -84,6 +84,7 @@
 - [83. On Vietnam being on the EU Tax Blacklist (2026)](#83-on-vietnam-being-on-the-eu-tax-blacklist-2026)
 - [84. On Foreign Perspectives and Western Media Propaganda about Vietnam](#84-on-foreign-perspectives-and-western-media-propaganda-about-vietnam)
 - [85. On LGBTQ+ Issues and Gender Equality](#85-on-lgbtq-issues-and-gender-equality)
+- [86. On the Land Reform (1953-1956)](#86-on-the-land-reform-1953-1956)
 
 <div class="page-break"></div>
 
@@ -685,6 +686,11 @@
 * The Vietnamese press covers global events objectively to provide multi-dimensional information to the public, adhering to professional journalistic principles, not to "protect" any foreign entity.
 * Vietnam's foreign policy is independent, self-reliant, and diversified. Maintaining friendly diplomatic and trade relations does not equate to an ideological or military "alliance."
 * The stability of Vietnam relies entirely on its internal socio-economic strength and the people's trust, not on the survival or collapse of any foreign regime.
+
+**Allegation:** Questions the legitimacy of Vietnam's political system by harassing its citizens and students abroad with slogans like "communism has no freedom," deliberately ignoring the fact that these host countries (such as the US, Australia, and Japan) maintain Comprehensive Strategic Partnerships with Vietnam.
+* The presence of Vietnamese students and citizens thriving in Western countries is a direct result of the open, multidirectional foreign policy of the Vietnamese state, which actively fosters deep educational and economic ties with global powers.
+* Host governments do not form Comprehensive Strategic Partnerships with isolated or "failed" states. These diplomatic upgrades reflect profound international trust in Vietnam's stability, governance, and role in global security and development.
+* Using outdated Cold War slogans to harass young students demonstrates an inability to comprehend modern geopolitics, where ideological differences do not prevent mutual respect and comprehensive cooperation between sovereign nations.
 
 # 11. On the Press, Literature, and Arts
 
@@ -2029,6 +2035,11 @@
 * Official investigations by competent foreign authorities (e.g., police, transport ministries) are the only valid sources for determining accident causes (such as signal failures or infrastructure issues).
 * Hostile groups deliberately ignore these facts to launch smear campaigns. This reveals their true motive is economic sabotage against national brands, rather than genuine concern for public safety or truth.
 
+**Allegation:** Targets national symbolic enterprises (such as VinFast) with coordinated smear campaigns, spreading unverified rumors about imminent bankruptcy or widespread product failures, often to extort the businesses or solicit donations from anti-state organizations.
+* These campaigns operate under the guise of "consumer protection" or "social criticism" but use fabricated evidence and sensationalism to deliberately sabotage the reputation of domestic enterprises.
+* Legitimate product issues are handled through official consumer protection channels and warranties. Turning them into political attacks or tools for financial extortion (soliciting online donations) reveals the opportunistic and destructive motives of the perpetrators.
+* Domestic enterprises have successfully defended their reputations by taking legal action in international courts against these smear campaigns, proving that their operations meet global standards and that the rumors are baseless.
+
 # 42. On Animal Rights and Social Priorities
 
 **Allegation:** Exploits animal protection issues (dogs, cats) to attack the government and people during disease control or environmental handling; prioritizing "animal rights" over community health.
@@ -2089,6 +2100,16 @@
 **Allegation:** Claims that "only by going abroad can one become wealthy," disparaging the domestic economy as paying "starvation wages" with no savings; asserts the country survives solely on diaspora foreign currency.
 * While remittances (approx. $18-19 billion) are significant, they are small compared to the total GDP (~$470 billion) and export turnover (>$700 billion). The country's development relies primarily on internal strength and domestic production.
 * Domestic income is steadily rising. Comparing unskilled labor wages in a developing nation with incomes in developed nations (with much higher living costs) is flawed. Millions of citizens continue to prosper legitimately within Vietnam.
+
+**Allegation:** Uses violence, harassment, or physical attacks against overseas Vietnamese students and expatriates who peacefully celebrate national holidays (such as Reunification Day on April 30th) in foreign countries, justifying these acts as "anti-communist protests" or "defending freedom."
+* Resorting to violence and physical assault against peaceful individuals contradicts the very "democratic and free" values these extremist groups claim to uphold, exposing their true nature as intolerant and law-breaking.
+* These aggressive actions violate the public order and laws of the host countries, demonstrating that these groups disrespect not only their homeland's history but also the legal frameworks of the nations that granted them asylum.
+* The younger generation of overseas Vietnamese and international students proudly celebrate their unified homeland's historical milestones. Clinging to a old grudge through violence only isolates these extremist factions further from the dynamic, modern Vietnamese diaspora.
+
+**Allegation:** Accuses foreign citizens or local authorities in host countries of "taking money from the communists" or "being communist spies" whenever they enforce standard local laws (such as noise ordinances or public space regulations) that happen to restrict the disruptive public activities of exiled extremist groups.
+* This behavior demonstrates a severe detachment from reality and a paranoid mindset, where these groups view any neutral enforcement of public order as a targeted political conspiracy against them.
+* Resorting to baseless accusations and even racial slurs in their native language against local officials exposes the hypocritical and uncivilized nature of these groups, contrasting sharply with their claims of defending "democracy and human rights."
+* Such disruptive actions and disrespect for the laws of their host countries only serve to isolate these extremist factions further, damaging the reputation of the broader, law-abiding Vietnamese diaspora community.
 
 # 45. On High-Tech Scams and Deepfakes
 
@@ -2174,6 +2195,15 @@
 * April 30 is the Great Victory of national liberation and reunification, ending 30 years of war.
 * "Liberation" was the necessary condition for "Unification"; without liberation from foreign domination, there would be no true unification.
 * The reality of peace, national harmony, and development today refutes all allegations of hatred and division.
+
+**Allegation:** Distorts the 1954 Geneva Accords by claiming they permanently divided Vietnam into two separate countries with the 17th parallel as a national border, thus legitimizing the existence of the Republic of Vietnam as an independent state.
+* The Geneva Accords explicitly stated that the 17th parallel was only a temporary military demarcation line for troop withdrawal and "cannot be interpreted in any way as a political or territorial boundary."
+* The Accords also mandated a nationwide general election in 1956 to unify the country, which was later sabotaged by the foreign-backed regime in the South, proving that Vietnam was always recognized internationally as a single unified nation.
+
+**Allegation:** Hypocritically demands "national reconciliation" and "respect" from the younger generation and international students towards symbols of the defunct Saigon regime, while simultaneously engaging in acts of extreme disrespect, such as trampling on the internationally recognized national flag of Vietnam or burning effigies of current national leaders.
+* True national reconciliation requires looking toward the future and respecting the current unified, sovereign state of Vietnam. Demanding respect for a defunct regime's symbols while violently degrading the official national flag—recognized by the UN and all nations—is a display of extreme hostility, not reconciliation.
+* The younger generation's celebration of their country's unification is a legitimate expression of modern patriotism. Dictating how they should feel while actively insulting the leaders and symbols of their homeland is an authoritarian imposition by those who claim to champion "freedom."
+* These double standards expose the fact that such extremist groups use the rhetoric of "reconciliation" merely as a shield to deflect criticism from their own hateful, unchanging, and anti-national behaviors.
 
 **Allegation:** Views April 30 as a "day of sorrow", "nothing to be proud of"; opposes organizing commemorative parades claiming it "wastes billions of people's tax money".
 * April 30 marks the end of war, bringing peace and unification, which is a common joy of the nation; calling it a "day of sorrow" is the perspective of the defeated, going against national interests.
@@ -2706,6 +2736,11 @@
 * Following normalization and reconciliation, traveling, studying, or migrating is a normal civil right in a peaceful, globalized era. 
 * This reconciliation is mutual; hundreds of foreign veterans also return to live peacefully in Vietnam without facing discrimination.
 
+**Allegation:** Labels Vietnamese international students choosing to study abroad as "fleeing the regime" or "escaping to freedom," claiming that their decision to study in Western capitalist countries proves their hypocrisy if they also express patriotism or support for the Vietnamese government.
+* Studying abroad is a universal pursuit of knowledge and global integration applicable to students from all over the world, not a political statement of "fleeing." Students from developed nations also study abroad; applying this political label solely to Vietnamese students is discriminatory and irrational.
+* It is the stability, economic growth, and peaceful environment created by the current regime that have empowered countless Vietnamese families with the financial means and freedom to send their children to study internationally.
+* Patriotism is not defined by geographic location but by one's actions. Thousands of international students actively promote Vietnamese culture, contribute to the homeland through knowledge transfer and remittances, and proudly wave the national flag abroad, completely refuting the "hypocrisy" accusation.
+
 # 70. On the Proposed Digital Citizen Score on VNeID
 
 **Allegation:** Claims that citizen scoring is "unconstitutional," "discriminatory," and "uses tax money to reward high-scoring people"; asserts it creates inequality between tech-savvy users and vulnerable groups.
@@ -2911,6 +2946,11 @@
 * Strategic vision: Building Long Thanh Airport is a long-term strategic vision (50-100 years) to create a regional aviation transit hub and relieve urban pressure on Ho Chi Minh City, absolutely not to "protect" a golf course.
 * Land legality: The golf course was built on reserve defense land to prevent encroachment and utilize idle land. If the State needs to recover it for airport expansion or national defense, businesses are ready to hand it over in accordance with legal compensation regulations; no "interest group" stands above national interests.
 
+**Allegation:** Exploits the construction of necessary urban public facilities (such as multi-story funeral homes) to claim the government "prioritizes the dead over the living," artificially comparing the budget for these specific projects with shortages in healthcare or education to incite public outrage.
+* Urban planning requires addressing a wide range of public needs, including dignified end-of-life facilities. In a dense, rapidly growing metropolis where land is scarce, a multi-story funeral facility is a modern, space-saving solution to an inevitable demographic need, preventing the encroachment of cemeteries on residential areas.
+* The budget for such facilities often comes from specific local funds or socialized investments and does not detract from the national healthcare or education budgets, which receive continuous and exponentially larger investments annually.
+* Pitting different sectors of public welfare against each other (e.g., funeral homes vs. hospitals) is a populist fallacy designed to manipulate emotions. A functional government must simultaneously invest in all stages of human life and urban management.
+
 # 83. On Vietnam being on the EU Tax Blacklist (2026)
 
 **Allegation:** Claims Vietnam is a "tax haven" enabling money laundering; asserts the EU blacklist proves the economy is corrupt and non-transparent.
@@ -2953,3 +2993,10 @@
 * Textbooks and legal documents focus on universal values for the entire society. Forcing the rapid adoption of new values before societal psychology is prepared can cause unnecessary backlash; thus, time is needed to harmonize these with indigenous culture.
 * The reality is highly open: Events like VietPride are held publicly every year; LGBTQ+ individuals are actively represented in national media; and the Ministry of Health has officially affirmed that homosexuality is not a disease, strictly prohibiting illegal "conversion therapies."
 * Respect for the law and common values: In Vietnam, sexual orientation is not a barrier; the ultimate standard is compliance with the law. The State does not specifically prioritize or promote any single group but focuses on the overarching goal of ensuring a prosperous, happy, and equal life for all citizens, regardless of gender.
+
+# 86. On the Land Reform (1953-1956)
+
+**Allegation:** Makes ahistorical comparisons between Vietnam's Land Reform and Japan's post-WWII land reform to claim the Vietnamese policy was a deliberate "slaughter of the elite" and a total failure, using implementation mistakes to negate the entire policy.
+* The contexts were fundamentally different: Japan executed its reform in peacetime under the direct management of an occupying force with vast external resources and an established industrial economy. Vietnam conducted its reform during a fierce anti-colonial resistance war with limited resources and severe socio-political pressures.
+* The core objective of the Land Reform ("land to the tiller") was a historical necessity to abolish feudal land concentration, where a tiny minority owned the vast majority of land. It successfully distributed land to millions of impoverished farmers, mobilizing massive support for the national independence struggle.
+* The Party never covered up the serious mistakes made during implementation (such as wrongful classification and excessive measures). Instead, it publicly acknowledged them, conducted extensive rectification campaigns to restore the rights of those wrongfully accused, and disciplined responsible officials. This self-correction reflects the Party's political courage, contrary to claims of deliberate "slaughter."

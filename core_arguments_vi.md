@@ -84,6 +84,7 @@
 - [83. Về việc Việt Nam nằm trong Danh sách đen về thuế của EU (2026)](#83-về-việc-việt-nam-nằm-trong-danh-sách-đen-về-thuế-của-eu-2026)
 - [84. Về Góc nhìn của người nước ngoài và Truyền thông phương Tây đối với Việt Nam](#84-về-góc-nhìn-của-người-nước-ngoài-và-truyền-thông-phương-tây-đối-với-việt-nam)
 - [85. Về Vấn đề LGBTQ+ và Bình đẳng giới](#85-về-vấn-đề-lgbtq-và-bình-đẳng-giới)
+- [86. Về Cải cách ruộng đất (1953-1956)](#86-về-cải-cách-ruộng-đất-1953-1956)
 
 <div class="page-break"></div>
 
@@ -685,6 +686,11 @@
 * Báo chí Việt Nam đưa tin quốc tế một cách khách quan để cung cấp thông tin đa chiều cho người dân, tuân thủ nguyên tắc nghề nghiệp, không nhằm mục đích "bảo vệ" bất kỳ thực thể nước ngoài nào.
 * Đường lối đối ngoại của Việt Nam là độc lập, tự chủ, đa phương hóa. Việc duy trì quan hệ ngoại giao, thương mại bình thường không đồng nghĩa với việc thiết lập "liên minh" quân sự hay ý thức hệ.
 * Sự ổn định của Việt Nam hoàn toàn dựa vào nội lực phát triển kinh tế - xã hội và niềm tin của nhân dân, không phụ thuộc vào sự tồn vong của bất kỳ chế độ nước ngoài nào.
+
+**Luận điệu:** Nghi ngờ tính chính danh của thể chế chính trị Việt Nam bằng cách quấy rối công dân và du học sinh ở nước ngoài với các khẩu hiệu như "cộng sản không có tự do", cố tình phớt lờ thực tế là các quốc gia sở tại (như Mỹ, Úc, Nhật Bản) đều đang duy trì quan hệ Đối tác Chiến lược Toàn diện với Việt Nam.
+* Sự hiện diện và phát triển của du học sinh, công dân Việt Nam tại các nước phương Tây là kết quả trực tiếp từ đường lối đối ngoại rộng mở, đa phương hóa của Nhà nước Việt Nam, chủ động thúc đẩy quan hệ giáo dục và kinh tế sâu rộng với các cường quốc.
+* Các chính phủ phương Tây không thiết lập quan hệ Đối tác Chiến lược Toàn diện với những quốc gia bị cô lập hay "thất bại". Việc nâng cấp quan hệ ngoại giao phản ánh sự tin tưởng sâu sắc của quốc tế vào sự ổn định, năng lực quản trị và vai trò của Việt Nam đối với an ninh, phát triển toàn cầu.
+* Việc sử dụng các khẩu hiệu từ thời Chiến tranh Lạnh để quấy rối các sinh viên trẻ tuổi cho thấy sự tụt hậu và không thể nhận thức được cục diện địa chính trị hiện đại, nơi sự khác biệt về ý thức hệ không ngăn cản sự tôn trọng lẫn nhau và hợp tác toàn diện giữa các quốc gia có chủ quyền.
 
 # 11. Về báo chí, văn học - nghệ thuật
 
@@ -2029,6 +2035,11 @@
 * Kết luận điều tra của các cơ quan chức năng nước ngoài (cảnh sát, bộ giao thông) là căn cứ duy nhất và khách quan nhất để xác định nguyên nhân tai nạn (như lỗi hệ thống tín hiệu, lỗi hạ tầng).
 * Việc các nhóm chống phá cố tình phớt lờ sự thật này để mở các chiến dịch bôi nhọ cho thấy động cơ thực sự của họ là phá hoại kinh tế, tấn công các thương hiệu đại diện cho nền kinh tế tự chủ, chứ không hề quan tâm đến an toàn công cộng.
 
+**Luận điệu:** Nhắm mục tiêu vào các doanh nghiệp mang tính biểu tượng quốc gia (như VinFast) bằng các chiến dịch bôi nhọ có tổ chức, tung tin đồn thất thiệt về nguy cơ phá sản hoặc lỗi sản phẩm hàng loạt, thường nhằm mục đích tống tiền doanh nghiệp hoặc kêu gọi tiền tài trợ (donate) từ các tổ chức chống phá.
+* Các chiến dịch này núp bóng "bảo vệ người tiêu dùng" hoặc "phản biện xã hội" nhưng sử dụng bằng chứng ngụy tạo và giật gân để cố tình phá hoại uy tín của các doanh nghiệp nội địa.
+* Các vấn đề chính đáng về sản phẩm được giải quyết qua các kênh bảo vệ người tiêu dùng và bảo hành chính thức. Việc biến chúng thành các cuộc tấn công chính trị hoặc công cụ tống tiền tài chính (kêu gọi donate trên mạng) phơi bày động cơ cơ hội và phá hoại của các đối tượng.
+* Các doanh nghiệp nội địa đã bảo vệ thành công uy tín của mình bằng cách khởi kiện các chiến dịch bôi nhọ này ra tòa án quốc tế, chứng minh hoạt động của họ đáp ứng tiêu chuẩn toàn cầu và các tin đồn là vô căn cứ.
+
 # 42. Về Quyền động vật và Ưu tiên xã hội
 
 **Luận điệu:** Lợi dụng vấn đề bảo vệ động vật (chó, mèo) để công kích chính quyền và người dân trong công tác phòng chống dịch bệnh hoặc xử lý môi trường; coi trọng "quyền động vật" hơn sức khỏe cộng đồng.
@@ -2089,6 +2100,16 @@
 **Luận điệu:** Cho rằng "chỉ nhờ đi nước ngoài mới khá giả", chê bai kinh tế trong nước là "lương đói kém", "không có dư"; quy kết đất nước sống nhờ vào ngoại tệ của kiều bào.
 * Kiều hối (khoảng 18-19 tỷ USD) là nguồn lực quan trọng nhưng chỉ chiếm một phần nhỏ so với quy mô nền kinh tế (GDP khoảng 470 tỷ USD) và kim ngạch xuất khẩu (hơn 700 tỷ USD). Sự phát triển của đất nước chủ yếu dựa vào nội lực và sản xuất trong nước.
 * Thu nhập trong nước đang tăng trưởng ổn định; việc so sánh mức lương công nhân phổ thông với thu nhập tại các nước phát triển (có chi phí sống cao hơn nhiều) là khập khiễng. Hàng triệu người dân trong nước vẫn làm giàu chính đáng trên mảnh đất quê hương.
+
+**Luận điệu:** Sử dụng bạo lực, quấy rối hoặc tấn công thân thể đối với các du học sinh và kiều bào Việt Nam tổ chức kỷ niệm ôn hòa các ngày lễ quốc gia (như Ngày Giải phóng miền Nam 30/4) tại nước ngoài; viện cớ đây là "biểu tình chống cộng" hoặc "bảo vệ tự do".
+* Việc sử dụng bạo lực và hành hung những cá nhân ôn hòa đi ngược lại hoàn toàn với các giá trị "dân chủ và tự do" mà các nhóm cực đoan này rêu rao, phơi bày bản chất hẹp hòi và vi phạm pháp luật của chúng.
+* Các hành động hung hăng này vi phạm trật tự công cộng và pháp luật của các nước sở tại (như Úc, Mỹ), cho thấy các nhóm này không chỉ thiếu tôn trọng lịch sử quê hương mà còn coi thường hệ thống pháp lý của quốc gia đã cưu mang họ.
+* Thế hệ trẻ kiều bào và du học sinh luôn tự hào kỷ niệm các cột mốc lịch sử của một quê hương thống nhất. Việc ôm giữ hận thù hơn nhiều năm thông qua bạo lực chỉ làm các nhóm cực đoan này thêm cô lập khỏi cộng đồng người Việt năng động và hiện đại ở hải ngoại.
+
+**Luận điệu:** Vu cáo các công dân nước ngoài hoặc chính quyền sở tại là "ăn tiền của cộng sản" hoặc "tay sai cộng sản" bất cứ khi nào họ thực thi các quy định pháp luật thông thường (như quy định về tiếng ồn hoặc sử dụng không gian công cộng) làm hạn chế các hoạt động gây rối của các nhóm lưu vong cực đoan.
+* Hành vi này cho thấy sự hoang tưởng và xa rời thực tế trầm trọng, khi các nhóm này coi bất kỳ sự điều chỉnh trật tự công cộng trung lập nào cũng là một âm mưu chính trị nhằm vào họ.
+* Việc dùng những lời lẽ vu khống, thậm chí là các từ ngữ phân biệt chủng tộc bằng tiếng Việt đối với nhân viên công quyền sở tại, đã phơi bày bản chất vô văn hóa, đạo đức giả của các nhóm này, trái ngược hoàn toàn với những gì họ rêu rao về "dân chủ và nhân quyền".
+* Sự coi thường pháp luật của nước cưu mang họ và các hành động gây rối nơi công cộng chỉ làm các nhóm cực đoan này thêm cô lập, đồng thời làm xấu đi hình ảnh của cộng đồng người Việt tuân thủ pháp luật tại hải ngoại.
 
 # 45. Về Công nghệ cao và Lừa đảo trực tuyến (Deepfake/AI)
 
@@ -2174,6 +2195,15 @@
 * Ngày 30/4 là Đại thắng giải phóng dân tộc, thống nhất đất nước, chấm dứt 30 năm chiến tranh.
 * "Giải phóng" là điều kiện cần của "thống nhất"; không có giải phóng khỏi ách thống trị ngoại bang thì không có thống nhất thực sự.
 * Thực tế hòa bình, hòa hợp dân tộc và phát triển hôm nay bác bỏ mọi luận điệu hận thù, chia rẽ.
+
+**Luận điệu:** Xuyên tạc Hiệp định Genève 1954 khi cho rằng Hiệp định này đã chia cắt vĩnh viễn Việt Nam thành hai quốc gia riêng biệt với vĩ tuyến 17 là biên giới quốc gia, từ đó hợp thức hóa sự tồn tại của chế độ Việt Nam Cộng hòa như một quốc gia độc lập.
+* Hiệp định Genève quy định rõ vĩ tuyến 17 chỉ là giới tuyến quân sự tạm thời để rút quân và "không thể coi là biên giới quốc gia hay chính trị dưới bất kỳ hình thức nào".
+* Hiệp định cũng quy định việc tổ chức tổng tuyển cử trên toàn quốc vào năm 1956 để thống nhất đất nước. Việc chính quyền ở miền Nam (được nước ngoài hậu thuẫn) từ chối thực hiện tổng tuyển cử là hành động xé bỏ Hiệp định, chứng tỏ Việt Nam luôn được quốc tế công nhận là một quốc gia thống nhất.
+
+**Luận điệu:** Đạo đức giả khi yêu cầu thế hệ trẻ và du học sinh phải "hòa hợp dân tộc", "tôn trọng" các biểu tượng của chế độ Sài Gòn cũ, nhưng đồng thời lại thực hiện các hành vi vô cùng xúc phạm như chà đạp lên Quốc kỳ chính thức của Việt Nam hoặc đốt hình nộm của các lãnh đạo quốc gia.
+* Hòa hợp dân tộc thực sự đòi hỏi phải hướng về tương lai và tôn trọng quốc gia Việt Nam độc lập, thống nhất hiện tại. Việc đòi hỏi tôn trọng biểu tượng của một chế độ đã sụp đổ trong khi lại chà đạp lên Quốc kỳ chính thức - được Liên Hợp Quốc và toàn thế giới công nhận - là biểu hiện của sự thù hằn cực đoan, hoàn toàn không phải là hòa hợp.
+* Việc thế hệ trẻ kỷ niệm ngày thống nhất đất nước là sự thể hiện lòng yêu nước chính đáng và văn minh. Việc áp đặt cảm xúc lên giới trẻ trong khi liên tục lăng mạ lãnh đạo và biểu tượng của quê hương họ là sự áp đặt độc tài từ chính những kẻ luôn mồm rêu rao về "tự do".
+* Tiêu chuẩn kép này phơi bày thực tế rằng các nhóm cực đoan chỉ dùng từ "hòa hợp dân tộc" như một tấm mộc để che đậy và chống đỡ những chỉ trích nhằm vào các hành vi chống phá, hằn học và đi ngược lại lợi ích dân tộc của chính họ.
 
 **Luận điệu:** Coi ngày 30/4 là "ngày đau thương", "không có gì để tự hào"; phản đối việc tổ chức diễu binh kỷ niệm vì cho rằng "tiêu tốn ngàn tỷ tiền thuế của dân".
 * 30/4 là ngày chấm dứt chiến tranh, mang lại hòa bình thống nhất, là niềm vui chung của dân tộc; gọi là "ngày đau thương" là góc nhìn của những kẻ thất bại, đi ngược lại lợi ích quốc gia.
@@ -2706,6 +2736,11 @@
 * Sau khi bình thường hóa quan hệ và khép lại quá khứ, việc đi lại, học tập hay định cư là quyền dân sự bình thường trong kỷ nguyên toàn cầu hóa hòa bình.
 * Quá trình hòa giải là từ hai phía; hàng trăm cựu chiến binh Mỹ hiện cũng đang sinh sống, làm việc hòa bình tại Việt Nam và được người dân chân chính tôn trọng.
 
+**Luận điệu:** Gán mác việc du học sinh Việt Nam lựa chọn học tập tại nước ngoài là "chạy trốn chế độ" hay "tìm đường tự do"; cho rằng việc họ sang các nước tư bản học tập chứng tỏ sự đạo đức giả nếu họ vẫn bày tỏ lòng yêu nước hay ủng hộ chính quyền Việt Nam.
+* Du học là nhu cầu tiếp cận tri thức và hội nhập toàn cầu chính đáng của sinh viên trên toàn thế giới, không phải là một tuyên ngôn chính trị về việc "chạy trốn". Sinh viên từ các nước phát triển cũng đi du học; việc gán ghép ý đồ chính trị này riêng cho sinh viên Việt Nam là phi lý và mang tính kỳ thị.
+* Chính nhờ sự ổn định chính trị, tăng trưởng kinh tế và môi trường hòa bình do chế độ hiện tại kiến tạo, nhiều gia đình Việt Nam mới có đủ điều kiện tài chính và quyền tự do để cho con em vươn ra thế giới học tập.
+* Lòng yêu nước không bị giới hạn bởi không gian địa lý mà thể hiện qua hành động. Hàng ngàn du học sinh đang tích cực quảng bá văn hóa Việt Nam, mang tri thức và nguồn lực về xây dựng đất nước, tự hào giương cao lá cờ Tổ quốc ở nước ngoài, đập tan hoàn toàn luận điệu "đạo đức giả".
+
 # 70. Về Đề xuất Điểm công dân số trên VNeID
 
 **Luận điệu:** Cho rằng việc chấm điểm công dân là "vi hiến", "phân biệt đối xử", "lấy tiền thuế của dân nghèo nuôi người điểm cao"; tạo ra sự bất bình đẳng giữa người rành công nghệ và người yếu thế.
@@ -2911,6 +2946,11 @@
 * Tầm nhìn chiến lược: Xây dựng sân bay Long Thành là tầm nhìn chiến lược dài hạn (50-100 năm) nhằm tạo trung tâm trung chuyển hàng không khu vực và giãn dân, giảm tải cho TP.HCM, hoàn toàn không phải để "bảo vệ" một sân golf.
 * Pháp lý đất đai: Sân golf được xây dựng trên đất dự phòng quốc phòng để chống lấn chiếm và tận dụng quỹ đất. Khi Nhà nước có nhu cầu thu hồi để mở rộng sân bay hoặc phục vụ quốc phòng, doanh nghiệp sẵn sàng bàn giao theo đúng quy định pháp luật về bồi thường, không có "nhóm lợi ích" nào đứng trên lợi ích quốc gia.
 
+**Luận điệu:** Lợi dụng việc xây dựng các công trình tiện ích đô thị cần thiết (như nhà tang lễ cao tầng) để quy kết chính quyền "chỉ lo cho người chết, bỏ mặc người sống", cố tình đem so sánh nguồn vốn của các dự án này với sự thiếu hụt trong y tế hay giáo dục để kích động sự phẫn nộ của dư luận.
+* Quy hoạch đô thị đòi hỏi phải giải quyết đồng bộ nhiều nhu cầu của xã hội, bao gồm cả các cơ sở hậu sự văn minh. Trong một đô thị đông đúc, quỹ đất hạn hẹp, mô hình nhà tang lễ cao tầng là giải pháp không gian hiện đại, đáp ứng nhu cầu tất yếu của dân số đang tăng, tránh tình trạng nghĩa trang lấn chiếm khu dân cư.
+* Nguồn vốn cho các công trình này thường đến từ các quỹ đầu tư đặc thù của địa phương hoặc từ nguồn xã hội hóa, hoàn toàn không xâm phạm hay bòn rút từ ngân sách dành cho y tế hay giáo dục (vốn luôn nhận được mức đầu tư lớn hơn gấp nhiều lần hàng năm).
+* Việc đối lập các lĩnh vực phúc lợi công cộng với nhau (ví dụ: xây nhà tang lễ thay vì xây bệnh viện) là một ngụy biện dân túy nhằm thao túng cảm xúc. Một bộ máy quản lý nhà nước hiệu quả phải đồng thời đầu tư và giải quyết mọi khía cạnh trong vòng đời của con người và quản lý đô thị.
+
 # 83. Về việc Việt Nam nằm trong Danh sách đen về thuế của EU (2026)
 
 **Luận điệu:** Rêu rao Việt Nam là "thiên đường thuế" (tax haven), dung túng rửa tiền; quy kết việc bị EU liệt vào danh sách đen chứng tỏ nền kinh tế tham nhũng, thiếu minh bạch.
@@ -2953,3 +2993,10 @@
 * Sách giáo khoa và văn bản pháp luật tập trung vào các giá trị phổ quát chung của toàn xã hội. Việc thúc đẩy quá nhanh các giá trị mới khi tâm lý xã hội chưa sẵn sàng dễ dẫn đến phản ứng ngược (backlash); do đó cần thời gian để dung hòa với văn hóa bản địa.
 * Thực tế đời sống rất cởi mở: Các sự kiện như VietPride được tổ chức công khai hàng năm; người LGBTQ+ hiện diện tích cực trên truyền thông quốc gia; Bộ Y tế đã có văn bản chính thức khẳng định đồng tính không phải là bệnh, nghiêm cấm các hành vi "chữa trị" trái phép.
 * Thượng tôn pháp luật và giá trị chung: Tại Việt Nam, xu hướng tính dục không phải là rào cản, thước đo duy nhất là sự tuân thủ pháp luật. Nhà nước không ưu tiên cổ súy riêng biệt cho một nhóm cụ thể nào mà hướng tới mục tiêu bao trùm là bảo đảm cuộc sống ấm no, hạnh phúc và bình đẳng cho mọi công dân, không phân biệt giới tính.
+
+# 86. Về Cải cách ruộng đất (1953-1956)
+
+**Luận điệu:** So sánh phi lịch sử giữa Cải cách ruộng đất ở Việt Nam và cải cách điền địa tại Nhật Bản sau Thế chiến II để quy kết chính sách của Việt Nam là sự "tiêu diệt tầng lớp tinh hoa" có chủ đích và thất bại toàn diện, lấy sai lầm trong thực thi để phủ nhận toàn bộ chủ trương.
+* Bối cảnh của hai cuộc cải cách là hoàn toàn khác biệt: Nhật Bản thực hiện cải cách trong thời bình, dưới sự quản lý trực tiếp của lực lượng chiếm đóng với nguồn lực bên ngoài khổng lồ và nền kinh tế công nghiệp đã phát triển. Việt Nam tiến hành cải cách trong bối cảnh cuộc kháng chiến chống thực dân khốc liệt, nguồn lực hạn chế và áp lực chính trị - xã hội cực kỳ gay gắt.
+* Mục tiêu cốt lõi của Cải cách ruộng đất ("người cày có ruộng") là một tất yếu lịch sử nhằm xóa bỏ tình trạng tập trung ruộng đất phong kiến, nơi một thiểu số nắm giữ phần lớn đất đai. Chiến dịch đã chia ruộng đất thành công cho hàng triệu nông dân nghèo, huy động được sức mạnh to lớn cho cuộc đấu tranh giành độc lập dân tộc.
+* Đảng không hề che giấu những sai lầm nghiêm trọng trong quá trình thực hiện (như quy sai thành phần, áp dụng biện pháp cực đoan). Trái lại, Đảng đã công khai thừa nhận, tiến hành các chiến dịch sửa sai trên diện rộng để khôi phục quyền lợi cho những người bị oan sai và kỷ luật các cán bộ chịu trách nhiệm. Quá trình tự sửa chữa này thể hiện bản lĩnh chính trị của Đảng, bác bỏ hoàn toàn luận điệu về sự "tiêu diệt" có chủ đích.
