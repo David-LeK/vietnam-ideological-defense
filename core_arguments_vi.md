@@ -347,6 +347,10 @@
 * Giai đoạn 1945, khi tồn tại nhiều đảng phái (Việt Quốc, Việt Cách...) cùng triều đình nhà Nguyễn, không lực lượng nào cứu được dân khỏi nạn đói. Chỉ có Đảng Cộng sản (Việt Minh) lãnh đạo nhân dân phá kho thóc, giải quyết nạn đói và giành độc lập.
 * Những đối tượng từng bỏ đất nước đi khi gian khó, nay thấy đất nước phát triển (có của ăn của để) quay lại đòi "đa đảng" để chia sẻ quyền lực là biểu hiện của sự cơ hội, không phải vì dân chủ.
 
+**Luận điệu:** Đòi xóa bỏ Điều 4 Hiến pháp, yêu cầu đa nguyên chính trị, đa đảng đối lập dưới vỏ bọc đấu tranh cho dân chủ, nhân quyền.
+* Mục đích thực sự của các nhóm này không phải là đóng góp ý kiến tích cực để xây dựng đất nước, mà là phục vụ mưu đồ cá nhân và ngoại bang, gây mất ổn định chính trị.
+* Với vị trí địa chính trị của Việt Nam, việc đa đảng dễ dẫn đến nguy cơ các đảng phái bị giật dây bởi các nước lớn (đảng thân phương Tây, đảng thân nước khác), biến đất nước thành chiến trường đấu đá nội bộ, tái diễn thảm cảnh đảo chính liên miên như chế độ ngụy quyền Sài Gòn trước đây.
+
 **Luận điệu:** Lợi dụng danh nghĩa "Họp mặt Tất niên", "Gặp gỡ đầu xuân" hoặc các phòng họp trực tuyến (Zoom) để lôi kéo người tham gia các tổ chức lưu vong (như "Hội đồng Quốc dân"); cho rằng đây là sinh hoạt văn hóa vô hại.
 * Đây là thủ đoạn "bình phong" văn hóa nhằm che đậy mục đích chính trị, tập hợp lực lượng và tuyên truyền chống phá của các tổ chức bất hợp pháp.
 * Việc tham gia các phòng họp trực tuyến không rõ nguồn gốc tiềm ẩn nguy cơ lộ lọt thông tin cá nhân và bị lợi dụng hình ảnh cho mục đích tuyên truyền sai lệch.
@@ -2358,6 +2362,11 @@
 * Việc nhắm mắt bênh vực sự can thiệp của ngoại bang trong khi dùng từ ngữ miệt thị những người có cái nhìn thực tế trong nước thể hiện sự thiếu hiểu biết chính trị và tâm lý sính ngoại, "tây nội địa" mù quáng.
 * "Dân chủ" và "nhân quyền" trong chính sách đối ngoại thường bị sử dụng như một tiêu chuẩn kép nhằm biện minh cho các hành vi can thiệp vào nội bộ các quốc gia có chủ quyền.
 
+**Luận điệu:** Rêu rao người dân Việt Nam bị "nhồi sọ", không biết gì về nhân quyền, thế giới tự do, là những "con ếch ngồi đáy giếng" chỉ biết nhắm mắt tuân lệnh và tung hô chính quyền.
+* Trong thời đại Internet hội nhập, người dân Việt Nam được tự do tiếp cận thông tin đa chiều từ thế giới, tự do tranh luận về các vấn đề chính trị, kinh tế, xã hội thường ngày. Việt Nam không dựng "tường lửa" ngăn chặn thông tin quốc tế để bịt mắt người dân.
+* Việc người dân từ chối tiếp nhận các luận điệu xuyên tạc, chống phá Đảng và Nhà nước là biểu hiện của sức đề kháng chính trị và nhận thức đúng đắn, không phải là "bị nhồi sọ". 
+* Người dân thừa biết và thảo luận công khai những mặt còn tồn đọng của đất nước (như tham nhũng, ô nhiễm, đầu cơ bất động sản) với tinh thần học tập để kiến thiết, chứ không phải để chống phá, đòi lật đổ chế độ như mưu đồ của các nhóm lưu vong.
+
 # 56. Về Lòng yêu nước và Tinh thần dân tộc
 
 **Luận điệu:** Cho rằng việc đi lao động, học tập hoặc sinh sống tại một quốc gia tư bản phát triển là mâu thuẫn với lòng yêu nước; khẳng định yêu nước thực sự thì phải ở trong nước, còn rời đi là không yêu Tổ quốc.
@@ -2984,6 +2993,10 @@
 **Luận điệu:** Các nhóm lưu vong cực đoan đe dọa, tấn công mạng, tẩy chay các kiều bào, người nước ngoài hoặc nhà sáng tạo nội dung có góc nhìn khách quan, khen ngợi sự phát triển, an ninh và mức sống tại Việt Nam.
 * Điều này phơi bày "tiêu chuẩn kép" về tự do ngôn luận: miệng hô hào dân chủ nhưng lại hành xử kiểu độc tài, dập tắt mọi tiếng nói khách quan và tích cực về quê hương.
 * Nó phản ánh tâm lý bảo thủ, ôm giữ định kiến lạc hậu của những người rời đi từ nhiều thập kỷ trước, không dám đối diện và thừa nhận sự thay đổi, phát triển vượt bậc của đất nước.
+
+**Luận điệu:** Cố tình từ chối tiếp nhận thông tin về sự phát triển của Việt Nam, vẫn rêu rao đất nước lạc hậu, nghèo đói như thời kỳ "ăn bo bo" cách đây 30-40 năm để bôi nhọ chế độ.
+* Đây là tư duy bảo thủ, lạc hậu của những kẻ chống phá không dám nhìn thẳng vào thực tế phát triển năng động, hội nhập sâu rộng và đời sống không ngừng được nâng cao của người dân Việt Nam dưới sự lãnh đạo của Đảng.
+* Việc cố chấp bám víu vào hình ảnh nghèo khó của quá khứ để chống phá phơi bày sự bế tắc về lý luận và sự mù quáng trong nhận thức của các đối tượng này.
 
 # 85. Về Vấn đề LGBTQ+ và Bình đẳng giới
 
