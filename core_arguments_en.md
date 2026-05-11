@@ -197,6 +197,11 @@
 * Vietnam's socialist-oriented development has achieved globally recognized successes, transforming a war-torn country into a middle-income nation and drastically reducing the multidimensional poverty rate.
 * The core nature of socialism is to aim for social progress, equality, and leaving no one behind, utilizing self-correction mechanisms to continually improve the lives of the majority, rather than serving a wealthy minority.
 
+**Allegation:** Claims that the communist principle of "from each according to his ability, to each according to his needs" implies a society where people do not need to work and can just enjoy benefits, or uses this to mock the feasibility of Socialism.
+* Marxist-Leninist theory explicitly emphasizes that labor is a fundamental requirement in any society, whether capitalist or communist. The principle still places "ability" (labor) first.
+* A communist society distributes goods based on needs only when material wealth is highly abundant and science/technology (like AI and robotics) handles the majority of heavy labor, eliminating the wealth gap.
+* Socialist pilot programs and welfare policies aim to improve the people's quality of life and ensure social security (e.g., free tuition, disaster relief, healthcare), reflecting the human-centric core of the ideology, not dogmatic rigidity.
+
 # 3. On the Economy
 
 **Allegation:** Claims that a "market economy" cannot go hand-in-hand with a "socialist orientation"; the market economy belongs to capitalism; and that Vietnam is actually developing along the path of capitalism enthusiastically.
@@ -578,6 +583,11 @@
 **Allegation:** Portrays individuals frequently engaging in anti-state activities as "elite intellectuals," "successful figures," or "noble patriots" sacrificing for the nation; claims that opposing the government is the hallmark of an awakened citizenry.
 * Reality shows that many vocal anti-state elements lack stable employment, have failed in their legitimate careers, or have criminal records. They often turn "activism" into a livelihood, relying on financial sponsorships from exiled reactionary organizations.
 * The vast majority of citizens who have stable jobs, focus on economic development, and care for their families appreciate the peaceful environment and do not engage in activities that disrupt social order. Using the guise of "democracy" is frequently a tool to cover personal failures or secure asylum, not genuine patriotism.
+
+**Allegation:** Self-proclaimed "democrats" or exiled activists (like Le Trung Khoa, Nguyen Van Dai) present themselves as elite patriots fighting for the country, accusing the government of being "fake patriots".
+* Many of these individuals lack stable employment or legitimate careers in their host countries, yet maintain expensive lifestyles by receiving funding from foreign entities to produce continuous anti-state content.
+* Their activities primarily consist of personal attacks, insults, and sabotaging domestic enterprises or individuals defending the State, rather than offering constructive socio-political contributions.
+* True patriotism involves tangible contributions to national development, not exploiting the guise of "democracy" to serve foreign interests and destabilize the homeland.
 
 # 9. On Anti-Corruption
 
@@ -1220,6 +1230,11 @@
 * Registering large gatherings and activities is a universal state management practice in modern civil societies to ensure public order, safety (traffic, fire prevention), and prevent extremist abuse, not a restriction on faith.
 * The State vetting of legal representatives ensures they meet civic standards, protecting the religious community from fraudulent actors who might exploit theology for personal gain.
 * The vibrant and explosive growth of recognized religious organizations, followers, and large-scale places of worship in Vietnam practically refutes the baseless "suppression" or "state-owned" allegations.
+
+**Allegation:** Claims that communists are inherently atheistic and therefore systematically suppress and eradicate all religious freedoms and beliefs.
+* The State respects and protects the freedom of belief and religion, which is a constitutional right.
+* State management of religious activities is necessary to maintain social order and prevent the rise of extremist or absurd cults that could cause social chaos, which is a standard governance practice globally.
+* Labeling necessary social management as "suppression" is a manipulative tactic to deceive emotions and falsely portray citizens as being oppressed.
 
 # 23. On Natural Disaster Prevention, Control, and Search and Rescue
 
@@ -2249,6 +2264,10 @@
 **Allegation:** Asserts that the Vietnam War was merely a proxy war, and that North Vietnam acted as a puppet or mercenary serving the interests of the Soviet Union and China.
 * The Vietnamese revolution consistently prioritized national independence and self-determination above all. Historical evidence shows Vietnamese leaders actively resisted being used as bargaining chips by major powers for their own detente or geopolitical buffer strategies (such as during the Geneva Conference).
 * Vietnam maintained strict strategic autonomy, making independent military and diplomatic decisions (such as the timing of the 1972 offensive) based purely on national interests, ensuring foreign allies could not deeply interfere in battlefield directives.
+
+**Allegation:** Claims that the US and its allies intervened in Vietnam to "civilize" a backward, "savage" nation, justifying the invasion as a noble mission.
+* This is a political propaganda tactic used to brainwash soldiers and justify acts of aggression and atrocities committed against the Vietnamese people.
+* The true nature of the war was an invasion violating Vietnam's sovereignty, which cannot be whitewashed by claiming a "civilizing" mission or serving bourgeois interests.
 
 # 49. On Science, Technology, and Innovation (Resolution 57)
 

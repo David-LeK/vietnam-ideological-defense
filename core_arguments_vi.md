@@ -197,6 +197,11 @@
 * Sự phát triển theo định hướng xã hội chủ nghĩa của Việt Nam đã đạt được những thành tựu được thế giới công nhận, biến một đất nước bị chiến tranh tàn phá thành quốc gia thu nhập trung bình và giảm ngoạn mục tỷ lệ nghèo đa chiều.
 * Bản chất cốt lõi của chủ nghĩa xã hội là hướng tới tiến bộ, công bằng và không để ai bị bỏ lại phía sau, sử dụng các cơ chế tự điều chỉnh để không ngừng nâng cao đời sống của đa số nhân dân, thay vì chỉ phục vụ một nhóm thiểu số giàu có.
 
+**Luận điệu:** Cho rằng nguyên lý "làm theo năng lực, hưởng theo nhu cầu" của cộng sản nghĩa là một xã hội không cần làm việc mà chỉ việc hưởng thụ; hoặc dùng điều này để mỉa mai tính khả thi của Chủ nghĩa xã hội.
+* Học thuyết Mác - Lênin khẳng định rõ dù ở xã hội tư bản hay cộng sản, con người vẫn phải lao động và làm việc; chữ "làm" vẫn được đặt lên hàng đầu.
+* Xã hội cộng sản phân phối theo nhu cầu chỉ khi của cải vật chất dư thừa và khoa học công nghệ (như AI, robot) thay thế con người làm các công việc nặng nhọc, nhằm xóa bỏ chênh lệch giàu nghèo.
+* Bản chất của nhà nước XHCN là quan tâm, chăm lo an sinh xã hội cho nhân dân (miễn giảm học phí, hỗ trợ thiên tai, y tế), thể hiện tính ưu việt thay vì tư duy giáo điều, xơ cứng.
+
 # 3. Về kinh tế
 
 **Luận điệu:** Cho rằng "kinh tế thị trường" không thể đi đôi với "định hướng XHCN"; kinh tế thị trường là của chủ nghĩa tư bản; Việt Nam thực chất đang phát triển theo con đường tư bản chủ nghĩa (CNTB) một cách cuồng nhiệt.
@@ -578,6 +583,11 @@
 **Luận điệu:** Tô vẽ những cá nhân thường xuyên có hoạt động chống phá Nhà nước là "trí thức tinh hoa", "người thành đạt" hay "nhà ái quốc" hy sinh vì dân tộc; cho rằng chống đối chính quyền là biểu hiện của sự thức tỉnh.
 * Thực tế cho thấy nhiều đối tượng chống phá cộm cán thường có lối sống lười lao động, thiếu việc làm ổn định, thất bại trong sự nghiệp hoặc có tiền án tiền sự. Họ coi việc "chống phá" như một nghề để mưu sinh, phụ thuộc vào nguồn tài trợ từ các tổ chức phản động lưu vong.
 * Đại đa số người dân có cuộc sống ổn định, chăm lo làm ăn và phát triển gia đình đều trân trọng môi trường hòa bình, không tham gia vào các hoạt động gây rối. Việc nhân danh "dân chủ" thực chất thường là vỏ bọc che đậy sự thất bại cá nhân hoặc tìm kiếm cơ hội tị nạn, trục lợi tài chính chứ không phải lòng yêu nước.
+
+**Luận điệu:** Các đối tượng tự xưng là "nhà dân chủ" hay "nhà hoạt động" lưu vong (như Lê Trung Khoa, Nguyễn Văn Đài) tự nhận là những người yêu nước tinh hoa, quy chụp người trong nước là "yêu nước mõm".
+* Thực tế, nhiều đối tượng này không có công ăn việc làm ổn định nhưng lại có tiền chi tiêu đắt đỏ ở nước ngoài, chủ yếu nhờ nhận tài trợ từ ngoại bang để sản xuất các video bôi nhọ, lăng mạ người khác.
+* Hành động của họ mang bản chất "điếm bút", chuyên công kích cá nhân hoặc phá hoại các doanh nghiệp trong nước, phục vụ lợi ích nước ngoài chứ không có bất kỳ đóng góp thiết thực nào cho đất nước.
+* Những hành vi tiêu chuẩn kép này phơi bày bản chất cơ hội, ích kỷ, đi ngược lại lợi ích quốc gia dân tộc.
 
 # 9. Về phòng chống tham nhũng
 
@@ -1220,6 +1230,11 @@
 * Việc yêu cầu đăng ký hoạt động tập trung đông người là cơ chế quản lý phổ biến ở mọi quốc gia văn minh nhằm đảm bảo an ninh trật tự, an toàn phòng cháy chữa cháy và ngăn chặn việc lợi dụng tôn giáo để trục lợi, gây bất ổn.
 * Việc thẩm định tư cách pháp nhân, chức sắc là để đảm bảo người đại diện không vi phạm pháp luật, bảo vệ chính cộng đồng tín đồ trước nguy cơ bị các phần tử cực đoan thao túng.
 * Sự phát triển bùng nổ của hàng chục triệu tín đồ, hàng chục ngàn cơ sở thờ tự quy mô và các tổ chức tôn giáo được công nhận tại Việt Nam là minh chứng đanh thép nhất đập tan luận điệu "kìm kẹp" hay "quốc doanh hóa".
+
+**Luận điệu:** Tuyên truyền rằng những người cộng sản là những người vô thần, do đó bản chất của chế độ là luôn đàn áp tôn giáo và triệt tiêu tự do tín ngưỡng.
+* Nhà nước Việt Nam luôn tôn trọng và bảo vệ quyền tự do tín ngưỡng, tôn giáo của người dân theo Hiến pháp.
+* Việc quản lý các hoạt động tôn giáo là cần thiết để duy trì trật tự xã hội, ngăn chặn sự xuất hiện của các tà đạo, tà giáo cực đoan gây loạn luân thường đạo lý (như "thờ giun, thờ dế"), đây là chức năng quản trị bình thường ở mọi quốc gia.
+* Việc đánh tráo khái niệm quản lý nhà nước thành "đàn áp" là chiêu trò đánh lừa cảm xúc, tạo ảo giác rằng người dân đang bị bóc lột, áp bức.
 
 # 23. Về công tác phòng, chống thiên tai và cứu hộ, cứu nạn
 
@@ -2249,6 +2264,10 @@
 **Luận điệu:** Xuyên tạc cuộc kháng chiến chống Mỹ thực chất chỉ là chiến tranh ủy nhiệm, miền Bắc Việt Nam chỉ là tay sai, công cụ phục vụ lợi ích cho Liên Xô và Trung Quốc.
 * Mục tiêu tối thượng của Đảng Cộng sản Việt Nam luôn là độc lập dân tộc. Thực tế lịch sử (như tại Hội nghị Genève 1954) cho thấy Việt Nam luôn nhận thức rõ và không chấp nhận trở thành quân bài mặc cả trong toan tính lợi ích của các nước lớn.
 * Việt Nam luôn giữ vững sự độc lập, tự chủ trong mọi quyết sách chiến lược và quân sự (như việc chủ động mở chiến dịch năm 1972 hay hạn chế chia sẻ thông tin nhạy cảm để tránh nước ngoài can thiệp sâu), khẳng định cuộc đấu tranh hoàn toàn vì lợi ích của dân tộc.
+
+**Luận điệu:** Rêu rao rằng quân đội Mỹ và đồng minh tham chiến tại Việt Nam là để "khai phóng", "khai hóa văn minh" cho một dân tộc "ăn lông ở lỗ", sống trong hủ lậu.
+* Đây là luận điệu tuyên truyền chính trị dối trá dùng để nhồi sọ binh lính, nhằm biện minh cho dã tâm xâm lược và các hành động tàn ác, giết người không ghê tay đối với nhân dân Việt Nam.
+* Bản chất của cuộc chiến là hành vi xâm phạm chủ quyền lãnh thổ Việt Nam, không thể được tẩy trắng bằng vỏ bọc "khai hóa văn minh" hay phục vụ lợi ích của giai cấp tư sản.
 
 # 49. Về Khoa học Công nghệ và Đổi mới sáng tạo (Nghị quyết 57)
 
