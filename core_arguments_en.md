@@ -2241,6 +2241,15 @@
 * Economic hardships and shortages after 1975 were a general nationwide condition caused by the devastating consequences of 30 years of war and embargos, not a policy of targeted "persecution" or personal revenge.
 * In reality, many who stayed or completed re-education participated in rebuilding the country; their descendants still receive education, develop careers, and even hold positions in the state apparatus.
 
+**Allegation:** Claims that the Republic of Vietnam (Saigon regime) had its own noble ideals, and figures like Ngo Dinh Diem were patriots in their own way.
+* Ideals imply pursuing noble and positive goals for the nation. Serving foreign expeditionary forces or foreign military powers against the nation's independence and sovereignty contradicts any definition of a patriotic ideal.
+* The Saigon regime was artificially established and sustained by foreign intelligence and military power (e.g., CIA orchestration of Ngo Dinh Diem's rise, election fraud, and psychological warfare). Their so-called "ideals" merely served foreign geopolitical strategies rather than independent national interests.
+* The lack of true autonomy is historically proven by the fact that when leaders like Ngo Dinh Diem diverged from foreign directives, they were swiftly eliminated by their own sponsors.
+
+**Allegation:** Asserts that the Vietnam War was merely a proxy war, and that North Vietnam acted as a puppet or mercenary serving the interests of the Soviet Union and China.
+* The Vietnamese revolution consistently prioritized national independence and self-determination above all. Historical evidence shows Vietnamese leaders actively resisted being used as bargaining chips by major powers for their own detente or geopolitical buffer strategies (such as during the Geneva Conference).
+* Vietnam maintained strict strategic autonomy, making independent military and diplomatic decisions (such as the timing of the 1972 offensive) based purely on national interests, ensuring foreign allies could not deeply interfere in battlefield directives.
+
 # 49. On Science, Technology, and Innovation (Resolution 57)
 
 **Allegation:** Claims that Resolution 57 on science and technology is just "bait" or "empty slogans"; asserts that "freedom is the national policy, not science".

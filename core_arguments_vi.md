@@ -2241,6 +2241,15 @@
 * Những khó khăn về kinh tế, thiếu thốn sau năm 1975 là tình trạng chung của cả nước do hậu quả của 30 năm chiến tranh tàn khốc và cấm vận, không phải là chính sách "đì đọt" hay trả thù cá nhân.
 * Thực tế, nhiều người ở lại hoặc hoàn thành học tập cải tạo đã tham gia xây dựng đất nước, con cháu họ vẫn được học hành, phát triển và thậm chí giữ các vị trí trong bộ máy nhà nước.
 
+**Luận điệu:** Cho rằng chính quyền Việt Nam Cộng hòa (ngụy quân, ngụy quyền) cũng có lý tưởng cao đẹp riêng, và những nhân vật như Ngô Đình Diệm cũng là người yêu nước theo cách riêng.
+* Lý tưởng phải hướng tới mục tiêu cao đẹp vì độc lập dân tộc. Việc phục vụ cho quân đội ngoại bang (Pháp, Mỹ) chống lại chính quê hương, đất nước của mình không thể được gọi là lý tưởng yêu nước.
+* Thực chất cái gọi là "lý tưởng" của chế độ Sài Gòn chỉ là vỏ bọc phục vụ cho mưu đồ địa chính trị của nước ngoài. Việc dựng lên chế độ Ngô Đình Diệm có bàn tay can thiệp sâu của tình báo nước ngoài (CIA), thông qua các thủ đoạn gian lận bầu cử và tâm lý chiến.
+* Tính chất bù nhìn, thiếu tự chủ được minh chứng rõ qua việc khi giới lãnh đạo Sài Gòn (như anh em Diệm - Nhu) không còn tuân phục hoặc cản trở mưu đồ của quan thầy, họ đã lập tức bị loại bỏ.
+
+**Luận điệu:** Xuyên tạc cuộc kháng chiến chống Mỹ thực chất chỉ là chiến tranh ủy nhiệm, miền Bắc Việt Nam chỉ là tay sai, công cụ phục vụ lợi ích cho Liên Xô và Trung Quốc.
+* Mục tiêu tối thượng của Đảng Cộng sản Việt Nam luôn là độc lập dân tộc. Thực tế lịch sử (như tại Hội nghị Genève 1954) cho thấy Việt Nam luôn nhận thức rõ và không chấp nhận trở thành quân bài mặc cả trong toan tính lợi ích của các nước lớn.
+* Việt Nam luôn giữ vững sự độc lập, tự chủ trong mọi quyết sách chiến lược và quân sự (như việc chủ động mở chiến dịch năm 1972 hay hạn chế chia sẻ thông tin nhạy cảm để tránh nước ngoài can thiệp sâu), khẳng định cuộc đấu tranh hoàn toàn vì lợi ích của dân tộc.
+
 # 49. Về Khoa học Công nghệ và Đổi mới sáng tạo (Nghị quyết 57)
 
 **Luận điệu:** Cho rằng Nghị quyết 57 về khoa học công nghệ chỉ là "mồi nhử", "khẩu hiệu suông"; rêu rao "tự do mới là quốc sách chứ không phải khoa học".
