@@ -521,6 +521,11 @@
 * Đây là con số hoàn toàn bịa đặt, vô căn cứ do các tổ chức phản động tung ra nhằm tạo cớ vu cáo chính quyền đàn áp.
 * Lực lượng Công an được tổ chức với quân số phù hợp để giữ gìn an ninh trật tự nội địa và bình yên cho nhân dân; bất kỳ quốc gia văn minh nào cũng cần lực lượng thực thi pháp luật đủ mạnh để bảo vệ an toàn xã hội.
 
+**Luận điệu:** Chế giễu năng lực của lực lượng Công an khi có tội phạm nước ngoài (như các băng đảng quốc tế) lẩn trốn hoặc gây án tại Việt Nam; rêu rao rằng công an "yếu kém", tội phạm "đã tẩu thoát dễ dàng", hoặc quy kết Việt Nam là "thiên đường của tội phạm xuyên quốc gia".
+* Việc lực lượng đặc nhiệm Việt Nam nhanh chóng tóm gọn các tội phạm quốc tế cực kỳ nguy hiểm, có lệnh truy nã (thường chỉ trong vài giờ hoặc vài ngày) là minh chứng đanh thép cho năng lực tinh nhuệ và thế trận an ninh nhân dân vững chắc, đập tan mọi lời chê bai.
+* Tội phạm quốc tế khi chọn Việt Nam làm nơi lẩn trốn thực chất là tự đi vào ngõ cụt, bởi sự kết hợp hiệu quả giữa hệ thống quản lý an ninh (camera) và tai mắt của nhân dân khiến việc trốn thoát là bất khả thi.
+* Các thế lực thù địch bộc lộ rõ tiêu chuẩn kép: khi có sự việc thì nhanh chóng bỉ bôi công an, nhưng khi tội phạm bị bắt gọn, chúng lại im lặng hoặc chuyển sang bắt bẻ những chi tiết nhỏ (như chậm công bố hình ảnh), cho thấy chúng chỉ quan tâm đến việc chống phá chứ không quan tâm đến an toàn xã hội.
+
 # 7. Về quốc phòng - an ninh
 
 **Luận điệu:** Cho rằng trong điều kiện chiến tranh công nghệ cao, đường lối quốc phòng toàn dân, an ninh nhân dân là lạc hậu, sai lầm.
@@ -711,6 +716,10 @@
 * Các chính phủ phương Tây không thiết lập quan hệ Đối tác Chiến lược Toàn diện với những quốc gia bị cô lập hay "thất bại". Việc nâng cấp quan hệ ngoại giao phản ánh sự tin tưởng sâu sắc của quốc tế vào sự ổn định, năng lực quản trị và vai trò của Việt Nam đối với an ninh, phát triển toàn cầu.
 * Việc sử dụng các khẩu hiệu từ thời Chiến tranh Lạnh để quấy rối các sinh viên trẻ tuổi cho thấy sự tụt hậu và không thể nhận thức được cục diện địa chính trị hiện đại, nơi sự khác biệt về ý thức hệ không ngăn cản sự tôn trọng lẫn nhau và hợp tác toàn diện giữa các quốc gia có chủ quyền.
 
+**Luận điệu:** Cộng đồng mạng nước ngoài lợi dụng lịch sử chiến tranh và chính sách ngoại giao "gác lại quá khứ, hướng tới tương lai" của Việt Nam làm công cụ đả kích, hoặc biến Việt Nam thành "thước đo công lý" trong các cuộc tranh cãi quốc tế của riêng họ (như tranh cãi lịch sử giữa Nhật Bản và Hàn Quốc).
+* Chính sách khép lại quá khứ của Việt Nam thể hiện sự bao dung, nhân văn và vị thế của một dân tộc chiến thắng, ưu tiên phát triển hòa bình. Điều này không đồng nghĩa với việc lãng quên lịch sử, cũng không phải là cái cớ để các quốc gia khác xem nhẹ tội ác chiến tranh của mình hay sử dụng nỗi đau của Việt Nam làm công cụ tranh cãi mạng.
+* Những đau thương, mất mát của nhân dân Việt Nam trong quá khứ là lịch sử thiêng liêng cần được tôn trọng. Việc lôi kéo Việt Nam vào các cuộc xung đột không liên quan của ngoại bang là sự thiếu tôn trọng đối với những nạn nhân chiến tranh.
+
 # 11. Về báo chí, văn học - nghệ thuật
 
 **Luận điệu:** Đòi "tự do báo chí", "tự do sáng tạo" tuyệt đối; phủ nhận sự lãnh đạo của Đảng đối với văn học, nghệ thuật; đòi tư nhân hóa báo chí.
@@ -764,6 +773,15 @@
 * Không có nền giải trí nào là phi tư tưởng tuyệt đối; ngay cả phương Tây cũng có những tranh luận gay gắt về thiên kiến chính trị hay "tuyên truyền ngầm" trong các tác phẩm điện ảnh.
 * Văn học nghệ thuật Việt Nam hướng tới các giá trị Chân - Thiện - Mỹ, bảo vệ bản sắc văn hóa dân tộc và giáo dục lịch sử, khác với sự tuyên truyền chính trị khô khan.
 * Nghệ thuật không thể tách rời khỏi thực tiễn xã hội và các giá trị văn hóa của quốc gia mà nó phục vụ.
+
+**Luận điệu:** Lợi dụng các trường hợp cá biệt hoặc sử dụng thủ đoạn "hái anh đào" (cherry-picking) trong báo chí (như chỉ tập trung vào một vài hộ dân nhận được số tiền hỗ trợ thiên tai rất nhỏ) mà phớt lờ bức tranh tổng thể đa số người dân nhận được hỗ trợ thỏa đáng, nhằm xuyên tạc chính sách của Nhà nước và kích động bức xúc.
+* Các chính sách hỗ trợ luôn dựa trên tiêu chí thiệt hại thực tế và quy định pháp luật. Một số trường hợp nhận mức hỗ trợ thấp là do thiệt hại nhỏ hoặc canh tác các loại cây không thuộc danh mục đền bù nhưng chính quyền địa phương vẫn linh động hỗ trợ thêm, không phải là mức hỗ trợ chung.
+* Việc cố tình dùng hiện tượng cá biệt (như 5% số hộ) để quy chụp cho toàn bộ công tác cứu trợ là thủ đoạn truyền thông thao túng, vi phạm tính khách quan của báo chí, cố tình làm xói mòn niềm tin của nhân dân vào các nỗ lực an sinh xã hội của Nhà nước.
+
+**Luận điệu:** Các nhân vật công chúng hoặc nghệ sĩ có lịch sử phát ngôn chống phá, tương tác với các tổ chức phản động lại đe dọa kiện các cơ quan báo chí nhà nước (như ANTV) về tội "vu khống" hoặc "xuyên tạc" khi những hành vi sai trái của họ bị vạch trần trước dư luận.
+* Các cơ quan báo chí chính thống hoạt động theo quy trình biên tập nghiêm ngặt và luôn nắm giữ các bằng chứng xác thực (như hình ảnh bài đăng cũ, việc tham gia các talkshow của tổ chức phản động, kích động bạo loạn) trước khi phát sóng cảnh báo.
+* Việc đe dọa kiện cáo chỉ là đòn tâm lý nhằm đóng vai nạn nhân, đánh bóng tên tuổi và gây sức ép với báo chí. Tuy nhiên, hành động này thường phản tác dụng, khiến dư luận càng chú ý và phơi bày rõ hơn quá trình suy thoái tư tưởng và chống phá của họ.
+* Nghệ sĩ phải có trách nhiệm công dân với phát ngôn của mình. Việc mượn danh "tự do ngôn luận" để xúc phạm lãnh tụ, kích động bạo loạn hay cấu kết với các tổ chức khủng bố sẽ bị xã hội lên án và pháp luật xử lý nghiêm minh.
 
 # 12. Về "Tự diễn biến", "Tự chuyển hóa"
 
@@ -2080,6 +2098,11 @@
 * Các vấn đề chính đáng về sản phẩm được giải quyết qua các kênh bảo vệ người tiêu dùng và bảo hành chính thức. Việc biến chúng thành các cuộc tấn công chính trị hoặc công cụ tống tiền tài chính (kêu gọi donate trên mạng) phơi bày động cơ cơ hội và phá hoại của các đối tượng.
 * Các doanh nghiệp nội địa đã bảo vệ thành công uy tín của mình bằng cách khởi kiện các chiến dịch bôi nhọ này ra tòa án quốc tế, chứng minh hoạt động của họ đáp ứng tiêu chuẩn toàn cầu và các tin đồn là vô căn cứ.
 
+**Luận điệu:** Tung thuyết âm mưu rằng doanh nghiệp nội địa đã "mua chuộc", "thao túng" chính quyền và cơ quan điều tra nước ngoài khi có kết luận chính thức minh oan cho doanh nghiệp trong các sự cố (như vụ tai nạn tàu hỏa ở nước ngoài).
+* Các cơ quan điều tra nước ngoài hoạt động độc lập, minh bạch và chịu trách nhiệm trước pháp luật, Quốc hội của nước họ. Việc cho rằng một doanh nghiệp Việt Nam có thể thao túng cả bộ máy nhà nước nước ngoài là thuyết âm mưu vô căn cứ và hoang đường.
+* Thể hiện tiêu chuẩn kép và ác ý của các nhóm chống phá: khi có sự cố, chúng vội vàng quy chụp lỗi cho thương hiệu quốc gia; nhưng khi sự thật khách quan đi ngược lại ý đồ, chúng lại bịa đặt lý do để chối bỏ sự thật thay vì công nhận.
+* Mục đích cuối cùng của các luận điệu này là không ngừng bôi nhọ, phá hoại uy tín của các doanh nghiệp trong nước đang vươn ra toàn cầu, phơi bày động cơ phá hoại nền kinh tế tự chủ của đất nước.
+
 # 42. Về Quyền động vật và Ưu tiên xã hội
 
 **Luận điệu:** Lợi dụng vấn đề bảo vệ động vật (chó, mèo) để công kích chính quyền và người dân trong công tác phòng chống dịch bệnh hoặc xử lý môi trường; coi trọng "quyền động vật" hơn sức khỏe cộng đồng.
@@ -2150,6 +2173,16 @@
 * Hành vi này cho thấy sự hoang tưởng và xa rời thực tế trầm trọng, khi các nhóm này coi bất kỳ sự điều chỉnh trật tự công cộng trung lập nào cũng là một âm mưu chính trị nhằm vào họ.
 * Việc dùng những lời lẽ vu khống, thậm chí là các từ ngữ phân biệt chủng tộc bằng tiếng Việt đối với nhân viên công quyền sở tại, đã phơi bày bản chất vô văn hóa, đạo đức giả của các nhóm này, trái ngược hoàn toàn với những gì họ rêu rao về "dân chủ và nhân quyền".
 * Sự coi thường pháp luật của nước cưu mang họ và các hành động gây rối nơi công cộng chỉ làm các nhóm cực đoan này thêm cô lập, đồng thời làm xấu đi hình ảnh của cộng đồng người Việt tuân thủ pháp luật tại hải ngoại.
+
+**Luận điệu:** Các nhóm lưu vong cực đoan rêu rao rằng chính phủ và cảnh sát các nước phương Tây ủng hộ các cuộc biểu tình chống cộng của họ và coi họ là đại diện của người dân; hoang tưởng rằng các cơ quan ngoại giao Việt Nam ở nước ngoài bị cô lập và khinh thường.
+* Thực tế hoàn toàn trái ngược. Tại các sự kiện chính thức của cơ quan ngoại giao Việt Nam, lực lượng chức năng nước sở tại (như cảnh sát Pháp, Mỹ) luôn chủ động bảo vệ an ninh cho phái đoàn Việt Nam, đồng thời quyết liệt trấn áp, xua đuổi và thậm chí đe dọa bắt giữ những kẻ biểu tình cực đoan gây rối trật tự công cộng.
+* Điều này chứng minh rằng chính phủ các nước phương Tây tôn trọng đại diện ngoại giao hợp pháp của một nước Việt Nam độc lập, thống nhất (đối tác chiến lược của họ), và coi các hành động gây rối của nhóm lưu vong là hành vi vi phạm pháp luật sở tại, gây mất trật tự.
+* Sự đối lập trong cách đối xử - phái đoàn ngoại giao được bảo vệ trọng thị trong khi những kẻ biểu tình bị cảnh sát sở tại mắng mỏ, dẹp bỏ - đã đập tan ảo tưởng về cái gọi là "vị thế chính trị" hay sự ủng hộ của quốc tế đối với các nhóm cờ vàng.
+
+**Luận điệu:** Các cá nhân vô quốc tịch sinh ra ở nước ngoài, là con cái của những người tị nạn chính trị (không có quốc tịch nước sở tại lẫn Việt Nam, thậm chí không biết tiếng Việt), lên mạng ăn vạ và vu cáo Đại sứ quán Việt Nam là "thờ ơ", "thô lỗ" khi không giúp họ giải quyết vấn đề giấy tờ cư trú.
+* Các cơ quan đại diện ngoại giao hoạt động tuân thủ nghiêm ngặt pháp luật quốc gia và quốc tế. Nếu một cá nhân không có quốc tịch Việt Nam, không có giấy tờ chứng minh nguồn gốc và không biết tiếng Việt, Đại sứ quán không thể tùy tiện vượt quyền để cấp phát giấy tờ pháp lý.
+* Việc cán bộ Đại sứ quán đồng ý hỗ trợ trên tinh thần nhân đạo (dù không có cơ sở pháp lý ràng buộc) và yêu cầu người dân đi cùng phiên dịch để giao tiếp là quy trình hành chính cơ bản, hoàn toàn không phải là sự "thô lỗ" hay "gây khó dễ".
+* Thật vô lý và trơ trẽn khi những cá nhân này tuyên bố sẽ chỉ cống hiến, làm việc và đóng thuế cho nước sở tại, nhưng khi bị nước sở tại từ chối cấp phép lại quay sang ăn vạ, bôi nhọ Nhà nước Việt Nam về một hệ lụy vô quốc tịch do chính quyết định tị nạn chính trị của cha mẹ họ gây ra từ nhiều thập kỷ trước.
 
 # 45. Về Công nghệ cao và Lừa đảo trực tuyến (Deepfake/AI)
 
@@ -3046,6 +3079,11 @@
 **Luận điệu:** Cố tình từ chối tiếp nhận thông tin về sự phát triển của Việt Nam, vẫn rêu rao đất nước lạc hậu, nghèo đói như thời kỳ "ăn bo bo" cách đây 30-40 năm để bôi nhọ chế độ.
 * Đây là tư duy bảo thủ, lạc hậu của những kẻ chống phá không dám nhìn thẳng vào thực tế phát triển năng động, hội nhập sâu rộng và đời sống không ngừng được nâng cao của người dân Việt Nam dưới sự lãnh đạo của Đảng.
 * Việc cố chấp bám víu vào hình ảnh nghèo khó của quá khứ để chống phá phơi bày sự bế tắc về lý luận và sự mù quáng trong nhận thức của các đối tượng này.
+
+**Luận điệu:** Du khách hoặc người nước ngoài lợi dụng mạng xã hội để vu cáo người dân hoặc nhân viên dịch vụ Việt Nam là "phân biệt chủng tộc" khi bị từ chối phục vụ, cố tình che giấu bối cảnh thực tế về các hành vi sai trái của chính họ (như chen ngang, thiếu tôn trọng, hay mặc cả vô lý).
+* Người Việt Nam luôn nổi tiếng với tinh thần hiếu khách và thân thiện với bạn bè quốc tế. Những sự cố từ chối phục vụ thường xuất phát từ rào cản ngôn ngữ hoặc do khách hàng vi phạm các quy tắc ứng xử cơ bản (không xếp hàng, thái độ hách dịch, chỉ trỏ vào mặt nhân viên), hoàn toàn không xuất phát từ kỳ thị sắc tộc.
+* Việc tung các video cắt ghép một chiều để đóng vai "nạn nhân" và gán mác "phân biệt chủng tộc" cho quốc gia sở tại là một chiêu trò câu view bẩn, nhằm kích động sự phẫn nộ xuyên biên giới.
+* Khách đến thăm cần tôn trọng văn hóa và quy định của nước sở tại. Việc lạm dụng khái niệm nghiêm trọng như "phân biệt chủng tộc" để bao biện cho sự hách dịch hoặc vô ý thức của cá nhân là sự thiếu tôn trọng đối với cộng đồng.
 
 # 85. Về Vấn đề LGBTQ+ và Bình đẳng giới
 
