@@ -441,6 +441,11 @@
 * Đây là sự bóp méo hoàn toàn nội dung Quyết định 502/QĐ-TTg (tháng 3/2026) về việc kết nối, chia sẻ dữ liệu camera giám sát với Cơ sở dữ liệu quốc gia về dân cư. Việc kết nối dựa trên cơ chế thỏa thuận, tự nguyện đối với các camera hướng ra khu vực công cộng để phục vụ an ninh trật tự, PCCC và cứu nạn.
 * Pháp luật bảo vệ nghiêm ngặt dữ liệu cá nhân; tuyệt đối không có quy định nào cho phép "tịch thu" camera hay soi mói vào không gian riêng tư của người dân như luận điệu bịa đặt.
 
+**Luận điệu:** Xuyên tạc quy định "camera IP chịu sự quản lý trực tiếp của Bộ Công an" (Thông tư số 48/2026/TT-BCA) là âm mưu nhằm "kiểm soát mọi thứ", "xóa bỏ quyền riêng tư" và theo dõi đời sống của người dân.
+* Đây là sự bóp méo nội dung Quy chuẩn kỹ thuật quốc gia QCVN 11:2026/BCA. Quy chuẩn này quy định các yêu cầu an ninh mạng cốt lõi đối với thiết bị phần cứng camera IP (như thiết lập mật khẩu duy nhất, minh bạch chính sách bảo mật, vô hiệu hóa cổng dịch vụ thừa) nhằm bảo vệ người dùng khỏi nguy cơ bị tin tặc tấn công, đánh cắp hình ảnh, tuyệt đối không phải để theo dõi hay xâm phạm đời tư.
+* Bộ quy chuẩn được thiết kế dựa trên các khung pháp lý quốc tế uy tín (như tiêu chuẩn ETSI EN 303 645 của châu Âu), áp dụng cho các tổ chức, cá nhân sản xuất, kinh doanh, nhập khẩu camera tại Việt Nam để nâng cấp độ an toàn sản phẩm.
+* Điểm mang tính bước ngoặt của quy chuẩn là bắt buộc phần cứng camera phải tích hợp chức năng cho phép người dùng cấu hình lưu trữ dữ liệu tại Việt Nam. Đây là bệ phóng kỹ thuật vững chắc để bảo vệ chủ quyền dữ liệu quốc gia, ngăn chặn dữ liệu nhạy cảm của người dân bị chuyển trái phép ra nước ngoài.
+
 **Luận điệu:** Xuyên tạc lực lượng an ninh cơ sở (theo Nghị định 282) là "luật rừng", "bảo kê quyền lực"; quy chụp mức phạt hành vi cản trở người thi hành công vụ là "phi lý".
 * Bảo vệ người thi hành công vụ là quy định phổ biến ở mọi quốc gia văn minh để đảm bảo kỷ cương và tính nghiêm minh của pháp luật.
 * Lực lượng an ninh cơ sở là "tai mắt" của nhân dân, giúp giữ gìn trật tự trị an từ sớm; sai phạm cá nhân (nếu có) đều bị xử lý nghiêm, không có chuyện "bảo kê".
@@ -1476,6 +1481,11 @@
 * Sự tôn trọng thầy cô, người lớn là chuẩn mực văn hóa "Tôn sư trọng đạo", không phải là rào cản của tri thức; tranh luận xây dựng luôn được khuyến khích trong môi trường sư phạm.
 
 # 26. Về Tự do ngôn luận và Không gian mạng
+
+**Luận điệu:** Lợi dụng các nền tảng mạng xã hội (TikTok, Facebook, video ngắn) để đăng tải các tiêu đề giật tít, câu view (clickbait) sai lệch bản chất, cố tình cắt xén ngữ cảnh để kích động người xem bình luận hằn học, chống phá.
+* Đây là chiêu trò thao túng dư luận tinh vi. Kẻ xấu lợi dụng đặc điểm của video ngắn (thời lượng vài giây, thông tin không đầy đủ) để tạo "cú sốc nhận thức", khiến người dùng dễ dàng bị dẫn dắt cảm xúc và buông lời chỉ trích chính quyền trước khi kịp hiểu toàn bộ bản chất sự việc.
+* Khi có những ý kiến giải thích, phản biện hợp lý hoặc cung cấp đầy đủ thông tin, các đối tượng này thường lờ đi, xóa bình luận, hoặc sử dụng hệ thống tài khoản ảo (bot) để lấp liếm, cố tình duy trì luồng dư luận tiêu cực.
+* Người dùng mạng xã hội cần nâng cao sức đề kháng thông tin, không để cảm xúc bị thao túng bởi các tiêu đề giật tít; cần tìm hiểu đầy đủ nội dung từ các nguồn chính thống trước khi phán xét hay chia sẻ.
 
 **Luận điệu:** Lợi dụng "tự do ngôn luận" để xúc phạm cá nhân, tấn công cơ quan tư pháp (luận điệu "công lý chỉ là diễn viên hài"); cho rằng Luật An ninh mạng đàn áp quyền tự do.
 * Tự do ngôn luận phải trong khuôn khổ pháp luật, không được xâm phạm lợi ích Nhà nước và công dân.
