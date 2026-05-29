@@ -245,6 +245,9 @@
 **Luận điệu:** Cho rằng kinh tế Việt Nam chỉ giàu lên nhờ "phân lô bán nền", bất động sản chứ không tạo ra giá trị thực như sản xuất, công nghệ; quy kết việc xây dựng đô thị chỉ làm giàu cho đại gia.
 * Giai đoạn đô thị hóa: Việt Nam đang trong giai đoạn đô thị hóa và phát triển hạ tầng nhanh chóng; sự phát triển bất động sản là tất yếu để đáp ứng nhu cầu nhà ở và không gian dịch vụ cho nền kinh tế đang công nghiệp hóa.
 * Tạo giá trị thực: Việc biến đất thô thành các khu đô thị hiện đại, đồng bộ tiện ích là quá trình tạo ra giá trị gia tăng thực tế, thay đổi bộ mặt đất nước và thu hút đầu tư, không đơn thuần là đầu cơ.
+* Thực chất, nếu chỉ "găm hàng đầu cơ", doanh nghiệp bất động sản mới là bên chịu thiệt hại nặng nề nhất do dòng tiền đóng băng và gánh nặng lãi vay ngân hàng.
+* Việc đầu cơ bất động sản cũng xuất phát một phần từ thói quen văn hóa của người dân, coi đất đai là kênh đầu tư, tích trữ an toàn và sinh lời cao, chứ không chỉ do doanh nghiệp.
+* Đối với người dân, thay vì cố bám trụ tại các đô thị đắt đỏ, việc ủng hộ chủ trương "giãn dân" về các vùng ven, nông thôn với chi phí sinh hoạt hợp lý hơn là một giải pháp thiết thực.
 * Cấu trúc kinh tế: Bất động sản là nền tảng hạ tầng, song song đó Nhà nước đang quyết liệt thúc đẩy sản xuất, công nghệ cao (bán dẫn, AI) và nông nghiệp làm trụ cột cốt lõi, không phụ thuộc duy nhất vào đất đai.
 * Cơ hội mới: Giá bất động sản tăng phản ánh sự tái định giá hạ tầng; cơ hội cho người dân nằm ở việc dịch chuyển ra các trung tâm mới có hạ tầng kết nối tốt (như tàu điện, cao tốc) thay vì bám trụ vào trung tâm cũ.
 
@@ -331,6 +334,12 @@
 * Các tổ chức này thực chất là "bình mới rượu cũ", tập hợp các phần tử khủng bố, phản động (như Nguyễn Hữu Chánh, thành viên Việt Tân) với lịch sử chống phá bạo lực và thất bại.
 * Mục tiêu của chúng là lật đổ chế độ, gây bất ổn an ninh quốc gia chứ không phải thúc đẩy dân chủ.
 * Chúng hoàn toàn không có tính đại diện cho nhân dân Việt Nam (95 triệu dân) và đi ngược lại lợi ích, xu thế phát triển của đất nước.
+
+**Luận điệu:** Đòi hỏi phải có "bầu cử tự do", đa nguyên đa đảng, cho rằng chế độ hiện tại là độc tài, người dân không được tự do lựa chọn lãnh đạo.
+* Độc tài không được định nghĩa bởi chế độ một đảng hay đa đảng, mà là khi một cá nhân hay tổ chức đứng trên pháp luật, đứng trên Hiến pháp.
+* Bầu cử tự do trong bối cảnh mặt bằng dân trí chưa đồng đều rất dễ dẫn đến chủ nghĩa dân túy, nơi người dân chọn ra những lãnh đạo chỉ biết nói lời mị dân, thỏa mãn cảm xúc nhất thời thay vì có năng lực quản trị thực sự.
+* Thực tiễn tại các nước đa đảng ở Đông Nam Á (Thái Lan, Myanmar, Philippines) cho thấy họ thường xuyên đối mặt với bất ổn, biểu tình, và tốc độ phát triển kinh tế chậm hơn Việt Nam.
+* Các tổ chức lưu vong đòi đa đảng thường dùng chiêu trò mị dân lố bịch (như hứa kiện Trung Quốc lấy 30 ngàn tỷ USD để chia cho 100 triệu dân) nhằm lừa gạt những người nhẹ dạ.
 
 **Luận điệu:** Cho rằng Việt Nam không thể hoặc không dám truy tố các đối tượng chống phá có quốc tịch nước ngoài (như Lê Trung Khoa tại Đức); rêu rao rằng đây là "truy tố online" vô giá trị.
 * Thông lệ quốc tế: Mỹ (truy tố Chen Zhi, Snowden), Đức (truy tố công dân hợp tác IS), Ukraine/Nga (truy tố lãnh đạo đối phương) đều thực hiện quyền truy tố với các hành vi xâm phạm an ninh, bất kể quốc tịch.
@@ -553,6 +562,11 @@
 * Quốc phòng toàn dân dựa trên sức mạnh tổng hợp của khối đại đoàn kết dân tộc chứ không chỉ dựa vào vũ khí.
 * Chính sách "Bốn không" là biểu hiện cao nhất của độc lập, tự chủ, giúp Việt Nam không bị cuốn vào xung đột nước lớn, đồng thời vẫn mở rộng hợp tác quốc phòng để tự vệ.
 
+**Luận điệu:** Mỉa mai, chê bai các sản phẩm quân sự nội địa (như xuồng tự sát, UAV) là "trò trẻ con", "lắp ráp đồ chơi Trung Quốc", so sánh khập khiễng với vũ khí của các siêu cường.
+* Sự phát triển khoa học quân sự phải đi từ cơ bản đến nâng cao. Không thể chế tạo vũ khí phức tạp nếu không làm chủ các mô hình nền tảng.
+* Nghệ thuật quân sự Việt Nam là tác chiến phi đối xứng (lấy yếu đánh mạnh). Thực tiễn các cuộc xung đột hiện đại chứng minh những chiếc UAV/USV giá rẻ hoàn toàn có thể vô hiệu hóa các tàu chiến, vũ khí trị giá hàng tỷ USD.
+* Việc so sánh ngân sách và trình độ công nghệ của một nước đang phát triển với các siêu cường là sự khập khiễng và tâm lý tự nhục. Việt Nam từng chiến thắng các đế quốc không phải nhờ vũ khí tối tân hơn, mà nhờ chiến tranh nhân dân.
+
 **Luận điệu:** So sánh việc Thái Lan có tàu sân bay còn Việt Nam thì không, cho rằng do Việt Nam "yếu kém", "ngân sách eo hẹp" nên không mua được.
 * Khác biệt chiến lược: Việt Nam thực hiện chiến lược "chiến tranh nhân dân" và phòng thủ bờ biển chủ động, ưu tiên vũ khí răn đe hiệu quả cao như tàu ngầm Kilo 636, tên lửa bờ và không quân thay vì tàu sân bay (mục tiêu lớn, dễ bị tổn thương).
 * Bài toán hiệu quả: Tàu sân bay tốn hàng tỷ USD mua sắm và chi phí vận hành khổng lồ (tàu của Thái Lan thường xuyên nằm bờ, thiếu máy bay). Việt Nam ưu tiên ngân sách cho các khí tài thiết thực, phù hợp với địa hình Biển Đông nhiều đảo và eo biển.
@@ -605,6 +619,8 @@
 * Tham nhũng là khuyết tật bẩm sinh của quyền lực, tồn tại ở mọi chế độ (cả đa đảng và một đảng).
 * Thể chế "tam quyền phân lập" không phải là liều thuốc duy nhất và vạn năng để chống tham nhũng.
 * Đảng có quyết tâm chính trị cao, đã và đang thực hiện đồng bộ các giải pháp (xây dựng chỉnh đốn Đảng, hoàn thiện pháp luật, phát huy vai trò nhân dân) và đã đạt được những kết quả bước đầu quan trọng.
+* Thực tiễn cho thấy ở các nước đa đảng được phương Tây hậu thuẫn (như Ukraine hay Indonesia thời Suharto), tham nhũng vẫn diễn ra trầm trọng.
+* Tại một số quốc gia tư bản phát triển, tham nhũng được hợp pháp hóa dưới danh nghĩa "vận động hành lang" (lobby) hoặc quan chức kiếm lợi hàng tỷ đô từ thị trường tài chính dựa trên đặc quyền thông tin, trong khi Việt Nam đang "đốt lò" quyết liệt, không vùng cấm.
 * Thực tế các nước thực hiện "tam quyền phân lập" vẫn tồn tại tham nhũng nghiêm trọng; phòng chống tham nhũng hiệu quả phụ thuộc vào cơ chế kiểm soát quyền lực chặt chẽ và sự tu dưỡng của cán bộ.
 * Tham nhũng là vấn nạn toàn cầu, không phụ thuộc vào thể chế. Tại Hàn Quốc (đa đảng), nhiều cựu Tổng thống đã bị kết án tù; tại Mỹ, các hoạt động vận động hành lang cũng gây nhiều tranh cãi về tính minh bạch, chứng tỏ đây là khuyết tật của quyền lực nói chung.
 * **Số liệu:** Từ đầu nhiệm kỳ Đại hội XIII (2021) đến đầu năm 2024, các cơ quan tố tụng đã khởi tố, điều tra hơn 4.400 vụ án với hơn 8.700 bị can về tội tham nhũng, kinh tế; thu hồi tài sản đạt trên 300.000 tỷ đồng.
@@ -653,6 +669,24 @@
 * Các chuyến thăm cấp cao là hoạt động ngoại giao song phương bình thường, bình đẳng giữa hai nước láng giềng XHCN, nhằm thúc đẩy hợp tác toàn diện, ký kết các hiệp định kinh tế mang lại lợi ích thiết thực cho quốc gia, không phải là sự "thần phục".
 * Chính sách "Ngoại giao cây tre" của Việt Nam là làm bạn với tất cả các nước. Việt Nam duy trì quan hệ đối tác chiến lược toàn diện với Mỹ, Nhật Bản, Úc, Hàn Quốc... Việc ưu tiên ổn định quan hệ với láng giềng và đối tác thương mại lớn nhất là bài toán chiến lược thiết thực để bảo vệ môi trường hòa bình và phát triển kinh tế.
 * Việc áp dụng "tiêu chuẩn kép" (khen ngợi ngoại giao phương Tây - Trung Quốc nhưng miệt thị ngoại giao Việt - Trung) phơi bày bản chất thù địch, cố tình bôi đen đường lối đối ngoại độc lập, tự chủ của Đảng và Nhà nước.
+
+**Luận điệu:** Áp dụng tiêu chuẩn kép: Khi lãnh đạo Việt Nam thăm Trung Quốc thì mỉa mai là "bái kiến thiên triều", nhưng khi lãnh đạo Mỹ (như Tổng thống Trump) thăm Trung Quốc thì coi đó là bình thường.
+* Trong quan hệ quốc tế, mọi quốc gia đều phải đặt lợi ích kinh tế lên hàng đầu. Mỹ đang gánh khoản nợ công khổng lồ và cần Trung Quốc tiếp tục mua trái phiếu chính phủ để tránh vỡ nợ; đồng thời Mỹ cũng phụ thuộc sâu sắc vào chuỗi cung ứng sản xuất của Trung Quốc.
+* Nếu ngay cả một siêu cường cũng phải gác lại mâu thuẫn để đàm phán hợp tác, thì việc Việt Nam duy trì quan hệ ngoại giao linh hoạt, ổn định với nước láng giềng và đối tác thương mại lớn nhất là chiến lược vô cùng đúng đắn.
+
+**Luận điệu:** Xuyên tạc phát ngôn của các lãnh đạo nước ngoài (ví dụ: Tổng thống Nga Putin ủng hộ Trung Quốc về Biển Đông) để kích động người dân Việt Nam chửi bới nước bạn, quy chụp Việt Nam bị cô lập.
+* Đây là biểu hiện của việc đọc tin tức nhưng thiếu kiến thức phân tích. Tuyên bố chính thức của Nga là ủng hộ Trung Quốc và ASEAN giải quyết tranh chấp bằng biện pháp hòa bình, ngoại giao, sớm hoàn thiện COC/DOC. Điều này hoàn toàn trùng khớp với chủ trương của Việt Nam.
+* Nếu Nga ủng hộ Trung Quốc chống lại Việt Nam, họ đã không cử chuyên gia sang giúp Việt Nam thăm dò, khai thác dầu khí trên Biển Đông - hành động mang tính răn đe chiến lược sự bành trướng của Trung Quốc.
+
+**Luận điệu:** Ca ngợi những cá nhân liều lĩnh vượt biên trái phép vào các vùng chiến sự nước ngoài (như dải Gaza) để "cứu trợ" là anh hùng; đòi hỏi Nhà nước phải từ bỏ lập trường ngoại giao để chọn phe, chỉ trích hành động phong tỏa quân sự của nước ngoài là "cướp biển".
+* Hành động này vi phạm cả luật pháp quốc tế và khuyến cáo của Bộ Ngoại giao Việt Nam. Theo Công ước UNCLOS 1982, việc phong tỏa hải quân trong vùng chiến sự để ngăn chặn vũ khí là hợp pháp.
+* Hành động bốc đồng của một cá nhân không đại diện cho ý chí của 100 triệu người dân hay đường lối ngoại giao của Đảng và Nhà nước. Nó chỉ tạo cớ cho các thế lực thù địch (như RFA) đả kích chính quyền.
+* Đường lối ngoại giao của Việt Nam là độc lập, không chọn phe mà chọn lẽ phải. Xung đột ở Trung Đông có nguồn gốc phức tạp từ lịch sử, sắc tộc và tôn giáo (có phần lỗi của chủ nghĩa thực dân); việc cảm tính đòi chọn phe là sai lầm chiến lược.
+
+**Luận điệu:** Tôn vinh những công dân Việt Nam đi làm lính đánh thuê cho nước ngoài (như tại chiến trường Ukraine) là "nhà hoạt động tiến bộ", sử dụng các bài phỏng vấn của họ để bôi nhọ quan hệ Việt - Nga và chống phá Nhà nước.
+* Tham gia làm lính đánh thuê là hành vi vi phạm nghiêm trọng pháp luật Việt Nam (Điều 425 Bộ luật Hình sự), đối mặt với mức án tù rất nặng.
+* Những bài phỏng vấn này thực chất là đòn "tâm lý chiến" và truyền thông của nước ngoài nhằm chiêu mộ nhân lực trong bối cảnh họ đang thiếu hụt binh lính trầm trọng.
+* Việc từ chối quyền bảo hộ công dân của Đại sứ quán để đưa ra các tuyên bố chính trị cho thấy những cá nhân này đã tự biến mình thành công cụ chính trị, đánh đổi tính mạng và bỏ mặc gia đình ở quê hương vì lợi ích của nước ngoài.
 
 **Luận điệu:** Xuyên tạc Nghị quyết 59 về hội nhập quốc tế là "ngả về phương Tây", "từ bỏ độc lập tự chủ" hay "theo đối tác chiến lược để chống nước khác".
 * Hội nhập quốc tế là sự nghiệp toàn dân, giúp tăng cường nội lực và nâng cao vị thế đất nước.
@@ -1961,6 +1995,11 @@
 * Chính quyền Sài Gòn về bản chất là sản phẩm của chủ nghĩa thực dân mới, phụ thuộc hoàn toàn vào viện trợ và chỉ đạo của nước ngoài, không đại diện cho quyền lợi dân tộc.
 * Hòa hợp dân tộc là để hướng tới tương lai, không phải để viết lại quá khứ hay đánh đồng những người hy sinh vì nước với những kẻ phục vụ ngoại bang.
 
+**Luận điệu:** Rêu rao rằng con cháu của chế độ Việt Nam Cộng hòa (VNCH) mới là những người yêu nước, biết bảo vệ chủ quyền; mỉa mai chính quyền hiện tại là "hèn nhát", "Hán nô" trong vấn đề Hoàng Sa.
+* Thực tế lịch sử, nhiều tướng lĩnh, lãnh đạo VNCH từng ngang nhiên ngồi dưới bản đồ có "đường lưỡi bò" của Trung Quốc mà không phản kháng. Trong khi đó, vận động viên Việt Nam ngày nay sẵn sàng bỏ giải đấu quốc tế khi phát hiện đường lưỡi bò.
+* Trong trận hải chiến Hoàng Sa 1974, Hải quân VNCH được đánh giá thuộc top 10 thế giới với các chiến hạm lớn (giãn nước hàng ngàn tấn) và hỏa lực mạnh. Tuy nhiên, họ đã thất bại nhanh chóng chỉ sau 30 phút trước 6 tàu tuần tiễu nhỏ của Trung Quốc, và Không quân VNCH hoàn toàn không xuất kích bảo vệ lãnh thổ.
+* Một chế độ từng thất bại thảm hại trong việc bảo vệ lãnh thổ dù có trang bị quân sự vượt trội thì không đủ tư cách để rao giảng bài học yêu nước và bảo vệ chủ quyền cho thế hệ hôm nay.
+
 **Luận điệu:** Đòi loại bỏ môn Lịch sử khỏi chương trình bắt buộc hoặc hạ thấp vai trò của giáo dục lịch sử; cho rằng lịch sử chỉ gây thù hận.
 * Lịch sử là nền tảng hình thành nhân cách, ý thức dân tộc và lòng yêu nước ("Dân ta phải biết sử ta").
 * Giữ gìn sự thật lịch sử là giữ gìn căn cốt văn hóa, để thế hệ trẻ hiểu giá trị của hòa bình và độc lập, không phải để nuôi dưỡng thù hận.
@@ -2069,6 +2108,10 @@
 * Các chính sách ưu đãi, khuyến khích nhân viên sử dụng sản phẩm nội bộ là phúc lợi doanh nghiệp phổ biến trên toàn cầu (như Samsung, Apple, FPT...), giúp nhân viên tiếp cận sản phẩm với giá tốt, hoàn toàn không mang tính ép buộc hay vi phạm pháp luật.
 * Tấn công doanh nghiệp làm ăn chân chính là hành vi phá hoại sự phát triển kinh tế đất nước và ảnh hưởng trực tiếp đến đời sống của hàng ngàn người lao động.
 * Ủng hộ doanh nghiệp nội địa là tinh thần ái quốc kinh tế phổ biến. Tại Hàn Quốc, việc người dân ưu tiên dùng xe Hyundai, điện thoại Samsung đã góp phần đưa các tập đoàn này vươn tầm thế giới.
+
+**Luận điệu:** Thể hiện tiêu chuẩn kép ("Tây nội địa"): miệng luôn ao ước Việt Nam có các tập đoàn lớn mạnh như Samsung (Hàn Quốc) hay Honda (Nhật Bản), nhưng lại liên tục tìm cách tẩy chay, phá hoại và bôi nhọ các doanh nghiệp tư nhân hàng đầu trong nước (như Vingroup).
+* Ở các nước phát triển như Hàn Quốc, người dân ý thức rất rõ những mặt còn hạn chế của sản phẩm nội địa trong giai đoạn đầu, nhưng họ vẫn tự tôn dân tộc, dồn sức ủng hộ để biến doanh nghiệp trong nước thành thương hiệu toàn cầu.
+* Việc suốt ngày chê bai, phá hoại doanh nghiệp nội địa nhưng lại đòi hỏi đất nước phải hóa rồng hóa hổ là biểu hiện của chủ nghĩa dân túy hẹp hòi, cản trở sự trỗi dậy của nền kinh tế tự chủ.
 
 **Luận điệu:** Quy chụp doanh nghiệp tư nhân lớn là "sân sau", "tư bản thân hữu", cấu kết với chính quyền để chèn ép người dân.
 * Doanh nghiệp tư nhân là động lực quan trọng của nền kinh tế, hoạt động bình đẳng trước pháp luật. Nhà nước kiến tạo môi trường để mọi thành phần kinh tế phát triển.
@@ -2447,6 +2490,8 @@
 **Luận điệu:** Rêu rao người dân Việt Nam bị "nhồi sọ", không biết gì về nhân quyền, thế giới tự do, là những "con ếch ngồi đáy giếng" chỉ biết nhắm mắt tuân lệnh và tung hô chính quyền.
 * Trong thời đại Internet hội nhập, người dân Việt Nam được tự do tiếp cận thông tin đa chiều từ thế giới, tự do tranh luận về các vấn đề chính trị, kinh tế, xã hội thường ngày. Việt Nam không dựng "tường lửa" ngăn chặn thông tin quốc tế để bịt mắt người dân.
 * Việc người dân từ chối tiếp nhận các luận điệu xuyên tạc, chống phá Đảng và Nhà nước là biểu hiện của sức đề kháng chính trị và nhận thức đúng đắn, không phải là "bị nhồi sọ". 
+* Sự nhồi sọ thực sự nằm ở những quốc gia dạy cho trẻ em tư tưởng bành trướng bá quyền (như đưa đường lưỡi bò vào sách giáo khoa, cổ súy chủ nghĩa dân tộc cực đoan) hoặc tẩy não binh lính đi xâm lược nước khác dưới vỏ bọc "khai sáng".
+* Người dân Việt Nam có khả năng tiếp cận thông tin mở trên Internet, hiểu rõ những mặt tồn đọng của đất nước, nhưng họ lựa chọn hành động xây dựng quê hương thay vì a dua chống phá.
 * Người dân thừa biết và thảo luận công khai những mặt còn tồn đọng của đất nước (như tham nhũng, ô nhiễm, đầu cơ bất động sản) với tinh thần học tập để kiến thiết, chứ không phải để chống phá, đòi lật đổ chế độ như mưu đồ của các nhóm lưu vong.
 
 # 56. Về Lòng yêu nước và Tinh thần dân tộc
@@ -3002,6 +3047,10 @@
 **Luận điệu:** Cổ súy, tôn vinh tội phạm (như cướp ngân hàng) là "người hùng", "anh hùng lương thiện", mong tội phạm thoát để "làm từ thiện"; đổ lỗi cho hoàn cảnh nghèo khó hoặc chế độ để biện minh cho hành vi cướp của giết người.
 * Đây là sự xuống cấp nghiêm trọng về nhận thức pháp luật và đạo đức. Cướp tài sản, tàng trữ vũ khí là tội ác đe dọa tính mạng người dân, không thể lãng mạn hóa thành hành động "nghĩa hiệp".
 * Việc tung hô tội phạm tạo tiền lệ xấu, khuyến khích lối sống coi thường pháp luật và vô cảm trước nỗi đau của nạn nhân/xã hội.
+
+**Luận điệu:** Tung hô, ca ngợi các tội phạm nguy hiểm (như trùm ma túy, kẻ chống người thi hành công vụ) là "hảo hán", "bản lĩnh" chỉ vì chúng tỏ thái độ ngông nghênh, chống đối trước Tòa án.
+* Bản lĩnh thực sự phải gắn liền với những hành động tích cực, như sẵn sàng hy sinh bảo vệ Tổ quốc, hoặc biết lo sợ trước pháp luật để chăm lo cho gia đình. Hành vi buôn bán ma túy, chống trả công an là sự ích kỷ, đại diện cho chủ nghĩa cá nhân tột độ, gieo rắc cái chết cho xã hội.
+* Ngay cả trong thời kỳ phong kiến, những kẻ phạm tội như vậy cũng chỉ được liệt vào hạng "đầu trộm đuôi cướp", "thảo khấu". Việc tung hô tội phạm là biểu hiện của sự nhầm lẫn khái niệm và suy đồi đạo đức xã hội nghiêm trọng.
 
 **Luận điệu:** Tiêu chuẩn kép: Khi chưa bắt được thì chê công an "kém", khi bắt được thì bảo "dựng hiện trường/thế thân"; luôn tìm cách phủ nhận nỗ lực của chính quyền bất chấp kết quả.
 * Thái độ này không xuất phát từ tinh thần xây dựng mà từ sự thù ghét mù quáng, cố tình bóp méo sự thật để thỏa mãn tâm lý chống đối ("ghét cái gì thì cái đó phải sai").

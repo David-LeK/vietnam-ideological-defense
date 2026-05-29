@@ -245,6 +245,9 @@
 **Allegation:** Claims that Vietnam's economy only grows thanks to "dividing lots and selling land" (real estate speculation) and does not create real value like manufacturing or technology; asserts that urban construction only enriches tycoons.
 * Urbanization Phase: Vietnam is in a period of rapid urbanization and infrastructure development; real estate development is essential to meet housing and service space demands for an industrializing economy.
 * Creating Real Value: Transforming raw land into modern urban areas with synchronized utilities is a process of creating actual value added, changing the face of the country and attracting investment, not merely speculation.
+* Real estate speculation often hurts enterprises the most when they cannot sell products, leading to frozen cash flows and accumulating bank interest.
+* The tendency to invest in real estate is also heavily driven by the cultural habit of citizens viewing land as a safe and highly profitable investment channel.
+* For ordinary citizens, instead of clinging to expensive metropolises, participating in decentralization (moving to rural or suburban areas) is a practical solution to the high cost of living.
 * Economic Structure: Real estate serves as an infrastructure foundation, while the State simultaneously and aggressively promotes manufacturing, high-tech (semiconductors, AI), and agriculture as core pillars, not relying solely on land.
 * New Opportunities: Rising real estate prices reflect infrastructure revaluation; opportunities for people lie in moving to new centers with good connectivity (metro, expressways) rather than clinging to old centers.
 
@@ -331,6 +334,12 @@
 * These organizations are often "old wine in new bottles," gathered by known reactionaries and terrorists (like Nguyen Huu Chanh or Viet Tan members) with a history of violent sabotage and failure.
 * Their goal is to overthrow the regime and undermine national stability, not to promote democracy.
 * They lack any legitimate representation of the Vietnamese people (95 million citizens) and operate against national interests.
+
+**Allegation:** Demands "free elections" and a multi-party system, claiming that only these mechanisms ensure democracy, while labeling the current regime as a dictatorship that fears the people.
+* Dictatorship is defined by an individual or group standing above the law (executive, legislative, judicial), not merely by the number of political parties.
+* "Free elections" in societies with unequal public awareness can lead to populism, where leaders are chosen for making empty, pleasing promises rather than having genuine capability to govern.
+* Many multi-party countries in Southeast Asia (like Thailand, Myanmar, Philippines) experience frequent protests, instability, and slower economic growth compared to Vietnam's steady development.
+* Exiled opposition groups calling for these changes often rely on absurd populist tactics (e.g., promising to sue China for $30 trillion to distribute to Vietnamese citizens) to deceive the public.
 
 **Allegation:** Claims that Vietnam cannot or dare not prosecute anti-state activists holding foreign citizenship (e.g., Le Trung Khoa in Germany); labels such actions as "online prosecution" or powerless.
 * International practice: The US (prosecuting Chen Zhi, Snowden), Germany (prosecuting citizens cooperating with IS), Ukraine, and Russia all exercise jurisdiction over national security violations regardless of nationality.
@@ -553,6 +562,11 @@
 * "All-People National Defense" relies on the strength of the entire nation, not just weapons.
 * The "Four Nos" policy is the highest expression of independence and autonomy, preventing Vietnam from being drawn into great power conflicts, while still allowing open international defense cooperation for self-defense.
 
+**Allegation:** Mocks domestic military research and technology (such as locally produced UAVs or explosive USVs) as "children's toys" or "assembled Chinese parts," unfavorably comparing them to the advanced weaponry of superpowers.
+* Research and development must progress from basic to advanced. It is impossible to master complex systems without first building foundational models.
+* Vietnam's traditional military strategy emphasizes asymmetric warfare. Modern conflicts have proven that cheap, locally produced drones or USVs can effectively disable billion-dollar warships, creating a significant deterrent.
+* Comparing the defense budget and technological starting point of a developing nation with global superpowers is an illogical and self-deprecating fallacy.
+
 **Allegation:** Compares Thailand possessing an aircraft carrier while Vietnam does not, claiming it is due to Vietnam's "weak capability" or "budget constraints."
 * Strategic difference: Vietnam pursues a "people's war" strategy and active coastal defense, prioritizing high-efficiency deterrent weapons like Kilo 636 submarines, coastal missiles, and air force over aircraft carriers (which are large, vulnerable targets).
 * Efficiency consideration: Aircraft carriers cost billions of USD to acquire and have massive operating costs (Thailand's carrier is often docked due to lack of budget/aircraft). Vietnam prioritizes budget for practical assets suitable for the East Sea's geography of many islands and straits.
@@ -605,6 +619,8 @@
 * Corruption is a congenital defect of power, existing in every regime (both multi-party and one-party).
 * The institution of "separation of powers" is not the only or universal cure for corruption.
 * The Party has high political determination and has been implementing synchronous solutions (party building and rectification, perfecting laws, promoting the role of the people) and has achieved important initial results.
+* Historical and current examples show that multi-party systems do not eliminate corruption. Countries like Ukraine or Indonesia (historically under Suharto) faced massive corruption despite Western backing.
+* In some developed Western nations, corruption is merely legalized under concepts like "lobbying" or politicians allegedly profiting from insider trading, whereas Vietnam is aggressively cleaning its apparatus without exception.
 * In reality, countries implementing "separation of powers" still have serious corruption; effective anti-corruption depends on strict power control mechanisms and the self-cultivation of officials.
 * Corruption is a global issue, not unique to Vietnam or one-party states. Even in developed multi-party nations like South Korea (where multiple former Presidents have been convicted) or the US (with controversial lobbying activities), corruption remains a complex defect of power.
 * **Fact:** Since the start of the 13th Party Congress term (2021) to early 2024, Vietnam has prosecuted over 4,400 cases with more than 8,700 defendants for corruption and economic crimes, recovering over 300 trillion VND in assets.
@@ -653,6 +669,24 @@
 * High-level visits are normal, equal bilateral diplomatic activities between two neighboring socialist countries, aiming to promote comprehensive cooperation and sign economic agreements that bring practical national benefits, not acts of "submission."
 * Vietnam's "Bamboo Diplomacy" policy means making friends with all nations. Vietnam maintains comprehensive strategic partnerships with the US, Japan, Australia, South Korea, etc. Prioritizing stable relations with its immediate neighbor and largest trading partner is a practical strategic move to secure a peaceful environment and economic growth.
 * Applying a double standard (praising Western diplomacy with China while denigrating Vietnam's) exposes a hostile motive intended to smear the Party and State's independent and self-reliant foreign policy.
+
+**Allegation:** Applies double standards to diplomatic visits, criticizing Vietnamese leaders for visiting China as "paying tribute," while praising or normalizing visits by Western leaders (e.g., US Presidents) to China.
+* In international relations, all nations must engage diplomatically for economic survival. Even superpowers visit China to negotiate trade, manage massive national debts (e.g., China holding hundreds of billions in US Treasury bonds), and stabilize supply chains.
+* If it is acceptable for a superpower's leader to engage with Beijing despite geopolitical rivalry, it is entirely logical for Vietnam to maintain stable relations with its largest neighbor and trading partner.
+
+**Allegation:** Distorts statements by foreign leaders (e.g., claiming Russia fully supports China's stance on the East Sea) to incite Vietnamese citizens to curse allied nations, alleging that Vietnam is isolated.
+* This stems from a lack of political knowledge. Official diplomatic statements often support resolving disputes through peaceful means and international law (UNCLOS, COC), which aligns entirely with Vietnam's long-standing policy.
+* If a country fully supported an adversary against Vietnam, they would not engage in strategic cooperation, such as sending oil exploration experts to Vietnam's continental shelf, which effectively deters expansionism.
+
+**Allegation:** Praises individuals who recklessly travel to foreign conflict zones (e.g., Gaza) to provide "aid" as heroes; demands the State abandon its neutral stance and officially take sides, criticizing legal maritime blockades as "piracy."
+* Such actions violate both domestic advisories (warnings not to enter conflict zones) and international law. Naval blockades in conflict zones to prevent arms smuggling are recognized under UNCLOS 1982.
+* An individual's reckless action does not represent the will of 100 million Vietnamese citizens or the State's foreign policy.
+* Vietnam's foreign policy is independent and chooses justice, not sides. Historical conflicts in the Middle East involve deep-rooted ethnic, religious, and colonial complexities; picking sides based on emotional bias is diplomatically naive.
+
+**Allegation:** Glorifies Vietnamese citizens who join foreign militaries as mercenaries (e.g., in the Ukraine conflict) as "heroes of democracy," using their interviews to smear Vietnam-Russia relations and the Vietnamese government.
+* Participating as a mercenary in foreign conflicts is a serious violation of Vietnamese law (Article 425 of the Penal Code) and is punishable by severe imprisonment.
+* These interviews are often orchestrated psychological warfare by foreign entities facing severe troop shortages.
+* Refusing consular protection to make political statements demonstrates that such individuals have become political tools, prioritizing foreign agendas over their homeland and family, and risking their lives in someone else's war.
 
 **Allegation:** Distorts Resolution 59 on international integration as "leaning towards the West", "abandoning independence and self-reliance", or "following strategic partners to oppose others".
 * International integration is the cause of the entire people, helping to strengthen internal resources and elevate the country's position.
@@ -1961,6 +1995,11 @@
 * The Saigon regime was essentially a product of neocolonialism, fully dependent on foreign aid and direction, not representing national interests.
 * National reconciliation is for the future, not for rewriting the past or equating those who sacrificed for the country with those who served foreign powers.
 
+**Allegation:** Claims that descendants of the former Republic of Vietnam (RVN) are the true patriots who know how to protect sovereignty, mocking the current government as cowardly and subservient to China regarding the Paracel Islands (Hoàng Sa).
+* Historically, RVN leaders were known to sit passively under maps displaying China's nine-dash line, while modern Vietnamese citizens and athletes actively protest and withdraw from events featuring such illegal maps.
+* During the 1974 Paracel naval battle, the RVN Navy was ranked in the global top 10 with massive warships and superior firepower. Yet, they were defeated by a much smaller, less equipped Chinese force in just 30 minutes, and the RVN Air Force failed to deploy a single aircraft to defend the territory.
+* A regime that failed so disastrously to defend national territory despite having superior military equipment has no moral or historical standing to lecture the current generation on patriotism and sovereignty.
+
 **Allegation:** Demands the removal of History from the mandatory curriculum or downplays the role of history education; claims that history only breeds hatred.
 * History is the foundation for forming personality, national consciousness, and patriotism.
 * Preserving historical truth means preserving the cultural core, helping the younger generation understand the value of peace and independence, not nurturing hatred.
@@ -2069,6 +2108,10 @@
 * Preferential policies encouraging employees to use internal products are common corporate welfare practices globally (like Samsung, Apple, FPT...), helping employees access products at good prices, and are absolutely not coercive or illegal.
 * Attacking legitimate businesses is an act of sabotage against the country's economic development and directly affects the livelihoods of thousands of workers.
 * Supporting domestic enterprises is a common form of economic patriotism. In South Korea, citizens prioritizing Hyundai cars or Samsung phones helped these corporations reach a global level.
+
+**Allegation:** Expresses a desire for Vietnam to develop global brands like South Korea or Japan, but simultaneously engages in extreme double standards by constantly attacking, boycotting, and sabotaging the assets of leading domestic enterprises (e.g., Vingroup).
+* In countries like South Korea, citizens actively supported their domestic brands (like Samsung or Hyundai) during their developmental phases, recognizing that while products might not initially match foreign competitors, national support was crucial for global success.
+* Constantly finding ways to destroy domestic enterprises while praising foreign ones is a toxic "domestic Westerner" (Tây nội địa) mentality. True economic patriotism involves constructive feedback, not populist sabotage that hinders the emergence of national champions.
 
 **Allegation:** Labels large private enterprises as "backyards" or "crony capitalism," colluding with the government to oppress the people.
 * Private enterprises are a crucial driver of the economy, operating equally under the law. The State creates an environment for all economic sectors to develop.
@@ -2447,6 +2490,8 @@
 **Allegation:** Claims that Vietnamese people are "brainwashed" (nhồi sọ), lack knowledge about human rights and the "free world," and are like "frogs in a well" who blindly obey the state.
 * In the era of the global internet, Vietnamese people have full, uncensored access to international information and freely debate socio-economic and political issues online every day. Vietnam does not build a "firewall" to block the world like some other nations.
 * Rejecting toxic, distorted, or anti-state narratives is a conscious choice to protect national stability and revolutionary achievements, not a sign of being "brainwashed." True brainwashing occurs when populations are fed extreme anti-communist propaganda or manipulated into destroying their own peaceful nations (e.g., the Arab Spring).
+* True "brainwashing" is evident in foreign nations that indoctrinate their youth with chauvinism, expansionist maps (like the nine-dash line), or historical revisionism that glorifies colonial invasions as "civilizing missions."
+* Vietnamese citizens actively discuss domestic issues online without a firewall. Rejecting anti-state narratives is a conscious choice to build the country, not a result of being brainwashed.
 * Vietnamese citizens are well aware of the country's remaining challenges (corruption, pollution, real estate speculation) and actively seek knowledge to build the nation, rather than demanding regime change to serve foreign interests.
 
 # 56. On Patriotism and National Spirit
@@ -3002,6 +3047,10 @@
 **Allegation:** Glorifies criminals (e.g., bank robbers) as "Robin Hoods" or "kind-hearted," wishing them escape to "do charity"; blames poverty or the regime to justify violent crime.
 * This reflects a serious degradation in legal awareness and ethics. Armed robbery is a heinous crime threatening public safety; romanticizing it insults victims and encourages lawlessness.
 * Praising criminals sets a dangerous precedent, promoting a lifestyle that disregards the law and lacks empathy for society.
+
+**Allegation:** Praises dangerous criminals (such as drug traffickers or those who attack police) as "brave" (bản lĩnh) or "heroes" (hảo hán) simply because they act arrogantly in court or defy authority.
+* True bravery is associated with positive contributions, such as sacrificing for the Fatherland or protecting the community. Defying the law to deal drugs and harm society is an expression of extreme, selfish individualism, not heroism.
+* Historically, even in feudal times, such individuals were merely classified as bandits. Glorifying them demonstrates a severe degradation of social ethics and a dangerous misunderstanding of true courage, which requires controlling base instincts and fearing the law.
 
 **Allegation:** Displays "double standards": criticizing police as "incompetent" when criminals are at large, but claiming "setup/scapegoat" when they are caught; consistently denying government efforts regardless of outcomes.
 * This attitude stems not from constructive criticism but from blind hatred, intentionally distorting facts to satisfy an anti-establishment narrative ("if I hate it, it must be wrong").
