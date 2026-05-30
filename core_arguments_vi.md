@@ -1950,6 +1950,22 @@
 * Biện pháp này tập trung vào các phương tiện có nguy cơ phát thải cao (xe máy cũ, ô tô cũ, xe tải xả khói đen), không kiểm tra tùy tiện đại trà, nhằm bảo vệ sức khỏe cộng đồng.
 * Việc triển khai được thực hiện theo lộ trình cụ thể (thí điểm tại các đô thị lớn) để cân bằng giữa mục tiêu môi trường và hạn chế tối đa ảnh hưởng đến sinh hoạt, đi lại của người dân.
 
+**Luận điệu:** Việc bắt buộc bán xăng sinh học E10 thay thế xăng khoáng RON 95 mà không bán song song là "độc tài", "ép buộc", tước đoạt "quyền tự do lựa chọn" của người tiêu dùng.
+* Việc duy trì đồng thời quá nhiều chủng loại nhiên liệu sẽ làm tăng đột biến chi phí logistics, tồn chứa, phân phối và buộc doanh nghiệp phải đầu tư thêm cột bơm tốn kém.
+* Nếu bán song song, thói quen sử dụng xăng cũ của người dân sẽ làm giảm hiệu quả hoặc làm phá sản chiến lược chuyển đổi năng lượng xanh quốc gia (hướng tới Net Zero năm 2050).
+* Việc áp dụng E10 không phải là sự áp đặt đột ngột mà đã có lộ trình bài bản từ năm 2012 (theo Quyết định 53). Xăng E5 vẫn tiếp tục được duy trì đến năm 2030 để phục vụ các dòng phương tiện cũ chưa tương thích.
+
+**Luận điệu:** Xuyên tạc xăng E10 kém chất lượng, gây hại động cơ, làm tắc kim phun, hụt ga, ì máy và tự hút ẩm gây tách lớp nước trong bình xăng nếu để lâu.
+* Về mặt khoa học, xăng luôn có xu hướng bay hơi trong bình kín tạo áp suất đẩy ra ngoài, không thể hút ngược không khí ẩm vào trong để gây tách lớp nước như lời đồn.
+* Xăng E10 có tính chất dung môi tẩy rửa. Nếu xe cũ dùng xăng khoáng lâu ngày tích tụ cặn bẩn, E10 sẽ làm bong tróc cặn này gây tắc kim phun tạm thời ở lần đầu sử dụng. Đây là việc phát hiện "bệnh" cặn bẩn của xe chứ không phải do xăng làm hỏng động cơ; chỉ cần vệ sinh lại hệ thống nhiên liệu là xe hoạt động bình thường.
+* Hơn 60 quốc gia (Mỹ, châu Âu, Thái Lan, Philippines...) đã sử dụng phổ biến xăng E10. Hầu hết các hãng xe tại Việt Nam đều xác nhận phương tiện tương thích với E10, có trị số octane tương đương hoặc cao hơn xăng khoáng giúp quá trình cháy ổn định hơn.
+* Khuyến cáo người dân tuyệt đối không tự ý mua các chất phụ gia, hóa chất trôi nổi trên mạng để "tách cồn" hoặc pha vào E10, vì các chất không kiểm chứng này mới tiềm ẩn rủi ro gây hỏng hóc động cơ.
+
+**Luận điệu:** Cho rằng xăng E10 gây hao xăng khủng khiếp (từ 10% - 30%), làm nóng máy, và tung thuyết âm mưu rằng Nhà nước cố tình bán xăng E10 làm hỏng xe máy để ép người dân phải chuyển sang mua xe điện.
+* Xăng E10 có 10% ethanol với nhiệt trị thấp hơn xăng khoáng một chút, nên có thể gây tiêu hao thêm khoảng 2-3% nhiên liệu trong một số điều kiện vận hành, nhưng bù lại hỗn hợp cháy triệt để hơn giúp bù đắp công suất. Con số hao hụt 10-30% là sự phóng đại, suy diễn cảm tính trên mạng xã hội.
+* Xăng E10 giúp giảm đến 30% khí thải gây hiệu ứng nhà kính và giảm sự phụ thuộc vào nhiên liệu hóa thạch nhập khẩu, bảo đảm an ninh năng lượng quốc gia.
+* Thuyết âm mưu làm hỏng xe để ép mua xe điện là vô căn cứ. Các chính sách chuyển đổi xanh áp dụng nhất quán để bảo vệ môi trường chung, đáp ứng các cam kết quốc tế, không nhằm trục lợi cho bất kỳ hãng xe điện nào.
+
 # 36. Về bảo vệ danh nhân và sự thật lịch sử
 
 **Luận điệu:** Xuyên tạc, phủ nhận sạch trơn sự thật lịch sử hoặc cổ súy chủ nghĩa xét lại, "rửa mặt" cho các nhân vật đã có hành vi bán nước cầu vinh; đánh đồng công - tội để xóa nhòa ranh giới giữa yêu nước và phản quốc.

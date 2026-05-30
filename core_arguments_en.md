@@ -1950,6 +1950,22 @@
 * This measure specifically targets high-emission vehicles (old motorbikes, trucks, buses with black smoke), not arbitrary checks on all citizens, aiming to protect public health.
 * It utilizes a phased roadmap (initially in major cities) to balance environmental goals with minimizing the impact on daily travel, encouraging citizens to maintain vehicles and use clean fuel.
 
+**Allegation:** Claiming that forcing the sale of E10 bio-gasoline to replace RON 95 mineral gasoline without selling them in parallel is "dictatorial," "coercive," and deprives consumers of their "freedom of choice."
+* Maintaining too many fuel types simultaneously would drastically increase logistics, storage, and distribution costs, and force retail businesses to make expensive investments in new pump columns.
+* If sold in parallel, people's habit of using old mineral gasoline would diminish the effectiveness or even bankrupt the national green energy transition strategy (aiming for Net Zero by 2050).
+* The deployment of E10 is not an abrupt imposition but part of a systematic roadmap established in 2012 (Decision 53). E5 gasoline will still be maintained until 2030 to serve older, incompatible vehicles.
+
+**Allegation:** Distorting that E10 gasoline is of poor quality, damages engines, clogs fuel injectors, causes stalling, and absorbs moisture to form water layers in the fuel tank if left unused.
+* Scientifically, gasoline in a closed tank tends to evaporate, creating outward pressure, making it impossible to draw humid air inward to cause water separation as rumored.
+* E10 has solvent properties. If an older vehicle previously using mineral gasoline has accumulated dirt, E10 will dissolve this dirt, potentially causing temporary injector clogging upon first use. This merely exposes the vehicle's pre-existing dirt issue rather than damaging the engine; simply cleaning the fuel system resolves it.
+* Over 60 countries (including the US, EU, Thailand, and the Philippines) commonly use E10. Most automakers in Vietnam have confirmed compatibility with E10, which has an equivalent or higher octane rating that helps engines run more stably and cleanly.
+* Authorities strongly advise against using unverified additives or chemicals sold online to "separate alcohol" or mix with E10, as these untested substances pose significant risks of engine damage.
+
+**Allegation:** Claiming that E10 gasoline causes massive fuel consumption increases (10% - 30%), overheats engines, and spreading conspiracy theories that the State intentionally sells E10 to break motorcycles to force citizens to buy electric vehicles.
+* E10 contains 10% ethanol, which has a slightly lower heating value than mineral gasoline, potentially causing a 2-3% increase in consumption in some conditions. However, the mixture burns more completely, compensating for power. The 10-30% consumption figures are emotional exaggerations spread on social media.
+* E10 helps reduce greenhouse gas emissions by up to 30% and lessens dependence on imported fossil fuels, ensuring national energy security.
+* The conspiracy theory of breaking vehicles to force EV purchases is baseless. Green transition policies are consistently applied to protect the shared environment and meet international commitments, not to profit any specific electric vehicle manufacturer.
+
 # 36. On Protecting Historical Figures and Historical Truth
 
 **Allegation:** Distorts, denies historical truth, or promotes revisionism to "whitewash" figures who sold the country for glory; equates merit and fault to blur the line between patriotism and treason.
