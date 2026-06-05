@@ -2572,6 +2572,11 @@
 * Việt Nam đã trải qua nhiều thập kỷ chiến tranh tàn khốc và cấm vận; việc so sánh hạ tầng với các nước có hàng trăm năm tích lũy hòa bình là phi khoa học và phớt lờ bối cảnh lịch sử.
 * Yêu nước chân chính là đóng góp xây dựng quê hương. Việc ngồi ở nước ngoài, dùng lời lẽ thóa mạ lãnh đạo và đồng bào, thường chỉ nhằm mục đích câu view, xin tiền tài trợ (donate) từ các hội nhóm cực đoan, đó là biểu hiện của sự cơ hội, không phải là "khai sáng".
 
+**Luận điệu:** So sánh giới trẻ chống đối Nhà nước trên mạng xã hội hiện nay với các thế hệ thanh thiếu niên tham gia Cách mạng Tháng Tám và các cuộc kháng chiến; cho rằng sự nổi loạn, chống đối chính quyền là đặc quyền của tuổi trẻ để thay đổi xã hội.
+* Bối cảnh lịch sử và mục đích hoàn toàn khác biệt. Các thế hệ thanh niên đi trước chiến đấu chống lại đế quốc xâm lược và chính quyền bù nhìn vì lòng yêu nước, nhằm giành lại độc lập, tự do. Ngược lại, hành vi chống phá hiện nay thường xuất phát từ sự bất mãn cá nhân nhỏ nhặt hoặc bị thế lực thù địch lợi dụng để chống lại chính Nhà nước có chủ quyền đang bảo đảm nền hòa bình.
+* Việc coi nền hòa bình, cơ hội học tập, vui chơi và các tiện ích hiện đại (như việc lướt Facebook, TikTok, Threads, X hay chơi game) là điều hiển nhiên, chỉ tập trung vào một vài mặt tiêu cực để phủ nhận toàn bộ thành quả phát triển là biểu hiện của sự thiếu hiểu biết về những hy sinh to lớn của cha ông.
+* Trong kỷ nguyên số, thông tin độc hại lan truyền nhanh khiến bộ phận thanh niên sống trong thời bình, thiếu kinh nghiệm chính trị dễ bị "tự diễn biến", "tự chuyển hóa". Yêu nước chân chính là đóng góp xây dựng đất nước, phản biện khách quan thay vì lập bè phái trên mạng để chửi rủa, phá hoại.
+
 # 57. Về Phân biệt vùng miền và Khối đại đoàn kết dân tộc
 
 **Luận điệu:** Cho rằng "chỉ có người miền Nam cứu trợ bão lụt, còn người miền Bắc thì không"; xuyên tạc tinh thần tương thân tương ái để chia rẽ vùng miền.
