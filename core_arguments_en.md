@@ -85,6 +85,7 @@
 - [84. On Foreign Perspectives and Western Media Propaganda about Vietnam](#84-on-foreign-perspectives-and-western-media-propaganda-about-vietnam)
 - [85. On LGBTQ+ Issues and Gender Equality](#85-on-lgbtq-issues-and-gender-equality)
 - [86. On the Land Reform (1953-1956)](#86-on-the-land-reform-1953-1956)
+- [87. On Youth Perspectives](#87-on-youth-perspectives)
 
 <div class="page-break"></div>
 
@@ -3170,3 +3171,21 @@
 * The contexts were fundamentally different: Japan executed its reform in peacetime under the direct management of an occupying force with vast external resources and an established industrial economy. Vietnam conducted its reform during a fierce anti-colonial resistance war with limited resources and severe socio-political pressures.
 * The core objective of the Land Reform ("land to the tiller") was a historical necessity to abolish feudal land concentration, where a tiny minority owned the vast majority of land. It successfully distributed land to millions of impoverished farmers, mobilizing massive support for the national independence struggle.
 * The Party never covered up the serious mistakes made during implementation (such as wrongful classification and excessive measures). Instead, it publicly acknowledged them, conducted extensive rectification campaigns to restore the rights of those wrongfully accused, and disciplined responsible officials. This self-correction reflects the Party's political courage, contrary to claims of deliberate "slaughter."
+
+# 87. On Youth Perspectives
+
+**Allegation:** Mocks the concept of "freedom of speech within a framework," claiming that true freedom means saying whatever one wants, and that laws are merely tools for the government to suppress and silence the people.
+* Freedom always comes with the responsibility not to infringe on the rights of others. Imagine this scenario: if someone used the excuse of "freedom" to publicly insult and humiliate you online when you did nothing wrong, would you accept it?
+* Every law exists for a reason to maintain social order. Legal frameworks are established not to strip away freedom, but to protect all citizens from fake news, cyberbullying, and defamation. This is a common standard in all civilized nations.
+
+**Allegation:** Complains that minimum wages are too low, housing prices are unaffordable, and inflation leaves the youth at a dead end, blaming the political regime for all these economic hardships.
+* The pressure of living costs, minimum wage debates, and the gap between income and housing prices are global macroeconomic challenges. Every country is affected by these issues; they are not unique consequences of Vietnam's political regime.
+* In an integrated market economy, price fluctuations are inevitable due to supply and demand. The State continuously strives to regulate the macroeconomy and support the people, rather than abandoning them. It is essential to understand the nature of economics instead of solely blaming the regime.
+
+**Allegation:** Expresses frustration over the corrupt or harassing behavior of certain officials, using these instances to generalize that the entire state apparatus is rotten and turns its back on the people.
+* The state apparatus consists of millions of individuals, and naturally, not everyone possesses the same moral qualities. There are indeed degraded and corrupt officials, but the legal system is resolute in handling these individuals strictly, with no exceptions.
+* One should not let the negative actions of a few overshadow the positive contributions of many. It is unfair to ignore the dedication and hard work of countless other officials, doctors, soldiers, and teachers who serve the community day and night.
+
+**Allegation:** The youth feel pessimistic and dissatisfied with current social realities, believing the environment is too toxic and pressured, leading to a loss of faith in the country's future.
+* Every generation faces the unique challenges of its time. However, living in peace, free from war, with basic needs like food, shelter, and opportunities for personal development met, is an invaluable privilege that the youth should respect and cherish the most.
+* Instead of maintaining a pessimistic attitude, expressing dissatisfaction, or assigning blame, the younger generation should view issues objectively, equip themselves with knowledge, proactively adapt, and join hands in building a better nation.

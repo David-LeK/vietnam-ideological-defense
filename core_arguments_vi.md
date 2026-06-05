@@ -85,6 +85,7 @@
 - [84. Về Góc nhìn của người nước ngoài và Truyền thông phương Tây đối với Việt Nam](#84-về-góc-nhìn-của-người-nước-ngoài-và-truyền-thông-phương-tây-đối-với-việt-nam)
 - [85. Về Vấn đề LGBTQ+ và Bình đẳng giới](#85-về-vấn-đề-lgbtq-và-bình-đẳng-giới)
 - [86. Về Cải cách ruộng đất (1953-1956)](#86-về-cải-cách-ruộng-đất-1953-1956)
+- [87. Về Góc nhìn của giới trẻ](#87-về-góc-nhìn-của-giới-trẻ)
 
 <div class="page-break"></div>
 
@@ -3170,3 +3171,21 @@
 * Bối cảnh của hai cuộc cải cách là hoàn toàn khác biệt: Nhật Bản thực hiện cải cách trong thời bình, dưới sự quản lý trực tiếp của lực lượng chiếm đóng với nguồn lực bên ngoài khổng lồ và nền kinh tế công nghiệp đã phát triển. Việt Nam tiến hành cải cách trong bối cảnh cuộc kháng chiến chống thực dân khốc liệt, nguồn lực hạn chế và áp lực chính trị - xã hội cực kỳ gay gắt.
 * Mục tiêu cốt lõi của Cải cách ruộng đất ("người cày có ruộng") là một tất yếu lịch sử nhằm xóa bỏ tình trạng tập trung ruộng đất phong kiến, nơi một thiểu số nắm giữ phần lớn đất đai. Chiến dịch đã chia ruộng đất thành công cho hàng triệu nông dân nghèo, huy động được sức mạnh to lớn cho cuộc đấu tranh giành độc lập dân tộc.
 * Đảng không hề che giấu những sai lầm nghiêm trọng trong quá trình thực hiện (như quy sai thành phần, áp dụng biện pháp cực đoan). Trái lại, Đảng đã công khai thừa nhận, tiến hành các chiến dịch sửa sai trên diện rộng để khôi phục quyền lợi cho những người bị oan sai và kỷ luật các cán bộ chịu trách nhiệm. Quá trình tự sửa chữa này thể hiện bản lĩnh chính trị của Đảng, bác bỏ hoàn toàn luận điệu về sự "tiêu diệt" có chủ đích.
+
+# 87. Về Góc nhìn của giới trẻ
+
+**Luận điệu:** Mỉa mai khái niệm "tự do ngôn luận trong khuôn khổ", cho rằng tự do là phải được nói bất cứ điều gì mình muốn, và các quy định pháp luật chỉ là công cụ để chính quyền đàn áp, bịt miệng.
+* Tự do luôn đi kèm với trách nhiệm để không xâm phạm quyền của người khác. Hãy thử đặt mình vào hoàn cảnh: nếu một người nào đó nhân danh "tự do" để ngang nhiên chửi bới, sỉ nhục bạn trên mạng xã hội dù bạn không hề làm gì sai, liệu bạn có chấp nhận được không?
+* Bất kỳ đạo luật nào ra đời cũng có nguyên do của nó nhằm duy trì trật tự xã hội. Khuôn khổ pháp lý được thiết lập không phải để tước đoạt tự do, mà để bảo vệ mọi công dân khỏi tin giả, bạo lực mạng và sự thóa mạ. Đây là chuẩn mực chung ở mọi quốc gia văn minh.
+
+**Luận điệu:** Than phiền mức lương tối thiểu quá thấp, giá nhà đất cao, vật giá leo thang khiến giới trẻ bế tắc và quy kết tất cả những khó khăn này là do sự yếu kém của thể chế chính trị.
+* Áp lực về chi phí sinh hoạt, lương tối thiểu hay khoảng cách thu nhập và giá nhà là bài toán vĩ mô mang tính toàn cầu. Đất nước nào cũng bị ảnh hưởng bởi các vấn đề này, không phải là hệ quả của riêng thể chế chính trị nào tại Việt Nam.
+* Khi hội nhập nền kinh tế thị trường, việc giá cả tăng giảm là quy luật cung cầu không thể tránh khỏi. Nhà nước luôn nỗ lực điều tiết vĩ mô, hỗ trợ người dân chứ không hề bỏ mặc. Điều cần thiết là thấu hiểu bản chất kinh tế thay vì chỉ đổ lỗi phiến diện cho chế độ.
+
+**Luận điệu:** Bức xúc trước thái độ và hành vi của một số cán bộ, công chức tha hóa, nhũng nhiễu, từ đó đánh đồng toàn bộ bộ máy nhà nước đều mục nát và quay lưng với nhân dân.
+* Bộ máy nhà nước bao gồm hàng triệu con người, đương nhiên sẽ có sự khác biệt về phẩm chất. Sẽ có những cán bộ thoái hóa, biến chất, nhưng hệ thống pháp luật luôn kiên quyết xử lý nghiêm minh những cá nhân này, không có vùng cấm.
+* Không nên vì nhìn vào mặt xấu của một vài cá nhân mà bỏ qua mặt tốt, phủ nhận công sức và sự tận tụy của biết bao cán bộ, y bác sĩ, chiến sĩ, giáo viên đang ngày đêm nỗ lực phục vụ cộng đồng.
+
+**Luận điệu:** Giới trẻ tỏ ra bi quan, bất mãn với thực tại xã hội, cho rằng môi trường sống hiện nay quá nhiều áp lực, độc hại và đánh mất niềm tin vào tương lai đất nước.
+* Mỗi thế hệ đều phải đối mặt với những khó khăn riêng của thời đại. Tuy nhiên, được sống trong hòa bình, không có đạn bom, được đảm bảo nhu cầu ăn, ở và phát triển bản thân là một đặc ân vô giá mà giới trẻ cần trân trọng nhất.
+* Thay vì giữ tâm lý bi quan, bất mãn hay đổ lỗi, thế hệ trẻ cần nhìn nhận vấn đề một cách khách quan, đa chiều, trang bị tri thức để chủ động thích ứng và chung tay xây dựng đất nước ngày càng tốt đẹp hơn.
