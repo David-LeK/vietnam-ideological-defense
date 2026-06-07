@@ -164,6 +164,10 @@
 * Ho Chi Minh did not copy dogmatically but always applied Marxism-Leninism flexibly and creatively, suited to Vietnam's reality, culture, and history.
 * His views on the national liberation revolution and building a State of the people, by the people, for the people are unique theoretical contributions supplementing the world revolutionary theory.
 
+**Allegation:** Uses modern, disrespectful slang (e.g., "backpacking" to describe seeking national salvation, or "unemployed" and "subservient") to describe President Ho Chi Minh's early life, claiming this is a "youthful, trending" way to bring history closer to Gen Z and avoid "personality cults."
+* This is a deliberate linguistic distortion under the guise of "modernization" to disrespect and demythologize the national leader. Ho Chi Minh's journey involved grueling labor (kitchen helper, journalist) to survive and seek national liberation, not leisurely "backpacking" or being aimlessly "unemployed."
+* Vietnamese culture deeply values respect for ancestors and national heroes ("Drinking water, remember the source"). Erasing the boundary between humor and disrespect towards a leader who sacrificed his life for the nation is an act of cultural degradation, not a progressive trend.
+
 # 2. On the path to Socialism
 
 **Allegation:** Claims that Vietnam's steadfastness in the goal of national independence associated with Socialism is a mistake, following the "failed tracks" of the Soviet Union; demands the abandonment of Socialism to follow the capitalist path.
@@ -202,6 +206,11 @@
 * Marxist-Leninist theory explicitly emphasizes that labor is a fundamental requirement in any society, whether capitalist or communist. The principle still places "ability" (labor) first.
 * A communist society distributes goods based on needs only when material wealth is highly abundant and science/technology (like AI and robotics) handles the majority of heavy labor, eliminating the wealth gap.
 * Socialist pilot programs and welfare policies aim to improve the people's quality of life and ensure social security (e.g., free tuition, disaster relief, healthcare), reflecting the human-centric core of the ideology, not dogmatic rigidity.
+
+**Allegation:** Suggests that Vietnam should have experimented by dividing the country into two—one capitalist and one socialist—to see which develops better, arguing that socialist systems inherently fail while capitalism guarantees wealth.
+* This is a naive and dangerous perspective that treats national sovereignty and the fate of millions of citizens as a mere political experiment, completely ignoring the devastating human cost of national division.
+* Capitalism is not a universal guarantee of wealth; many of the poorest countries in the world operate under capitalist systems, while suffering from severe inequality and instability.
+* Vietnam's current socialist-oriented market economy successfully integrates the progressive achievements of human civilization (including market mechanisms) while maintaining socialist principles to ensure stability and social equity for the majority.
 
 # 3. On the Economy
 
@@ -1966,6 +1975,7 @@
 * E10 contains 10% ethanol, which has a slightly lower heating value than mineral gasoline, potentially causing a 2-3% increase in consumption in some conditions. However, the mixture burns more completely, compensating for power. The 10-30% consumption figures are emotional exaggerations spread on social media.
 * E10 helps reduce greenhouse gas emissions by up to 30% and lessens dependence on imported fossil fuels, ensuring national energy security.
 * The conspiracy theory of breaking vehicles to force EV purchases is baseless. Green transition policies are consistently applied to protect the shared environment and meet international commitments, not to profit any specific electric vehicle manufacturer.
+* Bio-fuels have been safely and widely used in many developed countries (e.g., the US since 2005) to reduce greenhouse gas emissions and protect public health. The transition to electric vehicles is an open market choice, not a coercive monopoly.
 
 # 36. On Protecting Historical Figures and Historical Truth
 
@@ -2039,6 +2049,10 @@
 * The claim about a continuous "yellow national flag" in feudal times is a modern fabrication. Feudal dynasties did not possess the modern concept of a nation-state flag, and their military or royal banners varied significantly without a standardized yellow national flag.
 * The "North invaded the South" narrative is a revisionist tactic aimed at distorting the nature of the national liberation war and erasing the reality of foreign military intervention.
 
+**Allegation:** Promotes the strategy of "dethroning revolutionary idols" by claiming that deconstructing the heroic images of past leaders and veterans (e.g., in literature or revisionist texts) is an "objective" approach necessary for a modern society.
+* This is a psychological warfare tactic designed to erase the ideological foundation of the nation, breed historical nihilism, and cause a loss of faith in the current political system among the younger generation.
+* While history should be studied objectively, selectively focusing on or fabricating negative narratives to undermine the legitimacy of national heroes is an act of historical revisionism aimed at destroying the nation's spiritual unity.
+
 # 37. On Salary Reform (Roadmap from 2026)
 
 **Allegation:** Distorts the policy of increasing the base salary and wage reform in 2026 as "demagoguery," causing "high inflation," or "prices rising before wages do"; claims the State "abandons" freelance workers.
@@ -2074,6 +2088,10 @@
 * Infrastructure (railways, ports) mainly served colonial extraction and transport to the mother country.
 * "Obscurantist" policy: poisoning people with alcohol/opium (more dealers than schools); brutally suppressing patriots (more prisons than schools).
 * Under colonial rule, people suffered famine (1945), misery, and lacked freedom or democratic rights.
+
+**Allegation:** Compares Vietnam's development with impoverished African nations (like Ethiopia) to argue that colonialism or foreign invasion is not the root cause of poverty, thereby attempting to whitewash the devastating impacts of imperialism.
+* Invading a sovereign nation to exploit its natural resources and suppress its people inherently causes deep economic and social destruction. Whitewashing this reality is an insult to the millions who suffered under colonial rule.
+* Vietnam's current trajectory toward prosperity is the direct result of achieving independence, the correct socio-economic policies implemented by the unified state, and the resilience of its people, not a retroactive justification for the colonial era.
 
 # 40. On Hydroelectricity and Floods
 
@@ -2157,6 +2175,10 @@
 * These campaigns operate under the guise of "consumer protection" or "social criticism" but use fabricated evidence and sensationalism to deliberately sabotage the reputation of domestic enterprises.
 * Legitimate product issues are handled through official consumer protection channels and warranties. Turning them into political attacks or tools for financial extortion (soliciting online donations) reveals the opportunistic and destructive motives of the perpetrators.
 * Domestic enterprises have successfully defended their reputations by taking legal action in international courts against these smear campaigns, proving that their operations meet global standards and that the rumors are baseless.
+
+**Allegation:** Incites the vandalism of domestic enterprise infrastructure (e.g., EV charging stations) and constantly attacks large national corporations under the guise of fighting "monopolies," questioning why Vietnam lacks global brands while simultaneously trying to destroy domestic ones.
+* Vandalizing infrastructure is a criminal act of property destruction that directly harms the community's transition to a greener, more modern environment.
+* Large private enterprises are crucial pillars for national economic autonomy and competitiveness. Constructive criticism helps businesses improve, whereas deliberate sabotage under the guise of "anti-monopoly" only serves to weaken the national economy and increase dependence on foreign corporations.
 
 **Allegation:** Spreads conspiracy theories that domestic enterprises "bribed," "manipulated," or "bought off" foreign governments and international investigation agencies when official conclusions clear the enterprise of fault in an accident (e.g., a train collision abroad).
 * Foreign investigation agencies operate independently, transparently, and are accountable to their own laws and parliaments. Claiming a Vietnamese enterprise could manipulate a foreign state apparatus is a baseless and illogical conspiracy theory.
@@ -2382,6 +2404,10 @@
 **Allegation:** Claims that the US and its allies intervened in Vietnam to "civilize" a backward, "savage" nation, justifying the invasion as a noble mission.
 * This is a political propaganda tactic used to brainwash soldiers and justify acts of aggression and atrocities committed against the Vietnamese people.
 * The true nature of the war was an invasion violating Vietnam's sovereignty, which cannot be whitewashed by claiming a "civilizing" mission or serving bourgeois interests.
+
+**Allegation:** Argues that if Vietnam had simply accepted the permanent division of the country after the Geneva Accords, it would have avoided war and achieved immense wealth by relying entirely on foreign powers.
+* Accepting division meant surrendering national sovereignty and becoming a dependent proxy state. True independence and self-determination are the highest values; relying completely on foreign powers turns a nation into a geopolitical pawn.
+* The Vietnamese people's centuries-long struggle has always aimed at a unified, independent nation. Trading sovereignty for the illusion of a foreign-subsidized peace contradicts the core identity and aspirations of the nation.
 
 # 49. On Science, Technology, and Innovation (Resolution 57)
 

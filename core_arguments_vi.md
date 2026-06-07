@@ -164,6 +164,10 @@
 * Hồ Chí Minh không rập khuôn mà luôn vận dụng linh hoạt, sáng tạo chủ nghĩa Mác - Lênin phù hợp với thực tiễn, văn hóa và lịch sử Việt Nam.
 * Hệ thống quan điểm của Người về cách mạng giải phóng dân tộc, về xây dựng Nhà nước của dân, do dân, vì dân... là những đóng góp lý luận đặc sắc, bổ sung vào kho tàng lý luận cách mạng thế giới.
 
+**Luận điệu:** Sử dụng ngôn từ lóng, xuề xòa của giới trẻ (như "đi phượt", "điếu đóm", "không nghề nghiệp") để mô tả về hành trình tìm đường cứu nước của Chủ tịch Hồ Chí Minh; biện minh rằng đây là cách tiếp cận "bắt trend", gần gũi với Gen Z để tránh "sùng bái cá nhân".
+* Đây là sự đánh tráo khái niệm, mượn danh "hiện đại hóa" ngôn ngữ để bôi nhọ, hạ thấp uy tín và tầm vóc của lãnh tụ quốc gia. Hành trình của Bác là quá trình lao động cực nhọc (làm phụ bếp, quét tuyết, viết báo) để mưu sinh và tìm đường cứu nước, không phải là những chuyến "đi phượt" hưởng thụ hay tình trạng "thất nghiệp" vô định.
+* Văn hóa Việt Nam đề cao đạo lý "Uống nước nhớ nguồn", "Kính trên nhường dưới". Việc xóa nhòa ranh giới giữa sự hài hước và sự vô lễ, xấc xược đối với vị lãnh tụ đã hy sinh cả cuộc đời cho dân tộc là sự suy đồi về văn hóa, không phải là xu hướng tiến bộ.
+
 # 2. Về con đường đi lên CNXH
 
 **Luận điệu:** Cho rằng Việt Nam kiên định mục tiêu độc lập dân tộc gắn liền với CNXH là sai lầm, là đi vào "vết xe đổ" của Liên Xô; đòi từ bỏ CNXH để đi theo con đường tư bản chủ nghĩa.
@@ -202,6 +206,11 @@
 * Học thuyết Mác - Lênin khẳng định rõ dù ở xã hội tư bản hay cộng sản, con người vẫn phải lao động và làm việc; chữ "làm" vẫn được đặt lên hàng đầu.
 * Xã hội cộng sản phân phối theo nhu cầu chỉ khi của cải vật chất dư thừa và khoa học công nghệ (như AI, robot) thay thế con người làm các công việc nặng nhọc, nhằm xóa bỏ chênh lệch giàu nghèo.
 * Bản chất của nhà nước XHCN là quan tâm, chăm lo an sinh xã hội cho nhân dân (miễn giảm học phí, hỗ trợ thiên tai, y tế), thể hiện tính ưu việt thay vì tư duy giáo điều, xơ cứng.
+
+**Luận điệu:** Rêu rao rằng Việt Nam lẽ ra nên "thí điểm" chia đôi đất nước thành hai nửa tư bản chủ nghĩa và xã hội chủ nghĩa để xem bên nào phát triển hơn; cho rằng CNXH luôn gắn liền với thất bại còn tư bản là bảo chứng cho sự giàu có.
+* Đây là tư duy ngây thơ và cực đoan, coi chủ quyền quốc gia và sinh mạng của hàng triệu người dân như một phép thử chính trị, hoàn toàn phớt lờ cái giá phải trả bằng máu và nước mắt của sự chia cắt đất nước.
+* Chủ nghĩa tư bản không phải là "đũa thần" bảo chứng cho sự phồn vinh; thực tế rất nhiều quốc gia nghèo nhất thế giới (ở châu Phi, Mỹ Latinh) vẫn đang vận hành theo mô hình tư bản chủ nghĩa với sự bất bình đẳng và nghèo đói cùng cực.
+* Đất nước đang trong thời kỳ quá độ, nền kinh tế thị trường định hướng XHCN của Việt Nam không hề giáo điều mà chủ động tiếp thu các thành tựu của nhân loại (bao gồm cả tư bản chủ nghĩa) để phát triển, đồng thời giữ vững nguyên tắc XHCN để đảm bảo công bằng cho đa số nhân dân.
 
 # 3. Về kinh tế
 
@@ -1966,6 +1975,7 @@
 * Xăng E10 có 10% ethanol với nhiệt trị thấp hơn xăng khoáng một chút, nên có thể gây tiêu hao thêm khoảng 2-3% nhiên liệu trong một số điều kiện vận hành, nhưng bù lại hỗn hợp cháy triệt để hơn giúp bù đắp công suất. Con số hao hụt 10-30% là sự phóng đại, suy diễn cảm tính trên mạng xã hội.
 * Xăng E10 giúp giảm đến 30% khí thải gây hiệu ứng nhà kính và giảm sự phụ thuộc vào nhiên liệu hóa thạch nhập khẩu, bảo đảm an ninh năng lượng quốc gia.
 * Thuyết âm mưu làm hỏng xe để ép mua xe điện là vô căn cứ. Các chính sách chuyển đổi xanh áp dụng nhất quán để bảo vệ môi trường chung, đáp ứng các cam kết quốc tế, không nhằm trục lợi cho bất kỳ hãng xe điện nào.
+* Xăng sinh học đã được sử dụng an toàn và phổ biến tại nhiều quốc gia phát triển (như Mỹ, từ hơn 20 năm trước) nhằm mục đích giảm phát thải khí nhà kính và bảo vệ sức khỏe cộng đồng. Việc chuyển đổi sang phương tiện xanh là xu thế toàn cầu, người tiêu dùng tự do lựa chọn trên thị trường cạnh tranh chứ không bị ép buộc.
 
 # 36. Về bảo vệ danh nhân và sự thật lịch sử
 
@@ -2039,6 +2049,10 @@
 * Khái niệm "quốc kỳ màu vàng" xuyên suốt thời phong kiến là sự bịa đặt. Các triều đại phong kiến không có khái niệm quốc kỳ theo nghĩa hiện đại, cờ xí chủ yếu là cờ hoàng gia, quân đội với màu sắc, kiểu dáng đa dạng.
 * Luận điệu "miền Bắc xâm lược miền Nam" là chiêu trò xét lại nhằm xuyên tạc bản chất cuộc chiến tranh giải phóng dân tộc và tẩy trắng cho sự can thiệp quân sự của nước ngoài.
 
+**Luận điệu:** Cổ súy chiến dịch "hạ bệ thần tượng cách mạng" thông qua việc xuất bản các tác phẩm văn học, bài viết xét lại, bôi đen hình tượng của các lãnh tụ và cựu chiến binh; ngụy biện rằng đây là cái nhìn "khách quan", "đa chiều" cần thiết cho xã hội hiện đại.
+* Đây là thủ đoạn chiến tranh tâm lý (thường được hậu thuẫn bởi các thế lực thù địch) nhằm xóa bỏ di sản tư tưởng của Đảng, làm mất phương hướng và gieo rắc sự hoài nghi trong quần chúng nhân dân, đặc biệt là thế hệ trẻ.
+* Lịch sử cần được nhìn nhận khách quan, nhưng việc cố tình bóp méo, chỉ tập trung vào các góc khuất hoặc bịa đặt để hạ bệ những người đã có công lao to lớn với dân tộc là hành vi "xét lại lịch sử" thâm độc, nhằm phá vỡ nền tảng tinh thần và khối đại đoàn kết của quốc gia.
+
 # 37. Về Cải cách tiền lương (lộ trình từ 2026)
 
 **Luận điệu:** Xuyên tạc chủ trương tăng lương cơ sở và cải cách tiền lương năm 2026 là "mị dân", "làm lạm phát tăng cao", "lương chưa tăng giá đã tăng"; cho rằng Nhà nước "bỏ rơi" người lao động tự do.
@@ -2074,6 +2088,10 @@
 * Cơ sở hạ tầng (đường sắt, cảng biển) chủ yếu phục vụ khai thác thuộc địa và vận chuyển về chính quốc.
 * Chính sách "ngu dân", đầu độc bằng rượu và thuốc phiện (đại lý rượu nhiều hơn trường học); đàn áp dã man các phong trào yêu nước (nhà tù nhiều hơn trường học).
 * Dưới ách cai trị thực dân, nhân dân chịu cảnh đói khổ (nạn đói 1945), không có quyền tự do, dân chủ.
+
+**Luận điệu:** Lấy sự nghèo đói của một số nước châu Phi (như Ethiopia) so sánh với sự phát triển của Việt Nam để lập luận rằng chủ nghĩa thực dân hay sự xâm lược không phải là nguyên nhân dẫn đến nghèo đói, từ đó tìm cách "tẩy trắng" cho tội ác của thực dân, đế quốc.
+* Việc xâm lược một quốc gia có chủ quyền, tước đoạt độc lập và vơ vét tài nguyên thiên nhiên đem về phục vụ chính quốc bản chất đã là một tội ác gây ra sự tàn phá sâu sắc về kinh tế và xã hội, không thể bị tẩy trắng bằng bất kỳ ngụy biện nào.
+* Sự phát triển vươn mình của Việt Nam ngày nay là thành quả của việc giành lại được độc lập tự do, đường lối lãnh đạo đúng đắn của Đảng và sự nỗ lực vươn lên của toàn dân tộc, hoàn toàn không phải là minh chứng để biện minh hay hàm ơn chế độ thực dân.
 
 # 40. Về Thủy điện và Lũ lụt
 
@@ -2157,6 +2175,10 @@
 * Các chiến dịch này núp bóng "bảo vệ người tiêu dùng" hoặc "phản biện xã hội" nhưng sử dụng bằng chứng ngụy tạo và giật gân để cố tình phá hoại uy tín của các doanh nghiệp nội địa.
 * Các vấn đề chính đáng về sản phẩm được giải quyết qua các kênh bảo vệ người tiêu dùng và bảo hành chính thức. Việc biến chúng thành các cuộc tấn công chính trị hoặc công cụ tống tiền tài chính (kêu gọi donate trên mạng) phơi bày động cơ cơ hội và phá hoại của các đối tượng.
 * Các doanh nghiệp nội địa đã bảo vệ thành công uy tín của mình bằng cách khởi kiện các chiến dịch bôi nhọ này ra tòa án quốc tế, chứng minh hoạt động của họ đáp ứng tiêu chuẩn toàn cầu và các tin đồn là vô căn cứ.
+
+**Luận điệu:** Kích động các hành vi phá hoại tài sản của doanh nghiệp nội địa (như đập phá trạm sạc xe điện); liên tục công kích, tẩy chay các tập đoàn tư nhân lớn dưới danh nghĩa chống "độc quyền", nhưng lại luôn miệng chê bai vì sao Việt Nam không có các thương hiệu tầm cỡ quốc tế.
+* Hành vi đập phá cơ sở hạ tầng là tội phạm hủy hoại tài sản, trực tiếp cản trở quá trình hiện đại hóa và chuyển đổi xanh của đất nước.
+* Các tập đoàn kinh tế tư nhân lớn là trụ cột quan trọng tạo nên sức mạnh và sự tự chủ của nền kinh tế quốc gia (tương tự như Mỹ, Nhật Bản, Trung Quốc). Việc góp ý xây dựng để doanh nghiệp hoàn thiện là cần thiết, nhưng hành vi cố tình phá hoại, tẩy chay cực đoan dưới vỏ bọc "chống độc quyền" chỉ làm suy yếu kinh tế đất nước và tạo cơ hội cho doanh nghiệp ngoại bang thao túng.
 
 **Luận điệu:** Tung thuyết âm mưu rằng doanh nghiệp nội địa đã "mua chuộc", "thao túng" chính quyền và cơ quan điều tra nước ngoài khi có kết luận chính thức minh oan cho doanh nghiệp trong các sự cố (như vụ tai nạn tàu hỏa ở nước ngoài).
 * Các cơ quan điều tra nước ngoài hoạt động độc lập, minh bạch và chịu trách nhiệm trước pháp luật, Quốc hội của nước họ. Việc cho rằng một doanh nghiệp Việt Nam có thể thao túng cả bộ máy nhà nước nước ngoài là thuyết âm mưu vô căn cứ và hoang đường.
@@ -2382,6 +2404,10 @@
 **Luận điệu:** Rêu rao rằng quân đội Mỹ và đồng minh tham chiến tại Việt Nam là để "khai phóng", "khai hóa văn minh" cho một dân tộc "ăn lông ở lỗ", sống trong hủ lậu.
 * Đây là luận điệu tuyên truyền chính trị dối trá dùng để nhồi sọ binh lính, nhằm biện minh cho dã tâm xâm lược và các hành động tàn ác, giết người không ghê tay đối với nhân dân Việt Nam.
 * Bản chất của cuộc chiến là hành vi xâm phạm chủ quyền lãnh thổ Việt Nam, không thể được tẩy trắng bằng vỏ bọc "khai hóa văn minh" hay phục vụ lợi ích của giai cấp tư sản.
+
+**Luận điệu:** Rêu rao rằng nếu Việt Nam chấp nhận sự chia cắt vĩnh viễn (như mô hình của Hàn Quốc - Triều Tiên) sau Hiệp định Genève thì đã tránh được chiến tranh và trở nên giàu có nhờ dựa dẫm vào viện trợ của cường quốc.
+* Việc chấp nhận chia cắt vĩnh viễn đồng nghĩa với việc từ bỏ chủ quyền quốc gia và trở thành một quân cờ ủy nhiệm lệ thuộc hoàn toàn vào nước ngoài. Độc lập, tự chủ là giá trị thiêng liêng nhất; ngay cả những quốc gia giàu có nhưng phụ thuộc an ninh vào nước lớn cũng không có được sự tự quyết chiến lược toàn vẹn.
+* Khát vọng thống nhất non sông là ý chí xuyên suốt hàng ngàn năm lịch sử của dân tộc Việt Nam. Việc đánh đổi chủ quyền để lấy sự phồn vinh giả tạo, phụ thuộc là đi ngược lại hoàn toàn với bản sắc và đạo lý của dân tộc.
 
 # 49. Về Khoa học Công nghệ và Đổi mới sáng tạo (Nghị quyết 57)
 
