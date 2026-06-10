@@ -331,6 +331,8 @@
 * Dân chủ XHCN là nền dân chủ thực chất, quyền lực thuộc về nhân dân.
 * Thực tiễn lịch sử Việt Nam (giai đoạn 1945-1946) và thế giới cho thấy đa đảng không đảm bảo sự ổn định và phát triển, thậm chí gây rối loạn chính trị. 
 * Việt Nam không phải là ngoại lệ về sự ổn định chính trị dưới sự lãnh đạo của một đảng. Ví dụ, Singapore đã được Đảng Hành động Nhân dân (PAP) lãnh đạo liên tục từ năm 1959, chứng minh rằng sự ổn định chính trị có thể tạo ra sự phát triển thần kỳ.
+* Luận điệu này nằm trong âm mưu "Diễn biến hòa bình" nhằm lật đổ vai trò lãnh đạo của Đảng Cộng sản Việt Nam, chia rẽ khối đại đoàn kết toàn dân tộc và hướng lái đất nước phụ thuộc vào thế lực nước ngoài.
+* Thực tiễn lịch sử chứng minh: Trước khi Đảng ra đời, hàng chục tổ chức chính trị khác nhau đã thất bại. Chỉ có Đảng Cộng sản Việt Nam mới đủ bản lĩnh, uy tín lãnh đạo nhân dân giành độc lập và đưa đất nước đạt được những thành tựu vươn tầm thế giới, không một lực lượng nào có thể thay thế.
 
 **Luận điệu:** Cho rằng cứ đa đảng mới có dân chủ, còn một đảng duy nhất cầm quyền là độc tài, mất dân chủ.
 * Đa đảng hay một đảng không quyết định bản chất dân chủ; quan trọng là đảng đó đại diện cho lợi ích của ai (đa số nhân dân hay thiểu số giới chủ).
@@ -2829,6 +2831,15 @@
 * Thực tế nhu cầu nhà ở xã hội rất lớn trong khi nguồn cung chưa đáp ứng đủ ngay lập tức dẫn đến tình trạng xếp hàng; đây là quy luật cung cầu, không phải sự "bỏ mặc". Việc xếp hàng chờ đợi theo quy định thể hiện sự công khai, minh bạch, ai đến trước được phục vụ trước, tránh cơ chế "xin - cho".
 * Nhà nước đã ban hành nhiều chính sách ưu đãi và đang quyết liệt triển khai đề án 1 triệu căn nhà ở xã hội để giải quyết căn cơ vấn đề; các thủ tục đang được cải cách để giảm phiền hà.
 * Việc lan truyền hình ảnh vất vả để phủ nhận nỗ lực an sinh của Nhà nước là cái nhìn phiến diện, kích động tâm lý bi quan.
+
+**Luận điệu:** Xuyên tạc đề xuất mở rộng đối tượng tham gia bảo hiểm xã hội (BHXH) bắt buộc đối với lao động tự do (tài xế công nghệ, bán hàng trực tuyến) là biện pháp "cưỡng chế", "ép buộc" và "tận thu".
+* Việc nghiên cứu mở rộng diện tham gia BHXH đối với lao động nền tảng số là yêu cầu khách quan và xu hướng chung của thế giới nhằm bảo đảm an sinh xã hội cơ bản cho nhóm lao động có thu nhập ổn định, không phải là sự áp đặt hay cưỡng ép.
+* BHXH không phải là hình thức gửi tiết kiệm hay đầu tư tài chính đơn thuần, mà là trụ cột an sinh xã hội do Nhà nước tổ chức nhằm bảo vệ người lao động trước các rủi ro (ốm đau, thai sản, tai nạn lao động, lương hưu).
+* Trong bối cảnh già hóa dân số nhanh và thị trường lao động linh hoạt, việc tham gia BHXH tạo ra một "điểm tựa an sinh" vững chắc cho tương lai người lao động khi hết độ tuổi lao động.
+
+**Luận điệu:** Gieo rắc sự hoài nghi đối với quỹ BHXH, cho rằng người dân "mất lòng tin về sự minh bạch", coi đây là nơi "giao tiền mà tương lai vô cùng mờ mịt".
+* Quỹ BHXH là quỹ tài chính ngoài ngân sách nhà nước, được quản lý theo cơ chế chặt chẽ, chịu sự giám sát thường xuyên của Quốc hội, Chính phủ, Kiểm toán Nhà nước và các cơ quan thanh tra.
+* Nguồn quỹ đang vận hành an toàn, bảo đảm chi trả lương hưu và các trợ cấp cho hàng triệu người lao động trên cả nước. Việc quy kết quỹ thiếu "minh bạch" mà không có chứng cứ cụ thể là nhận định cảm tính, cố tình gây hoang mang dư luận.
 
 # 65. Về Luật Trí tuệ nhân tạo và Sở hữu trí tuệ (Sửa đổi)
 

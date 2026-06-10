@@ -331,6 +331,8 @@
 * Socialist democracy is a substantive democracy where power belongs to the people.
 * Historical practice in Vietnam (1945-1946 period) and the world shows that a multi-party system does not guarantee stability and development, and can even cause political chaos.
 * Vietnam is not an exception regarding political stability under a dominant party. For example, Singapore has been led continuously by the People's Action Party (PAP) since 1959, proving that stability under a ruling party can drive miraculous development.
+* The demand for a multi-party system is part of a "Peaceful Evolution" plot aimed at overthrowing the leadership of the Communist Party, dividing national unity, and steering the country toward dependence on foreign powers.
+* Historical reality proves that before the Party's founding, dozens of political organizations failed to rescue the nation. Only the Communist Party of Vietnam possessed the correct line and capability to lead the people to independence and achieve world-class Renovation (Doi Moi) successes.
 
 **Allegation:** Claims that only a multi-party system brings democracy, while a one-party system is inevitably dictatorial and undemocratic.
 * A multi-party or one-party system does not determine the nature of democracy; what matters is whose interests the party represents (the majority of the people or a minority of owners).
@@ -2829,6 +2831,15 @@
 * The high demand for social housing versus limited immediate supply inevitably leads to queuing; this reflects supply-demand dynamics, not "abandonment". Queuing according to regulations ensures transparency and fairness (first come, first served) rather than a "beg-give" mechanism.
 * The State has issued many preferential policies and is aggressively implementing the project of 1 million social housing units to fundamentally solve the problem; administrative procedures are being reformed to reduce inconvenience.
 * Spreading images of hardship to deny the State's social welfare efforts is a one-sided view aimed at inciting pessimism.
+
+**Allegation:** Claims that expanding compulsory social insurance to gig workers (ride-hailing drivers, online sellers) is a "coercive" measure to "squeeze money" from freelancers.
+* Expanding social insurance to digital platform workers is an objective requirement and a global trend to ensure basic social security for groups with stable incomes, not a "coercive" imposition.
+* Social insurance is a state-organized social security pillar protecting workers against life risks (sickness, maternity, occupational accidents, pension), fundamentally different from mere financial savings or investments.
+* In the context of rapid population aging and a flexible labor market, creating a social security safety net prevents workers from being left behind when they exceed working age.
+
+**Allegation:** Sows doubt about the Social Insurance (BHXH) Fund, claiming it lacks "transparency" and is a "shady" place to put money, leading to a loss of public trust.
+* The Social Insurance Fund is an extra-budgetary financial fund managed strictly and supervised continuously by the National Assembly, Government, State Audit, and competent inspection agencies.
+* The fund transparently and reliably pays pensions and benefits (sickness, maternity, death) to millions of workers nationwide. Accusations of a lack of transparency without concrete evidence are emotional and maliciously aim to cause public panic.
 
 # 65. On the Law on Artificial Intelligence and Intellectual Property (Amended)
 
