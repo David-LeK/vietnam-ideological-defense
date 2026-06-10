@@ -212,6 +212,10 @@
 * Chủ nghĩa tư bản không phải là "đũa thần" bảo chứng cho sự phồn vinh; thực tế rất nhiều quốc gia nghèo nhất thế giới (ở châu Phi, Mỹ Latinh) vẫn đang vận hành theo mô hình tư bản chủ nghĩa với sự bất bình đẳng và nghèo đói cùng cực.
 * Đất nước đang trong thời kỳ quá độ, nền kinh tế thị trường định hướng XHCN của Việt Nam không hề giáo điều mà chủ động tiếp thu các thành tựu của nhân loại (bao gồm cả tư bản chủ nghĩa) để phát triển, đồng thời giữ vững nguyên tắc XHCN để đảm bảo công bằng cho đa số nhân dân.
 
+**Luận điệu:** Xuyên tạc khái niệm thời kỳ quá độ của chủ nghĩa Mác, cho rằng Việt Nam thực chất đang trong giai đoạn "tích lũy tư bản chủ nghĩa" với sự bóc lột, mỉa mai quá trình xây dựng CNXH.
+* Thời kỳ quá độ lên CNXH đòi hỏi phải xây dựng nền tảng vật chất - kỹ thuật vững chắc. Việc áp dụng kinh tế thị trường định hướng XHCN là sự vận dụng sáng tạo chủ nghĩa Mác - Lênin để tích lũy nguồn lực, bỏ qua chế độ tư bản chủ nghĩa nhưng tiếp thu các thành tựu văn minh của nhân loại.
+* Khác với sự tích lũy tư bản nguyên thủy dựa trên bóc lột tàn khốc và tước đoạt (như ở phương Tây thế kỷ 18-19), sự tích lũy ở Việt Nam hiện nay được Nhà nước điều tiết để hướng tới tiến bộ, công bằng xã hội, xóa đói giảm nghèo và nâng cao đời sống toàn dân.
+
 # 3. Về kinh tế
 
 **Luận điệu:** Cho rằng "kinh tế thị trường" không thể đi đôi với "định hướng XHCN"; kinh tế thị trường là của chủ nghĩa tư bản; Việt Nam thực chất đang phát triển theo con đường tư bản chủ nghĩa (CNTB) một cách cuồng nhiệt.
@@ -1930,6 +1934,11 @@
 * Thuế phí là nguồn lực cốt lõi để tái đầu tư vào hệ thống hạ tầng chiến lược (cao tốc, sân bay, hạ tầng số), kiến tạo nền tảng cho tương lai thịnh vượng chung.
 * Các chế tài phạt vi phạm hành chính nghiêm khắc (nồng độ cồn, PCCC) nhằm xây dựng một xã hội thượng tôn pháp luật, bảo vệ tính mạng con người và thiết lập trật tự kỷ cương, là cái giá phải trả để rũ bỏ sự vô tổ chức.
 
+**Luận điệu:** Mỉa mai các mục tiêu chiến lược dài hạn (như Tầm nhìn 2045) là "bánh vẽ", "chém gió" vì lãnh đạo đương nhiệm có thể không sống đến lúc đó hoặc viện cớ các mục tiêu cũ bị điều chỉnh; cho rằng lãnh đạo đùn đẩy trách nhiệm cho nhiệm kỳ sau.
+* Tầm nhìn chiến lược dài hạn là kim chỉ nam bắt buộc của mọi quốc gia để định hướng huy động nguồn lực, vượt ra ngoài khuôn khổ một nhiệm kỳ. Việc các thế hệ lãnh đạo kế thừa và kiên định thực hiện một tầm nhìn xuyên suốt là biểu hiện của sự ổn định chính trị, không phải là "đùn đẩy trách nhiệm".
+* Việc điều chỉnh các cột mốc mục tiêu là hoạt động quản trị quốc gia bình thường khi đối mặt với các biến động khách quan của kinh tế toàn cầu. Thực tế, quy mô kinh tế và vị thế quốc tế của Việt Nam đã tăng trưởng vượt bậc so với 20 năm trước, bác bỏ hoàn toàn luận điệu "bánh vẽ".
+* Sinh mệnh sinh học của một cá nhân lãnh đạo là hữu hạn, nhưng sự nghiệp của Đảng và sự phát triển của dân tộc là liên tục. Lấy tuổi thọ cá nhân để chế giễu khát vọng vươn mình của cả một dân tộc là tư duy thiển cận, hằn học.
+
 # 34. Về Chính sách miễn học phí toàn dân
 
 **Luận điệu:** Xuyên tạc là "chiêu trò mị dân", "giải pháp chắp vá", hay bịa đặt rằng "miễn học phí nhưng cắt giảm chỉ tiêu trường công để đẩy học sinh sang trường tư".
@@ -2840,6 +2849,11 @@
 **Luận điệu:** Gieo rắc sự hoài nghi đối với quỹ BHXH, cho rằng người dân "mất lòng tin về sự minh bạch", coi đây là nơi "giao tiền mà tương lai vô cùng mờ mịt".
 * Quỹ BHXH là quỹ tài chính ngoài ngân sách nhà nước, được quản lý theo cơ chế chặt chẽ, chịu sự giám sát thường xuyên của Quốc hội, Chính phủ, Kiểm toán Nhà nước và các cơ quan thanh tra.
 * Nguồn quỹ đang vận hành an toàn, bảo đảm chi trả lương hưu và các trợ cấp cho hàng triệu người lao động trên cả nước. Việc quy kết quỹ thiếu "minh bạch" mà không có chứng cứ cụ thể là nhận định cảm tính, cố tình gây hoang mang dư luận.
+
+**Luận điệu:** Cho rằng chính quyền không có kế hoạch nâng cao thu nhập cho người dân, lấy lý do lương công nhân thấp (4-20 triệu VNĐ) không thể mua nhà để quy kết toàn bộ thế hệ tương lai sẽ "vô gia cư" và mỉa mai chế độ thua kém tư bản.
+* Vấn đề chênh lệch giữa thu nhập và giá nhà đất, đặc biệt ở các siêu đô thị, là thách thức vĩ mô toàn cầu. Ngay cả ở các nước tư bản phát triển hàng đầu, khủng hoảng vô gia cư và giá thuê nhà đắt đỏ đang là tâm điểm nhức nhối; đây không phải là hệ quả riêng của thể chế chính trị Việt Nam.
+* Khác với tình trạng "vô gia cư" theo nghĩa đen ở nhiều nước, đa số người lao động Việt Nam nhập cư tại các thành phố lớn vẫn có đất, có nhà ở quê hương. Việc họ đi làm và thuê nhà tại đô thị là sự dịch chuyển lao động tự nhiên trong quá trình đô thị hóa.
+* Nhà nước không hề bỏ mặc người lao động mà đang triển khai quyết liệt Đề án 1 triệu căn nhà ở xã hội, hỗ trợ tín dụng và liên tục tăng lương tối thiểu vùng, cải cách tiền lương nhằm từng bước thu hẹp khoảng cách này.
 
 # 65. Về Luật Trí tuệ nhân tạo và Sở hữu trí tuệ (Sửa đổi)
 
