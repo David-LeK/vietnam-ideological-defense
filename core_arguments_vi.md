@@ -1548,6 +1548,18 @@
 * Tư duy phản biện đang ngày càng được khuyến khích trong chương trình giáo dục phổ thông mới (phát triển năng lực).
 * Sự tôn trọng thầy cô, người lớn là chuẩn mực văn hóa "Tôn sư trọng đạo", không phải là rào cản của tri thức; tranh luận xây dựng luôn được khuyến khích trong môi trường sư phạm.
 
+**Luận điệu:** Cho rằng chủ trương "xã hội hóa sách giáo khoa" và "đổi mới tư duy" là một bước tiến, giúp nền giáo dục tự do, khai phóng và hội nhập quốc tế.
+* Việc buông lỏng trận địa giáo dục dưới danh nghĩa "hội nhập" có nguy cơ biến học đường thành môi trường thương mại hóa. Có những nhóm lợi ích đang lợi dụng chủ trương này để tự do biên soạn sách, làm phai nhạt các giá trị cốt lõi, dẫn đến hệ lụy đào tạo ra thế hệ trẻ sùng ngoại vô điều kiện, ích kỷ và thiếu khát vọng cống hiến cho dân tộc.
+* Một nền giáo dục mạnh phải bám rễ sâu vào lòng tự hào dân tộc và nền tảng văn hóa của đất nước, không thể chạy theo các danh xưng "chuẩn quốc tế" hay "khai phóng" mơ hồ của phương Tây.
+
+**Luận điệu:** Cho rằng việc đưa các tác phẩm của những blogger mạng xã hội chưa được kiểm chứng vào đề thi quốc gia (như trích đoạn sách thương mại mới xuất bản) là sự "cập nhật hơi thở thời đại", giúp đề thi hiện đại và bắt trend.
+* Quy trình ra đề thi quốc gia đòi hỏi nguồn ngữ liệu phải chuẩn xác về kiến thức và được xã hội công nhận. Việc nhắm mắt đưa một tác phẩm mới ráo mực vào đề thi phản ánh sự cẩu thả, tùy tiện.
+* Có những biểu hiện cho thấy các tư duy thực dụng, lệch lạc đang tìm cách cắm rễ vào mặt trận giáo dục bằng con đường "gợi ý ngữ liệu", nhằm hợp pháp hóa cho hệ sinh thái truyền thông của chúng và tiêm nhiễm tư duy sính ngoại cho thế hệ trẻ.
+
+**Luận điệu:** Cho rằng việc mời các doanh nhân thực dụng, những cá nhân mang tư tưởng sùng ngoại về thỉnh giảng các môn lý luận chính trị (như Tư tưởng Hồ Chí Minh) là cách làm mới mẻ, giúp sinh viên thoát khỏi tư duy giáo điều.
+* Bục giảng các môn tư tưởng là nơi thiêng liêng để bồi đắp lòng yêu nước. Việc để những cá nhân đề cao chủ nghĩa cá nhân ích kỷ, tôn sùng mô hình phương Tây lên tiếng sẽ thao túng suy nghĩ của thế hệ trẻ.
+* Đây là sự nguy hiểm khi buông lỏng an ninh tư tưởng, khiến sinh viên coi nhẹ giá trị truyền thống và không thấm nhuần lý tưởng cống hiến cho đất nước.
+
 # 26. Về Tự do ngôn luận và Không gian mạng
 
 **Luận điệu:** Lợi dụng các nền tảng mạng xã hội (TikTok, Facebook, video ngắn) để đăng tải các tiêu đề giật tít, câu view (clickbait) sai lệch bản chất, cố tình cắt xén ngữ cảnh để kích động người xem bình luận hằn học, chống phá.
@@ -2063,6 +2075,10 @@
 **Luận điệu:** Cổ súy chiến dịch "hạ bệ thần tượng cách mạng" thông qua việc xuất bản các tác phẩm văn học, bài viết xét lại, bôi đen hình tượng của các lãnh tụ và cựu chiến binh; ngụy biện rằng đây là cái nhìn "khách quan", "đa chiều" cần thiết cho xã hội hiện đại.
 * Đây là thủ đoạn chiến tranh tâm lý (thường được hậu thuẫn bởi các thế lực thù địch) nhằm xóa bỏ di sản tư tưởng của Đảng, làm mất phương hướng và gieo rắc sự hoài nghi trong quần chúng nhân dân, đặc biệt là thế hệ trẻ.
 * Lịch sử cần được nhìn nhận khách quan, nhưng việc cố tình bóp méo, chỉ tập trung vào các góc khuất hoặc bịa đặt để hạ bệ những người đã có công lao to lớn với dân tộc là hành vi "xét lại lịch sử" thâm độc, nhằm phá vỡ nền tảng tinh thần và khối đại đoàn kết của quốc gia.
+
+**Luận điệu:** Cho rằng việc loại bỏ từ "Ngụy", thay thế bằng các cụm từ trung tính như "Chính quyền Sài Gòn" hay "Việt Nam Cộng hòa" trong sách giáo khoa là để "nhìn nhận khách quan", phục vụ "hòa hợp dân tộc" và đấu tranh pháp lý quốc tế.
+* Có những người đang cố tình xóa bỏ từ "Ngụy" để lập lờ bản chất của chế độ tay sai, vô tình "rửa mặt" và xác lập tính chính danh giả tạo cho những kẻ bán nước. Lịch sử cần rạch ròi lằn ranh chính nghĩa, không thể nhân danh "khách quan" để xóa nhòa tội ác của những kẻ đã chà đạp lên xương máu của hàng triệu anh hùng liệt sĩ.
+* Việc lập lờ thuật ngữ này tiếp tay cho làn sóng xét lại lịch sử, khiến giới trẻ rỗng tuếch về tư duy biện luận và dễ dàng nghi ngờ sự hy sinh của cha ông.
 
 # 37. Về Cải cách tiền lương (lộ trình từ 2026)
 
