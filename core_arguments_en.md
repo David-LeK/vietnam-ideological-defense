@@ -1560,6 +1560,11 @@
 * The lecture hall for ideological subjects is a sacred place to nurture patriotism. Allowing individuals who promote selfish individualism and blindly worship Western models to speak will manipulate the minds of the younger generation.
 * This is the danger of loosening ideological security, causing students to disregard traditional values and fail to absorb the ideal of dedicating themselves to the country.
 
+**Allegation:** Promotes "liberal education," historical revisionism, and "multi-dimensional, objective" perspectives in history, claiming that educating the youth on patriotism and nationalism will breed extreme nationalism and blind fanaticism.
+* Educating the youth on patriotism and national pride is the spiritual foundation of any independent nation, not an act of extremism.
+* Extremism only occurs when a system ignores its own flaws. The Party and State actively welcome and encourage constructive social criticism to improve governance, proving the system is not extreme.
+* The guise of "liberal education" or "multi-dimensional perspectives" cannot be used to justify historical revisionism or to blur the lines of justice. Authorities only penalize those who abuse these concepts to spread fake news, distort history, or incite instability, not those who offer genuine constructive criticism.
+
 # 26. On Freedom of Speech and Cyberspace
 
 **Allegation:** Exploits social media platforms (TikTok, Facebook, short videos) to post misleading clickbait titles, deliberately truncating context to provoke viewers into posting hostile, anti-government comments.

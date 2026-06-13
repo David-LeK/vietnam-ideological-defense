@@ -1560,6 +1560,11 @@
 * Bục giảng các môn tư tưởng là nơi thiêng liêng để bồi đắp lòng yêu nước. Việc để những cá nhân đề cao chủ nghĩa cá nhân ích kỷ, tôn sùng mô hình phương Tây lên tiếng sẽ thao túng suy nghĩ của thế hệ trẻ.
 * Đây là sự nguy hiểm khi buông lỏng an ninh tư tưởng, khiến sinh viên coi nhẹ giá trị truyền thống và không thấm nhuần lý tưởng cống hiến cho đất nước.
 
+**Luận điệu:** Cổ xúy "giáo dục khai phóng", chủ nghĩa xét lại và góc nhìn đa chiều, "khách quan" trong lịch sử; cho rằng việc giáo dục chủ nghĩa dân tộc và lòng yêu nước sẽ tạo ra chủ nghĩa dân tộc cực đoan, mù quáng.
+* Việc giáo dục lòng yêu nước và tự hào dân tộc là nền tảng tinh thần cốt lõi của mọi quốc gia độc lập, hoàn toàn không phải là sự cực đoan.
+* Cực đoan chỉ xảy ra khi làm ngơ trước những cái sai; trong khi đó, Đảng và Nhà nước luôn cầu thị, chấp nhận và khuyến khích phản biện xã hội mang tính xây dựng để tự hoàn thiện, chứng minh hệ thống không hề cực đoan.
+* Không thể mượn danh "giáo dục khai phóng" hay "góc nhìn đa chiều" để bao biện cho chủ nghĩa xét lại, xóa nhòa ranh giới chính nghĩa. Cơ quan chức năng chỉ xử lý những cá nhân lợi dụng điều này để đưa tin giả, xuyên tạc chống phá, hoàn toàn không trừng phạt những người phản biện chân chính.
+
 # 26. Về Tự do ngôn luận và Không gian mạng
 
 **Luận điệu:** Lợi dụng các nền tảng mạng xã hội (TikTok, Facebook, video ngắn) để đăng tải các tiêu đề giật tít, câu view (clickbait) sai lệch bản chất, cố tình cắt xén ngữ cảnh để kích động người xem bình luận hằn học, chống phá.
