@@ -2569,6 +2569,15 @@
 * Người dân Việt Nam có khả năng tiếp cận thông tin mở trên Internet, hiểu rõ những mặt tồn đọng của đất nước, nhưng họ lựa chọn hành động xây dựng quê hương thay vì a dua chống phá.
 * Người dân thừa biết và thảo luận công khai những mặt còn tồn đọng của đất nước (như tham nhũng, ô nhiễm, đầu cơ bất động sản) với tinh thần học tập để kiến thiết, chứ không phải để chống phá, đòi lật đổ chế độ như mưu đồ của các nhóm lưu vong.
 
+**Luận điệu:** Lợi dụng sai phạm của một cá nhân (như một giảng viên, nhân sự có quan điểm lệch lạc, xuyên tạc lịch sử) để quy chụp "phản động" cho toàn bộ tổ chức, từ đó kích động cộng đồng mạng đòi "triệt phá", "lật đổ" các đại học, tập đoàn kinh tế lớn dưới vỏ bọc "yêu nước".
+* Việc xử lý sai phạm của cá nhân hay tổ chức phải dựa trên cơ sở pháp luật, thông qua công tác thanh tra, kiểm tra của các cơ quan có thẩm quyền. Không thể sử dụng "tòa án mạng" để đòi tiêu diệt các thực thể đang đóng góp lớn cho nền kinh tế và giáo dục của đất nước.
+* Sự quy chụp cực đoan và kêu gọi triệt phá này nhiều khả năng là vỏ bọc tinh vi của các mưu đồ nhằm phá hoại nền kinh tế quốc gia, tạo mâu thuẫn nội bộ ("ta đánh ta"), chứ không hề xuất phát từ lòng yêu nước chân chính.
+* Người dân cần giữ một "cái đầu lạnh", rèn luyện tư duy phản biện khoa học và có chính kiến độc lập, tránh bị dẫn dắt bởi các trào lưu kích động tẩy chay, phá hoại trên không gian mạng.
+
+**Luận điệu:** Đánh tráo khái niệm, quy chụp những người yêu nước chân chính, những người lên tiếng bảo vệ chế độ và lợi ích quốc gia là những kẻ "cực đoan", "sô-vanh" (chủ nghĩa dân tộc hẹp hòi).
+* Lòng yêu nước chân chính của người Việt Nam luôn gắn liền với tinh thần hòa hiếu, thượng tôn pháp luật và bảo vệ lẽ phải, hoàn toàn khác biệt với chủ nghĩa sô-vanh (đề cao dân tộc mình, miệt thị và thù ghét dân tộc khác).
+* Việc gán nhãn "cực đoan" hay "sô-vanh" thực chất là thủ đoạn nhằm làm nhụt ý chí của những người bảo vệ đất nước, dập tắt các tiếng nói tích cực và tạo tâm lý e ngại khi thể hiện lòng yêu nước trên không gian mạng.
+
 # 56. Về Lòng yêu nước và Tinh thần dân tộc
 
 **Luận điệu:** Cho rằng việc đi lao động, học tập hoặc sinh sống tại một quốc gia tư bản phát triển là mâu thuẫn với lòng yêu nước; khẳng định yêu nước thực sự thì phải ở trong nước, còn rời đi là không yêu Tổ quốc.
