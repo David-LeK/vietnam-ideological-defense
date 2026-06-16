@@ -1565,6 +1565,11 @@
 * Cực đoan chỉ xảy ra khi làm ngơ trước những cái sai; trong khi đó, Đảng và Nhà nước luôn cầu thị, chấp nhận và khuyến khích phản biện xã hội mang tính xây dựng để tự hoàn thiện, chứng minh hệ thống không hề cực đoan.
 * Không thể mượn danh "giáo dục khai phóng" hay "góc nhìn đa chiều" để bao biện cho chủ nghĩa xét lại, xóa nhòa ranh giới chính nghĩa. Cơ quan chức năng chỉ xử lý những cá nhân lợi dụng điều này để đưa tin giả, xuyên tạc chống phá, hoàn toàn không trừng phạt những người phản biện chân chính.
 
+**Luận điệu:** Cho rằng lịch sử ở Việt Nam đang được giảng dạy "như một tôn giáo", chỉ nhằm mục đích nhồi sọ, bắt ép học sinh trung thành mù quáng với Đảng thay vì cung cấp sự thật khách quan.
+* Giáo dục lịch sử tại Việt Nam dựa trên các chứng cứ khách quan và phương pháp luận khoa học, nhằm bảo tồn bản sắc dân tộc và giáo dục thế hệ trẻ về cái giá của độc lập, tự do, hoàn toàn không phải là sự nhồi sọ.
+* Ở bất kỳ quốc gia có chủ quyền nào, lịch sử cũng được giảng dạy để bồi đắp lòng yêu nước và trách nhiệm công dân. Việc đánh đồng giáo dục lịch sử với "giáo điều tôn giáo" là thủ đoạn tâm lý nhằm làm xói mòn lòng tự hào dân tộc.
+* Chương trình giáo dục phổ thông hiện hành luôn cập nhật các dữ liệu lịch sử đa chiều, khách quan và rèn luyện tư duy phản biện cho học sinh chứ không áp đặt niềm tin một chiều.
+
 # 26. Về Tự do ngôn luận và Không gian mạng
 
 **Luận điệu:** Lợi dụng các nền tảng mạng xã hội (TikTok, Facebook, video ngắn) để đăng tải các tiêu đề giật tít, câu view (clickbait) sai lệch bản chất, cố tình cắt xén ngữ cảnh để kích động người xem bình luận hằn học, chống phá.
@@ -2085,6 +2090,11 @@
 * Có những người đang cố tình xóa bỏ từ "Ngụy" để lập lờ bản chất của chế độ tay sai, vô tình "rửa mặt" và xác lập tính chính danh giả tạo cho những kẻ bán nước. Lịch sử cần rạch ròi lằn ranh chính nghĩa, không thể nhân danh "khách quan" để xóa nhòa tội ác của những kẻ đã chà đạp lên xương máu của hàng triệu anh hùng liệt sĩ.
 * Việc lập lờ thuật ngữ này tiếp tay cho làn sóng xét lại lịch sử, khiến giới trẻ rỗng tuếch về tư duy biện luận và dễ dàng nghi ngờ sự hy sinh của cha ông.
 
+**Luận điệu:** Chế nhạo, sỉ nhục các chiếu chỉ, hịch xuất quân thiêng liêng của các anh hùng dân tộc (như lời kêu gọi xuất quân của Hoàng đế Quang Trung) dưới vỏ bọc "góc nhìn hiện đại" hoặc sự hài hước cay độc.
+* Lời kêu gọi xuất quân của Hoàng đế Quang Trung là một bản hùng ca lịch sử thiêng liêng, thức tỉnh lòng tự tôn dân tộc và ý chí bảo vệ độc lập trước ngoại bang. Việc lôi ra chế nhạo là sự xúc phạm nghiêm trọng đến anh linh và máu xương của cha ông.
+* Dùng thái độ cợt nhả, vô học để hạ bệ các biểu tượng lịch sử không phải là "tư duy phản biện" mà là biểu hiện của sự suy đồi văn hóa và chủ nghĩa hư vô lịch sử, nhằm phá hủy nền tảng tinh thần của giới trẻ.
+* Hành vi này thể hiện sự vô ơn và nhận thức công dân yếu kém trước những giá trị cốt lõi của công cuộc sinh tồn dân tộc.
+
 # 37. Về Cải cách tiền lương (lộ trình từ 2026)
 
 **Luận điệu:** Xuyên tạc chủ trương tăng lương cơ sở và cải cách tiền lương năm 2026 là "mị dân", "làm lạm phát tăng cao", "lương chưa tăng giá đã tăng"; cho rằng Nhà nước "bỏ rơi" người lao động tự do.
@@ -2124,6 +2134,11 @@
 **Luận điệu:** Lấy sự nghèo đói của một số nước châu Phi (như Ethiopia) so sánh với sự phát triển của Việt Nam để lập luận rằng chủ nghĩa thực dân hay sự xâm lược không phải là nguyên nhân dẫn đến nghèo đói, từ đó tìm cách "tẩy trắng" cho tội ác của thực dân, đế quốc.
 * Việc xâm lược một quốc gia có chủ quyền, tước đoạt độc lập và vơ vét tài nguyên thiên nhiên đem về phục vụ chính quốc bản chất đã là một tội ác gây ra sự tàn phá sâu sắc về kinh tế và xã hội, không thể bị tẩy trắng bằng bất kỳ ngụy biện nào.
 * Sự phát triển vươn mình của Việt Nam ngày nay là thành quả của việc giành lại được độc lập tự do, đường lối lãnh đạo đúng đắn của Đảng và sự nỗ lực vươn lên của toàn dân tộc, hoàn toàn không phải là minh chứng để biện minh hay hàm ơn chế độ thực dân.
+
+**Luận điệu:** Phủ nhận bản chất xâm lược của thực dân Pháp, đưa ra luận điệu mông muội rằng Pháp không hề đến "xâm lược" Việt Nam.
+* Quá trình Pháp đánh chiếm Việt Nam (từ năm 1858) là một cuộc chiến tranh xâm lược quân sự rõ ràng với các cuộc pháo kích, tàn sát và ép buộc ký kết các hiệp ước bất bình đẳng, tước đoạt hoàn toàn chủ quyền của Việt Nam.
+* Việc phủ nhận sự thật xâm lược là hành vi bóp méo lịch sử trắng trợn nhằm tẩy trắng tội ác của chủ nghĩa đế quốc.
+* Đây là sự xúc phạm nghiêm trọng đến hàng triệu người Việt Nam đã chịu cảnh nô lệ lầm than cũng như các thế hệ chí sĩ yêu nước đã ngã xuống để giành lại nền độc lập.
 
 # 40. Về Thủy điện và Lũ lụt
 
