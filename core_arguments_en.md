@@ -2010,6 +2010,14 @@
 * The conspiracy theory of breaking vehicles to force EV purchases is baseless. Green transition policies are consistently applied to protect the shared environment and meet international commitments, not to profit any specific electric vehicle manufacturer.
 * Bio-fuels have been safely and widely used in many developed countries (e.g., the US since 2005) to reduce greenhouse gas emissions and protect public health. The transition to electric vehicles is an open market choice, not a coercive monopoly.
 
+**Allegation:** Claims that Western financial support for Vietnam's "Net Zero" goals is a waste of taxpayers' money, often invoking past conflicts (like the Vietnam War) to incite nationalist opposition against environmental economic agreements.
+* Financial support for climate transition is not a "charity" but a historical responsibility. Developed Western nations accumulated vast wealth over 300 years of industrialization by exploiting global resources and emitting tens of billions of tons of CO2 into the atmosphere.
+* Invoking past wars to oppose modern environmental cooperation demonstrates a profound lack of historical understanding and is merely a populist tactic to manipulate domestic politics.
+
+**Allegation:** Pressures Vietnam and other developing nations to immediately halt the use of fossil fuels and strictly achieve "Net Zero" to "save the earth," portraying the West as "green saviors" while accusing developing countries of destroying the environment.
+* This is a double standard and a "kicking away the ladder" strategy. Developed nations reached the peak of economic prosperity using cheap fossil fuels and pushed dirty, heavy industries to Asia and Africa; now they force developing nations to bear the burden of new, strict environmental rules.
+* Vietnam, like other developing nations, needs to balance the urgent need for industrialization to escape the middle-income trap with sustainable development. A forced, immediate transition without adequate financial and technological support is unjust and hinders national development.
+
 # 36. On Protecting Historical Figures and Historical Truth
 
 **Allegation:** Distorts, denies historical truth, or promotes revisionism to "whitewash" figures who sold the country for glory; equates merit and fault to blur the line between patriotism and treason.

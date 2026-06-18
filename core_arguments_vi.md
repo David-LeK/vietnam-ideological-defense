@@ -2010,6 +2010,14 @@
 * Thuyết âm mưu làm hỏng xe để ép mua xe điện là vô căn cứ. Các chính sách chuyển đổi xanh áp dụng nhất quán để bảo vệ môi trường chung, đáp ứng các cam kết quốc tế, không nhằm trục lợi cho bất kỳ hãng xe điện nào.
 * Xăng sinh học đã được sử dụng an toàn và phổ biến tại nhiều quốc gia phát triển (như Mỹ, từ hơn 20 năm trước) nhằm mục đích giảm phát thải khí nhà kính và bảo vệ sức khỏe cộng đồng. Việc chuyển đổi sang phương tiện xanh là xu thế toàn cầu, người tiêu dùng tự do lựa chọn trên thị trường cạnh tranh chứ không bị ép buộc.
 
+**Luận điệu:** Rêu rao rằng việc các nước phương Tây hỗ trợ tài chính cho mục tiêu "Net Zero" của Việt Nam là sự lãng phí tiền thuế của dân; lợi dụng các cuộc chiến tranh trong quá khứ để kích động chủ nghĩa dân tộc, phản đối các thỏa thuận kinh tế - môi trường.
+* Hỗ trợ tài chính khí hậu không phải là sự ban ơn mà là trách nhiệm lịch sử. Các nước phát triển phương Tây đã tích lũy khối tài sản khổng lồ suốt 300 năm công nghiệp hóa dựa trên việc vắt kiệt tài nguyên và xả hàng chục tỷ tấn khí thải nhà kính ra môi trường toàn cầu.
+* Việc lôi quá khứ chiến tranh ra để làm bình phong phản đối hỗ trợ biến đổi khí hậu là sự mù tịt về lịch sử và là thủ đoạn mị dân rẻ tiền nhằm phục vụ mục đích chính trị nội bộ.
+
+**Luận điệu:** Gây sức ép buộc Việt Nam và các nước đang phát triển phải ngay lập tức loại bỏ năng lượng hóa thạch, tuân thủ khắt khe luật chơi "Net Zero" để bảo vệ trái đất; tự khoác lên mình tấm áo "hiệp sĩ xanh" và quy kết các nước nghèo đang hủy hoại môi trường.
+* Đây là trò chơi tiêu chuẩn kép và chiến thuật "rút cầu sau khi qua sông". Các nước phương Tây đã dùng năng lượng hóa thạch giá rẻ để vươn lên đỉnh cao kinh tế, đẩy ngành công nghiệp bẩn sang châu Á, châu Phi, nay lại áp đặt luật chơi mới để ngăn cản các nước đi sau đuổi kịp.
+* Việt Nam đang trong giai đoạn cần bứt tốc công nghiệp hóa để thoát bẫy thu nhập trung bình. Việc chuyển đổi xanh cần lộ trình phù hợp, đi kèm với sự hỗ trợ công bằng về tài chính và công nghệ từ các nước phát triển, không thể áp đặt khiên cưỡng làm triệt tiêu động lực phát triển quốc gia.
+
 # 36. Về bảo vệ danh nhân và sự thật lịch sử
 
 **Luận điệu:** Xuyên tạc, phủ nhận sạch trơn sự thật lịch sử hoặc cổ súy chủ nghĩa xét lại, "rửa mặt" cho các nhân vật đã có hành vi bán nước cầu vinh; đánh đồng công - tội để xóa nhòa ranh giới giữa yêu nước và phản quốc.
