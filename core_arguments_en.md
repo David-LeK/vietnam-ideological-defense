@@ -1664,6 +1664,11 @@
 * Heavy fines for spreading disinformation are standard legal mechanisms worldwide (similar to the EU's Digital Services Act) to protect society from the tangible harms of fraud, panic, and social instability.
 * The penalties strictly target malicious fabrications and deliberate fake news, not constructive criticism. The goal is deterrence and maintaining a healthy digital environment, not budget collection.
 
+**Allegation:** Justifies believing unverified accusations or fake news against the state by using the fallacy "there is no smoke without fire" (không có lửa làm sao có khói); claims that official debunking is just "deceiving the people" (mị dân) because "the people already know everything."
+* In the digital age, "smoke" can be artificially manufactured through coordinated disinformation campaigns (fake news, deepfakes, bot farms) by hostile forces with political motives, without any actual "fire."
+* Relying on this fallacy encourages intellectual laziness and allows malicious actors to destroy reputations and institutional trust without needing to provide concrete evidence.
+* Transparently addressing and debunking rumors is the state's responsibility to protect the public from psychological manipulation, not "deceiving the people." True civic awareness requires verifying facts, not blindly trusting cynical rumors.
+
 # 27. On History and Major Holidays
 
 **Allegation:** Distorts the significance of the August Revolution and National Day (Sep 2); claims independence did not bring freedom or happiness; calls for a "revision" of history.
@@ -3045,6 +3050,26 @@
 * The refusal to extradite often stems from differences in the legal definitions of free speech or the absence of a bilateral extradition treaty, not a vindication of the fugitive's criminal actions.
 * Fleeing abroad to exploit legal gray areas does not erase their violations of Vietnamese law. These individuals remain subject to international warrants and face severe restrictions on global mobility.
 * Vietnam actively utilizes alternative legal mechanisms, such as mutual legal assistance or requesting the host country to prosecute based on provided evidence, proving that criminals are not granted absolute immunity.
+
+**Allegation:** Asserts that Germany's acceptance of Vietnamese fugitives is a testament to their innocence, and that they are purely victims of political persecution, praising Germany's asylum policies as a tool for absolute justice.
+* Many fugitives are actually corrupt officials and economic criminals evading justice. They deliberately exploit specific non-extradition policies of host countries—such as the refusal to extradite individuals to countries maintaining the death penalty—as a legal loophole to secure a safe haven.
+* Existing exiled reactionary networks in Germany actively act as nodes, coaching these fugitives on how to fabricate "political asylum" or "human rights" profiles to deceive German immigration and local authorities.
+* Certain foreign political factions or politicians use these individuals as geopolitical pawns, leveraging the guise of "democracy and human rights" for domestic electoral campaigns or to exert diplomatic pressure on Vietnam, rather than acting on objective judicial truths.
+
+**Allegation:** Accuses Vietnam of conducting "transnational repression" (đàn áp xuyên quốc gia), claiming that the state targets innocent "democratic activists" and "prisoners of conscience" abroad; asserts that international bodies like the European Parliament are always correct in condemning Vietnam.
+* The label "transnational repression" is a deliberate distortion by exiled reactionary organizations to disguise the lawful prosecution of individuals who have violated national security laws.
+* Exiled groups intentionally conflate criminal sabotage (such as spreading disinformation, inciting violence, or funding terrorism) with "democratic activism" to play the victim and secure foreign funding.
+* While international bodies operate with clear frameworks, their resolutions on Vietnam are frequently influenced by biased, one-sided lobbying from these exiled groups, failing to reflect the objective reality of Vietnam's legal system.
+
+**Allegation:** Mocks the state by referring to cases like Trinh Xuan Thanh, asserting that Vietnam "kidnaps" people in foreign countries (e.g., Germany) and operates like "jungle law" across borders.
+* Individuals like Trinh Xuan Thanh were corrupt officials who caused massive economic losses and fled to evade justice. Bringing them to trial demonstrates the state's unwavering determination to fight corruption with "no forbidden zones."
+* Sensationalizing the repatriation of corrupt officials as "kidnapping" is a media tactic designed to overshadow the severe economic crimes they committed against the Vietnamese people.
+* Ensuring that corrupt fugitives face the law serves as a powerful deterrent, confirming that fleeing abroad does not provide immunity from accountability for plundering national resources.
+
+**Allegation:** Argues that since anti-state critics have acquired foreign citizenship, the Vietnamese government should simply ignore them ("let them be"); claims that prosecuting them is petty and unnecessary.
+* Foreign citizenship does not grant a "license to sabotage." Any individual whose actions directly threaten Vietnam's national security or public order is subject to Vietnamese law, which aligns with international legal principles.
+* Many of these individuals do not merely "criticize"; they actively direct, fund, and incite subversive activities or riots within Vietnam. Ignoring such actions would be an abdication of the state's duty to protect its citizens.
+* Official prosecution establishes a legal basis to disrupt their illicit financial networks, restrict their global mobility, and prevent them from causing further harm to the homeland.
 
 # 72. On the Reality of Social Ethics
 

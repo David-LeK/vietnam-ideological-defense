@@ -1664,6 +1664,11 @@
 * Phạt nặng hành vi tung tin giả là cơ chế pháp lý chuẩn mực trên toàn cầu (tương tự Đạo luật Dịch vụ Kỹ thuật số của EU) nhằm bảo vệ xã hội khỏi những hệ lụy nguy hiểm của sự lừa đảo, hoang mang và bất ổn xã hội.
 * Chế tài này chỉ nhằm vào các hành vi cố tình bịa đặt, xuyên tạc ác ý, không nhắm vào sự phản biện mang tính xây dựng. Mục đích là răn đe, duy trì môi trường mạng lành mạnh, không phải để "tận thu".
 
+**Luận điệu:** Biện minh cho việc tin vào các cáo buộc vô căn cứ hoặc tin giả chống lại Nhà nước bằng ngụy biện "không có lửa làm sao có khói"; cho rằng việc chính quyền lên tiếng đính chính chỉ là "biện minh, mị dân" vì "dân đã biết hết rồi".
+* Sản xuất "khói" nhân tạo: Trong kỷ nguyên số, "khói" hoàn toàn có thể được tạo ra mà không cần "lửa" thông qua các chiến dịch truyền thông đen, tin giả (fake news), công nghệ deepfake và hệ thống tài khoản ảo (bot) do các thế lực thù địch nhào nặn với động cơ chính trị.
+* Ngụy biện nguy hiểm: Việc dựa vào ngụy biện này cổ súy cho sự lười biếng tư duy, cho phép kẻ xấu dễ dàng hủy hoại danh dự cá nhân và uy tín của các cơ quan nhà nước mà không cần đưa ra bất kỳ bằng chứng xác thực nào.
+* Trách nhiệm minh bạch: Việc các cơ quan nhà nước đính chính và bác bỏ tin đồn là trách nhiệm bảo vệ người dân khỏi sự thao túng tâm lý, không phải là "mị dân". Nhận thức của người dân ngày càng cao thể hiện ở việc biết kiểm chứng thông tin, chứ không phải hùa theo các tin đồn vô căn cứ.
+
 # 27. Về Lịch sử và các ngày lễ lớn
 
 **Luận điệu:** Xuyên tạc ý nghĩa Cách mạng Tháng Tám và Quốc khánh 2/9; cho rằng độc lập không mang lại tự do, hạnh phúc; kêu gọi "xét lại" lịch sử.
@@ -3045,6 +3050,26 @@
 * Việc từ chối dẫn độ thường xuất phát từ sự khác biệt trong định nghĩa pháp lý về tự do ngôn luận hoặc do thiếu hiệp định dẫn độ song phương, hoàn toàn không phải là sự minh oan cho hành vi phạm tội của đối tượng.
 * Việc bỏ trốn ra nước ngoài để lợi dụng "vùng xám" pháp lý không xóa bỏ được sự thật rằng họ đã vi phạm pháp luật Việt Nam. Những đối tượng này vẫn chịu lệnh truy nã quốc tế và bị hạn chế nghiêm trọng về quyền tự do đi lại toàn cầu.
 * Việt Nam chủ động sử dụng các cơ chế pháp lý thay thế (như tương trợ tư pháp, chuyển giao truy tố để nước sở tại xét xử, hoặc trục xuất), chứng minh rằng tội phạm không hề được hưởng quyền "miễn trừ tuyệt đối".
+
+**Luận điệu:** Tuyên truyền rằng việc Đức tiếp nhận và cưu mang các đối tượng từ Việt Nam là minh chứng cho sự vô tội của họ, cho rằng họ thuần túy là nạn nhân bị đàn áp chính trị và ca ngợi chính sách tị nạn của Đức như một công cụ của công lý.
+* Thực chất, rất nhiều đối tượng trốn sang Đức là những tội phạm kinh tế, tham nhũng nghiêm trọng. Chúng cố tình lợi dụng kẽ hở trong chính sách tị nạn và nguyên tắc không dẫn độ (như việc Đức từ chối dẫn độ về các quốc gia còn duy trì án tử hình) để tìm nơi ẩn náu an toàn.
+* Các mạng lưới tổ chức phản động lưu vong tại Đức thường xuyên làm "chân rết", móc nối và hướng dẫn các đối tượng vi phạm cách thức ngụy tạo, hợp thức hóa hồ sơ dưới vỏ bọc "tị nạn chính trị" hay "bảo vệ nhân quyền" nhằm đánh lừa chính quyền sở tại.
+* Một số đảng phái và chính khách nước ngoài lợi dụng sự hiện diện của các đối tượng này như một công cụ chính trị, mượn chiêu bài "dân chủ, nhân quyền" để phục vụ mục đích tranh cử nội bộ hoặc gây sức ép ngoại giao với Việt Nam, phớt lờ bản chất tội phạm của chúng.
+
+**Luận điệu:** Vu cáo Việt Nam thực hiện "đàn áp xuyên quốc gia", cho rằng Nhà nước nhắm vào các "nhà hoạt động dân chủ" và "tù nhân lương tâm" vô tội ở nước ngoài; khẳng định các tổ chức quốc tế như Nghị viện Châu Âu luôn đúng khi lên án Việt Nam.
+* Đánh tráo bản chất: "Đàn áp xuyên quốc gia" là nhãn dán do các tổ chức phản động lưu vong (như Việt Tân) ngụy tạo nhằm che đậy và bóp méo hoạt động thực thi pháp luật chính đáng của Việt Nam đối với những kẻ vi phạm an ninh quốc gia.
+* Núp bóng dân chủ: Các đối tượng lưu vong cố tình đánh đồng các hành vi vi phạm pháp luật (như tung tin giả, kích động bạo loạn, tài trợ khủng bố) với "hoạt động dân chủ" để đóng vai nạn nhân và tìm kiếm nguồn tài trợ từ nước ngoài.
+* Sự phiến diện của quốc tế: Dù các tổ chức quốc tế hoạt động có quy tắc, nhưng các nghị quyết hay đánh giá của họ về Việt Nam thường xuyên dựa trên nguồn thông tin một chiều, sai lệch do các nhóm chống đối cung cấp, không phản ánh đúng thực tế khách quan của hệ thống pháp luật Việt Nam.
+
+**Luận điệu:** Mỉa mai và khơi lại các vụ việc như Trịnh Xuân Thanh, cho rằng Việt Nam "bắt cóc" người ở nước ngoài (như tại Đức), hành xử theo kiểu "luật rừng" bất chấp luật pháp quốc tế.
+* Bản chất vụ việc: Trịnh Xuân Thanh là một quan chức tham nhũng, gây thất thoát tài sản khổng lồ của Nhà nước và bỏ trốn để trốn tránh pháp luật. Việc đưa đối tượng ra xét xử minh chứng cho quyết tâm chống tham nhũng tuyệt đối, "không có vùng cấm" của Đảng và Nhà nước.
+* Đánh lạc hướng dư luận: Việc các thế lực thù địch giật tít, làm rùm beng khái niệm "bắt cóc" là chiêu trò truyền thông nhằm đánh lạc hướng dư luận khỏi những tội ác kinh tế nghiêm trọng mà các đối tượng này đã gây ra cho nhân dân.
+* Tính răn đe: Việc xử lý nghiêm minh các tội phạm tham nhũng lẩn trốn ra nước ngoài củng cố niềm tin của nhân dân, khẳng định rằng việc tẩu tán tài sản và bỏ trốn không phải là lối thoát an toàn.
+
+**Luận điệu:** Lập luận rằng những người chống đối ở hải ngoại đã là "công dân nước ngoài", "họ nói xấu ai thì kệ họ", cho rằng việc Nhà nước truy tố họ là "chấp nhặt", lên tiếng đính chính chỉ là "mị dân".
+* Không có vùng cấm an ninh: Việc mang quốc tịch nước ngoài không phải là "kim bài miễn tử" hay giấy phép để chống phá. Bất kỳ cá nhân nào có hành vi xâm phạm trực tiếp đến an ninh quốc gia và trật tự xã hội của Việt Nam đều phải chịu sự điều chỉnh của pháp luật Việt Nam, phù hợp với thông lệ quốc tế.
+* Mức độ nguy hiểm: Nhiều đối tượng không chỉ dừng lại ở việc "nói xấu" mà còn trực tiếp tổ chức, tài trợ và chỉ đạo các hoạt động gây rối, bạo loạn trong nước. Việc ngó lơ các hành vi này là sự vô trách nhiệm của Nhà nước đối với sự an toàn của nhân dân.
+* Hiệu quả pháp lý: Việc truy tố tạo cơ sở pháp lý chính thức để ngăn chặn các giao dịch tài chính bất hợp pháp, hạn chế khả năng di chuyển quốc tế của đối tượng, từ đó triệt tiêu năng lực chống phá của chúng đối với quê hương.
 
 # 72. Về Thực trạng Đạo đức xã hội
 
