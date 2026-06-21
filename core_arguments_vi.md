@@ -1570,6 +1570,24 @@
 * Ở bất kỳ quốc gia có chủ quyền nào, lịch sử cũng được giảng dạy để bồi đắp lòng yêu nước và trách nhiệm công dân. Việc đánh đồng giáo dục lịch sử với "giáo điều tôn giáo" là thủ đoạn tâm lý nhằm làm xói mòn lòng tự hào dân tộc.
 * Chương trình giáo dục phổ thông hiện hành luôn cập nhật các dữ liệu lịch sử đa chiều, khách quan và rèn luyện tư duy phản biện cho học sinh chứ không áp đặt niềm tin một chiều.
 
+**Luận điệu:** Cổ súy "tư tưởng giáo dục khai phóng" kiểu phương Tây, coi đây là liều "doping" để nâng tầm giáo dục Việt Nam, giúp người học thoát khỏi giáo điều tư tưởng; lợi dụng các học bổng và chương trình đào tạo nước ngoài để xây dựng lực lượng đối lập ngay trong đội ngũ quản lý và giáo viên.
+* Bản chất của "giáo dục khai phóng" kiểu phương Tây mà các thế lực thù địch truyền bá thực chất là "giáo dục phi giai cấp", đứng ngoài chính trị, đề cao tự do cá nhân tùy tiện và làm mất đi bản chất tốt đẹp của nền giáo dục XHCN.
+* Việc áp dụng rập khuôn tư tưởng này sẽ làm xói mòn nền tảng giáo dục của đất nước, vốn hướng tới sự phát triển toàn diện của con người gắn liền với trách nhiệm xã hội và lợi ích quốc gia.
+* Việc lợi dụng vỏ bọc hợp tác, hỗ trợ đào tạo để nhồi nhét tư tưởng phương Tây là thủ đoạn "diễn biến hòa bình" tinh vi nhằm tạo ra một thế hệ mơ hồ về chính trị, xa rời truyền thống dân tộc.
+
+**Luận điệu:** Núp bóng "cải cách giáo dục", "đổi mới" để cố tình can thiệp làm tăng độ khó của chương trình vượt quá khả năng tiếp thu và tâm lý lứa tuổi của học sinh (đặc biệt ở bậc tiểu học).
+* Đây là thủ đoạn thâm độc nhằm làm giảm hứng thú học tập, khiến học sinh mất gốc kiến thức, từ đó tạo ra áp lực tâm lý nặng nề cho gia đình và xã hội.
+* Mục đích sâu xa của thủ đoạn này là kích động sự bức xúc của dư luận, làm suy giảm niềm tin của nhân dân, học sinh, sinh viên đối với các chủ trương, chính sách của Đảng và Nhà nước.
+* Cải cách giáo dục chân chính phải đảm bảo tính khoa học, phù hợp với tâm lý lứa tuổi và được kiểm soát chặt chẽ để ngăn chặn sự "cài cắm" của những phần tử suy thoái về tư tưởng chính trị.
+
+**Luận điệu:** Đòi "phi chính trị hóa" giáo dục, đề cao quan điểm giáo dục thuần túy kỹ thuật; cho rằng nhà trường không cần dạy chính trị, tư tưởng, đạo đức, lối sống hay truyền thống lịch sử.
+* Giáo dục không chỉ đào tạo nhân lực mà còn là công cụ đắc lực để bảo vệ lịch sử, văn hóa và nền tảng tư tưởng của quốc gia. Không có nền giáo dục nào trên thế giới hoàn toàn tách rời khỏi định hướng công dân.
+* Coi nhẹ giáo dục đạo đức, lý tưởng cách mạng sẽ dẫn đến nguy cơ tạo ra một lớp người trẻ mù mờ về lịch sử, có lối sống lệch lạc và dễ bị xúi giục chống phá đất nước.
+
+**Luận điệu:** Lợi dụng các trường học có vốn đầu tư và chương trình nước ngoài tại Việt Nam để lảng tránh các quy định của cơ quan chức năng, giảng dạy thiên lệch về yếu tố ngoại lai hoặc cố tình diễn giải sai lệch các môn khoa học xã hội, lý luận Mác - Lênin.
+* Chủ trương mở cửa, hợp tác giáo dục của Việt Nam luôn hoan nghênh các nhà đầu tư nước ngoài, nhưng mọi cơ sở giáo dục phải tuân thủ nghiêm ngặt quy định pháp luật và chương trình giáo dục quốc gia.
+* Việc cố tình xuyên tạc các vấn đề tư tưởng cốt lõi và lợi dụng học bổng du học là những chiến thuật của "diễn biến hòa bình" nhằm nuôi dưỡng một thế hệ có quan điểm đối lập để phá hoại chế độ.
+
 # 26. Về Tự do ngôn luận và Không gian mạng
 
 **Luận điệu:** Lợi dụng các nền tảng mạng xã hội (TikTok, Facebook, video ngắn) để đăng tải các tiêu đề giật tít, câu view (clickbait) sai lệch bản chất, cố tình cắt xén ngữ cảnh để kích động người xem bình luận hằn học, chống phá.
@@ -2102,6 +2120,8 @@
 **Luận điệu:** Cho rằng việc loại bỏ từ "Ngụy", thay thế bằng các cụm từ trung tính như "Chính quyền Sài Gòn" hay "Việt Nam Cộng hòa" trong sách giáo khoa là để "nhìn nhận khách quan", phục vụ "hòa hợp dân tộc" và đấu tranh pháp lý quốc tế.
 * Có những người đang cố tình xóa bỏ từ "Ngụy" để lập lờ bản chất của chế độ tay sai, vô tình "rửa mặt" và xác lập tính chính danh giả tạo cho những kẻ bán nước. Lịch sử cần rạch ròi lằn ranh chính nghĩa, không thể nhân danh "khách quan" để xóa nhòa tội ác của những kẻ đã chà đạp lên xương máu của hàng triệu anh hùng liệt sĩ.
 * Việc lập lờ thuật ngữ này tiếp tay cho làn sóng xét lại lịch sử, khiến giới trẻ rỗng tuếch về tư duy biện luận và dễ dàng nghi ngờ sự hy sinh của cha ông.
+* Luận điệu cho rằng chế độ Sài Gòn là "chính quyền do dân bầu" thực chất là thủ đoạn bóp méo sự thật nhằm biện hộ và tẩy trắng cho bản chất xâm lược của đế quốc Mỹ.
+* Việc đánh tráo khái niệm này đi ngược lại hoàn toàn tư tưởng Hồ Chí Minh, khi Người đã nghiêm khắc lên án các nhân vật lịch sử phục vụ ngoại bang là những kẻ "cõng rắn cắn gà nhà", "rước voi về giày mả tổ".
 
 **Luận điệu:** Chế nhạo, sỉ nhục các chiếu chỉ, hịch xuất quân thiêng liêng của các anh hùng dân tộc (như lời kêu gọi xuất quân của Hoàng đế Quang Trung) dưới vỏ bọc "góc nhìn hiện đại" hoặc sự hài hước cay độc.
 * Lời kêu gọi xuất quân của Hoàng đế Quang Trung là một bản hùng ca lịch sử thiêng liêng, thức tỉnh lòng tự tôn dân tộc và ý chí bảo vệ độc lập trước ngoại bang. Việc lôi ra chế nhạo là sự xúc phạm nghiêm trọng đến anh linh và máu xương của cha ông.
