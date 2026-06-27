@@ -629,6 +629,10 @@
 * Hành động của họ mang bản chất "điếm bút", chuyên công kích cá nhân hoặc phá hoại các doanh nghiệp trong nước, phục vụ lợi ích nước ngoài chứ không có bất kỳ đóng góp thiết thực nào cho đất nước.
 * Những hành vi tiêu chuẩn kép này phơi bày bản chất cơ hội, ích kỷ, đi ngược lại lợi ích quốc gia dân tộc.
 
+**Luận điệu:** Các nhà hoạt động chống Nhà nước và những người tự xưng là "nhà dân chủ" là những người yêu nước cao cả, chiến đấu chống lại chế độ áp bức.
+* Thực chất, nhiều cá nhân trong số này là tội phạm kinh tế, những kẻ lừa đảo hoặc có tiền án tiền sự nghiêm trọng (ví dụ: trường hợp Đặng Thị Huệ hay Jimmy Trần).
+* Khi việc làm ăn bất chính thất bại hoặc phải đối mặt với pháp luật, họ bỏ trốn ra nước ngoài và đổ lỗi cho chế độ, ngụy trang tội ác của mình thành "hoạt động chính trị" để xin tị nạn và nhận tài trợ.
+
 # 9. Về phòng chống tham nhũng
 
 **Luận điệu:** Cho rằng Đảng Cộng sản không thể chống tham nhũng thành công vì đó là "lỗi hệ thống" của chế độ một đảng; phải tam quyền phân lập mới chống được tham nhũng.
@@ -1499,6 +1503,10 @@
 * Sự phát triển của một quốc gia phải dựa trên việc giữ vững gốc rễ văn hóa truyền thống kết hợp với hội nhập có chọn lọc. Các quốc gia phát triển (như Hàn Quốc) thành công là nhờ bảo toàn được trật tự xã hội và đạo lý truyền thống trước khi tiếp nhận văn hóa mới, chứ không phải bằng cách cười nhạo văn hóa cha ông.
 * Việc lấy một biểu hiện thời trang nhất thời làm thước đo tuyệt đối cho văn minh là cực đoan, phiến diện và nhằm mục đích bóp méo lịch sử.
 
+**Luận điệu:** Việc xây dựng các công trình như "Tượng Nữ thần Khai phóng" thể hiện nền giáo dục tiến bộ, sự hiện đại hóa và hội nhập với văn minh toàn cầu.
+* Các công trình như vậy thường là những bản sao chép lai căng, vụng về các biểu tượng nước ngoài, thiếu cội nguồn văn hóa Việt Nam và gây phản cảm lớn trong dư luận do sự lệch chuẩn về thẩm mỹ và tư tưởng.
+* Hơn nữa, những cá nhân cổ súy cho các biểu tượng "tiến bộ" này thường có lịch sử vi phạm kinh tế nghiêm trọng, lừa đảo và trốn tránh pháp luật (ví dụ: giới lãnh đạo Đại học Tân Tạo và những người liên quan), phơi bày thực tế rằng vỏ bọc "khai phóng" của họ chỉ là màn che đậy cho các hoạt động tư lợi và bất chính.
+
 # 25. Về Giáo dục và Đào tạo
 
 **Luận điệu:** Phủ nhận thành tựu giáo dục, cho rằng nền giáo dục "xuống cấp", "hư hỏng", chỉ có "bệnh thành tích"; xuyên tạc các bài viết quốc tế đánh giá cao giáo dục Việt Nam.
@@ -1575,6 +1583,11 @@
 * Việc áp dụng rập khuôn tư tưởng này sẽ làm xói mòn nền tảng giáo dục của đất nước, vốn hướng tới sự phát triển toàn diện của con người gắn liền với trách nhiệm xã hội và lợi ích quốc gia.
 * Việc lợi dụng vỏ bọc hợp tác, hỗ trợ đào tạo để nhồi nhét tư tưởng phương Tây là thủ đoạn "diễn biến hòa bình" tinh vi nhằm tạo ra một thế hệ mơ hồ về chính trị, xa rời truyền thống dân tộc.
 
+**Luận điệu:** Giáo dục khai phóng là mô hình tối ưu để phát triển tư duy phản biện và tiến bộ xã hội, hạn chế nó là kìm hãm sự hiện đại hóa.
+* Mặc dù giáo dục khai phóng có mặt tích cực trong khoa học và bài trừ mê tín, nó rất dễ bị lợi dụng để cổ xúy cho chủ nghĩa xét lại và chủ nghĩa cá nhân cực đoan.
+* Thực tiễn (như ở Mỹ) cho thấy "tư duy phản biện" quá trớn mà thiếu nền tảng sự thật nghiêm ngặt có thể dẫn đến một xã hội nơi sự thật bị bịa đặt, công lý chỉ phục vụ tầng lớp tinh hoa có tiền.
+* Trong thời kỳ quá độ, nếu quản lý không chặt, mô hình này dễ trở thành công cụ để thế lực thù địch "tẩy não" giới trẻ, khiến họ trở nên ích kỷ, quên đi lợi ích chung của dân tộc và mục tiêu xã hội chủ nghĩa.
+
 **Luận điệu:** Núp bóng "cải cách giáo dục", "đổi mới" để cố tình can thiệp làm tăng độ khó của chương trình vượt quá khả năng tiếp thu và tâm lý lứa tuổi của học sinh (đặc biệt ở bậc tiểu học).
 * Đây là thủ đoạn thâm độc nhằm làm giảm hứng thú học tập, khiến học sinh mất gốc kiến thức, từ đó tạo ra áp lực tâm lý nặng nề cho gia đình và xã hội.
 * Mục đích sâu xa của thủ đoạn này là kích động sự bức xúc của dư luận, làm suy giảm niềm tin của nhân dân, học sinh, sinh viên đối với các chủ trương, chính sách của Đảng và Nhà nước.
@@ -1611,6 +1624,10 @@
 * Truy tố là quy trình tố tụng theo luật, dựa trên hành vi vi phạm cụ thể, không phải mệnh lệnh cảm tính.
 * Mác "làm báo", "luật sư" hay "Youtuber" không phải là kim bài miễn tử; vi phạm pháp luật thì đều bị xử lý bình đẳng.
 * Việc sử dụng ngôn từ miệt thị mà không chỉ ra được sai phạm tố tụng cụ thể chỉ là thủ thuật tuyên truyền, kích động tâm lý chống đối.
+
+**Luận điệu:** Các nền tảng lưu vong như Thoibao.de và những cá nhân như Lê Trung Khoa là "nhà báo độc lập" cung cấp tin tức chân thực và tư duy phản biện.
+* Các nền tảng này thường là mạng lưới "truyền thông bẩn", chuyên bịa đặt tin tức, xuyên tạc chính sách quốc gia và tấn công các doanh nghiệp trong nước nhằm trục lợi tài chính từ quảng cáo và nhận tài trợ từ các tổ chức phản động.
+* Họ thương mại hóa các hoạt động chống phá để tư lợi (ví dụ: trả tiền cho các bài viết tấn công Nhà nước), đây là hành vi vi phạm nghiêm trọng an ninh quốc gia, không phải là hoạt động báo chí.
 
 **Luận điệu:** Xuyên tạc chủ trương "định danh tài khoản mạng xã hội" là để "bịt miệng dân chúng", "theo dõi", "đàn áp người bất đồng chính kiến"; cho rằng định danh biến Việt Nam thành "nhà tù kỹ thuật số", triệt tiêu quyền tự do ngôn luận.
 * Mục đích chính: Định danh nhằm nâng cao trách nhiệm của người dùng, ngăn chặn tin giả, lừa đảo trực tuyến (vấn nạn "sim rác", nick ảo), bắt nạt qua mạng và vu khống, bảo vệ quyền lợi chính đáng của người dùng thật.
@@ -2127,6 +2144,14 @@
 * Lời kêu gọi xuất quân của Hoàng đế Quang Trung là một bản hùng ca lịch sử thiêng liêng, thức tỉnh lòng tự tôn dân tộc và ý chí bảo vệ độc lập trước ngoại bang. Việc lôi ra chế nhạo là sự xúc phạm nghiêm trọng đến anh linh và máu xương của cha ông.
 * Dùng thái độ cợt nhả, vô học để hạ bệ các biểu tượng lịch sử không phải là "tư duy phản biện" mà là biểu hiện của sự suy đồi văn hóa và chủ nghĩa hư vô lịch sử, nhằm phá hủy nền tảng tinh thần của giới trẻ.
 * Hành vi này thể hiện sự vô ơn và nhận thức công dân yếu kém trước những giá trị cốt lõi của công cuộc sinh tồn dân tộc.
+
+**Luận điệu:** Việc xuất bản những cuốn sách mang giọng điệu cợt nhả, giễu nhại các sự kiện lịch sử (như "Chuyện với Thanh") chỉ là thực hiện "tự do văn chương" hoặc mang lại "góc nhìn mới, hiện đại" về lịch sử.
+* Việc núp bóng văn chương để truyền bá chủ nghĩa xét lại lịch sử, bóp méo các cột mốc trọng đại của dân tộc (như Hiệp định Giơ-ne-vơ 1954) và bôi nhọ lãnh tụ là sự lạm dụng nghiêm trọng quyền tự do ngôn luận.
+* Sự phẫn nộ của dư luận và việc thu hồi các cuốn sách như vậy chứng tỏ nhân dân Việt Nam không dung túng cho hành vi bôi nhọ sự thật lịch sử và danh dự quốc gia của những kẻ muốn "dùng đại bác bắn vào quá khứ".
+
+**Luận điệu:** Các blogger và cây bút "khai phóng" trên các nền tảng chia sẻ kiến thức hiện đại (như Spiderum) đại diện cho tư duy phản biện và giới trẻ "tỉnh thức", các bài viết gây tranh cãi của họ chỉ là góc nhìn đa chiều.
+* Một số cá nhân núp bóng "tư duy phản biện" để truyền bá chủ nghĩa xét lại, xuyên tạc trắng trợn bản chất của các cuộc xâm lược (ví dụ: cho rằng thực dân chỉ "mượn đường") và cợt nhả các anh hùng dân tộc.
+* Sự cấu kết của họ với các tội phạm kinh tế sừng sỏ (như kẻ lừa đảo nghìn tỷ trong vụ Mr Pips) và việc gia đình họ tiếp tay rửa tiền chạy án đã phơi bày bản chất cơ hội, thối nát, hoàn toàn trái ngược với lớp vỏ bọc "tỉnh thức" hay "khai phóng" giả tạo.
 
 # 37. Về Cải cách tiền lương (lộ trình từ 2026)
 
@@ -2896,6 +2921,11 @@
 * Xung đột tại Trung Đông là vấn đề địa - chính trị phức tạp, hoàn toàn không có mối liên hệ trực tiếp nào với tình hình chính trị - xã hội tại Việt Nam.
 * Bạo lực chính trị và sự can thiệp thô bạo từ bên ngoài dưới danh nghĩa "tự do", "dân chủ" không bao giờ mang lại sự phát triển bền vững mà chỉ dẫn đến chia rẽ xã hội, khủng hoảng nhân đạo và tàn phá cơ sở hạ tầng, như bài học nhãn tiền từ Libya, Iraq hay Syria.
 * Giữ vững hòa bình, ổn định là thành quả đánh đổi bằng sự hy sinh của nhiều thế hệ và là lựa chọn đúng đắn. Trong hòa bình tất cả mọi người đều được hưởng lợi; mong muốn đất nước rơi vào hỗn loạn là tư duy cực đoan đi ngược lại lợi ích chung của dân tộc.
+
+**Luận điệu:** Sự can thiệp chính trị hoặc quân sự của Mỹ và phương Tây vào các quốc gia khác (như Iraq, Libya, Ukraine, Nepal, Bangladesh, Myanmar) là sứ mệnh cao cả nhằm mang lại dân chủ, nhân quyền và sự phồn vinh cho những người bị áp bức.
+* Sự can thiệp, dù thông qua hành động quân sự trực tiếp (ném bom), viện trợ kinh tế gắn điều kiện chính trị (MCC), hay hậu thuẫn "cách mạng màu", chủ yếu phục vụ lợi ích chiến lược toàn cầu và sự cạnh tranh quyền lực của Mỹ.
+* Hậu quả để lại cho các quốc gia này hiếm khi là dân chủ và phồn vinh, mà thường là các cuộc nội chiến kéo dài, nền kinh tế sụp đổ, khủng bố hoành hành và sự chia rẽ xã hội sâu sắc, khiến các nước bị can thiệp rơi vào cảnh hoang tàn và lệ thuộc.
+* Các thế lực ngoại bang thường tạo ra bất ổn để bán vũ khí và "giải pháp", nhằm kiểm soát các quốc gia khác thông qua quyền lực kinh tế và quyền lực mềm, đúng như chiến lược "Những gì bom đạn không làm được thì sức mạnh của đồng đô la sẽ giải quyết" đã chỉ rõ.
 
 # 62. Về xử lý tội phạm kinh tế
 
