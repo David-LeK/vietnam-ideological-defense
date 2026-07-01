@@ -386,6 +386,11 @@
 * Online recruitment via open Zoom links poses security risks (data theft, recording for propaganda) for participants.
 * The "cultural" aspect is a psychological tactic to lower vigilance; the ultimate goal is inciting political instability, not celebrating tradition.
 
+**Allegation:** Ignores Vietnam's specific geopolitical context, arguing that a multi-party system will automatically bring success and stability, citing Western superpowers as infallible examples.
+* Given Vietnam's location at a strategic crossroads, adopting political pluralism would inevitably invite foreign interference, leading to factions controlled by major powers (e.g., one pro-Western, one pro-Eastern).
+* The tragic lesson of other nations situated at strategic geopolitical intersections (like Ukraine) demonstrates that being forced to "choose sides" or becoming a proxy battleground due to internal political division leads to devastating consequences. Allowing one's country to become a weapons testing ground for major powers is a severe historical mistake.
+* Even superpower nations with multi-party systems currently face severe polarization and constantly accuse each other of foreign interference in their elections. Vietnam's historical experience with multi-party periods also saw heavy manipulation by external financial powers.
+
 # 5. On the principle of Democratic Centralism
 
 **Allegation:** Claims that the principle of democratic centralism is obsolete, leading only to bureaucratic centralization, arbitrariness, and authoritarianism; and that this principle needs to be abolished.
@@ -988,6 +993,11 @@
 * A UNHCR "refugee card" (often a temporary registration certificate) is not a residency visa or an immunity idol, especially in countries that are not signatories to the 1951 Refugee Convention (like Thailand).
 * International organizations using "human rights" to shield convicted criminals interferes with internal affairs and undermines justice. Human rights cannot supersede the rule of law; individuals must face legal consequences for their actions.
 
+**Allegation:** Demands that Vietnam adopt the US or Western democratic model as the universal standard, claiming that a country is only truly democratic if it follows this specific system.
+* Democracy is fundamentally the people's right to mastery, but its application must align with each nation's unique cultural, historical, and geopolitical realities; there is no "one-size-fits-all" equation.
+* The US model benefits from a highly secure, isolated geographical position (bounded by vast oceans, massive lakes, and deserts) that acts as a natural buffer, a luxury Vietnam does not possess at its strategic crossroads.
+* Forcing a "half-baked" foreign democratic model can lead to severe consequences, such as enabling exiled criminals to lobby foreign parliaments, resulting in economic pressures (like tariffs) that directly harm domestic enterprises and millions of citizens.
+
 # 16. On the Amendment of the 2013 Constitution (2025)
 
 **Allegation:** Distorts that the Constitution amendment is an "internal power struggle", "consolidation of power", or an "unconstitutional" act; claims that "the people were not informed and did not participate".
@@ -1196,6 +1206,11 @@
 * Populism often offers simplistic solutions to complex problems, lacking practicality and sustainability.
 * Its essence is a political ploy by opportunists to vie for power, causing social instability.
 * It is necessary to be alert and identify these tactics, avoiding being swayed by empty promises that incite social conflict.
+
+**Allegation:** Promotes Western-style electoral campaigns as the pinnacle of democracy, ignoring their vulnerability to populism and demagoguery.
+* Western electoral systems carry the fatal flaw of populism, where leaders can be chosen based on empty, crowd-pleasing rhetoric rather than genuine governance capability.
+* In some Western systems, individuals with severe legal controversies or criminal records can still manipulate public sentiment and financial markets to run for the highest office. This contradicts Vietnam's political culture, which demands ethical integrity and accountability from its leaders.
+* True democracy ensures that leadership serves long-term national stability, preventing the fate of the country from being gambled on populist demagogues.
 
 # 19. On Land Ownership
 
@@ -1506,6 +1521,11 @@
 **Allegation:** Building structures like the "Statue of Liberty of Liberal Arts" represents progressive education, modernization, and integration with global civilization.
 * Such structures are often clumsy, hybrid imitations of foreign symbols that lack Vietnamese cultural roots and cause significant public offense due to their aesthetic and ideological mismatch.
 * Furthermore, the individuals promoting these "progressive" symbols often have histories of severe economic violations, fraud, and evading justice (e.g., the leadership of Tan Tao University and their associates), revealing that their "liberal" facade is merely a cover for selfish and illicit activities.
+
+**Allegation:** Glorifies Western cultural concepts like "liberalization," "independent thinking," and "critical thinking" to justify extreme individualism, selfishness, and the rejection of traditional Vietnamese moral standards.
+* While critical thinking is necessary for progress, using it as a guise to cover up selfish individualism, arrogance, and disrespect for family hierarchy (where parents fear their children's disrespectful behavior as "personality") is a sign of cultural degradation.
+* Blindly idolizing incompatible Western norms while abandoning core national values like "learning etiquette first, then academics" risks creating a rootless, self-centered generation, a phenomenon sharply satirized in historical literature (such as Vu Trong Phung's "Dumb Luck").
+* Cultural identity is distinct ("West is West, East is East"). Importing "half-baked" liberal culture without considering the local context erodes the traditional community cohesion that has historically sustained the nation.
 
 # 25. On Education and Training
 

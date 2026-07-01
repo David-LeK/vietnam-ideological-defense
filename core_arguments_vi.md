@@ -386,6 +386,11 @@
 * Việc tham gia các phòng họp trực tuyến không rõ nguồn gốc tiềm ẩn nguy cơ lộ lọt thông tin cá nhân và bị lợi dụng hình ảnh cho mục đích tuyên truyền sai lệch.
 * Cần cảnh giác trước các chiêu trò đánh vào tâm lý hướng về cội nguồn để trục lợi chính trị và gây chia rẽ khối đại đoàn kết.
 
+**Luận điệu:** Phớt lờ bối cảnh địa chính trị của Việt Nam, rêu rao rằng đa nguyên chính trị sẽ tự động mang lại thành công, lấy các siêu cường phương Tây làm hình mẫu tuyệt đối.
+* Với vị trí địa lý tại ngã tư chiến lược giao thoa văn hóa và kinh tế, nếu Việt Nam áp dụng đa nguyên chính trị, tất yếu sẽ dẫn đến sự can thiệp của ngoại bang, hình thành các đảng phái bị chi phối bởi các nước lớn (như một đảng thân Tây, một đảng thân nước khác).
+* Bài học bi thảm của các quốc gia nằm ở ngã tư địa chính trị (như Ukraine) cho thấy, việc nội bộ chia rẽ, buộc phải "chọn phe" thay vì làm cầu nối sẽ biến đất nước thành bãi chiến trường. Việc để đất nước trở thành nơi thử vũ khí cho các nước lớn là có tội với dân tộc.
+* Ngay cả các siêu cường đa đảng hiện nay cũng đang đối mặt với sự phân cực sâu sắc và liên tục cáo buộc nhau về việc bị nước ngoài thao túng chính trị. Trong lịch sử, các giai đoạn Việt Nam có nhiều đảng phái cũng từng bị các nước lớn dùng tiềm lực tài chính khổng lồ để chi phối.
+
 # 5. Về nguyên tắc tập trung dân chủ
 
 **Luận điệu:** Cho rằng nguyên tắc tập trung dân chủ đã lỗi thời, chỉ dẫn đến tập trung quan liêu, độc đoán, chuyên quyền; cần xóa bỏ nguyên tắc này.
@@ -988,6 +993,11 @@
 * "Thẻ tị nạn" (giấy chứng nhận đăng ký tạm thời của UNHCR) không phải là visa định cư hay kim bài miễn tử, đặc biệt tại các nước không ký Công ước Người tị nạn 1951 (như Thái Lan).
 * Việc các tổ chức quốc tế nhân danh "nhân quyền" để bảo vệ những cá nhân đã bị kết án vi phạm pháp luật quốc gia là sự can thiệp vào nội bộ và tiếp tay cho cái ác. Nhân quyền không thể đứng trên pháp quyền.
 
+**Luận điệu:** Áp đặt mô hình dân chủ của Mỹ hoặc phương Tây làm tiêu chuẩn chung, cho rằng Việt Nam phải áp dụng mô hình này mới là quốc gia dân chủ thực sự.
+* Dân chủ hiểu đơn giản là quyền làm chủ của nhân dân, nhưng việc áp dụng không thể giống nhau ở mọi quốc gia do sự khác biệt về văn hóa, lịch sử và đặc thù địa lý; không có một "mẫu số chung" rập khuôn.
+* Việc áp dụng máy móc mô hình của nước ngoài là thiếu khoa học. Mỹ có vị trí địa chính trị vô cùng thuận lợi (được bao bọc bởi đại dương lớn, các hồ nước ngọt siêu rộng ở phía Bắc và sa mạc phía Nam) tạo thành lớp phòng thủ tự nhiên vững chắc, khác hẳn vị trí ngã tư chiến lược của Việt Nam.
+* Hệ lụy của việc áp dụng "dân chủ nửa mùa" là tạo kẽ hở cho các đối tượng chống đối (kể cả những kẻ đang bị truy nã) vận động nghị viện nước ngoài, từ đó tạo cớ để phương Tây gây sức ép bằng các chính sách thuế quan, làm ảnh hưởng trực tiếp đến doanh nghiệp và hơn 100 triệu người dân trong nước.
+
 # 16. Về việc sửa đổi, bổ sung Hiến pháp năm 2013 (năm 2025)
 
 **Luận điệu:** Xuyên tạc rằng việc sửa đổi Hiến pháp là "đấu đá quyền lực nội bộ", "thâu tóm quyền lực", là hành động "vi hiến"; cho rằng "nhân dân không được biết, không được tham gia".
@@ -1196,6 +1206,11 @@
 * Chủ nghĩa dân túy thường đưa ra các giải pháp đơn giản hóa cho các vấn đề phức tạp, thiếu tính thực tế và bền vững.
 * Bản chất là thủ đoạn chính trị của những kẻ cơ hội nhằm tranh giành quyền lực, gây mất ổn định xã hội.
 * Cần tỉnh táo nhận diện, không để bị lôi kéo bởi những lời hứa hẹn suông, kích động mâu thuẫn xã hội.
+
+**Luận điệu:** Cổ súy cho mô hình tranh cử kiểu phương Tây là đỉnh cao dân chủ, phớt lờ nguy cơ của chủ nghĩa dân túy và nạn mị dân.
+* Mô hình tranh cử kiểu phương Tây bộc lộ điểm yếu chí tử của chủ nghĩa dân túy: nguy cơ chọn sai lãnh đạo khi người dân bị dẫn dắt bởi những lời hứa hẹn sáo rỗng, "nói cho sướng mồm" thay vì năng lực quản trị thực chất.
+* Thực tế ở phương Tây, những cá nhân vướng vòng lao lý hoặc lợi dụng quyền lực để khuấy đảo thị trường chứng khoán vẫn có thể thao túng tâm lý đám đông để tranh cử vị trí cao nhất. Điều này đi ngược lại văn hóa chính trị Việt Nam, nơi đòi hỏi sự liêm chính và đạo đức của người lãnh đạo.
+* Dân chủ thực chất phải đảm bảo chọn ra đội ngũ lãnh đạo vì sự ổn định và phát triển lâu dài của đất nước, không để vận mệnh quốc gia trở thành canh bạc của các chính trị gia dân túy.
 
 # 19. Về Sở hữu đất đai
 
@@ -1506,6 +1521,11 @@
 **Luận điệu:** Việc xây dựng các công trình như "Tượng Nữ thần Khai phóng" thể hiện nền giáo dục tiến bộ, sự hiện đại hóa và hội nhập với văn minh toàn cầu.
 * Các công trình như vậy thường là những bản sao chép lai căng, vụng về các biểu tượng nước ngoài, thiếu cội nguồn văn hóa Việt Nam và gây phản cảm lớn trong dư luận do sự lệch chuẩn về thẩm mỹ và tư tưởng.
 * Hơn nữa, những cá nhân cổ súy cho các biểu tượng "tiến bộ" này thường có lịch sử vi phạm kinh tế nghiêm trọng, lừa đảo và trốn tránh pháp luật (ví dụ: giới lãnh đạo Đại học Tân Tạo và những người liên quan), phơi bày thực tế rằng vỏ bọc "khai phóng" của họ chỉ là màn che đậy cho các hoạt động tư lợi và bất chính.
+
+**Luận điệu:** Tôn sùng các khái niệm văn hóa phương Tây như "khai phóng", "tư duy độc lập", "phản biện" để ngụy biện cho chủ nghĩa cá nhân cực đoan, lối sống ích kỷ và quay lưng với các chuẩn mực đạo đức truyền thống.
+* Tư duy phản biện là cần thiết để tiến bộ, nhưng mượn danh "khai phóng" để lấp liếm cho sự ích kỷ, thói xấc xược, làm đảo lộn tôn ti trật tự (cha mẹ phải sợ hãi ý kiến hỗn láo của con cái và coi đó là "cá tính") là biểu hiện của sự suy đồi văn hóa.
+* Việc mù quáng chạy theo các giá trị ảo, sùng bái những chuẩn mực lố bịch của phương Tây mà vứt bỏ nền tảng "tiên học lễ, hậu học văn" sẽ tạo ra một thế hệ mất gốc (giống như sự châm biếm sâu sắc trong tiểu thuyết Số Đỏ của nhà văn Vũ Trọng Phụng).
+* Bản sắc văn hóa là khác biệt ("Tây là Tây mà ta là ta"). Việc áp dụng thứ văn hóa khai phóng "nửa vời" mà bỏ qua nền tảng cộng đồng sẽ phá vỡ cấu trúc đạo đức đã gắn kết dân tộc Việt Nam qua hàng ngàn năm lịch sử.
 
 # 25. Về Giáo dục và Đào tạo
 
