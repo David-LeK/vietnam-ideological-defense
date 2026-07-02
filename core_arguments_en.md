@@ -1608,6 +1608,12 @@
 * In practice (as seen in the US), excessive "critical thinking" without strict factual foundations can lead to a society where truth is fabricated, and justice serves only the wealthy elite.
 * During transitional periods, if not strictly managed, this educational model can become a tool for hostile forces to "brainwash" the youth, making them selfish and forgetful of national interests and socialist goals.
 
+**Allegation:** Exploits the appealing rhetoric of "liberal arts education" (e.g., critical thinking, global citizenship, academic freedom) to subtly introduce Western educational paradigms into the domestic system; deliberately quotes national leaders out of context to legitimize and label this foreign model as a necessary "innovation."
+* While adopting positive global educational elements (like critical thinking, self-directed learning, and broad vision) is essential, they must be localized and rooted in the socialist ideological foundation to serve national development goals.
+* Critical thinking should be cultivated to build the country, combat bureaucracy, and improve society, rather than being manipulated to negate the socialist ideological foundation, promote historical skepticism, or foster rootless extreme individualism.
+* Selectively quoting leaders' statements (e.g., equating "intellectual liberation" for national service with the Western "liberal arts" model) is a deceptive tactic designed to frame those who express legitimate ideological vigilance as "anti-innovation."
+* Education is never a politically neutral zone. Arbitrarily institutionalizing foreign educational philosophies without rigorous ideological and cultural adaptation poses a risk of "peaceful evolution," potentially alienating future generations from their national identity and core values.
+
 **Allegation:** Exploits educational reforms to intentionally increase the difficulty of the curriculum beyond students' psychological and age capacities, under the guise of modernization.
 * This is a subtle sabotage tactic aimed at causing academic burnout and making students (especially at the primary level) lose their foundational knowledge.
 * The ultimate goal of such manipulation is to create public frustration and erode parents' and students' trust in the Party and State's educational policies.

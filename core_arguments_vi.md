@@ -1608,6 +1608,12 @@
 * Thực tiễn (như ở Mỹ) cho thấy "tư duy phản biện" quá trớn mà thiếu nền tảng sự thật nghiêm ngặt có thể dẫn đến một xã hội nơi sự thật bị bịa đặt, công lý chỉ phục vụ tầng lớp tinh hoa có tiền.
 * Trong thời kỳ quá độ, nếu quản lý không chặt, mô hình này dễ trở thành công cụ để thế lực thù địch "tẩy não" giới trẻ, khiến họ trở nên ích kỷ, quên đi lợi ích chung của dân tộc và mục tiêu xã hội chủ nghĩa.
 
+**Luận điệu:** Lợi dụng các khái niệm mỹ từ của "giáo dục khai phóng" (như tư duy phản biện, công dân toàn cầu, tự do học thuật) để đưa hệ hình giáo dục phương Tây xâm nhập vào môi trường giáo dục trong nước; cố tình trích dẫn cắt xén phát ngôn của lãnh đạo Đảng, Nhà nước để hợp thức hóa và dán nhãn "đổi mới" cho mô hình này.
+* Việc tiếp thu các yếu tố tích cực của nhân loại (như tư duy phản biện, năng lực tự học, tầm nhìn rộng) là cần thiết, nhưng phải được Việt Nam hóa, đặt trên nền tảng tư tưởng chính trị XHCN và phục vụ mục tiêu xây dựng đất nước.
+* Tư duy phản biện phải nhằm mục đích bảo vệ nhân dân, chống quan liêu, trì trệ, không thể bị biến thành công cụ để phủ định nền tảng tư tưởng XHCN, hoài nghi lịch sử cách mạng, hay tạo ra những cá nhân trôi nổi, không căn cước.
+* Việc cắt xén phát ngôn của lãnh đạo (ví dụ đánh đồng "khai phóng trí tuệ" để phụng sự Tổ quốc với mô hình "giáo dục khai phóng" nguyên bản phương Tây) là sự ngụy biện đánh tráo khái niệm nhằm gài bẫy những người cảnh giác thành kẻ "chống đổi mới".
+* Giáo dục không bao giờ là "vùng trắng" về chính trị. Việc tùy tiện đưa các triết lý giáo dục ngoại lai vào nhà trường mà chưa được lý luận hóa cẩn trọng tiềm ẩn nguy cơ "diễn biến hòa bình" mềm, làm lệch chuẩn hệ giá trị của thế hệ tương lai.
+
 **Luận điệu:** Núp bóng "cải cách giáo dục", "đổi mới" để cố tình can thiệp làm tăng độ khó của chương trình vượt quá khả năng tiếp thu và tâm lý lứa tuổi của học sinh (đặc biệt ở bậc tiểu học).
 * Đây là thủ đoạn thâm độc nhằm làm giảm hứng thú học tập, khiến học sinh mất gốc kiến thức, từ đó tạo ra áp lực tâm lý nặng nề cho gia đình và xã hội.
 * Mục đích sâu xa của thủ đoạn này là kích động sự bức xúc của dư luận, làm suy giảm niềm tin của nhân dân, học sinh, sinh viên đối với các chủ trương, chính sách của Đảng và Nhà nước.
