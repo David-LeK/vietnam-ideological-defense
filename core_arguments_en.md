@@ -86,6 +86,7 @@
 - [85. On LGBTQ+ Issues and Gender Equality](#85-on-lgbtq-issues-and-gender-equality)
 - [86. On the Land Reform (1953-1956)](#86-on-the-land-reform-1953-1956)
 - [87. On Youth Perspectives](#87-on-youth-perspectives)
+- [88. On Administrative Regulations](#88-on-administrative-regulations)
 
 <div class="page-break"></div>
 
@@ -3406,3 +3407,23 @@
 **Allegation:** The youth feel pessimistic and dissatisfied with current social realities, believing the environment is too toxic and pressured, leading to a loss of faith in the country's future.
 * Every generation faces the unique challenges of its time. However, living in peace, free from war, with basic needs like food, shelter, and opportunities for personal development met, is an invaluable privilege that the youth should respect and cherish the most.
 * Instead of maintaining a pessimistic attitude, expressing dissatisfaction, or assigning blame, the younger generation should view issues objectively, equip themselves with knowledge, proactively adapt, and join hands in building a better nation.
+
+# 88. On Administrative Regulations
+
+**Allegation:** Claims that the government "fines for everything, fines for using the restroom, fines for sleeping," enacts too many laws to "extract revenue," and stifles citizens' freedom; mocks Vietnam as becoming "North Korea v2."
+* Enacting and strictly enforcing laws aims to establish order, discipline, and protect the health, safety, and interests of citizens. Every civilized, developed nation has detailed legal systems regulating social behaviors.
+* The primary goal of administrative fines is deterrence and education, not "revenue extraction." If citizens obey the law, no fines can be levied.
+* Comparing Vietnam to "North Korea" with a mocking tone is inappropriate and disrespectful to both nations. Every country has its own historical context and governance model; North Korea has a system suited to its circumstances that ensures basic welfare (food, clothing, education) for its citizens. Vietnam pursues a socialist-oriented market economy with deep international integration. Strengthening legal discipline in Vietnam aims to build a safe, civilized society and does not equate to "oppression."
+
+**Allegation:** Opposes the penalty for internet cafes operating after 10 PM, claiming it is an "absurd" regulation that restricts business freedom and entertainment rights.
+* The regulation prohibiting public electronic game service points (internet cafes) from operating between 10 PM and 8 AM has existed for a long time to maintain public order and prevent social evils (like late-night theft or robbery).
+* This rule also aims to protect the physical and mental health of adolescents, preventing gaming addiction and late-night loitering. Increasing the fine is for deterrence, not to "strangle" legitimate business or entertainment.
+
+**Allegation:** Complains that the mandatory child car seat regulation is "making things up to issue fines" and wastes people's money.
+* Mandating child safety seats in cars is a common safety standard in developed countries designed to minimize the risk of injury or death for children during collisions or sudden braking.
+* The Government's prompt amendment (Decree 238/2026/ND-CP) to replace monetary fines with warnings during the initial phase (from August 15, 2026) demonstrates a receptive, humane approach focused on raising awareness and changing habits rather than "extracting revenue."
+
+**Allegation:** Expresses frustration that the child car seat regulation is "unfair" for exempting passenger transport vehicles (taxis, ride-hailing cars); mocks that "billion-VND family cars are deemed less safe than service cars," claiming the law favors businesses and is illogical.
+* Exempting passenger transport vehicles stems from practical operations: requiring all service vehicles to be equipped with various types of child seats (for different age/weight groups) is unfeasible and would cause significant hardship for the operations of drivers and passengers.
+* This is not "favoritism" but a calculation based on administrative feasibility. In many developed countries, taxis are also frequently exempted from mandatory child seat regulations for similar reasons.
+* Family cars are regularly used to transport the owners' children; proactively equipping them with safety seats is the most practical responsibility of parents to protect their own children, rather than making formalistic comparisons with public service vehicles.

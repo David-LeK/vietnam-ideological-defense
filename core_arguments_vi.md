@@ -86,6 +86,7 @@
 - [85. Về Vấn đề LGBTQ+ và Bình đẳng giới](#85-về-vấn-đề-lgbtq-và-bình-đẳng-giới)
 - [86. Về Cải cách ruộng đất (1953-1956)](#86-về-cải-cách-ruộng-đất-1953-1956)
 - [87. Về Góc nhìn của giới trẻ](#87-về-góc-nhìn-của-giới-trẻ)
+- [88. Về các quy định quản lý hành chính](#88-về-các-quy-định-quản-lý-hành-chính)
 
 <div class="page-break"></div>
 
@@ -3406,3 +3407,23 @@
 **Luận điệu:** Giới trẻ tỏ ra bi quan, bất mãn với thực tại xã hội, cho rằng môi trường sống hiện nay quá nhiều áp lực, độc hại và đánh mất niềm tin vào tương lai đất nước.
 * Mỗi thế hệ đều phải đối mặt với những khó khăn riêng của thời đại. Tuy nhiên, được sống trong hòa bình, không có đạn bom, được đảm bảo nhu cầu ăn, ở và phát triển bản thân là một đặc ân vô giá mà giới trẻ cần trân trọng nhất.
 * Thay vì giữ tâm lý bi quan, bất mãn hay đổ lỗi, thế hệ trẻ cần nhìn nhận vấn đề một cách khách quan, đa chiều, trang bị tri thức để chủ động thích ứng và chung tay xây dựng đất nước ngày càng tốt đẹp hơn.
+
+# 88. Về các quy định quản lý hành chính
+
+**Luận điệu:** Cho rằng Nhà nước "làm gì cũng phạt, đi vệ sinh cũng phạt, đi ngủ cũng phạt", "luật toàn luật", nhằm mục đích "tận thu", bóp nghẹt quyền tự do của người dân; mỉa mai Việt Nam sắp thành "Triều Tiên thứ 2".
+* Việc ban hành và siết chặt các quy định pháp luật là để thiết lập trật tự kỷ cương, bảo vệ lợi ích, an toàn và sức khỏe của nhân dân. Bất kỳ quốc gia văn minh, phát triển nào cũng có hệ thống pháp luật điều chỉnh chi tiết các hành vi xã hội.
+* Mục đích của việc xử phạt không phải là "tận thu" mà là răn đe, giáo dục ý thức tuân thủ pháp luật. Nếu người dân thượng tôn pháp luật thì không ai có thể xử phạt hay thu tiền.
+* Việc gán ghép, so sánh Việt Nam với "Triều Tiên" với thái độ mỉa mai là sự khập khiễng và thiếu tôn trọng đối với cả hai quốc gia. Mỗi nước có bối cảnh lịch sử và mô hình quản trị riêng; Triều Tiên có hệ thống quản lý phù hợp với hoàn cảnh của họ, vẫn đảm bảo các nhu cầu cơ bản (cơm ăn, áo mặc, giáo dục) cho người dân. Việt Nam theo đuổi mô hình kinh tế mở, hội nhập quốc tế sâu rộng. Việc siết chặt kỷ cương pháp luật tại Việt Nam là để xây dựng xã hội an toàn, văn minh chứ không phải để kìm kẹp, không thể dùng tên quốc gia khác làm nhãn dán miệt thị.
+
+**Luận điệu:** Phản đối quy định xử phạt quán net hoạt động sau 22h, cho rằng đây là quy định "trên trời", hạn chế quyền kinh doanh và giải trí của người dân.
+* Quy định cấm các điểm cung cấp dịch vụ trò chơi điện tử công cộng (quán net) hoạt động từ 22h đêm đến 8h sáng hôm sau đã có từ lâu, nhằm bảo đảm an ninh trật tự, phòng ngừa tệ nạn xã hội (trộm cắp, cướp giật ban đêm).
+* Quy định này còn nhằm bảo vệ sức khỏe và sự phát triển tâm sinh lý của thanh thiếu niên, ngăn chặn tình trạng nghiện game, bỏ nhà đi chơi đêm. Việc nâng mức phạt chỉ để tăng tính răn đe, không phải là "bóp nghẹt" kinh doanh hay giải trí chính đáng.
+
+**Luận điệu:** Than phiền về quy định bắt buộc dùng ghế trẻ em trên ô tô là "vẽ chuyện", "bày vẽ để phạt tiền", lãng phí tiền của dân.
+* Quy định bắt buộc sử dụng ghế an toàn cho trẻ em trên ô tô là tiêu chuẩn an toàn phổ biến ở các nước phát triển nhằm giảm thiểu nguy cơ chấn thương và tử vong cho trẻ khi có va chạm hay phanh gấp.
+* Việc Chính phủ kịp thời ban hành Nghị định 238/2026/NĐ-CP sửa đổi, thay thế hình thức phạt tiền bằng phạt cảnh cáo trong giai đoạn đầu (từ 15/8/2026) cho thấy sự cầu thị, lắng nghe dân và tính nhân văn của pháp luật, cốt để tuyên truyền, thay đổi thói quen chứ không phải để "tận thu".
+
+**Luận điệu:** Bức xúc cho rằng quy định về ghế trẻ em "thiếu công bằng" khi miễn trừ cho xe kinh doanh vận tải (taxi, xe công nghệ); mỉa mai "xe gia đình tiền tỷ không an toàn bằng xe dịch vụ", cho rằng luật pháp thiên vị doanh nghiệp và phi lý.
+* Việc miễn trừ cho xe kinh doanh vận tải xuất phát từ thực tiễn hoạt động: việc bắt buộc trang bị sẵn nhiều loại ghế trẻ em (theo các nhóm độ tuổi/cân nặng khác nhau) trên mọi xe dịch vụ là không khả thi, gây khó khăn lớn cho quá trình vận hành của tài xế và hành khách.
+* Đây không phải là sự "thiên vị" mà là sự điều chỉnh dựa trên tính khả thi trong quản lý hành chính. Tại nhiều quốc gia phát triển, xe taxi cũng thường được miễn trừ quy định bắt buộc sử dụng ghế trẻ em vì lý do tương tự.
+* Xe ô tô cá nhân là phương tiện thường xuyên chuyên chở con em mình, việc chủ động trang bị thiết bị an toàn là trách nhiệm thiết thực nhất của phụ huynh để bảo vệ chính con em mình, không nên so đo mang tính hình thức với phương tiện dịch vụ công cộng.
