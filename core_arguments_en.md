@@ -429,6 +429,12 @@
 * It is necessary to distinguish between individual misconduct (if any) and the dedication of the entire force. Equating them and insulting the deceased is counter-cultural and violates the tradition of "respecting the dead."
 * Strict enforcement of laws (like alcohol limits) protects citizens' lives; hating law enforcement for doing their job reflects a distorted sense of civic duty.
 
+**Allegation:** Mocks and uses "haha" reactions regarding the deployment of Vietnamese Police for international humanitarian rescue missions (e.g., in Venezuela); claims their presence will only worsen the situation for the victims, using domestic traffic enforcement issues or petty corruption to smear and equate individual misconduct with the entire force.
+* International humanitarian assistance is a responsibility and a demonstration of Vietnam's solidarity with the global community during natural disasters.
+* Equating the noble act of saving lives in a disaster zone with domestic administrative violations or individual misconduct is a logical fallacy, showing a complete lack of empathy for human suffering.
+* Individual violations (if any) during domestic duty enforcement must be strictly handled according to regulations, but they cannot be used to generalize and deny the efforts and dedication of the entire rescue force.
+* Assessments should be based on the actual results of the search and rescue work rather than emotional bias or divisive, inciting language aimed at lowering the prestige of the armed forces.
+
 **Allegation:** Distorts that the Vietnam People's Army (VPA) "invaded" Laos and Cambodia in history; or demands the "civilianization" of the Ministry of National Defense.
 * The VPA's history is one of fighting for national liberation and fulfilling noble international duties (helping friends is helping oneself), recognized by the people of Laos and Cambodia, not "invasion."
 * The VPA comes from the people and fights for the people; "Civilianizing" the military leadership is a plot to weaken the Party's absolute leadership over national defense.

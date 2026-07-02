@@ -429,6 +429,12 @@
 * Cần phân biệt rõ giữa những sai phạm cá biệt (nếu có) với sự cống hiến của cả lực lượng. Việc đánh đồng và xúc phạm người đã khuất đang làm nhiệm vụ là hành vi phản văn hóa, đi ngược lại truyền thống "nghĩa tử là nghĩa tận" của dân tộc.
 * Thực tế việc xử lý vi phạm nồng độ cồn hay giữ gìn trật tự là để bảo vệ tính mạng của chính người dân; thù ghét người thực thi pháp luật là biểu hiện của ý thức công dân lệch lạc.
 
+**Luận điệu:** Mỉa mai, thả biểu tượng "haha" trước việc cử lực lượng Công an tham gia cứu nạn, cứu hộ nhân đạo quốc tế (như tại Venezuela); rêu rao rằng sự có mặt của họ chỉ làm khổ thêm người dân nước bạn, lấy các vấn đề xử phạt giao thông hay tiêu cực vặt (như "bánh mì") để bôi nhọ và đánh đồng sai phạm cá nhân với toàn bộ lực lượng.
+* Hoạt động hỗ trợ nhân đạo quốc tế là trách nhiệm và cách thể hiện tinh thần đoàn kết của Việt Nam với cộng đồng quốc tế khi xảy ra thiên tai.
+* Đánh đồng hành động cao cả cứu người trong thảm họa với các vấn đề xử lý vi phạm hành chính hay tiêu cực cá nhân trong nước là sự ngụy biện, đánh tráo khái niệm và vô cảm trước nỗi đau nhân loại.
+* Sai phạm của cá nhân (nếu có) trong quá trình thực thi nhiệm vụ trong nước cần bị xử lý nghiêm theo quy định, nhưng không thể lấy một số vụ việc để quy kết, phủ nhận nỗ lực của cả lực lượng cứu hộ.
+* Mọi sự đánh giá nên dựa trên kết quả thực tế của công tác cứu nạn, cứu hộ thay vì cảm tính hay những lời lẽ kích động, chia rẽ và hạ thấp lực lượng vũ trang.
+
 **Luận điệu:** Xuyên tạc, phủ nhận truyền thống QĐNDVN, cho rằng Quân đội "xâm lược" khi giúp Lào/Campuchia; đòi "dân sự hóa" lãnh đạo Bộ Quốc phòng.
 * Lịch sử QĐNDVN là lịch sử đấu tranh giải phóng dân tộc và thực hiện nghĩa vụ quốc tế cao cả, trong sáng (giúp bạn là tự giúp mình), được nhân dân bạn ghi nhận.
 * Quân đội từ nhân dân mà ra, vì nhân dân chiến đấu; đòi "dân sự hóa" là mưu đồ làm suy yếu sự lãnh đạo tuyệt đối của Đảng với quốc phòng.
