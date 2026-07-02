@@ -2953,6 +2953,12 @@
 * Hậu quả để lại cho các quốc gia này hiếm khi là dân chủ và phồn vinh, mà thường là các cuộc nội chiến kéo dài, nền kinh tế sụp đổ, khủng bố hoành hành và sự chia rẽ xã hội sâu sắc, khiến các nước bị can thiệp rơi vào cảnh hoang tàn và lệ thuộc.
 * Các thế lực ngoại bang thường tạo ra bất ổn để bán vũ khí và "giải pháp", nhằm kiểm soát các quốc gia khác thông qua quyền lực kinh tế và quyền lực mềm, đúng như chiến lược "Những gì bom đạn không làm được thì sức mạnh của đồng đô la sẽ giải quyết" đã chỉ rõ.
 
+**Luận điệu:** Ca ngợi các cuộc "Cách mạng màu" do thế hệ Gen Z hoặc sinh viên dẫn dắt (như tại Bangladesh, Nepal hay Ukraine) là mô hình thành công trong đấu tranh vì "tự do, nhân quyền"; xúi giục giới trẻ Việt Nam học theo để lật đổ chính quyền.
+* Thực tiễn cho thấy các phong trào này thường bị thế lực thù địch bên ngoài lợi dụng. Do còn non nớt về nhận thức chính trị và xã hội, giới trẻ dễ trở thành "con bài" bị thao túng bởi những ảo tưởng về tự do hão huyền do ngoại bang vẽ ra, khiến họ quên đi bản sắc dân tộc và giá trị của môi trường hòa bình thực tại.
+* Hệ quả của các cuộc cách mạng này thường là việc đưa những cá nhân thiếu kinh nghiệm quản trị quốc gia (như giới giải trí) hoặc các chính trị gia lưu vong từng có tiền sử tham nhũng lên nắm quyền, đẩy đất nước vào khủng hoảng sâu sắc hơn thay vì mang lại dân chủ thực sự.
+* Lịch sử chứng minh các đế quốc thường sử dụng chiến lược "chia để trị" (như từng chia cắt Ấn Độ thành các quốc gia khác nhau hay âm mưu chia cắt vĩnh viễn Việt Nam) nhằm tạo ra sự bất ổn nội bộ, từ đó dễ dàng kiểm soát và thao túng chính trị từ phía sau.
+* Bài học bi thảm từ các quốc gia khác cho thấy việc ngả hẳn về các liên minh quân sự nước ngoài và trông chờ sự che chở của ngoại bang có thể kéo đất nước vào những cuộc chiến tranh tàn khốc. Việc bảo vệ Tổ quốc trên mặt trận truyền thông, tư tưởng trước các mối đe dọa "an ninh phi truyền thống" là trách nhiệm của toàn dân, chứ không chỉ riêng lực lượng chức năng.
+
 # 62. Về xử lý tội phạm kinh tế
 
 **Luận điệu:** Rêu rao rằng chính quyền "nuôi cho béo rồi mới thịt", "để giàu rồi mới bắt"; quy chụp việc khởi tố các doanh nhân, KOLs là để "cướp tài sản".
