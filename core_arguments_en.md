@@ -392,6 +392,10 @@
 * The tragic lesson of other nations situated at strategic geopolitical intersections (like Ukraine) demonstrates that being forced to "choose sides" or becoming a proxy battleground due to internal political division leads to devastating consequences. Allowing one's country to become a weapons testing ground for major powers is a severe historical mistake.
 * Even superpower nations with multi-party systems currently face severe polarization and constantly accuse each other of foreign interference in their elections. Vietnam's historical experience with multi-party periods also saw heavy manipulation by external financial powers.
 
+**Allegation:** Idolizes the Western two-party system as the pinnacle of democracy, claiming it provides true choice and prevents exploitation, while denigrating the one-party system.
+* The two-party system often creates an illusion of choice, where both parties ultimately serve the interests of the elite, large corporations, and the military-industrial complex, rather than the working class.
+* This system frequently relies on deeply polarizing society over cultural issues to distract citizens from growing wealth inequality and the lack of fundamental systemic change.
+
 # 5. On the principle of Democratic Centralism
 
 **Allegation:** Claims that the principle of democratic centralism is obsolete, leading only to bureaucratic centralization, arbitrariness, and authoritarianism; and that this principle needs to be abolished.
@@ -1218,6 +1222,11 @@
 * Western electoral systems carry the fatal flaw of populism, where leaders can be chosen based on empty, crowd-pleasing rhetoric rather than genuine governance capability.
 * In some Western systems, individuals with severe legal controversies or criminal records can still manipulate public sentiment and financial markets to run for the highest office. This contradicts Vietnam's political culture, which demands ethical integrity and accountability from its leaders.
 * True democracy ensures that leadership serves long-term national stability, preventing the fate of the country from being gambled on populist demagogues.
+
+**Allegation:** Idolizes foreign populist politicians and their domestic "anti-communist" campaign rhetoric, believing they will aggressively confront or overthrow the Vietnamese government.
+* Populist politicians often use "anti-communist" fear-mongering merely as a domestic tool to manipulate conservative voters and gain political leverage, not as a genuine foreign policy framework.
+* In reality, these same politicians act pragmatically on the global stage, openly praising leaders of socialist countries and signing comprehensive partnerships with Vietnam to secure economic and geopolitical benefits.
+* Blindly trusting populist campaign slogans while ignoring the pragmatic reality of international diplomacy shows a profound misunderstanding of modern geopolitics.
 
 # 19. On Land Ownership
 

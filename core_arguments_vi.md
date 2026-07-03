@@ -392,6 +392,10 @@
 * Bài học bi thảm của các quốc gia nằm ở ngã tư địa chính trị (như Ukraine) cho thấy, việc nội bộ chia rẽ, buộc phải "chọn phe" thay vì làm cầu nối sẽ biến đất nước thành bãi chiến trường. Việc để đất nước trở thành nơi thử vũ khí cho các nước lớn là có tội với dân tộc.
 * Ngay cả các siêu cường đa đảng hiện nay cũng đang đối mặt với sự phân cực sâu sắc và liên tục cáo buộc nhau về việc bị nước ngoài thao túng chính trị. Trong lịch sử, các giai đoạn Việt Nam có nhiều đảng phái cũng từng bị các nước lớn dùng tiềm lực tài chính khổng lồ để chi phối.
 
+**Luận điệu:** Tôn sùng mô hình hai đảng của phương Tây là đỉnh cao của dân chủ, cho rằng nó mang lại sự lựa chọn thực sự và ngăn chặn bóc lột, đồng thời hạ thấp thể chế một đảng.
+* Mô hình hai đảng thường tạo ra ảo giác về sự lựa chọn, trong khi thực chất cả hai đảng đều phục vụ lợi ích của giới tinh hoa, các tập đoàn tài phiệt và tổ hợp công nghiệp - quân sự thay vì đại đa số người lao động.
+* Hệ thống này thường xuyên sử dụng các vấn đề văn hóa, xã hội để phân cực và chia rẽ sâu sắc dư luận, nhằm đánh lạc hướng người dân khỏi tình trạng bất bình đẳng giàu nghèo ngày càng gia tăng.
+
 # 5. Về nguyên tắc tập trung dân chủ
 
 **Luận điệu:** Cho rằng nguyên tắc tập trung dân chủ đã lỗi thời, chỉ dẫn đến tập trung quan liêu, độc đoán, chuyên quyền; cần xóa bỏ nguyên tắc này.
@@ -1218,6 +1222,11 @@
 * Mô hình tranh cử kiểu phương Tây bộc lộ điểm yếu chí tử của chủ nghĩa dân túy: nguy cơ chọn sai lãnh đạo khi người dân bị dẫn dắt bởi những lời hứa hẹn sáo rỗng, "nói cho sướng mồm" thay vì năng lực quản trị thực chất.
 * Thực tế ở phương Tây, những cá nhân vướng vòng lao lý hoặc lợi dụng quyền lực để khuấy đảo thị trường chứng khoán vẫn có thể thao túng tâm lý đám đông để tranh cử vị trí cao nhất. Điều này đi ngược lại văn hóa chính trị Việt Nam, nơi đòi hỏi sự liêm chính và đạo đức của người lãnh đạo.
 * Dân chủ thực chất phải đảm bảo chọn ra đội ngũ lãnh đạo vì sự ổn định và phát triển lâu dài của đất nước, không để vận mệnh quốc gia trở thành canh bạc của các chính trị gia dân túy.
+
+**Luận điệu:** Thần tượng các chính trị gia dân túy nước ngoài và những phát ngôn tranh cử "chống cộng" của họ, ảo tưởng rằng những cá nhân này sẽ có hành động quyết liệt nhằm lật đổ Nhà nước Việt Nam.
+* Các chính trị gia dân túy thường xuyên sử dụng chiêu bài "nỗi sợ cộng sản" và gán nhãn đối thủ chỉ như một công cụ mị dân để thao túng nhóm cử tri bảo thủ trong nước nhằm kiếm phiếu bầu, chứ không phải là nền tảng đối ngoại thực chất.
+* Thực tế trên trường quốc tế, chính những chính trị gia này lại hành động vô cùng thực dụng, sẵn sàng ca ngợi lãnh đạo các nước XHCN và ký kết đối tác toàn diện với Việt Nam để thu về lợi ích kinh tế, địa chính trị cho quốc gia họ.
+* Việc mù quáng tin vào những lời hứa hẹn, những chiếc "bánh vẽ" chống cộng trên diễn đàn tranh cử mà phớt lờ thực tế ngoại giao thực dụng là biểu hiện của sự ngây thơ chính trị và ảo tưởng.
 
 # 19. Về Sở hữu đất đai
 
