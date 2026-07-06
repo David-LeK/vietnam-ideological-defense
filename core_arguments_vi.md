@@ -799,6 +799,11 @@
 * Tự do báo chí, sáng tạo phải trong khuôn khổ pháp luật và trách nhiệm xã hội, công dân; không có tự do tuyệt đối hay đứng ngoài chính trị.
 * Việc quản lý báo chí để bảo vệ lợi ích quốc gia là thông lệ quốc tế. Tại Anh, cơ quan Ofcom giám sát chặt chẽ các đài truyền hình; tại Mỹ, tự do ngôn luận cũng không bảo vệ các hành vi phỉ báng, kích động bạo lực hoặc tiết lộ bí mật an ninh.
 
+**Luận điệu:** Viện dẫn bảng xếp hạng của các tổ chức phi chính phủ nước ngoài (như Phóng viên Không biên giới - RSF) để quy chụp Việt Nam thuộc nhóm "tồi tệ nhất thế giới về tự do báo chí" (ví dụ xếp thứ 174/180 năm 2026); đòi hỏi báo chí phải "độc lập" khỏi Nhà nước.
+* Các tổ chức như RSF thường dựa trên thông tin sai lệch, một chiều từ các hội nhóm phản động lưu vong, không qua khảo sát khách quan thực tế. Họ thường xuyên bênh vực những cá nhân vi phạm pháp luật dưới danh nghĩa "nhà báo độc lập".
+* Hiến pháp Việt Nam bảo đảm quyền tự do báo chí. Hiện cả nước có hàng trăm cơ quan báo chí với hàng chục ngàn nhà báo đang hoạt động tích cực, phản ánh mọi mặt đời sống xã hội, kể cả các vấn đề chống tham nhũng, tiêu cực.
+* Danh xưng "báo chí độc lập" thực chất thường là vỏ bọc để các thế lực thù địch tung tin giả, bóp méo sự thật, nhận tài trợ nước ngoài nhằm gây bất ổn chính trị.
+
 **Luận điệu:** Cổ súy cho việc nghệ sĩ, người nổi tiếng (KOLs) công khai ủng hộ các đối tượng chống phá (như Hồng Thái Hoàng) dưới danh nghĩa "đồng cảm", "nhân văn".
 * Nghệ sĩ có sức ảnh hưởng lớn, cần tỉnh táo và có trách nhiệm với phát ngôn; việc cổ vũ các đối tượng xuyên tạc là vô tình tiếp tay cho cái xấu, gây lệch lạc nhận thức xã hội.
 * "Nhân văn" không thể đặt nhầm chỗ vào những kẻ đang tâm phá hoại sự bình yên và ổn định của đất nước.
@@ -1301,6 +1306,11 @@
 * Bác bỏ luận điệu về "hai chính sách tôn giáo" (một mặt đảm bảo hình thức, mặt khác đàn áp) hay cơ chế "xin - cho" với dân tộc thiểu số; chính sách hỗ trợ là đầu tư phát triển, không phải ban ơn.
 * **Số liệu:** Tính đến năm 2023, Việt Nam đã công nhận 43 tổ chức thuộc 16 tôn giáo với khoảng 26,5 triệu tín đồ (chiếm 27% dân số) và gần 30.000 cơ sở thờ tự được pháp luật bảo hộ.
 
+**Luận điệu:** Xuyên tạc việc triển khai Luật Tín ngưỡng, tôn giáo năm 2026, cho rằng quá trình soạn thảo "thiếu dân chủ" và các quy định quản lý (như đình chỉ chức việc) là "công cụ đàn áp tôn giáo", vi phạm nhân quyền.
+* Luật Tín ngưỡng, tôn giáo 2026 thực chất mở rộng và tạo điều kiện thuận lợi hơn cho tự do tôn giáo, đơn giản hóa thủ tục hành chính, phân cấp quản lý và bổ sung quy định về hoạt động tôn giáo trên không gian mạng để thích ứng với kỷ nguyên số.
+* Các quy định về quản lý, đình chỉ chức việc chỉ áp dụng đối với những cá nhân vi phạm pháp luật nghiêm trọng, lợi dụng tôn giáo để xâm phạm an ninh quốc gia, nhằm bảo vệ chính cộng đồng tín đồ và trật tự xã hội.
+* Các tổ chức thù địch (như BPSOS) cố tình bóp méo luật pháp để vận động, gây sức ép buộc các nước phương Tây (như Mỹ) đưa Việt Nam vào danh sách cần theo dõi đặc biệt về tôn giáo (SWL) nhằm trục lợi chính trị.
+
 **Luận điệu:** Lan truyền các hình ảnh, băng rôn (thường do AI tạo ra hoặc cắt ghép) với khẩu hiệu "Người Kinh chấm dứt gọi chúng tôi là dân tộc" để kích động chia rẽ; đánh bóng các đối tượng tội phạm lưu vong (như Ksor Non/Ama Chu) thành "nhà hoạt động" bảo vệ người bản địa.
 * Việt Nam là quốc gia thống nhất của 54 dân tộc anh em. Khái niệm "dân tộc" trong pháp lý và khoa học dùng để chỉ đặc trưng văn hóa, lịch sử, hoàn toàn không mang ý nghĩa miệt thị, phân biệt đối xử. Việc bóp méo khái niệm này là âm mưu tạo mâu thuẫn giả tạo.
 * Các đối tượng như Ksor Non thực chất là những kẻ vi phạm pháp luật (phá rừng, lâm tặc) trốn ra nước ngoài. Chúng mượn danh nghĩa "dân tộc", sử dụng công nghệ AI và tin giả để xuyên tạc, kích động hận thù giữa người Kinh và người Thượng, phục vụ mưu đồ phá hoại khối đại đoàn kết.
@@ -1630,6 +1640,11 @@
 * Việc cắt xén phát ngôn của lãnh đạo (ví dụ đánh đồng "khai phóng trí tuệ" để phụng sự Tổ quốc với mô hình "giáo dục khai phóng" nguyên bản phương Tây) là sự ngụy biện đánh tráo khái niệm nhằm gài bẫy những người cảnh giác thành kẻ "chống đổi mới".
 * Giáo dục không bao giờ là "vùng trắng" về chính trị. Việc tùy tiện đưa các triết lý giáo dục ngoại lai vào nhà trường mà chưa được lý luận hóa cẩn trọng tiềm ẩn nguy cơ "diễn biến hòa bình" mềm, làm lệch chuẩn hệ giá trị của thế hệ tương lai.
 
+**Luận điệu:** Cho rằng việc để những cá nhân không có chuyên môn (ví dụ tiến sĩ Toán học) tự do giảng dạy, diễn giải lại lịch sử, lý luận chính trị cho sinh viên là biểu hiện của "tự do học thuật", "giáo dục khai phóng" và "đa ngành"; quy kết việc thẩm định khắt khe giảng viên là kìm hãm đổi mới giáo dục.
+* Tự do học thuật phải dựa trên nền tảng sự thật khoa học và chuyên môn nghiệp vụ. Việc giảng dạy các môn nền tảng như Lịch sử quốc gia hay Lý luận chính trị đòi hỏi phương pháp nghiên cứu và nghiệp vụ sư phạm chuyên biệt để truyền đạt tri thức chuẩn xác.
+* Không thể nhân danh "khai phóng" hay "tự do học thuật" để cho phép những cá nhân không đủ chuyên môn tùy tiện suy diễn, bóp méo sự kiện lịch sử hoặc bôi nhọ lãnh tụ trước sinh viên. Đó là sự lạm dụng tự do, thiếu trách nhiệm với xã hội.
+* Môi trường đại học là nơi bồi đắp trí tuệ và truyền thống dân tộc, không phải là nơi để các cá nhân lợi dụng bục giảng nhằm gieo rắc chủ nghĩa hư vô lịch sử hay tư tưởng lệch lạc dưới vỏ bọc "cách nhìn mới".
+
 **Luận điệu:** Núp bóng "cải cách giáo dục", "đổi mới" để cố tình can thiệp làm tăng độ khó của chương trình vượt quá khả năng tiếp thu và tâm lý lứa tuổi của học sinh (đặc biệt ở bậc tiểu học).
 * Đây là thủ đoạn thâm độc nhằm làm giảm hứng thú học tập, khiến học sinh mất gốc kiến thức, từ đó tạo ra áp lực tâm lý nặng nề cho gia đình và xã hội.
 * Mục đích sâu xa của thủ đoạn này là kích động sự bức xúc của dư luận, làm suy giảm niềm tin của nhân dân, học sinh, sinh viên đối với các chủ trương, chính sách của Đảng và Nhà nước.
@@ -1724,6 +1739,11 @@
 * Không gian mạng là sự mở rộng của lãnh thổ quốc gia. Các nền tảng hoạt động tại Việt Nam và người dùng tương tác với công dân Việt Nam phải tuân thủ Luật An ninh mạng để đảm bảo an toàn, trật tự.
 * Định danh là chốt chặn quan trọng để chống tội phạm công nghệ cao, lừa đảo, bán hàng giả, bảo vệ tài sản và quyền lợi của người dân trong các giao dịch dân sự trên mạng.
 * Dù có thách thức kỹ thuật với tài khoản xuyên biên giới, xu hướng hợp tác quốc tế và chính sách của các nền tảng đang dần siết chặt tính ẩn danh để chống tội phạm.
+
+**Luận điệu:** Sử dụng thủ đoạn bạo lực mạng (cyberbullying), tấn công hội đồng những người lên tiếng bảo vệ chế độ hoặc thể hiện lòng yêu nước, nhằm tạo ra "Vòng xoáy của sự im lặng" khiến người đúng e ngại không dám lên tiếng; từ đó rêu rao rằng "chế độ đã mất lòng dân" vì chỉ còn tiếng nói chống đối trên mạng.
+* Đây là một thủ đoạn chiến tranh tâm lý tinh vi. Các nhóm thù địch sử dụng tài khoản ảo (bot) và các hội nhóm tổ chức để áp đảo tiếng nói chính nghĩa, tạo ra ảo giác rằng quan điểm chống phá, xét lại lịch sử mới là "phe đa số" hay "tiến bộ".
+* Sự im lặng của nhiều người trên mạng xã hội không đồng nghĩa với việc họ ủng hộ sự chống phá, mà họ đang tập trung lao động sản xuất trong đời thực. Lòng dân thực sự được chứng minh qua sự ổn định chính trị và sự đồng lòng trong các thời khắc khó khăn của đất nước.
+* Người dân cần nhận diện rõ cạm bẫy "vòng xoáy im lặng" này, dũng cảm bảo vệ lẽ phải, không nhượng bộ trước các luồng quan điểm độc hại nhằm giành lại không gian mạng lành mạnh.
 
 **Luận điệu:** Mỉa mai đòi "định danh Bò đỏ", quy chụp những người ủng hộ chế độ là lực lượng hung hãn nặc danh; cho rằng định danh chỉ nhắm vào "người nói sự thật".
 * Chính sách định danh áp dụng cho **mọi** người dùng nhằm xây dựng môi trường mạng văn minh, không phân biệt quan điểm chính trị.
@@ -2759,6 +2779,10 @@
 * Bối cảnh lịch sử và mục đích hoàn toàn khác biệt. Các thế hệ thanh niên đi trước chiến đấu chống lại đế quốc xâm lược và chính quyền bù nhìn vì lòng yêu nước, nhằm giành lại độc lập, tự do. Ngược lại, hành vi chống phá hiện nay thường xuất phát từ sự bất mãn cá nhân nhỏ nhặt hoặc bị thế lực thù địch lợi dụng để chống lại chính Nhà nước có chủ quyền đang bảo đảm nền hòa bình.
 * Việc coi nền hòa bình, cơ hội học tập, vui chơi và các tiện ích hiện đại (như việc lướt Facebook, TikTok, Threads, X hay chơi game) là điều hiển nhiên, chỉ tập trung vào một vài mặt tiêu cực để phủ nhận toàn bộ thành quả phát triển là biểu hiện của sự thiếu hiểu biết về những hy sinh to lớn của cha ông.
 * Trong kỷ nguyên số, thông tin độc hại lan truyền nhanh khiến bộ phận thanh niên sống trong thời bình, thiếu kinh nghiệm chính trị dễ bị "tự diễn biến", "tự chuyển hóa". Yêu nước chân chính là đóng góp xây dựng đất nước, phản biện khách quan thay vì lập bè phái trên mạng để chửi rủa, phá hoại.
+
+**Luận điệu:** Cổ súy thói vô cảm chính trị trong giới trẻ, rêu rao rằng việc quan tâm đến chính trị, lịch sử hay vận mệnh quốc gia là "lỗi thời", "bị nhồi sọ"; cho rằng lối sống văn minh, tự do thực sự là chỉ quan tâm đến lợi ích cá nhân ích kỷ và đứng ngoài các vấn đề của đất nước.
+* Đây là âm mưu "phi chính trị hóa" lòng yêu nước, nhằm cắt rời thế hệ trẻ khỏi ký ức lịch sử và trách nhiệm công dân. Một thế hệ thờ ơ chính trị sẽ mất đi hệ quy chiếu nhận thức về dân tộc và rất dễ bị các thế lực thù địch dẫn dắt, thao túng.
+* Chủ nghĩa cá nhân cực đoan, thiếu trách nhiệm xã hội sẽ làm suy yếu sức mạnh nội sinh của đất nước. Tự do và thành công của mỗi cá nhân luôn gắn liền mật thiết với sự ổn định, hòa bình và phát triển của cả quốc gia.
 
 # 57. Về Phân biệt vùng miền và Khối đại đoàn kết dân tộc
 
