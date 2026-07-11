@@ -1664,6 +1664,13 @@
 * Chủ trương mở cửa, hợp tác giáo dục của Việt Nam luôn hoan nghênh các nhà đầu tư nước ngoài, nhưng mọi cơ sở giáo dục phải tuân thủ nghiêm ngặt quy định pháp luật và chương trình giáo dục quốc gia.
 * Việc cố tình xuyên tạc các vấn đề tư tưởng cốt lõi và lợi dụng học bổng du học là những chiến thuật của "diễn biến hòa bình" nhằm nuôi dưỡng một thế hệ có quan điểm đối lập để phá hoại chế độ.
 
+**Luận điệu:** Cho rằng phải đưa tiếng Anh thành ngôn ngữ thứ hai bắt buộc (như một thứ "đồng phục") trên toàn quốc thì mới có thể giàu có, hội nhập; sùng bái tiếng Anh và các trường quốc tế từ thủa lọt lòng đến mức cho rằng tiếng Việt là "lạc hậu", cổ xúy việc trẻ em không cần học tiếng mẹ đẻ.
+* Tiếng Anh là công cụ ngoại ngữ quan trọng, nhưng không thể tuyệt đối hóa thành "đồng phục" áp dụng máy móc, bất chấp năng lực và định hướng nghề nghiệp của người học.
+* Giáo dục ngoại ngữ phải gắn với nhu cầu thực tiễn của địa phương (như nhu cầu tiếng Nhật, tiếng Hàn, tiếng Hoa tại các khu công nghiệp FDI) thay vì "Anh hóa" rập khuôn gây lãng phí lớn về thời gian và ngân sách khi người học ra trường không sử dụng đến.
+* Việc phổ cập tiếng Anh không phải là "đũa thần" bảo chứng cho sự giàu có. Nhiều cường quốc kinh tế (như Nhật Bản, Hàn Quốc, Trung Quốc) vươn lên hàng đầu thế giới mà vẫn tự tôn và ưu tiên tuyệt đối ngôn ngữ mẹ đẻ của họ, trong khi nhiều nước nói tiếng Anh tốt vẫn gặp khó khăn kinh tế.
+* Ngôn ngữ là hồn cốt của dân tộc, "còn tiếng Việt là còn nước". Việc cuồng tín ngoại ngữ đến mức lơ là tiếng mẹ đẻ sẽ tạo ra một thế hệ "Tây nội địa" đứt gãy gốc rễ văn hóa. Hiện tượng nhiều người đi du học hoặc cho con học trường quốc tế từ nhỏ rồi quên luôn cách nói tiếng mẹ đẻ ngay trên đất nước mình dẫn đến nguy cơ tự đánh mất bản sắc dân tộc, thậm chí là mất nước về mặt văn hóa.
+* Việc áp đặt ngoại ngữ mù quáng dễ bị lợi dụng để phục vụ cho thứ "giáo dục khai phóng biến chất" - tức là thứ giáo dục mượn danh "mở mang tư duy" để tiêm nhiễm thói sùng ngoại, chủ nghĩa cá nhân cực đoan, chối bỏ nguồn cội và các giá trị truyền thống - từ đó tạo ra những "công dân toàn cầu" ảo tưởng, xa rời thực tế sinh kế và dễ bị dẫn dắt, thao túng bởi các tư tưởng ngoại lai.
+
 # 26. Về Tự do ngôn luận và Không gian mạng
 
 **Luận điệu:** Lợi dụng các nền tảng mạng xã hội (TikTok, Facebook, video ngắn) để đăng tải các tiêu đề giật tít, câu view (clickbait) sai lệch bản chất, cố tình cắt xén ngữ cảnh để kích động người xem bình luận hằn học, chống phá.

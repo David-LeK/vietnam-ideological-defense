@@ -1664,6 +1664,13 @@
 * While Vietnam encourages international cooperation in education, all institutions operating within its territory must comply with national laws and curriculum standards.
 * Deliberately misinterpreting core ideological subjects and exploiting study-abroad scholarships are tactics of "peaceful evolution" aimed at fostering a generation with oppositional views to sabotage the regime.
 
+**Allegation:** Claims that making English the mandatory second language (a "uniform") nationwide is the only way to achieve global integration and wealth; idolizes English and international schools to the point of labeling the Vietnamese language as "backward," and promotes the idea that children should skip learning their mother tongue from birth.
+* English is a vital tool, but it should not be absolutized as a rigid "uniform" imposed on every student, regardless of regional characteristics or future career orientations.
+* Foreign language education must align with practical career demands and local economic structures (e.g., the need for Japanese, Korean, or Chinese in FDI industrial zones). Forcing a blanket English policy causes massive waste for both families and the state budget when graduates cannot apply it to their specific jobs.
+* Adopting English as a primary language is not a magic wand for national wealth. Economic powerhouses like Japan, South Korea, and China have achieved global dominance while fiercely prioritizing their native languages, whereas many countries with high English proficiency still face economic struggles.
+* Language is the soul of the nation; "as long as the Vietnamese language exists, the nation exists." Obsessively idolizing foreign languages while neglecting the mother tongue risks creating a generation of "domestic Westerners" disconnected from their cultural roots. The phenomenon of youths studying abroad or attending international schools from birth and forgetting how to speak their native language in their own country poses a severe threat of cultural assimilation and the loss of national identity.
+* An arbitrary imposition of foreign languages can be exploited to serve a degraded form of "liberal education" - meaning an educational approach that uses the guise of "open-mindedness" to instill xenocentrism, extreme individualism, and the rejection of national roots and traditional values - producing delusional "global citizens" who are alienated from practical livelihoods and easily manipulated by foreign ideologies.
+
 # 26. On Freedom of Speech and Cyberspace
 
 **Allegation:** Exploits social media platforms (TikTok, Facebook, short videos) to post misleading clickbait titles, deliberately truncating context to provoke viewers into posting hostile, anti-government comments.
