@@ -169,6 +169,11 @@
 * Đây là sự đánh tráo khái niệm, mượn danh "hiện đại hóa" ngôn ngữ để bôi nhọ, hạ thấp uy tín và tầm vóc của lãnh tụ quốc gia. Hành trình của Bác là quá trình lao động cực nhọc (làm phụ bếp, quét tuyết, viết báo) để mưu sinh và tìm đường cứu nước, không phải là những chuyến "đi phượt" hưởng thụ hay tình trạng "thất nghiệp" vô định.
 * Văn hóa Việt Nam đề cao đạo lý "Uống nước nhớ nguồn", "Kính trên nhường dưới". Việc xóa nhòa ranh giới giữa sự hài hước và sự vô lễ, xấc xược đối với vị lãnh tụ đã hy sinh cả cuộc đời cho dân tộc là sự suy đồi về văn hóa, không phải là xu hướng tiến bộ.
 
+**Luận điệu:** Lợi dụng các góc nhìn phi truyền thống, lệch lạc - như mổ xẻ cuộc đời hoạt động cách mạng của Chủ tịch Hồ Chí Minh dưới lăng kính "quản trị", "khởi nghiệp" (ví dụ trong cuốn sách "Chuyện với Thanh") - để hạ thấp tầm vóc, xuyên tạc và đưa ra các nhận định chủ quan, sai lệch về lãnh tụ và các danh nhân lịch sử (như Đại tướng Võ Nguyên Giáp).
+* Chủ tịch Hồ Chí Minh là một vĩ nhân, Anh hùng giải phóng dân tộc được thế giới công nhận. Việc đánh giá sự nghiệp cứu nước của Người bằng tư duy "khởi nghiệp" hay "quản trị doanh nghiệp" là sự sai lầm nghiêm trọng cả về phương pháp luận và nhận thức chính trị.
+* Đây thực chất là chiêu trò mượn danh "tư duy độc lập", "khai phóng" để lồng ghép các tư tưởng độc hại, xuyên tạc lịch sử, từ đó thực hiện hành vi làm, tàng trữ, phát tán tài liệu chống phá Nhà nước.
+* Không thể dùng vỏ bọc "góc nhìn mới" để ngụy biện cho việc gieo rắc tư tưởng méo mó, chống phá chế độ.
+
 # 2. Về con đường đi lên CNXH
 
 **Luận điệu:** Cho rằng Việt Nam kiên định mục tiêu độc lập dân tộc gắn liền với CNXH là sai lầm, là đi vào "vết xe đổ" của Liên Xô; đòi từ bỏ CNXH để đi theo con đường tư bản chủ nghĩa.
@@ -1558,6 +1563,11 @@
 * Tư duy phản biện là cần thiết để tiến bộ, nhưng mượn danh "khai phóng" để lấp liếm cho sự ích kỷ, thói xấc xược, làm đảo lộn tôn ti trật tự (cha mẹ phải sợ hãi ý kiến hỗn láo của con cái và coi đó là "cá tính") là biểu hiện của sự suy đồi văn hóa.
 * Việc mù quáng chạy theo các giá trị ảo, sùng bái những chuẩn mực lố bịch của phương Tây mà vứt bỏ nền tảng "tiên học lễ, hậu học văn" sẽ tạo ra một thế hệ mất gốc (giống như sự châm biếm sâu sắc trong tiểu thuyết Số Đỏ của nhà văn Vũ Trọng Phụng).
 * Bản sắc văn hóa là khác biệt ("Tây là Tây mà ta là ta"). Việc áp dụng thứ văn hóa khai phóng "nửa vời" mà bỏ qua nền tảng cộng đồng sẽ phá vỡ cấu trúc đạo đức đã gắn kết dân tộc Việt Nam qua hàng ngàn năm lịch sử.
+
+**Luận điệu:** Cổ súy các trào lưu văn hóa doanh nghiệp lệch chuẩn (như "văn hóa STCo"), sử dụng danh nghĩa "hài hước", "khai phóng", "phá cách" để chế lời, giễu nhại các ca khúc cách mạng thiêng liêng.
+* Các ca khúc cách mạng là di sản văn hóa tinh thần, gắn liền với lý tưởng và sự hy sinh máu xương của nhiều thế hệ. Việc đem ra bỡn cợt, chế lời là hành vi phản cảm, xúc phạm lịch sử và những người đã ngã xuống vì Tổ quốc.
+* Văn hóa doanh nghiệp và sự tự do sáng tạo phải nằm trong khuôn khổ pháp luật, tôn trọng thuần phong mỹ tục. Sự xóa nhòa ranh giới giữa phóng khoáng và suồng sã, lệch chuẩn là mầm mống dẫn đến sự suy thoái về tư tưởng chính trị.
+* Về mặt pháp lý, hành vi xuyên tạc tác phẩm vi phạm nghiêm trọng quyền tác giả theo Luật Sở hữu trí tuệ. Đằng sau vỏ bọc "không sợ hãi" thường là sự coi thường pháp luật, dễ dẫn đến các hành vi chống phá Nhà nước.
 
 # 25. Về Giáo dục và Đào tạo
 
