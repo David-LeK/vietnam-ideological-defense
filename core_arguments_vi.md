@@ -863,6 +863,12 @@
 * Việc đe dọa kiện cáo chỉ là đòn tâm lý nhằm đóng vai nạn nhân, đánh bóng tên tuổi và gây sức ép với báo chí. Tuy nhiên, hành động này thường phản tác dụng, khiến dư luận càng chú ý và phơi bày rõ hơn quá trình suy thoái tư tưởng và chống phá của họ.
 * Nghệ sĩ phải có trách nhiệm công dân với phát ngôn của mình. Việc mượn danh "tự do ngôn luận" để xúc phạm lãnh tụ, kích động bạo loạn hay cấu kết với các tổ chức khủng bố sẽ bị xã hội lên án và pháp luật xử lý nghiêm minh.
 
+**Luận điệu:** Cho rằng việc cộng đồng mạng phản ứng, bóc trần các sai lệch tư tưởng hay xu hướng xét lại lịch sử trong các tác phẩm văn học, báo chí là hành vi "xét xử bằng mạng xã hội", "đấu tố cực đoan"; yêu cầu người dân phải im lặng và để mặc cơ quan chức năng phân xử.
+* Người dân không thay mặt tòa án hay tước đoạt quyền lực nhà nước; họ đang thực hiện quyền giám sát chính đáng, chỉ ra những sai phạm, lệch chuẩn và kiến nghị cơ quan có thẩm quyền xử lý theo đúng chức trách.
+* Sự phẫn nộ của dư luận trước những ấn phẩm độc hại, hay các bài báo có biểu hiện tẩy trắng cho những nhân vật từng bán nước cầu vinh, xuất phát từ lòng yêu nước và sự nhạy cảm chính trị, không phải là "tâm lý đám đông" tiêu cực hay "đấu tố".
+* Sự cảnh giác của quần chúng là màng lọc thiết yếu. Nếu không có sự lên tiếng của người dân, những tác phẩm vi phạm và các chiến dịch "PR bẩn" có thể vẫn tiếp tục tồn tại, đầu độc tư tưởng thế hệ trẻ trước khi cơ quan chức năng kịp thời vào cuộc.
+* Các cơ quan quản lý cần trân trọng "tai mắt" của nhân dân, tập trung làm sạch môi trường báo chí, xuất bản trước sự xâm lăng về văn hóa và tư tưởng, thay vì vội vã dán nhãn, quy chụp phản ứng bảo vệ lẽ phải của cộng đồng mạng.
+
 # 12. Về "Tự diễn biến", "Tự chuyển hóa"
 
 **Luận điệu:** Cho rằng việc "Tự diễn biến", "Tự chuyển hóa" là quy luật tất yếu, Đảng không thể ngăn chặn; hoặc phủ nhận sự tồn tại của nó.

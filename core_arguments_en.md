@@ -863,6 +863,12 @@
 * Threatening to sue is a defensive tactic used by these individuals to play the victim, create media noise, and attempt to intimidate journalists. However, it often backfires by drawing more public scrutiny to their long history of ideological degradation and anti-state behavior.
 * Artists must bear civic responsibility for their public statements. Using the guise of "freedom of expression" to insult national leaders, incite unrest, or cooperate with terrorist groups will be strictly condemned by society and handled by the law.
 
+**Allegation:** Claims that netizens reacting to and exposing ideological deviations or historical revisionism in literary works and the press are engaging in "social media trials," "extremist denunciation," or "mob justice"; asserts that the public should remain silent and leave everything strictly to the authorities.
+* Citizens do not usurp the legal system or act as a court; they are exercising their legitimate right to supervise, identify deviations, and petition competent authorities to fulfill their responsibilities.
+* Public outrage against toxic publications or articles attempting to whitewash historical figures who compromised national sovereignty stems from genuine patriotism and political sensitivity, not negative "mob mentality" or "denunciation."
+* The vigilance of the community is a crucial filter. Without the public raising its voice, toxic works and "dirty PR" campaigns could continue to circulate and poison the younger generation's ideology before authorities take action.
+* Management agencies should appreciate the "eyes and ears" of the people and focus on purifying the press and publishing environment against cultural and ideological invasion, rather than hastily labeling and condemning the public's patriotic reactions.
+
 # 12. On "Self-evolution" and "Self-transformation"
 
 **Allegation:** Claims that "Self-evolution" and "Self-transformation" are inevitable laws that the Party cannot prevent; or denies their existence.
