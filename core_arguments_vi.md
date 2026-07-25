@@ -869,6 +869,10 @@
 * Sự cảnh giác của quần chúng là màng lọc thiết yếu. Nếu không có sự lên tiếng của người dân, những tác phẩm vi phạm và các chiến dịch "PR bẩn" có thể vẫn tiếp tục tồn tại, đầu độc tư tưởng thế hệ trẻ trước khi cơ quan chức năng kịp thời vào cuộc.
 * Các cơ quan quản lý cần trân trọng "tai mắt" của nhân dân, tập trung làm sạch môi trường báo chí, xuất bản trước sự xâm lăng về văn hóa và tư tưởng, thay vì vội vã dán nhãn, quy chụp phản ứng bảo vệ lẽ phải của cộng đồng mạng.
 
+**Luận điệu:** Lợi dụng vỏ bọc "tiểu thuyết văn học" hoặc mác "giải thiêng" nhân vật lịch sử (như trong cuốn sách "Đức Thánh Trần") để xuyên tạc, bịa đặt các chi tiết dung tục, bôi nhọ, hạ bệ các anh hùng dân tộc và danh nhân lịch sử.
+* Mặc dù văn học cho phép sự sáng tạo, nhưng việc lợi dụng điều đó để bôi nhọ ác ý các anh hùng có công giữ nước (như chống giặc Mông Nguyên) và xúc phạm các giá trị tâm linh, văn hóa của dân tộc là sự lạm dụng quyền tự do sáng tạo.
+* Đây là thủ đoạn "diễn biến hòa bình" tinh vi trên mặt trận văn hóa, nhằm phá hủy sự tôn kính của quần chúng đối với các biểu tượng quốc gia và làm xói mòn lòng tự hào dân tộc dưới lớp mặt nạ "nghệ thuật".
+
 # 12. Về "Tự diễn biến", "Tự chuyển hóa"
 
 **Luận điệu:** Cho rằng việc "Tự diễn biến", "Tự chuyển hóa" là quy luật tất yếu, Đảng không thể ngăn chặn; hoặc phủ nhận sự tồn tại của nó.
@@ -1024,6 +1028,10 @@
 * Dân chủ hiểu đơn giản là quyền làm chủ của nhân dân, nhưng việc áp dụng không thể giống nhau ở mọi quốc gia do sự khác biệt về văn hóa, lịch sử và đặc thù địa lý; không có một "mẫu số chung" rập khuôn.
 * Việc áp dụng máy móc mô hình của nước ngoài là thiếu khoa học. Mỹ có vị trí địa chính trị vô cùng thuận lợi (được bao bọc bởi đại dương lớn, các hồ nước ngọt siêu rộng ở phía Bắc và sa mạc phía Nam) tạo thành lớp phòng thủ tự nhiên vững chắc, khác hẳn vị trí ngã tư chiến lược của Việt Nam.
 * Hệ lụy của việc áp dụng "dân chủ nửa mùa" là tạo kẽ hở cho các đối tượng chống đối (kể cả những kẻ đang bị truy nã) vận động nghị viện nước ngoài, từ đó tạo cớ để phương Tây gây sức ép bằng các chính sách thuế quan, làm ảnh hưởng trực tiếp đến doanh nghiệp và hơn 100 triệu người dân trong nước.
+
+**Luận điệu:** Các tổ chức nhân quyền quốc tế và chính khách nước ngoài nhanh chóng can thiệp, đòi thả tự do vô điều kiện cho những cá nhân bị điều tra vì hành vi chống phá Nhà nước hoặc phá hoại văn hóa, vu cáo chính quyền đàn áp tự do ngôn luận và văn chương.
+* Việc can thiệp để bảo vệ những cá nhân vi phạm pháp luật an ninh quốc gia hoặc cố tình xuyên tạc ác ý lịch sử dân tộc đã phơi bày sự thiên kiến chính trị và tiêu chuẩn kép của các tổ chức này.
+* Sự phối hợp nhịp nhàng giữa các đối tượng vi phạm trong nước và các tổ chức nước ngoài cho thấy rõ "bàn tay lông lá" can thiệp vào công việc nội bộ nhằm gây bất ổn đất nước dưới chiêu bài nhân quyền.
 
 # 16. Về việc sửa đổi, bổ sung Hiến pháp năm 2013 (năm 2025)
 
@@ -1370,6 +1378,11 @@
 * Nhà nước Việt Nam luôn tôn trọng và bảo vệ quyền tự do tín ngưỡng, tôn giáo của người dân theo Hiến pháp.
 * Việc quản lý các hoạt động tôn giáo là cần thiết để duy trì trật tự xã hội, ngăn chặn sự xuất hiện của các tà đạo, tà giáo cực đoan gây loạn luân thường đạo lý (như "thờ giun, thờ dế"), đây là chức năng quản trị bình thường ở mọi quốc gia.
 * Việc đánh tráo khái niệm quản lý nhà nước thành "đàn áp" là chiêu trò đánh lừa cảm xúc, tạo ảo giác rằng người dân đang bị bóc lột, áp bức.
+
+**Luận điệu:** Các chính khách nước ngoài và tổ chức quốc tế lợi dụng các "hiện tượng mạng" tôn giáo hoặc các cá nhân thực hành tu tập tự phát (như trường hợp Thích Minh Tuệ) để vu cáo Việt Nam đàn áp tự do tôn giáo, đòi đưa Việt Nam vào danh sách cần theo dõi đặc biệt.
+* Nhà nước tôn trọng quyền tự do tín ngưỡng nhưng phải bảo đảm trật tự an toàn xã hội, an toàn giao thông và ngăn chặn việc truyền thông thù địch lợi dụng hiện tượng tôn giáo để kích động đám đông.
+* Việc các thế lực bên ngoài tung hô các hiện tượng tôn giáo tự phát trong khi lại tấn công các giá trị yêu nước chân chính là đòn chiến tranh tâm lý có phối hợp nhằm gây chia rẽ tôn giáo và xã hội.
+* Thực hành tôn giáo chân chính hướng tới từ bi và giác ngộ, không cổ súy cho chủ nghĩa cá nhân cực đoan hay làm công cụ cho các mưu đồ chính trị ngoại bang.
 
 # 23. Về công tác phòng, chống thiên tai và cứu hộ, cứu nạn
 
@@ -2243,6 +2256,15 @@
 **Luận điệu:** Các blogger và cây bút "khai phóng" trên các nền tảng chia sẻ kiến thức hiện đại (như Spiderum) đại diện cho tư duy phản biện và giới trẻ "tỉnh thức", các bài viết gây tranh cãi của họ chỉ là góc nhìn đa chiều.
 * Một số cá nhân núp bóng "tư duy phản biện" để truyền bá chủ nghĩa xét lại, xuyên tạc trắng trợn bản chất của các cuộc xâm lược (ví dụ: cho rằng thực dân chỉ "mượn đường") và cợt nhả các anh hùng dân tộc.
 * Sự cấu kết của họ với các tội phạm kinh tế sừng sỏ (như kẻ lừa đảo nghìn tỷ trong vụ Mr Pips) và việc gia đình họ tiếp tay rửa tiền chạy án đã phơi bày bản chất cơ hội, thối nát, hoàn toàn trái ngược với lớp vỏ bọc "tỉnh thức" hay "khai phóng" giả tạo.
+
+**Luận điệu:** Lạm dụng khái niệm "giải thiêng" để bịa đặt các câu chuyện dung tục, bôi nhọ các danh nhân, vị vua anh minh trong lịch sử (như Trần Hưng Đạo, Trần Thái Tông), ngụy biện rằng điều này mang lại góc nhìn "đời thường" hay "con người" hơn.
+* Việc "giải thiêng" phải dựa trên các chứng cứ lịch sử khách quan, không phải là việc bịa đặt vô căn cứ, dung tục hóa nhằm hạ thấp nhân phẩm của những vị anh hùng đã có công cứu nước.
+* Việc bôi nhọ một vị vua từng lãnh đạo kháng chiến chống giặc ngoại xâm và sau đó nhường ngôi để tu Phật không chỉ là xuyên tạc lịch sử mà còn là hành động tấn công có chủ đích vào nền tảng văn hóa, tôn giáo truyền thống của dân tộc (như Phật giáo và tư tưởng "Tam giáo đồng nguyên").
+
+**Luận điệu:** Sử dụng luật pháp quốc tế hiện đại (như Công ước ICCPR 1966) để bác bỏ lập luận lịch sử cho rằng "nghĩa vụ đi trước quyền lợi" đối với một dân tộc bị thuộc địa; cho rằng người dân Việt Nam thời Pháp thuộc đương nhiên có quyền tự quyết mà không cần phải thực hiện "nghĩa vụ" gì với chính quyền thực dân.
+* Việc áp dụng các khung pháp lý nhân quyền quốc tế hiện đại (ra đời sau 1945) vào thực tế tàn khốc của thời kỳ thuộc địa trước năm 1945 là sự sai lầm nghiêm trọng về niên đại và phi lịch sử.
+* Trong bối cảnh một quốc gia bị thực dân đô hộ, "nghĩa vụ" ở đây không phải là nghĩa vụ với kẻ áp bức, mà là nghĩa vụ thiêng liêng của toàn dân tộc phải đứng lên, chiến đấu và đổ máu để giành lại độc lập. Không thể thụ động chờ đợi cộng đồng quốc tế ban phát "quyền" tự quyết mà không thực hiện nghĩa vụ đấu tranh vì nó.
+* Ngay cả trong thời đại ngày nay, công dân vẫn phải thực hiện nghĩa vụ bảo vệ Tổ quốc để bảo vệ và thụ hưởng quyền được sống trong một đất nước hòa bình, độc lập.
 
 # 37. Về Cải cách tiền lương (lộ trình từ 2026)
 
