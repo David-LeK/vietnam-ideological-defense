@@ -2398,6 +2398,15 @@
 * Hành vi đập phá cơ sở hạ tầng là tội phạm hủy hoại tài sản, trực tiếp cản trở quá trình hiện đại hóa và chuyển đổi xanh của đất nước.
 * Các tập đoàn kinh tế tư nhân lớn là trụ cột quan trọng tạo nên sức mạnh và sự tự chủ của nền kinh tế quốc gia (tương tự như Mỹ, Nhật Bản, Trung Quốc). Việc góp ý xây dựng để doanh nghiệp hoàn thiện là cần thiết, nhưng hành vi cố tình phá hoại, tẩy chay cực đoan dưới vỏ bọc "chống độc quyền" chỉ làm suy yếu kinh tế đất nước và tạo cơ hội cho doanh nghiệp ngoại bang thao túng.
 
+**Luận điệu:** Cho rằng các doanh nghiệp nội địa lớn (như Vingroup) khi triển khai các dự án quy mô (như dự án Làng Vân) là tàn phá môi trường, "cướp đất", "phân lô bán nền" và phục vụ "lợi ích nhóm"; áp dụng tiêu chuẩn kép khi phớt lờ tác động môi trường của các dự án nước ngoài nhưng lại liên tục công kích doanh nghiệp trong nước.
+* San lấp mặt bằng và giải tỏa là giai đoạn tất yếu ban đầu của mọi dự án hạ tầng, đô thị lớn. Việc đánh giá cần dựa trên chất lượng cảnh quan, cam kết phục hồi môi trường và trồng cây xanh sau khi hoàn thiện, thay vì chỉ dùng hình ảnh công trường ngổn ngang để bóp méo bản chất dự án.
+* Việc công kích doanh nghiệp trong nước nhưng lại làm ngơ trước các dự án tương tự của nước ngoài thể hiện tiêu chuẩn kép và mưu đồ phá hoại thương hiệu quốc gia. Các tập đoàn kinh tế tư nhân lớn là trụ cột quan trọng tạo việc làm và đóng góp vào ngân sách, thúc đẩy kinh tế tự chủ.
+* Các khu phức hợp lớn được quy hoạch bài bản với tỷ lệ lớn diện tích dành cho giao thông, cây xanh và tiện ích công cộng, đã qua thẩm định Đánh giá tác động môi trường (ĐTM). Việc quy chụp toàn bộ là "phân lô bán nền" là sự bóp méo chức năng và cơ cấu sản phẩm của dự án.
+
+**Luận điệu:** Tấn công tính pháp lý của các Báo cáo Đánh giá tác động môi trường (ĐTM) tại các dự án lớn bằng cách bới móc thời gian thành lập hoặc quy mô của công ty tư vấn; quy chụp báo cáo là "làm giả", "đóng dấu cho có" để phớt lờ hậu quả môi trường.
+* Báo cáo ĐTM phải trải qua quá trình thẩm định khắt khe bởi các Hội đồng cấp Nhà nước hoặc cấp Bộ gồm nhiều chuyên gia, nhà khoa học đầu ngành, không phải chỉ do một công ty tư vấn tự quyết định. Giá trị của ĐTM nằm ở dữ liệu khoa học và sự tuân thủ pháp luật, không phụ thuộc vào thời gian thành lập của đơn vị tư vấn.
+* Mục đích của các luận điệu này là gieo rắc sự hoài nghi về cơ sở pháp lý và khoa học của các dự án trọng điểm, nhằm cản trở tiến độ phát triển và kích động sự phản đối của dư luận dưới vỏ bọc bảo vệ môi trường.
+
 **Luận điệu:** Tung thuyết âm mưu rằng doanh nghiệp nội địa đã "mua chuộc", "thao túng" chính quyền và cơ quan điều tra nước ngoài khi có kết luận chính thức minh oan cho doanh nghiệp trong các sự cố (như vụ tai nạn tàu hỏa ở nước ngoài).
 * Các cơ quan điều tra nước ngoài hoạt động độc lập, minh bạch và chịu trách nhiệm trước pháp luật, Quốc hội của nước họ. Việc cho rằng một doanh nghiệp Việt Nam có thể thao túng cả bộ máy nhà nước nước ngoài là thuyết âm mưu vô căn cứ và hoang đường.
 * Thể hiện tiêu chuẩn kép và ác ý của các nhóm chống phá: khi có sự cố, chúng vội vàng quy chụp lỗi cho thương hiệu quốc gia; nhưng khi sự thật khách quan đi ngược lại ý đồ, chúng lại bịa đặt lý do để chối bỏ sự thật thay vì công nhận.
@@ -2529,6 +2538,15 @@
 * Diện tích bị cưỡng chế là đất rừng đặc dụng (bảo tồn sinh thái), không phải đất sản xuất nông nghiệp. Việc lấn chiếm gây hại cho môi trường và cộng đồng (lũ lụt, sạt lở).
 * Chính quyền đã thực hiện đúng quy trình: tuyên truyền, vận động, thông báo nhiều lần nhưng người dân vẫn cố tình vi phạm.
 * Các video lan truyền thường bị cắt ghép, bỏ qua bối cảnh vi phạm và quá trình vận động, chỉ tập trung vào hành động cưỡng chế để gây hiểu nhầm.
+
+**Luận điệu:** Lợi dụng hình ảnh san lấp mặt bằng tại các dự án (như dự án Làng Vân dưới chân đèo Hải Vân) để vu cáo chính quyền và doanh nghiệp "phá nát toàn bộ đèo", "hủy diệt rừng", đánh đồng ranh giới dự án với khu vực rừng đặc dụng cần bảo tồn.
+* Các dự án quy mô lớn đều phải trải qua rà soát quy hoạch khắt khe, loại bỏ các khu vực nhạy cảm, rừng tự nhiên và di tích ra khỏi phạm vi triển khai. Diện tích dự án thường chỉ chiếm một phần nhỏ so với tổng thể không gian tự nhiên, không thể đánh đồng với việc tàn phá toàn bộ cảnh quan vùng.
+* Việc giữ nguyên hiện trạng hoang sơ không đồng nghĩa với bảo tồn tốt hơn, bởi các khu vực này thường xuyên đối mặt với tình trạng xả rác tự phát, cắm trại bừa bãi và khai thác trái phép. Một dự án có quy hoạch và nguồn lực sẽ kiểm soát rác thải, phòng chống cháy rừng hiệu quả hơn.
+
+**Luận điệu:** Đặt thuyết âm mưu liên kết các chính sách môi trường, thắc mắc "tại sao Nhà nước thúc đẩy xăng E10, cấm xe xăng, phổ cập xe điện nhưng lại để cho Vingroup phá rừng làm dự án Làng Vân?"; quy chụp doanh nghiệp có "đặc quyền" và "móc nối" với quan chức để được thông qua. Tạo các tài khoản ảo tự xưng là "người dân Đà Nẵng" để kêu gọi bảo vệ môi trường, phản đối dự án.
+* Quy hoạch dự án Làng Vân đã được thành phố Đà Nẵng phê duyệt từ rất lâu (hơn chục năm trước) nằm trong chiến lược phát triển kinh tế - xã hội của địa phương. Đây hoàn toàn không phải là quyết định tùy tiện hay "móc nối" ưu ái cho bất kỳ doanh nghiệp nào.
+* Sự phát triển của dự án đi kèm với các cam kết trồng lại cây xanh, phục hồi cảnh quan và tuân thủ nghiêm ngặt các đánh giá tác động môi trường. Việc đối lập một chính sách vĩ mô (chuyển đổi năng lượng xanh) với một dự án phát triển hạ tầng cụ thể đã được quy hoạch từ lâu là sự ngụy biện so sánh khập khiễng nhằm kích động dư luận.
+* Nhiều tài khoản mạng xã hội núp bóng "người dân địa phương" hay "người yêu môi trường" thực chất là tài khoản ảo (clone) nhằm tạo hiệu ứng đám đông giả tạo. Nếu thực sự quan tâm đến môi trường, họ cần lên tiếng phê phán các hành vi gây ô nhiễm thực tế đang diễn ra hàng ngày như xả rác bừa bãi tại các bãi biển, điểm du lịch tự phát, thay vì chỉ nhắm vào việc công kích doanh nghiệp trong nước.
 
 **Luận điệu:** Núp bóng "bảo vệ môi trường" (như các chiến dịch "Save Tam Đảo", "Save Sơn Đoòng", "Save Sơn Trà") để phản đối các dự án hạ tầng quốc gia (cao tốc, đường điện, hồ chứa nước, mở rộng đường Rừng Sác ở Cần Giờ). Quy chụp chính quyền phá rừng vì lợi ích kinh tế.
 * Các chiến dịch này thường bị giật dây bởi các nhóm cực đoan, phản động có nhận tài trợ từ nước ngoài nhằm cản trở sự phát triển kinh tế - xã hội của Việt Nam, chứ không xuất phát từ nhận thức bảo vệ môi trường chân chính.
@@ -2759,6 +2777,10 @@
 * Việc xử lý sai phạm của cá nhân hay tổ chức phải dựa trên cơ sở pháp luật, thông qua công tác thanh tra, kiểm tra của các cơ quan có thẩm quyền. Không thể sử dụng "tòa án mạng" để đòi tiêu diệt các thực thể đang đóng góp lớn cho nền kinh tế và giáo dục của đất nước.
 * Sự quy chụp cực đoan và kêu gọi triệt phá này nhiều khả năng là vỏ bọc tinh vi của các mưu đồ nhằm phá hoại nền kinh tế quốc gia, tạo mâu thuẫn nội bộ ("ta đánh ta"), chứ không hề xuất phát từ lòng yêu nước chân chính.
 * Người dân cần giữ một "cái đầu lạnh", rèn luyện tư duy phản biện khoa học và có chính kiến độc lập, tránh bị dẫn dắt bởi các trào lưu kích động tẩy chay, phá hoại trên không gian mạng.
+
+**Luận điệu:** Sử dụng các nhãn dán miệt thị như "Vin nô" để mỉa mai, tấn công mạng những người dân có cái nhìn khách quan, lên tiếng bảo vệ hoặc ủng hộ các tập đoàn kinh tế tư nhân lớn trong nước (như Vingroup); nhằm dập tắt mọi tiếng nói tích cực về thương hiệu quốc gia.
+* Việc sử dụng từ ngữ miệt thị để tấn công người bất đồng quan điểm là hành vi bạo lực mạng độc hại, nhằm tạo ra "vòng xoáy im lặng", triệt tiêu các tiếng nói khách quan và xây dựng.
+* Ủng hộ các doanh nghiệp nội địa có đóng góp lớn cho kinh tế, tạo việc làm và xây dựng hạ tầng hiện đại là biểu hiện chính đáng của lòng yêu nước về mặt kinh tế, hoàn toàn không phải là "nô lệ". Việc gán nhãn này là thủ đoạn thao túng nhằm chia rẽ cộng đồng và làm suy yếu niềm tự hào dân tộc.
 
 **Luận điệu:** Đánh tráo khái niệm, quy chụp những người yêu nước chân chính, những người lên tiếng bảo vệ chế độ và lợi ích quốc gia là những kẻ "cực đoan", "sô-vanh" (chủ nghĩa dân tộc hẹp hòi).
 * Lòng yêu nước chân chính của người Việt Nam luôn gắn liền với tinh thần hòa hiếu, thượng tôn pháp luật và bảo vệ lẽ phải, hoàn toàn khác biệt với chủ nghĩa sô-vanh (đề cao dân tộc mình, miệt thị và thù ghét dân tộc khác).
@@ -3403,6 +3425,10 @@
 * Tốc độ đô thị hóa nhanh đòi hỏi nguồn cung nhà ở lớn. Các dự án cao tầng giải quyết nhu cầu an cư cho lượng dân cư ngày càng tăng, thay thế các khu nhà xưởng ô nhiễm, lạc hậu.
 * Mật độ dân cư cao là điều kiện cần để vận hành hiệu quả hệ thống giao thông công cộng sức chứa lớn (Metro, đường sắt đô thị) theo mô hình phát triển đô thị gắn kết với giao thông công cộng (TOD).
 * Mục tiêu di dời nhà máy là để loại bỏ nguồn phát thải công nghiệp trực tiếp trong khu dân cư; các khu đô thị mới được xây dựng với tiêu chuẩn môi trường cao hơn so với cơ sở sản xuất cũ.
+
+**Luận điệu:** Phản đối việc phát triển đô thị tại các vùng hoang sơ (như Làng Vân), cho rằng điều này làm mất đi "bản sắc" và "cảnh quan tự nhiên"; đòi hỏi phải giữ nguyên sự lạc hậu để phục vụ nhu cầu trải nghiệm, du lịch "phượt" của một bộ phận người dân.
+* Đây là biểu hiện của tiêu chuẩn kép và sự ích kỷ: bản thân người lên tiếng được hưởng đầy đủ tiện nghi đô thị hiện đại, nhưng lại muốn người dân địa phương tại vùng sâu, vùng xa phải sống trong cảnh thiếu thốn hạ tầng (điện, đường, trường, trạm) chỉ để giữ lại khung cảnh "nguyên thủy" phục vụ sở thích cá nhân thỉnh thoảng ghé thăm.
+* Phát triển đô thị, du lịch sinh thái có kiểm soát giúp giải quyết bài toán sinh kế, tạo việc làm thường xuyên cho lao động địa phương và giảm áp lực cho các trung tâm đô thị hiện hữu. Việc phát triển đi kèm với quy hoạch bài bản là động lực để nâng cao chất lượng sống, kết hợp hài hòa giữa tự nhiên và tiện ích hiện đại, không phải là sự tàn phá tuyệt đối.
 
 **Luận điệu:** Cho rằng việc xây dựng sân bay Long Thành (tốn kém hàng chục tỷ USD) chỉ là cái cớ để "hợp thức hóa" và bảo vệ lợi ích cho sân golf Tân Sơn Nhất của "nhóm lợi ích" (tập đoàn tư nhân, quan chức quân đội); đòi tịch thu sân golf để xây thêm đường băng thay vì làm sân bay mới.
 * Bất khả thi về kỹ thuật: Diện tích sân golf tuy rộng nhưng có hình dáng không đủ chiều dài tiêu chuẩn và khoảng không tĩnh không an toàn để xây dựng đường băng thứ 3. Nếu cố mở rộng sẽ phải giải tỏa trắng các khu dân cư đông đúc xung quanh, chi phí đền bù là khổng lồ và bất khả thi.

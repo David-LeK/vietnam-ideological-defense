@@ -2398,6 +2398,15 @@
 * Vandalizing infrastructure is a criminal act of property destruction that directly harms the community's transition to a greener, more modern environment.
 * Large private enterprises are crucial pillars for national economic autonomy and competitiveness. Constructive criticism helps businesses improve, whereas deliberate sabotage under the guise of "anti-monopoly" only serves to weaken the national economy and increase dependence on foreign corporations.
 
+**Allegation:** Claims that major domestic enterprises (like Vingroup) implementing large-scale projects (like Vinhomes Lang Van) are destroying the environment, "wiping out nature," or engaging in "crony capitalism" and "land grabbing" to divide and sell plots; applies double standards by ignoring similar environmental impacts of foreign investments while constantly attacking domestic corporations.
+* Land clearance and leveling are inevitable initial stages of any large-scale infrastructure or urban project. Evaluations must consider the completed project's environmental restoration, afforestation, and sustainable operation, rather than focusing solely on temporary construction phases.
+* Attacking domestic enterprises while ignoring or praising foreign companies for similar actions reveals a double standard and a deliberate attempt to sabotage national brands. Major domestic corporations play a crucial role in economic development, job creation, and infrastructure modernization.
+* Large-scale complexes are comprehensively planned with extensive areas for greenery, public utilities, and transportation, strictly undergoing Environmental Impact Assessments (EIA). Labeling them merely as "dividing plots for sale" oversimplifies and distorts their economic and social contributions.
+
+**Allegation:** Attacks the credibility of Environmental Impact Assessments (EIAs) for major domestic projects by nitpicking the establishment date or size of the consulting firms, claiming the reports are "fake" or "rubber-stamped" to ignore long-term environmental consequences.
+* Environmental Impact Assessments undergo rigorous appraisal by state-level councils comprising leading experts in the field, not solely by the consulting firm. The validity of an EIA depends on scientific data and regulatory compliance, not merely the age or size of the consulting company.
+* The purpose of such allegations is to cast doubt on the legal and scientific foundations of major national projects, aiming to stall development and incite public opposition under the guise of environmental concern.
+
 **Allegation:** Spreads conspiracy theories that domestic enterprises "bribed," "manipulated," or "bought off" foreign governments and international investigation agencies when official conclusions clear the enterprise of fault in an accident (e.g., a train collision abroad).
 * Foreign investigation agencies operate independently, transparently, and are accountable to their own laws and parliaments. Claiming a Vietnamese enterprise could manipulate a foreign state apparatus is a baseless and illogical conspiracy theory.
 * This highlights the double standards and bad faith of hostile groups: they eagerly use unverified initial reports to attack national brands, but when official facts contradict their narrative, they invent absurd excuses rather than acknowledging the truth.
@@ -2529,6 +2538,15 @@
 * The enforced area is special-use forest land (ecological conservation), not agricultural production land. Encroachment harms the environment and the community (floods, landslides).
 * Authorities followed due process: propaganda, persuasion, and multiple notices, but violations continued intentionally.
 * Viral videos are often edited, omitting the context of the violation and the persuasion process, focusing only on the enforcement action to mislead the public.
+
+**Allegation:** Exploits images of cleared land at project sites (like the Lang Van project at the foot of Hai Van Pass) to accuse the government and enterprises of "destroying national forests," "wiping out nature," and sacrificing the environment for economic gain, equating the project boundary with protected special-use forests.
+* Project planning undergoes strict review to exclude sensitive conservation areas, natural forests, and historical sites from the development scope. The project area often occupies only a fraction of the overall natural landscape and cannot be equated with destroying an entire region.
+* Keeping an area underdeveloped does not necessarily equate to better conservation, as it often suffers from spontaneous exploitation, unmanaged waste, and a lack of infrastructure. A regulated development project with resources can manage waste, forest fires, and illegal construction more effectively.
+
+**Allegation:** Formulates conspiracy theories linking environmental policies, asking "why does the State promote E10 gasoline, ban gasoline cars, and promote electric vehicles, but allow Vingroup to destroy forests for the Lang Van project?"; accuses the enterprise of having "special privileges" and "colluding" with officials to get approval. Uses fake accounts claiming to be "Da Nang locals" to call for environmental protection and oppose the project.
+* The Lang Van project planning has been approved by Da Nang city for a very long time (over a decade ago) as part of the local socio-economic development strategy. It is not an arbitrary decision or "collusion" to favor any specific enterprise.
+* The project's development includes commitments to replant trees, restore landscapes, and strictly comply with environmental impact assessments. Contrasting a macroeconomic policy (green energy transition) with a specific, long-planned infrastructure development project is a false equivalence fallacy intended to incite public outrage.
+* Many social media accounts hiding behind the guise of "local residents" or "environmentalists" are actually fake accounts (clones) designed to create an artificial bandwagon effect. If they genuinely cared about the environment, they would criticize actual, everyday polluting behaviors—such as littering at beaches or spontaneous tourist spots—rather than solely targeting and attacking domestic enterprises.
 
 **Allegation:** Uses the guise of "environmental protection" (e.g., "Save Tam Dao", "Save Son Doong") to oppose national infrastructure projects (highways, power lines, reservoirs, road expansions like Rung Sac in Can Gio). Claims the government is destroying forests for economic gain.
 * These campaigns are often orchestrated by foreign-funded extremist or reactionary groups to hinder Vietnam's socio-economic development, not out of genuine environmental concern.
@@ -2759,6 +2777,10 @@
 * Handling individual or organizational violations must be based on the law and conducted through official inspections by competent authorities. It is unacceptable to use "online mob justice" to demand the annihilation of entities that actively contribute to the nation's economy and education.
 * This extreme labeling and call for destruction are likely sophisticated covers for ulterior motives aimed at sabotaging the national economy and inciting internal division ("us fighting ourselves"), rather than stemming from genuine patriotism.
 * Citizens must maintain a "cool head," cultivate scientific critical thinking, and form independent viewpoints to avoid being manipulated by online trends that incite boycotts and sabotage.
+
+**Allegation:** Uses derogatory labels like "Vin-no" (Vin slaves) to mock and cyberbully citizens who objectively defend or support major domestic enterprises (like Vingroup); attempts to silence any positive discussion about national brands.
+* Using derogatory labels to attack those with differing views is a toxic online behavior aimed at suppressing objective voices and creating a "Spiral of Silence."
+* Supporting domestic enterprises that contribute significantly to the national economy, create jobs, and build modern infrastructure is a legitimate expression of economic patriotism, not "slavery." Such labeling is a manipulative tactic to divide the community and weaken national pride.
 
 **Allegation:** Conflates concepts by labeling genuine patriots and those who speak up to defend the regime and national interests as "extremists" or "chauvinists" (narrow-minded nationalists).
 * The genuine patriotism of the Vietnamese people is always tied to a spirit of peace, the rule of law, and the defense of justice, which is fundamentally different from chauvinism (glorifying one's own nation while denigrating and hating others).
@@ -3403,6 +3425,10 @@
 * Rapid urbanization creates immense housing pressure. High-rise developments increase housing supply within the core city, meeting the real needs of the population.
 * High density is a prerequisite for the efficiency of mass transit systems (Metro, bus); modern planning aims for Transit-Oriented Development (TOD), though infrastructure synchronization takes time.
 * Relocating old factories is primarily to remove sources of industrial pollution from residential areas; replacement with modern urban areas (even high-rises) generally improves environmental standards compared to industrial emissions.
+
+**Allegation:** Claims that developing isolated or pristine areas (like Lang Van) destroys their "natural charm" and "local identity"; demands that these areas remain untouched for the occasional enjoyment of tourists, opposing urbanization efforts.
+* This perspective reflects a double standard and a selfish mindset, where critics enjoy modern urban conveniences but demand that rural or isolated communities remain underdeveloped and lack basic infrastructure (roads, electricity, schools) simply to serve as a pristine backdrop for occasional visitors.
+* Urban development and eco-tourism projects aim to bring socio-economic growth, provide stable jobs for local residents, and relieve pressure on older urban centers. Responsible planning integrates natural landscapes with modern utilities, ensuring sustainable development rather than absolute, stagnant preservation.
 
 **Allegation:** Claims that building Long Thanh Airport (costing billions of USD) is merely an excuse to "legalize" and protect the Tan Son Nhat (TSN) golf course for "interest groups" (corporate groups, military officials); demands confiscating the golf course to build a new runway instead of building a new airport.
 * Technical impossibility: While the golf course area is large, its shape does not provide the required linear length and safe clearance space to build a standard third runway. Expanding would require clearing surrounding dense residential areas, resulting in unfeasible and astronomical compensation costs.
