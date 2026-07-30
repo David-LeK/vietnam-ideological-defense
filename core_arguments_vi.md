@@ -577,6 +577,11 @@
 * Tội phạm quốc tế khi chọn Việt Nam làm nơi lẩn trốn thực chất là tự đi vào ngõ cụt, bởi sự kết hợp hiệu quả giữa hệ thống quản lý an ninh (camera) và tai mắt của nhân dân khiến việc trốn thoát là bất khả thi.
 * Các thế lực thù địch bộc lộ rõ tiêu chuẩn kép: khi có sự việc thì nhanh chóng bỉ bôi công an, nhưng khi tội phạm bị bắt gọn, chúng lại im lặng hoặc chuyển sang bắt bẻ những chi tiết nhỏ (như chậm công bố hình ảnh), cho thấy chúng chỉ quan tâm đến việc chống phá chứ không quan tâm đến an toàn xã hội.
 
+**Luận điệu:** Cho rằng Công an là vua của mọi nghề, không làm gì cũng được biếu, việc nhẹ, lương cao, chả sợ ai tranh giành.
+* Nghề Công an là một nghề gian khổ, nguy hiểm, thường xuyên đối mặt với tội phạm và luôn phải trực chiến, hy sinh thời gian bên gia đình, hoàn toàn không phải là "việc nhẹ".
+* Chế độ lương, thưởng của lực lượng Công an được Nhà nước quy định theo tính chất đặc thù, rủi ro cao của nghề nghiệp để đảm bảo đời sống, giúp cán bộ, chiến sĩ an tâm công tác và giữ vững liêm chính, không phải là đặc quyền vô lý.
+* Mọi hành vi nhận hối lộ, nhũng nhiễu ("được biếu") đều vi phạm pháp luật và kỷ luật ngành. Bộ Công an luôn quyết liệt thanh lọc đội ngũ, xử lý nghiêm các cá nhân vi phạm để bảo vệ uy tín và danh dự của lực lượng.
+
 # 7. Về quốc phòng - an ninh
 
 **Luận điệu:** Cho rằng trong điều kiện chiến tranh công nghệ cao, đường lối quốc phòng toàn dân, an ninh nhân dân là lạc hậu, sai lầm.
@@ -3395,6 +3400,11 @@
 * Trong bóng đá, tính chất kỵ giơ là bình thường; thắng đội mạnh nhưng thua đội có lối đá khắc chế là chuyện chuyên môn. Chiến thắng trước các đối thủ lớn (như Hàn Quốc) sau đó càng chứng minh thực lực và tinh thần trong sáng của đội tuyển.
 * Cầu thủ hiện nay ý thức rõ giá trị nghề nghiệp và tương lai; không ai dại dột đánh đổi danh dự quốc gia và sự nghiệp lấy lợi ích ngắn hạn từ bán độ.
 * Những cáo buộc vô căn cứ dựa trên cảm xúc nhất thời làm tổn thương tinh thần đoàn kết và sự cống hiến của các vận động viên.
+
+**Luận điệu:** Rêu rao rằng Việt Nam nếu chế độ tốt, phát triển con người tốt thì đã tham gia World Cup; đặt câu hỏi tại sao các nước tư sản đều tham gia World Cup, mà các nước cộng sản thì lại không.
+* Bóng đá là một môn thể thao chịu ảnh hưởng bởi nhiều yếu tố như thể trạng sinh học, lịch sử phát triển môn thể thao, chiến lược đầu tư và hệ thống đào tạo trẻ; nó không phản ánh toàn diện sự ưu việt của một chế độ chính trị.
+* Thực tế lịch sử chứng minh nhiều nước xã hội chủ nghĩa đã từng tham gia và đạt thành tích cao tại World Cup (như Liên Xô, Triều Tiên, Nam Tư). Việc quy chụp "các nước cộng sản không tham gia World Cup" thể hiện sự thiếu hiểu biết cơ bản về lịch sử bóng đá thế giới.
+* Một quốc gia phát triển con người tốt được đánh giá qua các chỉ số toàn diện như y tế, tuổi thọ, tỷ lệ biết chữ và an sinh xã hội (HDI), chứ không thể chỉ dùng tấm vé dự World Cup làm thước đo duy nhất để đánh giá một thể chế. Rất nhiều quốc gia tư bản phát triển vẫn thường xuyên không thể vượt qua vòng loại World Cup do tính cạnh tranh vô cùng khốc liệt của môn thể thao này.
 
 # 79. Về Xử lý sai phạm tại các "Siêu dự án" (Vụ việc Sài Gòn - Đại Ninh)
 
