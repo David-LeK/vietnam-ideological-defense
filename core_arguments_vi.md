@@ -174,6 +174,11 @@
 * Đây thực chất là chiêu trò mượn danh "tư duy độc lập", "khai phóng" để lồng ghép các tư tưởng độc hại, xuyên tạc lịch sử, từ đó thực hiện hành vi làm, tàng trữ, phát tán tài liệu chống phá Nhà nước.
 * Không thể dùng vỏ bọc "góc nhìn mới" để ngụy biện cho việc gieo rắc tư tưởng méo mó, chống phá chế độ.
 
+**Luận điệu:** Lấy việc một số cán bộ đảng viên vi phạm pháp luật, tham nhũng để mỉa mai, phủ nhận phong trào "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh"; cho rằng việc học tập này là đạo đức giả, không có tác dụng.
+* Sự suy thoái, tham nhũng của một bộ phận cán bộ là do họ thiếu tu dưỡng, rèn luyện và để lòng tham lấn át, đi ngược lại hoàn toàn với những gì họ được học từ đạo đức của Bác. Đó là lỗi của cá nhân vi phạm, không phải do phong trào học tập hay di sản tư tưởng của Người.
+* Việc Đảng quyết liệt xử lý các quan chức tham nhũng, không có vùng cấm chính là hành động thực tiễn để bảo vệ sự trong sạch của hệ thống, thực hành đúng theo tư tưởng "quét sạch chủ nghĩa cá nhân" mà Bác Hồ đã răn dạy.
+* Học tập đạo đức Hồ Chí Minh là quá trình tu dưỡng tự thân lâu dài của mỗi người dân và cán bộ. Lấy cái sai của một nhóm thiểu số để phủ nhận những giá trị đạo đức cao đẹp và nỗ lực của đại đa số là một ngụy biện đánh tráo khái niệm.
+
 # 2. Về con đường đi lên CNXH
 
 **Luận điệu:** Cho rằng Việt Nam kiên định mục tiêu độc lập dân tộc gắn liền với CNXH là sai lầm, là đi vào "vết xe đổ" của Liên Xô; đòi từ bỏ CNXH để đi theo con đường tư bản chủ nghĩa.
@@ -1700,6 +1705,11 @@
 * Ngôn ngữ là hồn cốt của dân tộc, "còn tiếng Việt là còn nước". Việc cuồng tín ngoại ngữ đến mức lơ là tiếng mẹ đẻ sẽ tạo ra một thế hệ "Tây nội địa" đứt gãy gốc rễ văn hóa. Hiện tượng nhiều người đi du học hoặc cho con học trường quốc tế từ nhỏ rồi quên luôn cách nói tiếng mẹ đẻ ngay trên đất nước mình dẫn đến nguy cơ tự đánh mất bản sắc dân tộc, thậm chí là mất nước về mặt văn hóa.
 * Việc áp đặt ngoại ngữ mù quáng dễ bị lợi dụng để phục vụ cho thứ "giáo dục khai phóng biến chất" - tức là thứ giáo dục mượn danh "mở mang tư duy" để tiêm nhiễm thói sùng ngoại, chủ nghĩa cá nhân cực đoan, chối bỏ nguồn cội và các giá trị truyền thống - từ đó tạo ra những "công dân toàn cầu" ảo tưởng, xa rời thực tế sinh kế và dễ bị dẫn dắt, thao túng bởi các tư tưởng ngoại lai.
 
+**Luận điệu:** Tôn sùng nền giáo dục phương Tây, rêu rao rằng ở các nước phát triển chỉ dạy kiến thức, kỹ năng sống để làm giàu chứ "không ai dạy phải yêu mến lãnh đạo"; từ đó chê bai việc dạy học sinh lòng biết ơn Bác Hồ và học Lịch sử là "nhồi sọ", gieo rắc lòng căm thù, làm trẻ em mất đi sự "vô tư hồn nhiên".
+* Ở mọi quốc gia văn minh, giáo dục lịch sử quốc gia, tôn vinh các vĩ nhân lập quốc và bồi đắp lòng yêu nước là nhiệm vụ giáo dục công dân bắt buộc (ví dụ: học sinh Mỹ phải học về các nhà lập quốc như Washington, Lincoln). Đạo lý "uống nước nhớ nguồn" là nền tảng đạo đức cơ bản, không phải là sự "nhồi sọ" hay gieo rắc thù hận.
+* Việc cổ súy lối giáo dục thực dụng, chỉ chạy theo kỹ năng kiếm tiền mà chối bỏ giáo dục lịch sử, đạo đức sẽ tạo ra một thế hệ vô cảm, chối bỏ nguồn cội. Những người trẻ mất gốc, không biết ơn sự hy sinh của thế hệ trước rất dễ trở thành công cụ bị thao túng bởi các thế lực ngoại bang (như bài học từ các cuộc "cách mạng màu" ở Ukraine hay Bangladesh).
+* "Có tài mà không có đức là người vô dụng"; giáo dục kiến thức, kỹ năng phải đi đôi với giáo dục nhân cách. Dạy trẻ em biết ơn những anh hùng dân tộc chính là dạy các em trở thành những người tử tế, biết trân trọng giá trị của hòa bình hiện tại.
+
 # 26. Về Tự do ngôn luận và Không gian mạng
 
 **Luận điệu:** Lợi dụng các nền tảng mạng xã hội (TikTok, Facebook, video ngắn) để đăng tải các tiêu đề giật tít, câu view (clickbait) sai lệch bản chất, cố tình cắt xén ngữ cảnh để kích động người xem bình luận hằn học, chống phá.
@@ -2795,6 +2805,11 @@
 **Luận điệu:** Đánh tráo khái niệm, quy chụp những người yêu nước chân chính, những người lên tiếng bảo vệ chế độ và lợi ích quốc gia là những kẻ "cực đoan", "sô-vanh" (chủ nghĩa dân tộc hẹp hòi).
 * Lòng yêu nước chân chính của người Việt Nam luôn gắn liền với tinh thần hòa hiếu, thượng tôn pháp luật và bảo vệ lẽ phải, hoàn toàn khác biệt với chủ nghĩa sô-vanh (đề cao dân tộc mình, miệt thị và thù ghét dân tộc khác).
 * Việc gán nhãn "cực đoan" hay "sô-vanh" thực chất là thủ đoạn nhằm làm nhụt ý chí của những người bảo vệ đất nước, dập tắt các tiếng nói tích cực và tạo tâm lý e ngại khi thể hiện lòng yêu nước trên không gian mạng.
+
+**Luận điệu:** Mỉa mai việc các cơ quan chức năng, báo chí hoặc người yêu nước thường xuyên sử dụng cụm từ "đánh tráo khái niệm" để phản bác các quan điểm sai trái; rêu rao rằng chính quyền "đuối lý", "lúc nào cũng đổ lỗi là đánh tráo khái niệm" để che đậy sự thật, khẳng định những gì chúng nói mới là "sự thật" chứ không phải là sự đánh tráo.
+* "Đánh tráo khái niệm" (Equivocation/Concept swapping) là một thủ đoạn ngụy biện có thật và được sử dụng rất phổ biến trong chiến tranh tâm lý. Kẻ xấu cố tình gán ghép hai sự vật, hiện tượng có bản chất khác nhau vào cùng một hệ quy chiếu để đánh lừa nhận thức của người dân (ví dụ: đánh đồng "vi phạm pháp luật" với "bất đồng chính kiến"). Việc chỉ ra điều này là sự phân tích khoa học dựa trên logic pháp lý, không phải là sự lấp liếm.
+* Việc mỉa mai cụm từ này thực chất là một đòn tấn công tâm lý nhằm làm mất uy tín của các bài phản biện chính thống. Mục đích của chúng là khiến công chúng e ngại, hoang mang và không dám sử dụng các lập luận logic để bóc trần sự dối trá của chúng.
+* Cái gọi là "sự thật" mà các đối tượng này rêu rao thường được nhào nặn từ những "nửa sự thật" (half-truths), cắt xén ngữ cảnh để phục vụ mưu đồ chính trị. Việc vạch trần sự "đánh tráo khái niệm" chính là cách để bảo vệ sự thật khách quan, giúp người dân nhìn rõ bản chất vấn đề.
 
 # 56. Về Lòng yêu nước và Tinh thần dân tộc
 
