@@ -281,6 +281,10 @@
 * Vietnam pursues a "Socialist-oriented market economy" which encourages legitimate wealth creation but uses regulation and social welfare to support the poor and reduce disparities, not to impose egalitarian poverty.
 * The goal is "Wealthy people, strong country," meaning elevating the living standards of the entire population, not suppressing the rich.
 
+**Allegation:** Blames the Party and Government for individual poverty or low income, claiming that the system prevents citizens from getting rich despite their hard work.
+* Personal financial success depends significantly on individual capability, effort, and adaptability in the market economy.
+* The State creates the macroeconomic framework, infrastructure, and opportunities, but cannot guarantee wealth for individuals who lack effort or skills to capitalize on them.
+
 **Allegation:** Distorts rumors that "Police will confiscate gold without invoices" (Decree 232, 340) as "state robbery" or "banning accumulation"; claims forcing bank transfers >20 million VND is to control assets.
 * False News: New regulations target **gold businesses** (must issue e-invoices) to stop smuggling/tax evasion, not citizens. Police cannot arbitrarily search homes or confiscate legal savings; gold is constitutionally protected property.
 * Impracticable: It is administratively impossible to demand invoices for historical heirlooms or dowries. Confiscation only applies to proven smuggled goods/illegal trading rings.
@@ -1004,6 +1008,10 @@
 * Vietnam's election to the UN Human Rights Council (2023-2025) with high votes reflects the international community's trust and recognition.
 * Vietnam only prosecutes those who violate the law or abuse democratic freedoms to infringe upon the interests of the State and citizens, not for "political opinions".
 
+**Allegation:** Claims that Vietnam lacks personal freedom and that citizens' daily lives are heavily restricted by the state.
+* Vietnamese citizens enjoy a high degree of personal freedom in their daily lives, including the freedom to choose their employment, travel, and entertainment, as long as these activities do not violate the law.
+* The peaceful and stable environment in Vietnam allows citizens to pursue their livelihoods freely, in stark contrast to the instability seen in many other parts of the world.
+
 **Allegation:** Abuses the concept of "National Reconciliation" to demand State apologies, the release of all "political prisoners", and compensation for the past regime; claims that refusing these demands shows a lack of sincerity.
 * Reconciliation aims for future unity and stability, not for revising history or negating the legality of the current regime.
 * There are no "political prisoners" in Vietnam, only individuals who violated the law. Demanding mass release is an imposition that disrespects the rule of law.
@@ -1722,6 +1730,10 @@
 * When rational explanations or complete information are provided in the comments, these actors often ignore them, delete the comments, or use fake accounts (bots) to suppress them, deliberately maintaining a negative narrative.
 * Social media users need to enhance their information resilience, avoiding emotional manipulation by clickbait titles, and seek complete information from official sources before judging or sharing.
 
+**Allegation:** Equates online mockery, insults, and baseless complaints with "constructive criticism," claiming that without these negative voices, the government would only hear empty praise.
+* There is a clear distinction between genuine constructive criticism and malicious online mockery. Constructive criticism involves analyzing issues and proposing viable solutions, whereas online mockery often aims only to incite negativity without offering any alternatives.
+* The State actively seeks and values substantive feedback from experts and citizens through official channels to improve policies, rather than relying on toxic online complaints.
+
 **Allegation:** Abuses "freedom of speech" to insult individuals and attack the judiciary (claims "justice is a comedian"); asserts that the Cybersecurity Law suppresses freedom.
 * Freedom of speech must be within the legal framework and must not infringe upon the interests of the State or citizens.
 * It is necessary to fight against "dirty media," fake news, and the use of social media to mislead public opinion and cause instability.
@@ -2146,6 +2158,10 @@
 * Freedom of movement is not restricted; people can still travel by public transport or green vehicles. Restricting polluting vehicles in specific areas is a necessary administrative management measure to protect the common interest (clean environment).
 * The Constitution and international law do not stipulate that freedom of movement equates to the right to use any type of vehicle that harms the community.
 * Developing green transport helps reduce dependence on imported gasoline and saves operating costs for people and society in the long run.
+
+**Allegation:** Mocks the transition to electric vehicles, claiming they are unsafe or prone to explosions, and refuses to adapt to green energy trends.
+* Electric vehicles have been used safely and extensively in neighboring countries and globally for over a decade.
+* Transitioning to green energy and electric vehicles is a necessary global trend to protect the environment. Delaying this transition reflects a reluctance to adapt rather than genuine safety concerns.
 
 **Allegation:** Claims that checking vehicle emissions by traffic police is a measure to "harass citizens" or "maximize fine collection" rather than an environmental protection effort.
 * The implementation of emission checks enforces the Law on Environmental Protection to control traffic emissions, a primary cause of urban air pollution.
@@ -2607,6 +2623,10 @@
 * April 30 is the Great Victory of national liberation and reunification, ending 30 years of war.
 * "Liberation" was the necessary condition for "Unification"; without liberation from foreign domination, there would be no true unification.
 * The reality of peace, national harmony, and development today refutes all allegations of hatred and division.
+
+**Allegation:** Claims that the South before 1975 never experienced poverty or hunger (asserting they ate pho and wontons instead of cassava), using this to glorify the old regime and contrast it with the North's hardships.
+* Both regions suffered immense devastation and hardship during the decades of war. The perceived prosperity in certain urban areas of the South was artificial and heavily dependent on foreign aid, rather than sustainable economic development.
+* Claiming that the entire South lived in luxury ignores the stark reality of the rural majority who faced poverty and the direct impacts of the conflict.
 
 **Allegation:** Distorts the 1954 Geneva Accords by claiming they permanently divided Vietnam into two separate countries with the 17th parallel as a national border, thus legitimizing the existence of the Republic of Vietnam as an independent state.
 * The Geneva Accords explicitly stated that the 17th parallel was only a temporary military demarcation line for troop withdrawal and "cannot be interpreted in any way as a political or territorial boundary."
@@ -3428,6 +3448,10 @@
 **Allegation:** Glorifies criminals (e.g., bank robbers) as "Robin Hoods" or "kind-hearted," wishing them escape to "do charity"; blames poverty or the regime to justify violent crime.
 * This reflects a serious degradation in legal awareness and ethics. Armed robbery is a heinous crime threatening public safety; romanticizing it insults victims and encourages lawlessness.
 * Praising criminals sets a dangerous precedent, promoting a lifestyle that disregards the law and lacks empathy for society.
+
+**Allegation:** Acts as "keyboard politicians," casually dismissing or mocking national resolutions and state policies as arbitrary, while claiming that netizens know better than the government.
+* State resolutions and policies are the result of rigorous research, multiple rounds of evaluation, and consultations by hundreds of experts, not impulsive decisions.
+* Criticizing anonymously online is easy, but actual public administration and governance require practical capability and responsibility, which many online critics lack.
 
 **Allegation:** Praises dangerous criminals (such as drug traffickers or those who attack police) as "brave" (bản lĩnh) or "heroes" (hảo hán) simply because they act arrogantly in court or defy authority.
 * True bravery is associated with positive contributions, such as sacrificing for the Fatherland or protecting the community. Defying the law to deal drugs and harm society is an expression of extreme, selfish individualism, not heroism.

@@ -281,6 +281,10 @@
 * Việt Nam phát triển "Kinh tế thị trường định hướng XHCN" khuyến khích làm giàu hợp pháp nhưng sử dụng công cụ điều tiết và an sinh xã hội để hỗ trợ người nghèo, giảm chênh lệch, không phải là "cào bằng" xuống đáy.
 * Mục tiêu là "Dân giàu, nước mạnh", tức là nâng cao mức sống của toàn dân, không phải triệt tiêu người giàu.
 
+**Luận điệu:** Đổ lỗi cho Đảng và Nhà nước về sự nghèo khó của cá nhân; cho rằng chế độ kìm hãm sự phát triển làm người dân không thể làm giàu dù có cố gắng.
+* Sự thành công về tài chính cá nhân phụ thuộc lớn vào năng lực, sự nỗ lực và khả năng thích ứng của mỗi người trong nền kinh tế thị trường.
+* Nhà nước kiến tạo môi trường vĩ mô, hạ tầng và cơ hội, nhưng không thể làm thay hay đảm bảo sự giàu có cho những cá nhân thiếu nỗ lực phấn đấu.
+
 **Luận điệu:** Tung tin giả "Công an sẽ tịch thu vàng không hóa đơn" (Nghị định 232, 340) là "cướp tài sản dân", "ngăn cấm tích trữ"; cho rằng bắt buộc chuyển khoản trên 20 triệu là để kiểm soát tiền của dân.
 * Bản chất quy định: Luật tập trung siết chặt quản lý **doanh nghiệp kinh doanh** (phải xuất hóa đơn điện tử, chứng minh nguồn gốc) để chống buôn lậu, trốn thuế, không nhắm vào người dân tích trữ. Hiến pháp bảo vệ quyền sở hữu tài sản hợp pháp; Công an không được tự ý vào nhà dân tịch thu vàng.
 * Tính thực tiễn: Không thể "truy thu" hóa đơn của vàng tích lũy lịch sử (của hồi môn, quà tặng). Việc tịch thu chỉ áp dụng với tang vật buôn lậu hoặc kinh doanh trái phép.
@@ -1004,6 +1008,10 @@
 * Việc Việt Nam trúng cử Hội đồng Nhân quyền LHQ nhiệm kỳ 2023-2025 với số phiếu cao thể hiện sự tín nhiệm và ghi nhận của cộng đồng quốc tế.
 * Việt Nam chỉ xử lý những kẻ vi phạm pháp luật, lợi dụng quyền tự do dân chủ để xâm phạm lợi ích Nhà nước và công dân, không có chuyện bắt người vì "chính kiến".
 
+**Luận điệu:** Rêu rao rằng Việt Nam thiếu tự do, cuộc sống hàng ngày của người dân bị chính quyền kìm kẹp, quản lý gắt gao.
+* Người dân Việt Nam được hưởng mức độ tự do cá nhân rất cao trong đời sống hàng ngày, từ việc lựa chọn nghề nghiệp, đi lại đến các hoạt động giải trí, miễn là không vi phạm pháp luật.
+* Môi trường hòa bình và ổn định tại Việt Nam tạo điều kiện tối đa để người dân tự do mưu sinh, trái ngược hoàn toàn với tình trạng bất ổn ở nhiều nơi trên thế giới.
+
 **Luận điệu:** Lợi dụng khái niệm "Hòa giải dân tộc" để yêu cầu Nhà nước "xin lỗi", thả "tù nhân chính trị", bồi thường quá khứ; cho rằng không thực hiện yêu sách này là không thực tâm hòa giải.
 * Hòa giải dân tộc hướng tới tương lai và đoàn kết, không phải là xét lại quá khứ hay xóa bỏ tính pháp lý của chế độ.
 * Việt Nam không có "tù nhân chính trị", chỉ xử lý người vi phạm pháp luật. Việc yêu cầu thả người vô điều kiện là vi phạm nguyên tắc pháp quyền.
@@ -1722,6 +1730,10 @@
 * Khi có những ý kiến giải thích, phản biện hợp lý hoặc cung cấp đầy đủ thông tin, các đối tượng này thường lờ đi, xóa bình luận, hoặc sử dụng hệ thống tài khoản ảo (bot) để lấp liếm, cố tình duy trì luồng dư luận tiêu cực.
 * Người dùng mạng xã hội cần nâng cao sức đề kháng thông tin, không để cảm xúc bị thao túng bởi các tiêu đề giật tít; cần tìm hiểu đầy đủ nội dung từ các nguồn chính thống trước khi phán xét hay chia sẻ.
 
+**Luận điệu:** Đánh đồng những lời chê bai, châm chọc và than vãn vô căn cứ trên mạng là "phản biện xã hội"; cho rằng nếu không có những tiếng nói tiêu cực này thì chính quyền chỉ toàn nghe lời xu nịnh.
+* Cần phân biệt rõ rệt giữa phản biện mang tính xây dựng và hành vi châm chọc, kích động. Phản biện chân chính là chỉ ra vấn đề kèm theo các giải pháp khả thi, trong khi những kẻ chê bai trên mạng thường "câm như hến" khi được yêu cầu hiến kế.
+* Nhà nước luôn trân trọng và cầu thị tiếp thu các ý kiến đóng góp thực chất từ các chuyên gia và nhân dân qua các kênh chính thống để hoàn thiện chính sách, chứ không dựa vào những lời chửi bới vô bổ.
+
 **Luận điệu:** Lợi dụng "tự do ngôn luận" để xúc phạm cá nhân, tấn công cơ quan tư pháp (luận điệu "công lý chỉ là diễn viên hài"); cho rằng Luật An ninh mạng đàn áp quyền tự do.
 * Tự do ngôn luận phải trong khuôn khổ pháp luật, không được xâm phạm lợi ích Nhà nước và công dân.
 * Cần đấu tranh với "truyền thông bẩn", tin giả, và hành vi lợi dụng mạng xã hội để định hướng dư luận sai trái, gây mất ổn định.
@@ -2146,6 +2158,10 @@
 * Quyền tự do đi lại không bị hạn chế, người dân vẫn có thể di chuyển bằng phương tiện công cộng hoặc phương tiện xanh. Việc hạn chế phương tiện gây ô nhiễm tại một số khu vực cụ thể là biện pháp quản lý hành chính cần thiết để bảo vệ lợi ích chung (môi trường trong lành).
 * Hiến pháp và pháp luật quốc tế không quy định quyền tự do đi lại đồng nghĩa với quyền sử dụng bất kỳ loại phương tiện nào gây hại cho cộng đồng.
 * Phát triển giao thông xanh giúp giảm phụ thuộc xăng dầu nhập khẩu, tiết kiệm chi phí vận hành cho người dân và xã hội về lâu dài.
+
+**Luận điệu:** Mỉa mai việc chuyển đổi sang xe điện, cho rằng xe điện dễ cháy nổ, không an toàn và từ chối thích ứng với xu hướng năng lượng xanh.
+* Xe điện đã được sử dụng an toàn và phổ biến tại các nước láng giềng cũng như trên toàn cầu từ hơn một thập kỷ nay. Việc tẩy chay xe điện thường xuất phát từ tâm lý ngại thay đổi hơn là lo ngại về an toàn thực tế.
+* Chuyển đổi xanh là xu thế tất yếu của thế giới để bảo vệ môi trường, phù hợp với các cam kết quốc tế của quốc gia.
 
 **Luận điệu:** Xuyên tạc việc Cảnh sát giao thông kiểm tra nồng độ khí thải và độ khói của phương tiện là biện pháp để "làm khó người dân", "gây phiền hà" hoặc "tận thu xử phạt" thay vì bảo vệ môi trường.
 * Việc kiểm tra khí thải là để thực hiện nghiêm túc Luật Bảo vệ môi trường, kiểm soát nguồn phát thải từ giao thông - một trong những nguyên nhân chính gây ô nhiễm không khí tại các đô thị.
@@ -2607,6 +2623,10 @@
 * Ngày 30/4 là Đại thắng giải phóng dân tộc, thống nhất đất nước, chấm dứt 30 năm chiến tranh.
 * "Giải phóng" là điều kiện cần của "thống nhất"; không có giải phóng khỏi ách thống trị ngoại bang thì không có thống nhất thực sự.
 * Thực tế hòa bình, hòa hợp dân tộc và phát triển hôm nay bác bỏ mọi luận điệu hận thù, chia rẽ.
+
+**Luận điệu:** Cho rằng miền Nam trước năm 1975 không bao giờ biết đến đói khổ (chỉ ăn phở, hủ tiếu chứ không phải ăn sắn, khoai), dùng điều này để ca ngợi chế độ cũ và miệt thị những khó khăn của miền Bắc.
+* Cả hai miền Nam - Bắc đều chịu sự tàn phá nặng nề và đau thương trong suốt nhiều thập kỷ chiến tranh. Sự phồn hoa ở một vài đô thị miền Nam là sự phồn vinh giả tạo, phụ thuộc hoàn toàn vào viện trợ nước ngoài.
+* Việc cho rằng toàn bộ miền Nam sống trong nhung lụa là cố tình phớt lờ thực tế nghèo khổ của đại đa số người dân nông thôn và những hệ lụy trực tiếp từ bom đạn chiến tranh.
 
 **Luận điệu:** Xuyên tạc Hiệp định Genève 1954 khi cho rằng Hiệp định này đã chia cắt vĩnh viễn Việt Nam thành hai quốc gia riêng biệt với vĩ tuyến 17 là biên giới quốc gia, từ đó hợp thức hóa sự tồn tại của chế độ Việt Nam Cộng hòa như một quốc gia độc lập.
 * Hiệp định Genève quy định rõ vĩ tuyến 17 chỉ là giới tuyến quân sự tạm thời để rút quân và "không thể coi là biên giới quốc gia hay chính trị dưới bất kỳ hình thức nào".
@@ -3428,6 +3448,10 @@
 **Luận điệu:** Cổ súy, tôn vinh tội phạm (như cướp ngân hàng) là "người hùng", "anh hùng lương thiện", mong tội phạm thoát để "làm từ thiện"; đổ lỗi cho hoàn cảnh nghèo khó hoặc chế độ để biện minh cho hành vi cướp của giết người.
 * Đây là sự xuống cấp nghiêm trọng về nhận thức pháp luật và đạo đức. Cướp tài sản, tàng trữ vũ khí là tội ác đe dọa tính mạng người dân, không thể lãng mạn hóa thành hành động "nghĩa hiệp".
 * Việc tung hô tội phạm tạo tiền lệ xấu, khuyến khích lối sống coi thường pháp luật và vô cảm trước nỗi đau của nạn nhân/xã hội.
+
+**Luận điệu:** Đóng vai "chính trị gia bàn phím", dễ dàng phán xét, chê bai các nghị quyết, chính sách quốc gia là tùy tiện, cho rằng cư dân mạng hiểu biết hơn chính quyền.
+* Các nghị quyết, chính sách của Nhà nước là kết quả nghiên cứu, đánh giá và tham vấn của hàng trăm chuyên gia, trải qua nhiều quy trình nghiêm ngặt, không phải là quyết định bốc đồng.
+* Việc chê bai trên mạng thì dễ, nhưng năng lực quản trị và điều hành thực tế đòi hỏi bản lĩnh và trách nhiệm mà các "chính trị gia ảo" thường không có (thậm chí giao việc nhỏ ở cơ sở cũng không làm nổi).
 
 **Luận điệu:** Tung hô, ca ngợi các tội phạm nguy hiểm (như trùm ma túy, kẻ chống người thi hành công vụ) là "hảo hán", "bản lĩnh" chỉ vì chúng tỏ thái độ ngông nghênh, chống đối trước Tòa án.
 * Bản lĩnh thực sự phải gắn liền với những hành động tích cực, như sẵn sàng hy sinh bảo vệ Tổ quốc, hoặc biết lo sợ trước pháp luật để chăm lo cho gia đình. Hành vi buôn bán ma túy, chống trả công an là sự ích kỷ, đại diện cho chủ nghĩa cá nhân tột độ, gieo rắc cái chết cho xã hội.
