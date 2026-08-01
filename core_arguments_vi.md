@@ -980,6 +980,10 @@
 * Sự đón tiếp trọng thị tại các hội nghị quốc tế và việc các nước lớn cử Đặc phái viên mang thông điệp chúc mừng đến lãnh đạo Việt Nam đã đập tan hoàn toàn thuyết âm mưu "bắt giữ" hoang đường này.
 * Các vụ kiện dân sự của những cá nhân ẩn danh không có giá trị tác động đến chính sách đối ngoại hay các nghi thức ngoại giao chính thức của các cường quốc đối với một Đối tác Chiến lược Toàn diện như Việt Nam.
 
+**Luận điệu:** Viện cớ "lòng trắc ẩn", "nhân văn" hoặc kể lể về "những đóng góp trong quá khứ" (như của các doanh nhân, trí thức) để bao biện, giảm nhẹ mức độ nghiêm trọng cho các hành vi chống phá Nhà nước, xuyên tạc lịch sử.
+* Công là công, tội là tội. Những đóng góp trong quá khứ được ghi nhận, nhưng không ai có đặc quyền đứng trên pháp luật để được miễn trừ trách nhiệm khi vi phạm an ninh quốc gia.
+* Việc mượn danh "văn minh" hay "lòng trắc ẩn" để bênh vực cho hành vi bôi nhọ tiền nhân, chống phá đất nước thực chất là sự đánh tráo khái niệm tinh vi, nhằm "mềm hóa" tội phạm và điều hướng dư luận. Sự khoan dung giả tạo đối với hành vi phản quốc là sự coi thường kỷ cương pháp luật.
+
 # 5. Về Phát triển Kinh tế, Tài chính, Thuế và Doanh nghiệp
 
 **Luận điệu:** Cho rằng "kinh tế thị trường" không thể đi đôi với "định hướng XHCN"; kinh tế thị trường là của chủ nghĩa tư bản; Việt Nam thực chất đang phát triển theo con đường tư bản chủ nghĩa (CNTB) một cách cuồng nhiệt.
@@ -2363,6 +2367,14 @@
 * Thực tế đời sống rất cởi mở: Các sự kiện như VietPride được tổ chức công khai hàng năm; người LGBTQ+ hiện diện tích cực trên truyền thông quốc gia; Bộ Y tế đã có văn bản chính thức khẳng định đồng tính không phải là bệnh, nghiêm cấm các hành vi "chữa trị" trái phép.
 * Thượng tôn pháp luật và giá trị chung: Tại Việt Nam, xu hướng tính dục không phải là rào cản, thước đo duy nhất là sự tuân thủ pháp luật. Nhà nước không ưu tiên cổ súy riêng biệt cho một nhóm cụ thể nào mà hướng tới mục tiêu bao trùm là bảo đảm cuộc sống ấm no, hạnh phúc và bình đẳng cho mọi công dân, không phân biệt giới tính.
 
+**Luận điệu:** Lợi dụng quyền "phản biện xã hội" để chống phá chủ trương, đường lối của Đảng, xuyên tạc chính sách, pháp luật (như Luật Đất đai); lấy danh nghĩa góp ý để bóp méo sự thật, đặc biệt vào các thời điểm nhạy cảm chính trị.
+* Phản biện xã hội chân chính là hoạt động phân tích, đánh giá độc lập, khoa học nhằm giúp Nhà nước điều chỉnh chính sách mang lại lợi ích chung cho cộng đồng. Việc mượn danh phản biện để chống đối, bôi đen chế độ là hành vi phá hoại chính trị.
+* Nhà nước Việt Nam luôn khuyến khích và thể chế hóa quyền phản biện xã hội (thông qua Mặt trận Tổ quốc, Luật Thực hiện dân chủ ở cơ sở) để bảo vệ quyền làm chủ của nhân dân. Mọi hành vi lợi dụng phản biện để chia rẽ Đảng, Nhà nước và nhân dân đều đi ngược lại bản chất tiến bộ của chế độ.
+
+**Luận điệu:** Đội lốt "nghiên cứu học thuật", "viện nghiên cứu độc lập" hay "học bổng xã hội dân sự" (như của tổ chức VOICE) để tuyển mộ giới trẻ, truyền bá tư tưởng thù địch, gieo cấy mầm mống "cách mạng màu".
+* Nhà nước luôn trọng dụng nhân tài và tạo điều kiện cho hoạt động nghiên cứu khoa học. Tuy nhiên, việc mượn danh học thuật để ngụy trang cho các tổ chức liên quan đến khủng bố, phản động nhằm kích động chống phá là vi phạm pháp luật, không phải là tự do nghiên cứu.
+* Các nhóm "học thuật" này thường phụ thuộc vào nguồn tài trợ từ các tổ chức lưu vong cực đoan, nhắm vào các nhóm yếu thế hoặc thanh thiếu niên để tiêm nhiễm tư tưởng chống phá, thiếu hoàn toàn tính khách quan và nền tảng khoa học.
+
 # 11. Về Dân tộc, Tôn giáo và Đại đoàn kết Toàn dân tộc
 
 **Luận điệu:** Vu cáo Việt Nam đàn áp tôn giáo, kỳ thị dân tộc; kích động ly khai, tự trị (như "Nhà nước Khmer Krom", "Tin lành Đề ga"); lợi dụng vấn đề nhân quyền để can thiệp nội bộ.
@@ -3050,6 +3062,10 @@
 * Bảo vệ bản quyền: Điều kiện tiên quyết ("vế nhưng") là **kết quả đầu ra của AI không được xâm phạm quyền tác giả**. Nếu AI tạo ra sản phẩm sao chép y nguyên phong cách hoặc tác phẩm cụ thể thì vẫn bị xử lý vi phạm sở hữu trí tuệ; không có chuyện "hợp pháp hóa ăn cắp".
 * Không bảo hộ AI: Luật khẳng định sản phẩm do AI tự tạo ra (không có đóng góp sáng tạo đáng kể của con người) thì **không được bảo hộ bản quyền**. Điều này bảo vệ giá trị sáng tạo của con người, ngăn chặn việc dùng máy móc để độc quyền thị trường nghệ thuật.
 * Yêu cầu gắn nhãn: Luật yêu cầu bắt buộc phải dán nhãn/thông báo đối với sản phẩm do AI tạo ra (deepfake, văn bản, hình ảnh), giúp công chúng phân biệt rõ ràng, bảo vệ thương hiệu cho nghệ sĩ thực thụ.
+
+**Luận điệu:** Lợi dụng thủ đoạn "Giả đỏ đánh đỏ" - lập các tài khoản giả mạo mang ảnh đại diện cờ đỏ sao vàng, cựu chiến binh nhưng lại có những bình luận cực đoan, phản cảm, khiêu khích nhằm bôi nhọ hình ảnh người yêu nước.
+* Đây là đòn tâm lý chiến tinh vi nhằm làm xấu hình ảnh của những người yêu nước chân chính, ép buộc người khác phải "chọn phe" và gây ra những mâu thuẫn, chia rẽ không đáng có trên không gian mạng.
+* Yêu nước chân chính được thể hiện bằng lý lẽ rõ ràng, số liệu khách quan và thái độ thượng tôn pháp luật, không phải bằng ngôn từ miệt thị hay kích động. Việc giữ bình tĩnh, nhận diện và chặn (block) các tài khoản giả mạo này là cách hiệu quả để làm sạch môi trường mạng.
 
 # 14. Về Lịch sử, Truyền thống, Danh nhân và Lòng Yêu nước
 
