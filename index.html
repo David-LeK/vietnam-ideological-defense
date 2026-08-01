@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Thư viện phản biện | Refutation Library</title>
-  <meta name="description" content="Hệ thống luận cứ, số liệu thực tiễn và phản bác khoa học đối với 14 nhóm chuyên đề nhận thức sai lệch." />
+  <meta name="description" content="Hệ thống luận cứ, số liệu thực tiễn và phản bác khoa học đối với các nhóm chuyên đề nhận thức sai lệch." />
   
   <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
@@ -185,9 +185,7 @@
           Thư viện Phản biện - Đấu tranh & Phản biện Luận điệu Xuyên tạc
         </h2>
 
-        <p id="hero-desc" class="text-base sm:text-lg text-paper-muted font-medium max-w-3xl leading-relaxed">
-          Hệ thống 14 chuyên đề trọng điểm, 683 luận điệu sai lệch và 1.966 luận cứ phản bác khoa học kèm số liệu thực tiễn.
-        </p>
+
 
         <div class="p-3.5 rounded-2xl bg-paper-bg border-2 border-paper-border text-xs sm:text-sm text-paper-muted font-medium flex items-start gap-2.5 max-w-3xl shadow-paper-sm">
           <svg class="w-4 h-4 mt-0.5 flex-shrink-0 text-paper-amber" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -201,15 +199,15 @@
         <!-- Stats Grid -->
         <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-4">
           <div class="p-4 rounded-2xl bg-paper-bg border-2 border-paper-border shadow-paper-sm text-center">
-            <div id="stat-topics" class="font-serif font-extrabold text-2xl sm:text-3xl text-paper-accent">14</div>
+            <div id="stat-topics" class="font-serif font-extrabold text-2xl sm:text-3xl text-paper-accent">-</div>
             <div id="stat-topics-lbl" class="text-xs font-bold text-paper-muted uppercase tracking-wider mt-1">Chuyên đề</div>
           </div>
           <div class="p-4 rounded-2xl bg-paper-bg border-2 border-paper-border shadow-paper-sm text-center">
-            <div id="stat-allegations" class="font-serif font-extrabold text-2xl sm:text-3xl text-paper-accent">683</div>
+            <div id="stat-allegations" class="font-serif font-extrabold text-2xl sm:text-3xl text-paper-accent">-</div>
             <div id="stat-allegations-lbl" class="text-xs font-bold text-paper-muted uppercase tracking-wider mt-1">Luận điệu</div>
           </div>
           <div class="p-4 rounded-2xl bg-paper-bg border-2 border-paper-border shadow-paper-sm text-center">
-            <div id="stat-refutations" class="font-serif font-extrabold text-2xl sm:text-3xl text-paper-accent">1.966</div>
+            <div id="stat-refutations" class="font-serif font-extrabold text-2xl sm:text-3xl text-paper-accent">-</div>
             <div id="stat-refutations-lbl" class="text-xs font-bold text-paper-muted uppercase tracking-wider mt-1">Luận cứ phản bác</div>
           </div>
         </div>
@@ -245,7 +243,7 @@
         <!-- Topic Selector Dropdown -->
         <div class="w-full lg:w-72">
           <select id="topic-select" onchange="handleTopicSelect(this.value)" class="w-full px-4 py-3 rounded-full bg-paper-bg border-2 border-paper-border text-paper-text text-sm font-semibold focus:outline-none focus:ring-2 focus:ring-paper-accent transition-all cursor-pointer">
-            <option value="all">Tất cả 14 Chuyên đề</option>
+            <option value="all">Tất cả Chuyên đề</option>
           </select>
         </div>
 
@@ -325,9 +323,7 @@
 
       <!-- PAGINATION -->
       <div id="pagination-container" class="flex flex-col sm:flex-row items-center justify-between gap-4 mt-8 pt-4 border-t-2 border-paper-softBorder">
-        <div id="pagination-info" class="text-xs font-bold text-paper-muted">
-          Hiển thị 1 - 18 trên 683 luận điệu
-        </div>
+        <div id="pagination-info" class="text-xs font-bold text-paper-muted"></div>
         <div class="flex items-center gap-2">
           <button id="prev-page-btn" onclick="changePage(-1)" class="px-4 py-2 rounded-full border-2 border-paper-border bg-paper-surface text-paper-text font-bold text-xs disabled:opacity-50 btn-paper">
             Trang trước
@@ -446,14 +442,13 @@
         brandTitle: 'THƯ VIỆN <span class="text-paper-accent">PHẢN BIỆN</span>',
         navSubtitle: 'Đấu tranh và phản biện luận điệu xuyên tạc',
         heroTitle: 'Thư viện Phản biện - Đấu tranh & Phản biện Luận điệu Xuyên tạc',
-        heroDesc: 'Hệ thống 14 chuyên đề trọng điểm, 683 luận điệu sai lệch và 1.966 luận cứ phản bác khoa học kèm số liệu thực tiễn.',
         heroDisclaimer: '<strong class="text-paper-text">Chú ý:</strong> Đây là thông tin tổng hợp từ Internet, có thể có sai sót hoặc đã lỗi thời. Vui lòng cẩn thận kiểm chứng thông tin khi sử dụng.',
         statTopics: 'Chuyên đề',
         statAllegations: 'Luận điệu',
         statRefutations: 'Luận cứ phản bác',
         statFacts: 'Số liệu thực tiễn',
         searchPlaceholder: 'Tìm kiếm theo từ khóa, số liệu, luận điệu hoặc chuyên đề...',
-        allTopicsDropdown: 'Tất cả 14 Chuyên đề',
+        allTopicsDropdown: 'Tất cả Chuyên đề',
         export: 'Xuất dữ liệu',
         emptyTitle: 'Không tìm thấy kết quả phù hợp',
         emptyDesc: 'Thử thay đổi từ khóa tìm kiếm hoặc chọn lại chuyên đề khác.',
@@ -489,14 +484,13 @@
         brandTitle: 'REFUTATION <span class="text-paper-accent">LIBRARY</span>',
         navSubtitle: 'Struggle & Refutation of Distorted Allegations',
         heroTitle: 'Refutation Library & Defense against Distorted Allegations',
-        heroDesc: 'Comprehensive collection of 14 core topics, 683 distorted allegations, and 1,966 scientific refutations with empirical facts.',
         heroDisclaimer: '<strong class="text-paper-text">Notice:</strong> This information is compiled from the Internet and may contain errors or be outdated. Please carefully verify the information before use.',
         statTopics: 'Topics',
         statAllegations: 'Allegations',
         statRefutations: 'Refutations',
         statFacts: 'Empirical Facts',
         searchPlaceholder: 'Search keywords, facts, allegations or topics...',
-        allTopicsDropdown: 'All 14 Topics',
+        allTopicsDropdown: 'All Topics',
         export: 'Export Data',
         emptyTitle: 'No matching results found',
         emptyDesc: 'Try adjusting your search keywords or selecting a different topic.',
@@ -583,9 +577,9 @@
       if (!stats) return;
       state.lastStats = stats;
       const lang = state.currentLang;
-      document.getElementById('stat-topics').textContent = formatNumber(stats.totalTopics || 88, lang);
-      document.getElementById('stat-allegations').textContent = formatNumber(stats.totalAllegations || 683, lang);
-      document.getElementById('stat-refutations').textContent = formatNumber(stats.totalRefutations || 1966, lang);
+      document.getElementById('stat-topics').textContent = formatNumber(stats.totalTopics || 0, lang);
+      document.getElementById('stat-allegations').textContent = formatNumber(stats.totalAllegations || 0, lang);
+      document.getElementById('stat-refutations').textContent = formatNumber(stats.totalRefutations || 0, lang);
     }
 
     function parseClientSideMarkdown(enText, viText) {
@@ -862,9 +856,12 @@
     function populateTopicSelect() {
       const select = document.getElementById('topic-select');
       const isVi = state.currentLang === 'vi';
-      const dict = i18n[state.currentLang];
+      const count = state.topics ? state.topics.length : 0;
+      const allText = isVi 
+        ? (count ? `Tất cả ${count} Chuyên đề` : 'Tất cả Chuyên đề')
+        : (count ? `All ${count} Topics` : 'All Topics');
 
-      let options = `<option value="all">${dict.allTopicsDropdown}</option>`;
+      let options = `<option value="all">${allText}</option>`;
       state.topics.forEach(t => {
         const title = isVi ? t.title_vi : t.title_en;
         options += `<option value="${t.id}">${t.id}. ${title}</option>`;
@@ -926,7 +923,6 @@
       document.getElementById('nav-brand').innerHTML = dict.brandTitle;
       document.getElementById('nav-subtitle').textContent = dict.navSubtitle;
       document.getElementById('hero-title').textContent = dict.heroTitle;
-      document.getElementById('hero-desc').textContent = dict.heroDesc;
       document.getElementById('hero-disclaimer').innerHTML = dict.heroDisclaimer;
       document.getElementById('stat-topics-lbl').textContent = dict.statTopics;
       document.getElementById('stat-allegations-lbl').textContent = dict.statAllegations;
