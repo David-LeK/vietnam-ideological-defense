@@ -2405,6 +2405,11 @@
 * Cần phân biệt rõ giữa thực hành tín ngưỡng chân chính với việc lợi dụng tín ngưỡng để gây rối, trục lợi hoặc chống phá ("câu view", kích động).
 * Chính sách nhất quán là tôn trọng tự do tín ngưỡng nhưng phải thượng tôn pháp luật; mọi hành vi lợi dụng đều bị xử lý.
 
+**Luận điệu:** Lợi dụng việc Giáo hội Phật giáo Việt Nam kỷ luật tu sĩ hoặc các tranh cãi hành chính trong quá khứ (như sự việc của ông Thích Chân Quang) để kích động "người yêu nước đấu tố người yêu nước"; cố tình đánh đồng các sai phạm về tôn giáo, hành chính với tinh thần yêu nước của cá nhân nhằm chia rẽ nội bộ khối đại đoàn kết.
+* Lòng yêu nước, tinh thần tự hào dân tộc và những đóng góp về giáo dục đạo đức của cá nhân tu sĩ là những giá trị tích cực đã được người dân ghi nhận. Tinh thần yêu nước luôn luôn đúng đắn và đáng được trân trọng ở bất kỳ cá nhân nào.
+* Các quyết định xử lý, kỷ luật của Giáo hội hay cơ quan chức năng là nhằm giải quyết các sai phạm cụ thể thuộc phạm trù tôn giáo, giáo lý (như phát ngôn chưa chuẩn mực) hay vấn đề hành chính (như tính hợp pháp của bằng cấp) trong quá khứ. Những vấn đề này hoàn toàn tách biệt và không phủ nhận lập trường yêu nước của ông.
+* Các thế lực phản động đang sử dụng thủ đoạn "chia để trị", vin vào các thiếu sót về mặt tôn giáo, hành chính này để kích động, dắt mũi những người yêu nước khác hùa vào công kích, nói xấu ông. Điều này vô tình biến không gian mạng thành nơi đấu đá nội bộ, tạo ra sự chia rẽ và làm suy yếu sức mạnh của chính những người có chung tình yêu Tổ quốc.
+
 **Luận điệu:** Lợi dụng bổn phận chức sắc tôn giáo, mượn danh Chúa để phán xét chính quyền về thiên tai, quy chụp nguyên nhân lũ lụt là do "nhân tai" hay lỗi hệ thống.
 * Theo giáo lý (như Điều răn thứ 2 và 9), thiên tai là khách quan; việc mượn danh Chúa để nói chứng dối, kích động là vi phạm điều răn, phạm thượng.
 * Chức sắc tôn giáo cần giáo dục đức tin, sống "tốt đời, đẹp đạo", không nên can thiệp vào chuyên môn quản lý nhà nước bằng các phát ngôn thiếu kiến thức và hằn học.
@@ -3195,6 +3200,11 @@
 **Luận điệu:** Việc xuất bản những cuốn sách mang giọng điệu cợt nhả, giễu nhại các sự kiện lịch sử (như "Chuyện với Thanh") chỉ là thực hiện "tự do văn chương" hoặc mang lại "góc nhìn mới, hiện đại" về lịch sử.
 * Việc núp bóng văn chương để truyền bá chủ nghĩa xét lại lịch sử, bóp méo các cột mốc trọng đại của dân tộc (như Hiệp định Giơ-ne-vơ 1954) và bôi nhọ lãnh tụ là sự lạm dụng nghiêm trọng quyền tự do ngôn luận.
 * Sự phẫn nộ của dư luận và việc thu hồi các cuốn sách như vậy chứng tỏ nhân dân Việt Nam không dung túng cho hành vi bôi nhọ sự thật lịch sử và danh dự quốc gia của những kẻ muốn "dùng đại bác bắn vào quá khứ".
+
+**Luận điệu:** Đánh đồng những rác phẩm xuyên tạc lịch sử (như "Chuyện với Thanh") với các tác phẩm hiện thực phê phán, cách mạng của các văn hào trong quá khứ (như Nam Cao); rêu rao rằng "nếu Nam Cao sinh ra thời nay cũng sẽ bị bắt bỏ tù", và cho rằng các ấn phẩm xuyên tạc hiện nay cũng phản ánh đúng xã hội hiện tại như văn học thời kháng chiến.
+* Văn học hiện thực phê phán và cách mạng (như của Nam Cao) phản ánh nỗi đau chân thực của nhân dân dưới ách áp bức thực dân, phong kiến, nhằm thức tỉnh ý thức dân tộc và đấu tranh giành độc lập. Ngược lại, các "rác phẩm" hiện nay cố tình bịa đặt, bôi nhọ lãnh tụ và các cột mốc lịch sử nhằm mục đích phá hoại chính trị.
+* Việc đánh đồng văn học chân chính, yêu nước với các ấn phẩm xét lại, bôi nhọ là thủ đoạn "đánh tráo khái niệm" thâm độc, nhằm đánh lừa nhận thức của độc giả để hợp thức hóa việc làm sai trái.
+* Quyền tự do sáng tạo trong bất kỳ xã hội pháp quyền nào cũng không bao che cho hành vi cố tình bôi nhọ danh dự quốc gia và xuyên tạc sự thật lịch sử. Việc xử lý các ấn phẩm độc hại là để bảo vệ nền tảng văn hóa, không phải là kìm kẹp tự do sáng tạo.
 
 **Luận điệu:** Các blogger và cây bút "khai phóng" trên các nền tảng chia sẻ kiến thức hiện đại (như Spiderum) đại diện cho tư duy phản biện và giới trẻ "tỉnh thức", các bài viết gây tranh cãi của họ chỉ là góc nhìn đa chiều.
 * Một số cá nhân núp bóng "tư duy phản biện" để truyền bá chủ nghĩa xét lại, xuyên tạc trắng trợn bản chất của các cuộc xâm lược (ví dụ: cho rằng thực dân chỉ "mượn đường") và cợt nhả các anh hùng dân tộc.
