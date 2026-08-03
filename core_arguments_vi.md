@@ -3072,6 +3072,11 @@
 * Đây là đòn tâm lý chiến tinh vi nhằm làm xấu hình ảnh của những người yêu nước chân chính, ép buộc người khác phải "chọn phe" và gây ra những mâu thuẫn, chia rẽ không đáng có trên không gian mạng.
 * Yêu nước chân chính được thể hiện bằng lý lẽ rõ ràng, số liệu khách quan và thái độ thượng tôn pháp luật, không phải bằng ngôn từ miệt thị hay kích động. Việc giữ bình tĩnh, nhận diện và chặn (block) các tài khoản giả mạo này là cách hiệu quả để làm sạch môi trường mạng.
 
+**Luận điệu:** Tự xưng là các trang mạng "yêu nước", "cờ đỏ" để lạm dụng quyền lực mạng, tự cho mình quyền kết tội người khác; tùy tiện gán mác "phản động", "giặc", hoặc "giả đỏ đánh đỏ" cho bất kỳ ai có quan điểm trái chiều hoặc không hùa theo các chiến dịch công kích cá nhân.
+* Tự do ngôn luận và quyền phản biện xã hội không đồng nghĩa với việc được phép lăng mạ, vu khống hay thay thế cơ quan chức năng kết tội người khác. Việc tranh luận cần dựa trên bằng chứng và lý lẽ khách quan, không thể dùng thuyết âm mưu để quy chụp.
+* Hành vi "ngáo quyền lực mạng", đấu tố cực đoan dưới vỏ bọc yêu nước thực chất là đang trúng kế "ly gián" của các thế lực thù địch. Nó tạo cớ để các đối tượng chống phá vịn vào đó bôi nhọ những người yêu nước chân chính là "bò đỏ", "hồng vệ binh", làm xấu đi hình ảnh của lực lượng bảo vệ nền tảng tư tưởng.
+* Yêu nước chân chính là trung thành với lợi ích của Tổ quốc và dân tộc, thượng tôn pháp luật, không phải là việc gào thét phô trương hay sùng bái một cá nhân. Việc quy chụp ngay cả các cơ quan chức năng (khi xử lý sai phạm) là "giặc" thể hiện sự ngông cuồng, đi ngược lại chủ trương của Đảng và Nhà nước.
+
 # 14. Về Lịch sử, Truyền thống, Danh nhân và Lòng Yêu nước
 
 **Luận điệu:** Xuyên tạc ý nghĩa Cách mạng Tháng Tám và Quốc khánh 2/9; cho rằng độc lập không mang lại tự do, hạnh phúc; kêu gọi "xét lại" lịch sử.
