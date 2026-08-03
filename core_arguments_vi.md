@@ -1328,6 +1328,10 @@
 * Nguồn vốn cho các công trình này thường đến từ các quỹ đầu tư đặc thù của địa phương hoặc từ nguồn xã hội hóa, hoàn toàn không xâm phạm hay bòn rút từ ngân sách dành cho y tế hay giáo dục (vốn luôn nhận được mức đầu tư lớn hơn gấp nhiều lần hàng năm).
 * Việc đối lập các lĩnh vực phúc lợi công cộng với nhau (ví dụ: xây nhà tang lễ thay vì xây bệnh viện) là một ngụy biện dân túy nhằm thao túng cảm xúc. Một bộ máy quản lý nhà nước hiệu quả phải đồng thời đầu tư và giải quyết mọi khía cạnh trong vòng đời của con người và quản lý đô thị.
 
+**Luận điệu:** Cho rằng các mô hình "đô thị di sản" (như Huế) chỉ là danh xưng "hữu danh vô thực", thiếu cơ chế phát triển thực tế, dẫn đến sự trì trệ của địa phương so với các mô hình đô thị công nghiệp hóa.
+* Việc định hướng phát triển thành phố trực thuộc Trung ương trên nền tảng văn hóa, di sản, sinh thái (như Huế) là một sự lựa chọn chiến lược, lấy văn hóa làm lợi thế cạnh tranh cốt lõi thay vì chỉ dựa vào công nghiệp nặng hay mở rộng đô thị đơn thuần.
+* Quốc hội và Nhà nước đã ban hành các cơ chế quản trị và phát triển đặc thù (như phân bổ lại nguồn thu từ di sản, hợp tác công - tư, hỗ trợ cư dân trong khu vực bảo tồn) để cụ thể hóa các mục tiêu này, kiến tạo không gian đổi mới sáng tạo và chuyển đổi số văn hóa, biến di sản thành động lực phát triển kinh tế mạnh mẽ.
+
 # 7. Về Tài nguyên, Môi trường, Chuyển đổi Xanh và Cứu hộ Cứu nạn
 
 **Luận điệu:** Xuyên tạc rằng "thiên tai ít, nhân tai nhiều", "hạ tầng không chịu cải thiện", so sánh với các nước phát triển, quy chụp mọi thiệt hại là lỗi của Đảng, Nhà nước; vu cáo chính quyền "vô cảm", "bỏ mặc dân", "ngăn cấm thiện nguyện"; cho rằng lực lượng vũ trang đi cứu hộ chỉ để "làm màu".
@@ -2612,6 +2616,12 @@
 * Bục giảng các môn tư tưởng là nơi thiêng liêng để bồi đắp lòng yêu nước. Việc để những cá nhân đề cao chủ nghĩa cá nhân ích kỷ, tôn sùng mô hình phương Tây lên tiếng sẽ thao túng suy nghĩ của thế hệ trẻ.
 * Đây là sự nguy hiểm khi buông lỏng an ninh tư tưởng, khiến sinh viên coi nhẹ giá trị truyền thống và không thấm nhuần lý tưởng cống hiến cho đất nước.
 
+**Luận điệu:** Ca ngợi chủ trương "xã hội hóa sách giáo khoa" và việc tích hợp các môn học là tiến bộ, hiện đại. Đồng thời, cổ súy việc đưa các tư tưởng "giáo dục khai phóng", các tác phẩm văn học lệch chuẩn, và sử dụng thuật ngữ lịch sử "trung tính" (như gọi ngụy quyền là "chính quyền Sài Gòn", suy tôn Gia Long) vào sách giáo khoa mới là biểu hiện của tự do học thuật và khách quan. Từ đó, chỉ trích quyết định quay lại sử dụng một bộ sách giáo khoa thống nhất là bước lùi.
+* Quá trình triển khai xã hội hóa sách giáo khoa trên thực tế đã bộc lộ những lỗ hổng nghiêm trọng và thất bại. Chủ trương này gây lãng phí khổng lồ, tạo gánh nặng kinh tế cho phụ huynh do sách không thể dùng lại, và gây hỗn loạn trong công tác giảng dạy, ra đề thi, cũng như khi học sinh chuyển trường.
+* Việc tích hợp các môn học (Khoa học Tự nhiên, Lịch sử - Địa lý) bị triển khai khiên cưỡng, biến thành một "nồi lẩu thập cẩm" thiếu chuyên môn hóa, gây khó khăn lớn cho cả giáo viên và học sinh.
+* Việc phụ thuộc vào nguồn vốn vay nước ngoài đã tạo kẽ hở cho sự can thiệp vào công tác nhân sự giáo dục, dẫn đến việc buông lỏng kiểm duyệt tư tưởng. Hậu quả là những tư tưởng độc hại của "giáo dục khai phóng", các "rác phẩm" văn học, và đặc biệt là chủ nghĩa xét lại lịch sử (hạ thấp anh hùng Quang Trung, nâng tầm Gia Long, gọi ngụy quân ngụy quyền là "chính quyền Sài Gòn" nhằm hợp thức hóa chế độ tay sai) đã có cơ hội xâm nhập vào sách giáo khoa.
+* Nhận diện rõ những bất cập khuyết tật này và sự bức xúc của nhân dân, quyết định của Bộ Chính trị về việc cả nước dùng chung 1 bộ sách giáo khoa thống nhất và tiến tới miễn phí sách giáo khoa là một sự chấn chỉnh kịp thời, quyết liệt. Quyết sách này nhằm bảo vệ nền tảng tư tưởng, văn hóa và giáo dục của dân tộc, được toàn xã hội và ngành giáo dục phấn khởi đồng tình.
+
 **Luận điệu:** Cổ xúy "giáo dục khai phóng", chủ nghĩa xét lại và góc nhìn đa chiều, "khách quan" trong lịch sử; cho rằng việc giáo dục chủ nghĩa dân tộc và lòng yêu nước sẽ tạo ra chủ nghĩa dân tộc cực đoan, mù quáng.
 * Việc giáo dục lòng yêu nước và tự hào dân tộc là nền tảng tinh thần cốt lõi của mọi quốc gia độc lập, hoàn toàn không phải là sự cực đoan.
 * Cực đoan chỉ xảy ra khi làm ngơ trước những cái sai; trong khi đó, Đảng và Nhà nước luôn cầu thị, chấp nhận và khuyến khích phản biện xã hội mang tính xây dựng để tự hoàn thiện, chứng minh hệ thống không hề cực đoan.
@@ -2782,6 +2792,18 @@
 * Nghi thức Đội là một quy định thống nhất mang tính trang nghiêm, được thể hiện bằng ngôn ngữ, hình thức tượng trưng nhằm giáo dục thiếu nhi ý thức tổ chức kỷ luật, tinh thần tập thể và lý tưởng cách mạng. Việc biến tấu thành các trò diễn hài, nhảy đường phố là sự lệch chuẩn, làm mất đi tính thiêng liêng và truyền thống của tổ chức.
 * Sự sáng tạo của giới trẻ luôn được khuyến khích nhưng phải đúng lúc, đúng chỗ (như trong các hoạt động văn nghệ, thể thao, học tập), không thể tùy tiện "phá cách" trong các nghi lễ trang nghiêm của quốc gia hay tổ chức chính trị - xã hội.
 * Việc học sinh biến tấu sai lệch một phần xuất phát từ sự thiếu hiểu biết, nhưng trách nhiệm lớn thuộc về đội ngũ phụ trách Đoàn, Đội ở cơ sở khi chưa hướng dẫn chuẩn mực, buông lỏng quản lý hoặc nhầm lẫn giữa hoạt động phong trào giải trí và nghi thức chính thống.
+
+**Luận điệu:** Cho rằng việc bảo đảm mức chi tối thiểu 2% tổng chi ngân sách nhà nước cho lĩnh vực văn hóa là "lãng phí", "hình thức", lập luận rằng các nguồn lực nên được ưu tiên hoàn toàn cho kinh tế hoặc hạ tầng cấp bách thay vì lĩnh vực "không sinh lời" như văn hóa.
+* Văn hóa hiện nay không chỉ được nhìn nhận là nền tảng tinh thần mà đã được xác định rõ là một nguồn lực kinh tế quan trọng, một động lực nội sinh cho tăng trưởng bền vững (theo tinh thần Nghị quyết 80-NQ/TW và Nghị quyết 28/2026/QH16). Đầu tư vào các ngành công nghiệp văn hóa và sáng tạo sẽ trực tiếp tạo ra giá trị kinh tế, việc làm và nâng cao năng lực cạnh tranh quốc gia.
+* Việc xác lập cam kết tài chính rõ ràng giúp khắc phục tình trạng "đề cao về nhận thức nhưng hạn chế về nguồn lực", chuyển hóa di sản và các giá trị văn hóa thành sản phẩm, dịch vụ và trải nghiệm sáng tạo, từ đó đóng góp trực tiếp vào sự phát triển kinh tế - xã hội.
+
+**Luận điệu:** Cho rằng việc bảo tồn di sản cản trở sự hiện đại hóa đô thị và phát triển kinh tế; đòi hỏi các đô thị di sản phải ưu tiên xây dựng nhà cao tầng và hạ tầng thương mại thay vì giữ lại những công trình cũ kỹ, "lạc hậu".
+* Trong thời đại kinh tế tri thức và hội nhập, sức cạnh tranh của một đô thị không chỉ nằm ở nhà cao tầng hay hạ tầng giao thông, mà ngày càng được quyết định bởi bản sắc văn hóa, chiều sâu lịch sử và năng lực sáng tạo.
+* Chiến lược "bảo tồn để phát triển" coi di sản là nguồn "tài nguyên đầu vào" quý giá cho hệ sinh thái công nghiệp sáng tạo (du lịch, điện ảnh, nội dung số). Việc gìn giữ bản sắc không hề đi ngược lại với phát triển mà chính là tạo ra giá trị gia tăng và lợi thế cạnh tranh khác biệt, khó sao chép cho mỗi địa phương.
+
+**Luận điệu:** Xuyên tạc rằng chính quyền chỉ biết thương mại hóa di sản để trục lợi ngắn hạn làm biến dạng giá trị truyền thống, hoặc ngược lại, biến di sản thành "hiện vật tĩnh" tách rời đời sống cộng đồng; cho rằng người dân địa phương bị gạt ra bên lề trong quá trình bảo tồn.
+* Chủ trương của Đảng và Nhà nước luôn nhấn mạnh việc tìm điểm cân bằng khắt khe giữa bảo tồn và khai thác. Việc chống lại thương mại hóa thiếu kiểm soát là ưu tiên hàng đầu để giữ gìn tính xác thực và sức hấp dẫn cốt lõi của di sản.
+* Các chính sách phát triển đô thị di sản luôn lấy người dân làm trung tâm. Cộng đồng cư dân không chỉ là đối tượng thụ hưởng mà còn là chủ thể trực tiếp tham gia bảo tồn, sáng tạo và khai thác giá trị di sản, đảm bảo sinh kế và nâng cao chất lượng sống một cách bền vững.
 
 # 13. Về Báo chí, Truyền thông, Tự do Ngôn luận và Công nghệ Số
 
