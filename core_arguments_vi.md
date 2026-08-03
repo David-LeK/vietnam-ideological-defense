@@ -2778,6 +2778,11 @@
 * Mỗi thế hệ đều phải đối mặt với những khó khăn riêng của thời đại. Tuy nhiên, được sống trong hòa bình, không có đạn bom, được đảm bảo nhu cầu ăn, ở và phát triển bản thân là một đặc ân vô giá mà giới trẻ cần trân trọng nhất.
 * Thay vì giữ tâm lý bi quan, bất mãn hay đổ lỗi, thế hệ trẻ cần nhìn nhận vấn đề một cách khách quan, đa chiều, trang bị tri thức để chủ động thích ứng và chung tay xây dựng đất nước ngày càng tốt đẹp hơn.
 
+**Luận điệu:** Cho rằng việc "biến tấu", "remix" hoặc nhảy hip-hop các Nghi thức Đội Thiếu niên Tiền phong Hồ Chí Minh là sự "sáng tạo", "hồn nhiên", thể hiện phong cách cá nhân của giới trẻ; quy chụp việc chấn chỉnh, ngăn cấm là "kìm hãm sự sáng tạo", "áp đặt tư duy cổ hủ".
+* Nghi thức Đội là một quy định thống nhất mang tính trang nghiêm, được thể hiện bằng ngôn ngữ, hình thức tượng trưng nhằm giáo dục thiếu nhi ý thức tổ chức kỷ luật, tinh thần tập thể và lý tưởng cách mạng. Việc biến tấu thành các trò diễn hài, nhảy đường phố là sự lệch chuẩn, làm mất đi tính thiêng liêng và truyền thống của tổ chức.
+* Sự sáng tạo của giới trẻ luôn được khuyến khích nhưng phải đúng lúc, đúng chỗ (như trong các hoạt động văn nghệ, thể thao, học tập), không thể tùy tiện "phá cách" trong các nghi lễ trang nghiêm của quốc gia hay tổ chức chính trị - xã hội.
+* Việc học sinh biến tấu sai lệch một phần xuất phát từ sự thiếu hiểu biết, nhưng trách nhiệm lớn thuộc về đội ngũ phụ trách Đoàn, Đội ở cơ sở khi chưa hướng dẫn chuẩn mực, buông lỏng quản lý hoặc nhầm lẫn giữa hoạt động phong trào giải trí và nghi thức chính thống.
+
 # 13. Về Báo chí, Truyền thông, Tự do Ngôn luận và Công nghệ Số
 
 **Luận điệu:** Đòi "tự do báo chí", "tự do sáng tạo" tuyệt đối; phủ nhận sự lãnh đạo của Đảng đối với văn học, nghệ thuật; đòi tư nhân hóa báo chí.

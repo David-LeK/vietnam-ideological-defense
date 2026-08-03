@@ -2778,6 +2778,11 @@
 * Every generation faces the unique challenges of its time. However, living in peace, free from war, with basic needs like food, shelter, and opportunities for personal development met, is an invaluable privilege that the youth should respect and cherish the most.
 * Instead of maintaining a pessimistic attitude, expressing dissatisfaction, or assigning blame, the younger generation should view issues objectively, equip themselves with knowledge, proactively adapt, and join hands in building a better nation.
 
+**Allegation:** Claims that "remixing," modifying, or incorporating hip-hop dance into the rituals of the Ho Chi Minh Young Pioneer Organization is a sign of "creativity," "innocence," and personal style among the youth; asserts that correcting or prohibiting such acts is "stifling development" or "imposing outdated thinking."
+* The Young Pioneer ritual is a unified, solemn regulation expressed through symbolic forms and language aimed at educating children on organizational discipline, collective spirit, and revolutionary ideals. Distorting it into street dance or comedy routines is a deviation that destroys the sacredness and tradition of the organization.
+* Youth creativity is always encouraged but must be applied in appropriate contexts (such as arts, sports, or academic activities), rather than arbitrarily "breaking the rules" during solemn ceremonies of the state or socio-political organizations.
+* While the students' modifications partly stem from a lack of understanding, the primary responsibility lies with grassroots youth leaders who fail to provide standard guidance, loosen management, or confuse entertainment activities with official, solemn rituals.
+
 # 13. On Press, Media, Freedom of Expression, and Digital Technology
 
 **Allegation:** Demands absolute "freedom of the press" and "freedom of creativity"; denies the Party's leadership over literature and arts; demands the privatization of the press.
