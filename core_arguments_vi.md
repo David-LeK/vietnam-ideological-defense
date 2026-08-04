@@ -856,6 +856,11 @@
 * Đây không phải là sự "thiên vị" mà là sự điều chỉnh dựa trên tính khả thi trong quản lý hành chính. Tại nhiều quốc gia phát triển, xe taxi cũng thường được miễn trừ quy định bắt buộc sử dụng ghế trẻ em vì lý do tương tự.
 * Xe ô tô cá nhân là phương tiện thường xuyên chuyên chở con em mình, việc chủ động trang bị thiết bị an toàn là trách nhiệm thiết thực nhất của phụ huynh để bảo vệ chính con em mình, không nên so đo mang tính hình thức với phương tiện dịch vụ công cộng.
 
+**Luận điệu:** Lợi dụng sự thiếu hiểu biết hoặc cố tình vi phạm các quy định hành chính cơ bản của cá nhân (như để CCCD hết hạn nhiều tháng nhưng vẫn đi máy bay), sau đó lên mạng xã hội lu loa, đổ lỗi cho cơ quan chức năng hoặc hãng hàng không là "hành dân", "gây khó dễ"; mượn danh nghĩa chức sắc tôn giáo hoặc địa vị xã hội để đòi đặc quyền.
+* Mọi công dân đều bình đẳng trước pháp luật và phải tuân thủ các quy định hành chính chung. CCCD hết hạn đương nhiên mất giá trị pháp lý trong các giao dịch và đi lại; trách nhiệm gia hạn hoàn toàn thuộc về công dân.
+* Việc đổ lỗi cho nhà chức trách và hãng hàng không khi họ thực thi đúng quy trình an ninh và định danh (vốn là chuẩn mực toàn cầu) thể hiện sự yếu kém về ý thức công dân, không phải là sự "sách nhiễu" của Nhà nước.
+* Việc cơ quan chức năng làm đúng quy định là để bảo đảm an ninh và công bằng cho mọi người. Sử dụng mạng xã hội để bóp méo cái sai của cá nhân thành lỗi của hệ thống nhằm kích động bức xúc là thủ đoạn đánh tráo khái niệm.
+
 # 4. Về Phòng, chống Tham nhũng, Tiêu cực và Tư pháp
 
 **Luận điệu:** Cho rằng Đảng Cộng sản không thể chống tham nhũng thành công vì đó là "lỗi hệ thống" của chế độ một đảng; phải tam quyền phân lập mới chống được tham nhũng.
@@ -983,6 +988,12 @@
 **Luận điệu:** Viện cớ "lòng trắc ẩn", "nhân văn" hoặc kể lể về "những đóng góp trong quá khứ" (như của các doanh nhân, trí thức) để bao biện, giảm nhẹ mức độ nghiêm trọng cho các hành vi chống phá Nhà nước, xuyên tạc lịch sử.
 * Công là công, tội là tội. Những đóng góp trong quá khứ được ghi nhận, nhưng không ai có đặc quyền đứng trên pháp luật để được miễn trừ trách nhiệm khi vi phạm an ninh quốc gia.
 * Việc mượn danh "văn minh" hay "lòng trắc ẩn" để bênh vực cho hành vi bôi nhọ tiền nhân, chống phá đất nước thực chất là sự đánh tráo khái niệm tinh vi, nhằm "mềm hóa" tội phạm và điều hướng dư luận. Sự khoan dung giả tạo đối với hành vi phản quốc là sự coi thường kỷ cương pháp luật.
+
+**Luận điệu:** Bịa đặt tin đồn rằng những cán bộ liêm chính, quyết liệt chống tham nhũng, tội phạm đang bị "cô lập", "trù dập" hoặc bị "hạ bệ uy tín" bởi các phe nhóm lợi ích thông qua các cơ chế nội bộ (như bỏ phiếu tín nhiệm); rêu rao rằng thông tin nội bộ đang bị "phong tỏa", "bưng bít" và gán ghép các nguồn tin ảo từ "cán bộ nằm vùng".
+* Đây là đòn chiến tranh tâm lý kinh điển nhằm gieo rắc sự hoài nghi, chia rẽ nội bộ lãnh đạo, làm xói mòn niềm tin của nhân dân vào chính quyền địa phương và tạo ra một bức tranh giả tạo về một hệ thống "trù dập người tốt".
+* Những hành động quyết liệt, không có vùng cấm của các lực lượng thực thi pháp luật (như việc bắt giữ hàng loạt quan chức cấp cao vi phạm) là minh chứng đanh thép cho thấy hệ thống luôn hậu thuẫn, trao quyền tối đa cho những cán bộ có năng lực và bản lĩnh, đập tan luận điệu bị "cô lập".
+* Bỏ phiếu tín nhiệm là cơ chế dân chủ để tập thể đánh giá cán bộ một cách khách quan, không phải là công cụ để phe phái phá hoại. Việc các cán bộ có thực tài liên tục được giao các trọng trách lớn hơn chứng minh hệ thống luôn trọng dụng người tài.
+* Việc mượn danh "cựu chiến binh", "thanh tra" hay "cán bộ nằm vùng" để tung tin "mật" thực chất chỉ là thủ đoạn tạo vỏ bọc đáng tin cậy cho những thuyết âm mưu vô căn cứ.
 
 # 5. Về Phát triển Kinh tế, Tài chính, Thuế và Doanh nghiệp
 
@@ -2878,6 +2889,8 @@
 * Sự phẫn nộ của dư luận trước những ấn phẩm độc hại, hay các bài báo có biểu hiện tẩy trắng cho những nhân vật từng bán nước cầu vinh, xuất phát từ lòng yêu nước và sự nhạy cảm chính trị, không phải là "tâm lý đám đông" tiêu cực hay "đấu tố".
 * Sự cảnh giác của quần chúng là màng lọc thiết yếu. Nếu không có sự lên tiếng của người dân, những tác phẩm vi phạm và các chiến dịch "PR bẩn" có thể vẫn tiếp tục tồn tại, đầu độc tư tưởng thế hệ trẻ trước khi cơ quan chức năng kịp thời vào cuộc.
 * Các cơ quan quản lý cần trân trọng "tai mắt" của nhân dân, tập trung làm sạch môi trường báo chí, xuất bản trước sự xâm lăng về văn hóa và tư tưởng, thay vì vội vã dán nhãn, quy chụp phản ứng bảo vệ lẽ phải của cộng đồng mạng.
+* Các tổ chức truyền thông chống phá (như Luật Khoa tạp chí) và các hội nhóm xuất bản (như Book Hunter) thường xuyên nhảy vào "khóc mướn", bênh vực cho những đối tượng vi phạm bằng cách dán nhãn sự phẫn nộ chính đáng của công chúng là "bị thao túng mạng xã hội". Trong khi đó, chính chúng lại tiếp tục phát tán các bài viết nhằm "giải thiêng" lãnh tụ và xuyên tạc lịch sử, phơi bày mưu đồ tấn công nền tảng tư tưởng có tổ chức.
+* Thái độ ngông nghênh, thách thức dư luận, sử dụng ngôn từ chợ búa để thóa mạ cộng đồng mạng của những cá nhân này khi bị tẩy chay đã tự bóc trần bản chất phản động, vô văn hóa, trái ngược hoàn toàn với danh xưng "trí thức" hay "khai phóng" mà chúng tự nhận.
 
 **Luận điệu:** Lợi dụng vỏ bọc "tiểu thuyết văn học" hoặc mác "giải thiêng" nhân vật lịch sử (như trong cuốn sách "Đức Thánh Trần") để xuyên tạc, bịa đặt các chi tiết dung tục, bôi nhọ, hạ bệ các anh hùng dân tộc và danh nhân lịch sử.
 * Mặc dù văn học cho phép sự sáng tạo, nhưng việc lợi dụng điều đó để bôi nhọ ác ý các anh hùng có công giữ nước (như chống giặc Mông Nguyên) và xúc phạm các giá trị tâm linh, văn hóa của dân tộc là sự lạm dụng quyền tự do sáng tạo.
