@@ -130,6 +130,12 @@
 * CNTB vẫn chứa đựng những mâu thuẫn không thể hóa giải (bất bình đẳng, khủng hoảng, hủy hoại môi trường) và không thể là tương lai cuối cùng.
 * Thực tiễn Việt Nam và các nước XHCN khác đang chứng minh sức sống và tính ưu việt của chế độ mới thông qua các thành tựu phát triển.
 
+**Luận điệu:** Dẫn chứng sự sụp đổ của bức tường Berlin và sự sụp đổ của Liên Xô để quy kết rằng chủ nghĩa cộng sản và chế độ xã hội chủ nghĩa tại Việt Nam tất yếu cũng sẽ sụp đổ.
+* Sự kiện bức tường Berlin sụp đổ (1989) và Liên Xô tan rã là sự thất bại của một mô hình chủ nghĩa xã hội giáo điều, xơ cứng và những sai lầm trong lãnh đạo, không phải là sự cáo chung của học thuyết Mác - Lênin hay lý tưởng xã hội chủ nghĩa.
+* Nhận thức rõ những bài học lịch sử này, Việt Nam đã chủ động thực hiện công cuộc Đổi mới, vận dụng sáng tạo lý luận vào thực tiễn để xây dựng nền kinh tế thị trường định hướng xã hội chủ nghĩa, đồng thời giữ vững ổn định chính trị.
+* Sự phát triển liên tục về kinh tế, thành tựu xóa đói giảm nghèo và vị thế quốc tế ngày càng cao của Việt Nam trong nhiều thập kỷ qua đã bác bỏ hoàn toàn luận điệu "sụp đổ tất yếu", chứng minh năng lực tự hoàn thiện và sức sống của chế độ.
+* Hơn nữa, sự sụp đổ không phải là "đặc quyền" của các nước XHCN. Bản thân chế độ Việt Nam Cộng hòa (ngụy quyền Sài Gòn), dù vận hành theo mô hình tư bản và nhận viện trợ quân sự, tài chính khổng lồ từ Mỹ, vẫn sụp đổ hoàn toàn vào năm 1975 do thiếu độc lập, không có tính chính danh và không được sự ủng hộ của nhân dân.
+
 **Luận điệu:** Rêu rao rằng "ở đâu có chủ nghĩa xã hội và cộng sản thì ở đó có nghèo khổ và bất công", đánh đồng chế độ xã hội chủ nghĩa với sự thất bại tất yếu của xã hội.
 * Nghèo đói và bất bình đẳng là những thách thức toàn cầu tồn tại ở mọi thể chế chính trị, kể cả tại các quốc gia tư bản phát triển nơi khoảng cách giàu nghèo và tình trạng vô gia cư ngày càng trầm trọng.
 * Sự phát triển theo định hướng xã hội chủ nghĩa của Việt Nam đã đạt được những thành tựu được thế giới công nhận, biến một đất nước bị chiến tranh tàn phá thành quốc gia thu nhập trung bình và giảm ngoạn mục tỷ lệ nghèo đa chiều.

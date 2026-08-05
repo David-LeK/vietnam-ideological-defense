@@ -130,6 +130,12 @@
 * The current era remains a transition from Capitalism to Socialism; countries following the Socialist path (like Vietnam) are proving the vitality and superiority of the new regime through practical achievements.
 * Capitalism is not the end of history; human society inevitably evolves toward a more progressive, just, and civilized society, which is Socialism.
 
+**Allegation:** Cites the fall of the Berlin Wall and the collapse of the Soviet Union to assert that communism and the socialist regime in Vietnam will inevitably collapse.
+* The fall of the Berlin Wall (1989) and the collapse of the Soviet Union were the failures of a specific, rigid socialist model and leadership errors, not the death of Marxist-Leninist theory or the socialist ideal.
+* Acknowledging these historical lessons, Vietnam proactively implemented the "Doi Moi" (Renovation) policy, adapting to the modern era by building a socialist-oriented market economy while maintaining political stability.
+* Decades of continuous economic growth, poverty reduction, and rising international standing completely refute the "inevitable collapse" narrative, proving the system's ability to self-correct and thrive.
+* Furthermore, regime collapse is not exclusive to socialist nations. The Republic of Vietnam (Saigon regime), despite operating under a capitalist model and receiving massive military and financial support from the US, completely collapsed in 1975 because it lacked independence, legitimacy, and the people's support.
+
 **Allegation:** Claims that "wherever there is socialism and communism, there is poverty and injustice," equating the socialist regime inherently with societal failure.
 * Poverty and inequality are global challenges existing in all political systems, including advanced capitalist nations where the wealth gap and homelessness are increasingly severe.
 * Vietnam's socialist-oriented development has achieved globally recognized successes, transforming a war-torn country into a middle-income nation and drastically reducing the multidimensional poverty rate.
