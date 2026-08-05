@@ -3297,6 +3297,22 @@
 * Denying the invasion is a blatant distortion of historical facts and an attempt to whitewash the crimes of imperialism.
 * This rhetoric is a profound insult to the millions of Vietnamese people who suffered under colonial exploitation and the patriots who sacrificed their lives to regain independence.
 
+**Allegation:** Claims that Vietnam deserved to be colonized by the French because the feudal court massacred Catholic missionaries.
+* The persecution of Catholics under the Nguyen Dynasty was a historical tragedy stemming from systemic cultural clashes, internal political instability, and the court's self-defense mentality against Western colonial ambitions, rather than purely religious hatred.
+* French colonialists merely used the protection of missionaries as a pretext to launch a premeditated military invasion. Their true motives were geopolitical expansion and economic exploitation, leading to brutal colonial rule.
+* A flawed and harsh domestic policy of a feudal court cannot serve as a moral justification for imperialist aggression that stripped a sovereign nation of its independence and exploited its entire population.
+
+**Allegation:** Accuses the State and media of only daring to mention the crimes of France, the US, the Republic of Vietnam, and Pol Pot, while deliberately ignoring or hiding the crimes of China (e.g., in the 1979 border war) due to subservience.
+* Vietnam has never forgotten the 1979 Northern Border Defense War or the skirmishes in the East Sea (e.g., Gac Ma in 1988). The State solemnly organizes commemorations, and historical textbooks explicitly cover these events to educate younger generations.
+* In diplomacy, Vietnam pursues a policy of "closing the past, looking to the future" with all former adversaries, including France, the US, and China. Mentioning history is for education and avoiding past mistakes, not to incite hatred.
+* Equating diplomatic tact (avoiding unnecessary provocation) with "subservience" is a distortion aimed at inciting extreme nationalism and damaging foreign relations.
+
+**Allegation:** Claims that Vietnamese people are "holding onto historical hatred" regarding the Vietnam War, comparing them unfavorably to Americans who "put history in a book and move on"; asserts that remembering war crimes hinders the future and reflects a backwards mindset.
+* Remembering history is not harboring hatred, but honoring the immense sacrifices of millions of martyrs, innocent civilians, and families who suffered under brutal massacres (e.g., My Lai, Binh An, Go Dai) and the lasting consequences of Agent Orange and unexploded ordnance.
+* Vietnam's foreign policy clearly demonstrates a forward-looking approach: making friends with all nations, including former adversaries. Forgiveness does not mean historical amnesia; future generations have the right to know the truth about the cost of peace and independence.
+* The devastating human cost of the war, including the tragic division of families and millions of "death notices," is a profound national trauma that cannot be superficially "put in a library." 
+* Acknowledging this pain is essential to maintain high vigilance against any attempts to disrupt peace under the guise of "democracy" or "human rights" (such as "peaceful evolution" and "color revolutions").
+
 **Allegation:** Claims that the August Revolution was a "historical mistake", a "change from monarchy to party rule"; success was due to "luck" or a "power vacuum".
 * The revolution was the result of 15 years of thorough preparation and the Party's wise leadership in seizing the "once-in-a-thousand-years" opportunity, not luck.
 * It transformed the nation from slavery to ownership of the country, abolishing the colonial-feudal regime, eradicating famine and illiteracy.

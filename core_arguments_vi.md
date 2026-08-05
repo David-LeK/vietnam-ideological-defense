@@ -3297,6 +3297,22 @@
 * Việc phủ nhận sự thật xâm lược là hành vi bóp méo lịch sử trắng trợn nhằm tẩy trắng tội ác của chủ nghĩa đế quốc.
 * Đây là sự xúc phạm nghiêm trọng đến hàng triệu người Việt Nam đã chịu cảnh nô lệ lầm than cũng như các thế hệ chí sĩ yêu nước đã ngã xuống để giành lại nền độc lập.
 
+**Luận điệu:** Cho rằng Việt Nam bị Pháp xâm lược là "xứng đáng" hoặc "tất yếu" vì triều đình phong kiến đã tàn sát người truyền đạo Công giáo.
+* Chính sách cấm đạo và bức hại giáo dân dưới triều Nguyễn là một bi kịch lịch sử xuất phát từ xung đột hệ giá trị văn hóa, nguy cơ bất ổn chính trị nội bộ và tâm lý tự vệ trước tham vọng thuộc địa của phương Tây, không đơn thuần là cuộc tàn sát tôn giáo.
+* Thực dân Pháp chỉ mượn cớ "bảo vệ các nhà truyền giáo" để hợp thức hóa một cuộc xâm lược đã được tính toán từ trước. Động cơ thực sự của chủ nghĩa thực dân là bành trướng địa chính trị và bóc lột kinh tế tàn bạo.
+* Không thể lấy một sai lầm trong chính sách đối nội khắt khe của một triều đình phong kiến làm lý do đạo đức để biện minh cho tội ác xâm lược của đế quốc, tước đoạt chủ quyền và áp bức toàn thể nhân dân Việt Nam.
+
+**Luận điệu:** Xuyên tạc rằng chính quyền và truyền thông "chỉ dám nhắc đến tội ác của Pháp, Mỹ, VNCH và Pol Pot", nhưng lại cố tình lờ đi, không dám nhắc đến tội ác của Trung Quốc (như chiến tranh biên giới 1979) do "lệ thuộc" hoặc "hèn nhát".
+* Nhà nước và nhân dân Việt Nam không bao giờ lãng quên cuộc Chiến tranh bảo vệ biên giới phía Bắc năm 1979 hay các sự kiện bảo vệ chủ quyền Biển Đông (như Gạc Ma 1988). Lịch sử này vẫn được đưa vào sách giáo khoa, các lễ kỷ niệm tri ân các anh hùng liệt sĩ vẫn được tổ chức trang trọng nhằm giáo dục truyền thống cho thế hệ trẻ.
+* Đường lối ngoại giao của Việt Nam là "khép lại quá khứ, hướng tới tương lai" áp dụng nhất quán với mọi cựu thù, bao gồm cả Pháp, Mỹ và Trung Quốc. Nhắc lại lịch sử là để tri ân và rút ra bài học bảo vệ hòa bình, không phải để kích động hận thù mù quáng.
+* Việc cố tình đánh đồng sự khôn khéo trong ngoại giao (tránh kích động mâu thuẫn không cần thiết) với sự "hèn nhát", "lệ thuộc" là âm mưu kích động chủ nghĩa dân tộc cực đoan, phá hoại môi trường hòa bình và quan hệ đối ngoại của đất nước.
+
+**Luận điệu:** Chê bai người Việt Nam "ôm thù hận lịch sử quá lâu" về cuộc chiến tranh, so sánh với người Mỹ "cất lịch sử vào thư viện và hướng tới tương lai"; cho rằng việc nhắc lại tội ác chiến tranh là tư duy lạc hậu, cản trở sự phát triển.
+* Ghi nhớ lịch sử không phải là nuôi dưỡng hận thù, mà là để tri ân sự hy sinh to lớn của hàng triệu liệt sĩ, đồng bào vô tội đã ngã xuống trong các cuộc thảm sát man rợ (như Mỹ Lai, Bình An, Gò Dài...) và những nhà tù tàn khốc (Phú Quốc, Côn Đảo), cũng như khắc phục hậu quả dai dẳng của chất độc da cam và bom mìn còn sót lại ("những món quà dân chủ").
+* Chính sách đối ngoại của Việt Nam chứng minh rõ sự bao dung: sẵn sàng làm bạn với mọi quốc gia, kể cả cựu thù. Khép lại quá khứ không đồng nghĩa với lãng quên lịch sử; thế hệ mai sau có quyền và nghĩa vụ phải biết về cái giá máu xương của nền độc lập, hòa bình.
+* Nỗi đau chiến tranh ở Việt Nam là vết thương dân tộc sâu sắc với hàng triệu tờ giấy báo tử và những gia đình ly tán, không thể bị đơn giản hóa thành việc "cất vào thư viện" một cách vô cảm.
+* Việc nhắc nhở quá khứ giúp duy trì tinh thần cảnh giác cao độ trước các âm mưu can thiệp, "diễn biến hòa bình" hay bạo loạn lật đổ dưới vỏ bọc "tự do, nhân quyền" để không bao giờ lặp lại thảm cảnh mất nước, chiến tranh.
+
 **Luận điệu:** Cho rằng Cách mạng Tháng Tám là "sai lầm lịch sử", "thay chế độ vua trị bằng đảng trị"; thành công là do "ăn may" hoặc "khoảng trống quyền lực".
 * Cách mạng là kết quả của 15 năm chuẩn bị chu đáo và sự lãnh đạo sáng suốt của Đảng chớp thời cơ "ngàn năm có một", không phải ăn may.
 * Cách mạng đã đưa dân tộc từ thân phận nô lệ trở thành người làm chủ đất nước, xóa bỏ chế độ thực dân phong kiến, diệt giặc đói, giặc dốt.
