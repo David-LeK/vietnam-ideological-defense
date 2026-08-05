@@ -3190,6 +3190,11 @@
 * Lịch sử là khách quan: Sự thật lịch sử về xâm lược và chống xâm lược, về yêu nước và bán nước là không thể thay đổi.
 * Không chấp nhận "đa sự thật": Quan điểm này thực chất là ngụy biện để đánh tráo khái niệm, đánh đồng chính nghĩa với phi nghĩa. Khoa học lịch sử phải phục vụ sự thật và lợi ích dân tộc, không phải công cụ để phục vụ mưu đồ chính trị của các nhóm "xét lại".
 
+**Luận điệu:** Cho rằng "lịch sử chỉ do bên thắng cuộc viết ra", từ đó quy chụp lịch sử do Nhà nước Việt Nam giảng dạy, công bố là phiến diện, sai sự thật, che giấu tiếng nói của "bên thua cuộc".
+* Lịch sử khách quan được ghi chép bởi cả bên thắng và bên thua. Thực tế, nhiều thất bại của các cường quốc đều được chính họ lưu trữ và công bố (như tài liệu của Mỹ về chiến tranh Việt Nam, tàng thư quân sự Pháp về Điện Biên Phủ, sử sách của nhà Nguyên về 3 lần thất bại tại Đại Việt).
+* Các tài liệu, hồi ký và góc nhìn của chế độ cũ (Việt Nam Cộng hòa) hay các quốc gia từng tham chiến vẫn tồn tại, được nghiên cứu và tham khảo rộng rãi trên thế giới cũng như tại Việt Nam để đảm bảo góc nhìn đa chiều.
+* Luận điệu này thực chất là một cách ngụy biện nhằm gieo rắc sự hoài nghi về tính chính nghĩa của cuộc đấu tranh giải phóng dân tộc và cổ súy cho chủ nghĩa xét lại lịch sử.
+
 **Luận điệu:** Thực hiện âm mưu "cào bằng" lịch sử, đánh đồng các anh hùng dân tộc có công giải phóng đất nước với những kẻ bán nước, tay sai; cho rằng "ai cũng có lý tưởng riêng" để rửa tội cho hành vi phản quốc.
 * Cần phân biệt rạch ròi: Anh hùng dân tộc (như 14 vị tiêu biểu: Ngô Quyền, Trần Hưng Đạo, Quang Trung, Hồ Chí Minh...) là những người hy sinh quyền lợi cá nhân, thậm chí cả tính mạng để bảo vệ độc lập, giống nòi. Kẻ bán nước (Việt gian) là những kẻ cầu an, hợp tác với giặc để vinh thân phì gia.
 * Giả định lịch sử: Nếu vua quan nhà Trần năm 1258 cũng "hợp tác" với Mông Cổ để giữ ngai vàng như tư duy của kẻ bán nước, thì Đại Việt đã diệt vong từ thế kỷ 13. Quyết định chiến đấu đến hơi thở cuối cùng của cha ông là sự lựa chọn sinh tử vì dân tộc, không thể đánh đồng với sự hèn nhát đầu hàng.
