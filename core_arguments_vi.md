@@ -2424,6 +2424,8 @@
 * Lòng yêu nước, tinh thần tự hào dân tộc và những đóng góp về giáo dục đạo đức của cá nhân tu sĩ là những giá trị tích cực đã được người dân ghi nhận. Tinh thần yêu nước luôn luôn đúng đắn và đáng được trân trọng ở bất kỳ cá nhân nào.
 * Các quyết định xử lý, kỷ luật của Giáo hội hay cơ quan chức năng là nhằm giải quyết các sai phạm cụ thể thuộc phạm trù tôn giáo, giáo lý (như phát ngôn chưa chuẩn mực) hay vấn đề hành chính (như tính hợp pháp của bằng cấp) trong quá khứ. Những vấn đề này hoàn toàn tách biệt và không phủ nhận lập trường yêu nước của ông.
 * Các thế lực phản động đang sử dụng thủ đoạn "chia để trị", vin vào các thiếu sót về mặt tôn giáo, hành chính này để kích động, dắt mũi những người yêu nước khác hùa vào công kích, nói xấu ông. Điều này vô tình biến không gian mạng thành nơi đấu đá nội bộ, tạo ra sự chia rẽ và làm suy yếu sức mạnh của chính những người có chung tình yêu Tổ quốc.
+* Về mặt pháp lý, cá nhân tu sĩ không vi phạm pháp luật về an ninh quốc gia, không tham gia các tổ chức phản động hay chống phá Đảng, Nhà nước. Quyền công dân của cá nhân vẫn được pháp luật bảo đảm đầy đủ.
+* Việc dồn ép, mạt sát những đồng bào có sai sót (đã được Giáo hội xử lý, chấn chỉnh) về phía thế lực thù địch là hành vi cực đoan, đi ngược lại lợi ích quốc gia. Không thể lấy những sai lầm cá biệt để phủ nhận hoàn toàn những đóng góp của họ trong việc giáo dục lòng yêu nước cho thế hệ trẻ.
 
 **Luận điệu:** Lợi dụng bổn phận chức sắc tôn giáo, mượn danh Chúa để phán xét chính quyền về thiên tai, quy chụp nguyên nhân lũ lụt là do "nhân tai" hay lỗi hệ thống.
 * Theo giáo lý (như Điều răn thứ 2 và 9), thiên tai là khách quan; việc mượn danh Chúa để nói chứng dối, kích động là vi phạm điều răn, phạm thượng.

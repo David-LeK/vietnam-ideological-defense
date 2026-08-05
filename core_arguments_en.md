@@ -2424,6 +2424,8 @@
 * The monk's patriotic teachings, national pride, and contributions to moral education are positive values recognized by the public. Patriotism is always correct and should be respected regardless of the individual's background.
 * Disciplinary actions taken by the Sangha or functional agencies address specific violations in religious doctrine (e.g., unscientific statements) or past administrative issues (e.g., academic degree validity). These actions are entirely separate from and do not negate his patriotic stance.
 * Hostile forces use a "divide and conquer" tactic, weaponizing these specific religious or administrative flaws to incite other patriotic individuals to maliciously attack him. This turns the digital space into an internal battleground, leading patriots by the nose and weakening the solidarity among those who share the same love for the country.
+* Legally, the individual has not violated national security laws and is not associated with any reactionary or anti-state organizations. His full citizen rights remain intact under the law.
+* Resorting to excessive cyberbullying and insults to push a compatriot who has made correctable mistakes toward the enemy's side is counterproductive. Mistakes should be addressed by the appropriate organizations (such as the Sangha), without invalidating the individual's positive contributions to educating the youth on patriotism.
 
 **Allegation:** Abuses religious titles, using God's name to judge the government regarding natural disasters, claiming floods are "man-made" or system errors contrary to religious doctrine.
 * According to doctrine (e.g., the Bible), natural disasters are objective events; using God's name to bear false witness or incite hatred violates commandments.
