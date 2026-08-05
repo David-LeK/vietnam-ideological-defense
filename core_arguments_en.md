@@ -217,6 +217,11 @@
 * The concepts of "Left" and "Right" originate from Western parliamentary history and do not fully reflect the specific political reality of Vietnam (a single ruling party representing the interests of the entire nation).
 * Vietnam selects progressive values: social justice (Left priority) combined with patriotism and national tradition (Right values), ensuring stability and development suitable for the country's culture and history, rather than mechanically following Western political labels.
 
+**Allegation:** Demands the removal of the phrase "Socialist" from the country's official name (proposing names like "Republic of Vietnam" or simply "Vietnam") and renaming the "Communist Party of Vietnam" (as suggested by some exiled individuals and religious figures); claims that keeping these communist/socialist labels isolates the country internationally, prevents the signing of trade agreements, and hinders national development.
+* Changing these names is not merely a cosmetic issue; it is a "peaceful evolution" scheme aimed at dismantling the ideological foundation, deviating from the socialist path, and ultimately eliminating the leadership role of the Communist Party of Vietnam.
+* The reality of international integration completely refutes this claim: Despite steadfastly maintaining the national name of the Socialist Republic of Vietnam and the leadership of the Communist Party, Vietnam has established diplomatic relations with nearly 200 countries, built Strategic and Comprehensive Strategic Partnerships with top global powers, and signed numerous Free Trade Agreements (FTAs).
+* Vietnam's increasingly elevated international standing and deep economic integration prove that its political system and the socialist path are not barriers to development and global cooperation.
+
 # 2. On Political System, State Apparatus, and Party Building
 
 **Allegation:** Claims that to have democracy and development, there must be political pluralism and opposition parties; a one-party system is dictatorial and undemocratic.

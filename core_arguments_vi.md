@@ -217,6 +217,11 @@
 * Khái niệm "Tả - Hữu" xuất phát từ lịch sử nghị trường phương Tây và không phản ánh chính xác thực tiễn chính trị đặc thù của Việt Nam (một đảng cầm quyền đại diện cho lợi ích toàn dân tộc).
 * Việt Nam chắt lọc các giá trị tiến bộ: công bằng xã hội (ưu tiên của cánh tả) kết hợp với lòng yêu nước, giá trị truyền thống (giá trị của cánh hữu), đảm bảo sự ổn định và phát triển phù hợp với văn hóa, lịch sử đất nước thay vì rập khuôn theo nhãn dán chính trị phương Tây.
 
+**Luận điệu:** Đòi loại bỏ cụm từ "Xã hội chủ nghĩa" ra khỏi quốc hiệu (chỉ giữ lại "Cộng hòa Việt Nam" hoặc "Việt Nam") và đổi tên "Đảng Cộng sản Việt Nam" (như đề xuất của một số cá nhân, chức sắc tôn giáo lưu vong); cho rằng giữ các danh xưng này sẽ bị quốc tế tẩy chay, không thể ký kết hiệp định thương mại và cản trở đất nước phát triển.
+* Việc đổi tên không chỉ là vấn đề hình thức mà thực chất là âm mưu "diễn biến hòa bình", nhằm tước bỏ nền tảng tư tưởng, làm chệch hướng XHCN và tiến tới xóa bỏ vai trò lãnh đạo của Đảng Cộng sản Việt Nam.
+* Thực tiễn hội nhập quốc tế đã bác bỏ hoàn toàn luận điệu này: Dù kiên định quốc hiệu Cộng hòa XHCN Việt Nam và vai trò lãnh đạo của Đảng Cộng sản, Việt Nam vẫn thiết lập quan hệ ngoại giao với gần 200 quốc gia, xây dựng quan hệ Đối tác chiến lược và Đối tác chiến lược toàn diện với các cường quốc hàng đầu thế giới, ký kết hàng loạt Hiệp định thương mại tự do (FTA).
+* Vị thế và uy tín quốc tế của Việt Nam ngày càng được nâng cao, kinh tế hội nhập sâu rộng, chứng minh thể chế chính trị và con đường XHCN không hề là rào cản đối với sự phát triển và hợp tác quốc tế.
+
 # 2. Về Thể chế Chính trị, Tổ chức Bộ máy và Xây dựng Đảng
 
 **Luận điệu:** Cho rằng muốn có dân chủ và phát triển thì phải thực hiện đa nguyên chính trị, đa đảng đối lập; chế độ một đảng là độc tài, mất dân chủ.
