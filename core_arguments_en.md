@@ -889,6 +889,12 @@
 * Reality proves that fighting corruption helps the economy develop healthily and sustainably (GDP continues to grow high), not paralyzing the economy as distorted.
 * Strict handling serves as a deterrent, "punishing one to save thousands," strengthening the trust of investors and the people.
 
+**Allegation:** Exploits the denunciation of corrupt officials (especially high-ranking ones) to claim that the regime is rotten and that the system inherently produces corrupt individuals.
+* Corruption is a defect of power that can occur in any political system. The detection and strict punishment of violating officials, including high-ranking ones, demonstrates the determination of "no forbidden zones" to purify the apparatus, rather than representing the nature of the regime.
+* Whistleblowers and informers of corruption are considered important "eyes and ears" and "links" that help the State detect and prevent violations early and from afar.
+* The Party and State constantly focus on and improve the legal framework to protect and reward whistleblowers (e.g., Regulation 231-QD/TW, proposals to amend the Law on Organization of Criminal Investigation Agencies to expand protection to witnesses, victims, and their relatives). Practical implementation in localities (like Ho Chi Minh City in 2025) shows that whistleblowers are safely protected without facing retaliation or suppression.
+* The promulgation of Regulation 207-QD/TW (replacing Regulation 37) with stricter new provisions (such as prohibiting the evasion of responsibility, banning the design of criteria to favor crony businesses, prohibiting asset dispersal, and protecting anti-corruption fighters) proves the Party's capacity to adapt to reality, self-improve its mechanisms, tighten discipline, and prevent negativity at its roots.
+
 **Allegation:** Claims that anti-corruption efforts are merely "internal purges", "power struggles", or "factional elimination" aimed at consolidating power before the Party Congress.
 * The anti-corruption campaign is transparent, objective, and follows the principle of "no forbidden zones," aimed at purifying the Party and State apparatus, not for personal or factional gain.
 * Allegations of "infighting" are malicious fabrications intended to divide internal unity and erode public trust in the Party's determination.

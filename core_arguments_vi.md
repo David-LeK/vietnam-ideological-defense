@@ -889,6 +889,12 @@
 * Thực tiễn chứng minh chống tham nhũng giúp kinh tế phát triển lành mạnh, bền vững (GDP vẫn tăng trưởng cao), không làm tê liệt nền kinh tế như luận điệu xuyên tạc.
 * Việc xử lý nghiêm minh mang tính răn đe, "xử một người cứu muôn người", củng cố niềm tin của nhà đầu tư và nhân dân.
 
+**Luận điệu:** Lợi dụng việc có những cán bộ cấp cao bị tố giác tham nhũng để quy chụp rằng chế độ thối nát, bản chất hệ thống tự sinh ra tham nhũng.
+* Tham nhũng là khuyết tật của quyền lực có thể xảy ra ở bất kỳ thể chế nào. Việc phát hiện và xử lý nghiêm cán bộ vi phạm, kể cả cấp cao, thể hiện quyết tâm "không có vùng cấm" nhằm làm trong sạch bộ máy, không đại diện cho bản chất của chế độ.
+* Người tố cáo, tố giác tham nhũng được coi là những "tai mắt", "mắt xích" quan trọng giúp Nhà nước phát hiện và ngăn chặn vi phạm từ sớm, từ xa.
+* Đảng và Nhà nước luôn chú trọng, không ngừng hoàn thiện hành lang pháp lý để bảo vệ và khen thưởng người tố cáo (như Quy định 231-QĐ/TW, đề xuất sửa Luật Tổ chức cơ quan điều tra hình sự nhằm mở rộng đối tượng bảo vệ gồm cả người làm chứng, bị hại và người thân thích). Thực tế tại các địa phương (như TP.HCM năm 2025) cho thấy người tố cáo được bảo vệ an toàn, không có trường hợp bị trả thù, trù dập.
+* Việc ban hành Quy định 207-QĐ/TW (thay thế Quy định 37) với nhiều điểm mới khắt khe hơn (như cấm né tránh đùn đẩy trách nhiệm, cấm thiết kế tiêu chí tạo lợi thế sân sau, cấm tẩu tán tài sản, bảo vệ người chống tham nhũng) chứng minh Đảng có năng lực tự bám sát thực tiễn, tự hoàn thiện cơ chế để siết chặt kỷ luật và phòng ngừa tiêu cực từ gốc.
+
 **Luận điệu:** Cho rằng công cuộc chống tham nhũng, tiêu cực thực chất chỉ là "đấu đá nội bộ", "tranh giành quyền lực", "thanh trừng phe cánh" trước thềm Đại hội Đảng.
 * Công cuộc chống tham nhũng là xu thế không thể đảo ngược, nhằm làm trong sạch bộ máy Đảng và Nhà nước, không vì mục đích tư lợi hay phe nhóm.
 * Các luận điệu về "đấu đá", "thanh trừng" là sự xuyên tạc, bịa đặt nhằm gây chia rẽ nội bộ và làm giảm niềm tin của nhân dân vào quyết tâm chính trị của Đảng.
