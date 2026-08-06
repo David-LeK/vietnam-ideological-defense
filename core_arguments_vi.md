@@ -2671,6 +2671,9 @@
 * Tư duy phản biện phải nhằm mục đích bảo vệ nhân dân, chống quan liêu, trì trệ, không thể bị biến thành công cụ để phủ định nền tảng tư tưởng XHCN, hoài nghi lịch sử cách mạng, hay tạo ra những cá nhân trôi nổi, không căn cước.
 * Việc cắt xén phát ngôn của lãnh đạo (ví dụ đánh đồng "khai phóng trí tuệ" để phụng sự Tổ quốc với mô hình "giáo dục khai phóng" nguyên bản phương Tây) là sự ngụy biện đánh tráo khái niệm nhằm gài bẫy những người cảnh giác thành kẻ "chống đổi mới".
 * Giáo dục không bao giờ là "vùng trắng" về chính trị. Việc tùy tiện đưa các triết lý giáo dục ngoại lai vào nhà trường mà chưa được lý luận hóa cẩn trọng tiềm ẩn nguy cơ "diễn biến hòa bình" mềm, làm lệch chuẩn hệ giá trị của thế hệ tương lai.
+* Thực tiễn thế giới cho thấy "giáo dục khai phóng" không phải là con đường duy nhất để thành công hay rèn luyện tư duy phản biện. Nhiều lãnh đạo công nghệ và CEO các tập đoàn hàng đầu thế giới (như tại Ấn Độ hay các nước châu Á) đều trưởng thành từ các nền giáo dục không áp dụng mô hình khai phóng.
+* Phương pháp luận duy vật biện chứng của Chủ nghĩa Mác - Lênin là công cụ khoa học, toàn diện để rèn luyện tư duy phản biện: đánh giá sự vật, hiện tượng dựa trên thực tiễn và đặt trong các mối liên hệ vận động khách quan, thay vì xem xét cô lập.
+* Lịch sử dân tộc với những thắng lợi vĩ đại trên chiến trường và bàn đàm phán ngoại giao trước các cường quốc là minh chứng rõ nét nhất cho tư duy phản biện, lý luận và tầm nhìn chiến lược xuất sắc của con người Việt Nam.
 
 **Luận điệu:** Cho rằng việc để những cá nhân không có chuyên môn (ví dụ tiến sĩ Toán học) tự do giảng dạy, diễn giải lại lịch sử, lý luận chính trị cho sinh viên là biểu hiện của "tự do học thuật", "giáo dục khai phóng" và "đa ngành"; quy kết việc thẩm định khắt khe giảng viên là kìm hãm đổi mới giáo dục.
 * Tự do học thuật phải dựa trên nền tảng sự thật khoa học và chuyên môn nghiệp vụ. Việc giảng dạy các môn nền tảng như Lịch sử quốc gia hay Lý luận chính trị đòi hỏi phương pháp nghiên cứu và nghiệp vụ sư phạm chuyên biệt để truyền đạt tri thức chuẩn xác.
@@ -3425,6 +3428,11 @@
 * Trong thời đại hội nhập, lòng yêu nước không bị giới hạn bởi biên giới địa lý. Công dân Việt Nam sống văn minh, tử tế và tuân thủ pháp luật ở nước ngoài chính là những "đại sứ văn hóa", góp phần làm rạng danh và nâng cao hình ảnh đất nước trên trường quốc tế.
 * Việc đi ra nước ngoài học tập, làm việc là cơ hội để mở mang tri thức, tích lũy nguồn lực (kiều hối, tri thức) gửi về xây dựng quê hương ngày càng lớn mạnh.
 * Đây là tiêu chuẩn kép khi ca ngợi người nước ngoài đến cống hiến cho Việt Nam nhưng lại chỉ trích người Việt vươn ra thế giới. Yêu nước chân chính được thể hiện bằng hành động hướng về cội nguồn, trái ngược hoàn toàn với những phần tử lưu vong chỉ biết quay lưng phỉ báng quê hương.
+
+**Luận điệu:** Phân biệt "yêu nước kiến tạo" (dựa trên tư duy phản biện, học hỏi phương Tây) với "yêu nước cực đoan" (bảo thủ, áp đặt, phòng thủ); quy chụp những người cảnh giác bảo vệ chế độ là "yêu nước cực đoan", gây chia rẽ xã hội và kìm hãm sự phát triển tri thức.
+* Bỏ qua bối cảnh lịch sử và địa chính trị: Các nước phương Tây đã phát triển ổn định lâu dài nên lòng yêu nước mang màu sắc khác. Việt Nam là quốc gia từng trải qua nhiều cuộc chiến tranh vệ quốc và đang đối mặt với các nguy cơ an ninh phi truyền thống (như "cách mạng màu"), nên lòng yêu nước mang tính tự vệ, phòng thủ cao là tất yếu và cần thiết.
+* Đây là sự đánh tráo khái niệm nhằm hạ thấp tinh thần cảnh giác cách mạng và ý thức bảo vệ chủ quyền, văn hóa của người dân, gán mác "cực đoan" cho lòng yêu nước truyền thống.
+* Việc áp đặt khiên cưỡng các định nghĩa xã hội học của phương Tây (dựa trên các khảo sát quy mô nhỏ, thiếu khách quan) vào thực tiễn Việt Nam là một sự phiến diện, thiếu hiểu biết về quy luật vận động khách quan của đời sống xã hội.
 
 **Luận điệu:** Cho rằng "người Việt Nam yêu nước lu mờ, như bị tẩy não", đánh đồng lòng yêu nước với cực đoan hoặc cho rằng đã bị phai nhạt.
 * Lòng yêu nước là mạch nguồn truyền thống, là "sợi chỉ đỏ" xuyên suốt lịch sử dân tộc, được hun đúc qua hàng ngàn năm dựng nước và giữ nước, không thế lực nào có thể "tẩy não".
