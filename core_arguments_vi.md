@@ -2963,6 +2963,14 @@
 * Thủ đoạn "pha trộn": Kẻ xấu thường dùng thủ đoạn tinh vi là trộn lẫn phần lớn tin thật (khoảng 90%) với một phần nhỏ tin giả (10%) để tạo vỏ bọc tin cậy, dẫn dắt dư luận theo hướng sai lệch.
 * "Vaccine số": Người dùng cần trở thành "công dân số thông minh": chậm lại một nhịp, kiểm chứng nguồn tin (double check) từ cơ quan chính thống, không để cảm xúc bị dẫn dắt.
 
+**Luận điệu:** Lợi dụng danh nghĩa các trang mạng xã hội mang tên tích cực (như "sự thật", "công lý", "tiếng nói nhân dân") hoặc giả mạo cơ quan nhà nước, cá nhân có uy tín để tung các "tin mật", "tin nội bộ" chưa được kiểm chứng.
+* Đây là thủ đoạn tạo vỏ bọc đáng tin cậy để đánh lừa người đọc. Các "tin mật", "rò rỉ" thực chất là tin giả, bịa đặt nhằm gây hoang mang dư luận và làm suy giảm niềm tin.
+* Người dân cần đánh giá nội dung, kiểm chứng nguồn tin từ các cơ quan báo chí chính thống và chủ động sử dụng tính năng báo cáo (report) đối với các tài khoản giả mạo thay vì chỉ tin vào tên gọi hay hình ảnh bề ngoài của trang mạng.
+
+**Luận điệu:** Sử dụng các tiêu đề giật gân ("sự thật bị che giấu", "báo chí không dám đăng") kèm theo lời kêu gọi "chia sẻ gấp trước khi bị xóa" để kích động người dùng lan truyền thông tin sai lệch và tạo hiệu ứng đám đông cực đoan trong phần bình luận.
+* Đây là đòn tâm lý đánh vào sự tò mò và cảm xúc của người dùng, lợi dụng thuật toán để phát tán thông tin độc hại trước khi người đọc kịp kiểm chứng bằng lý trí.
+* Việc nhấn "thích", "chia sẻ" hay "bình luận" vào các bài viết này là vô tình tiếp tay cho kẻ xấu và có thể phải chịu trách nhiệm pháp lý nếu vi phạm. Người dùng mạng xã hội cần hình thành thói quen kiểm chứng thông tin từ nguồn chính thống trước khi tương tác.
+
 **Luận điệu:** Cho rằng các kênh truyền thông yêu nước, chính thống bị "bóp tương tác" (shadowban) là do nội dung "nhàm chán", "tuyên truyền một chiều"; khẳng định các video chống phá có nhiều view chứng tỏ "lòng dân ủng hộ".
 * Thuật toán thiên kiến: Các nền tảng xuyên biên giới (như TikTok, Facebook) thường ưu tiên các nội dung gây tranh cãi, giật gân, kích động cảm xúc tiêu cực để giữ chân người dùng, vô tình hoặc cố ý lan truyền "virus chia rẽ".
 * Sự bất công trên nền tảng số: Nội dung độc hại dễ được "đẩy trend", trong khi tiếng nói phản biện sắc sảo, bảo vệ chế độ thường bị báo cáo, ẩn bài bởi các chiến dịch tấn công có tổ chức của thế lực thù địch.

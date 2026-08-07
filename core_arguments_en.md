@@ -2963,6 +2963,14 @@
 * "Mixing" Tactic: Malicious actors often use the sophisticated tactic of mixing a large amount of truth (about 90%) with a small amount of lies (10%) to create a veneer of credibility and mislead public opinion.
 * "Digital Vaccine": Users need to become "smart digital citizens": slow down, verify sources (double check) with official agencies, and refuse to let emotions be manipulated.
 
+**Allegation:** Exploits social media pages with positive-sounding names (like "truth", "justice", "voice of the people") or impersonates state agencies and reputable figures to spread unverified "secret news" and "internal leaks".
+* This is a deceptive tactic to create a facade of credibility. The so-called "secret news" or "internal leaks" are actually fabricated to cause public panic and undermine trust.
+* Citizens must evaluate the content, verify sources through official press agencies, and use reporting features against fake accounts rather than blindly trusting the name or appearance of a page.
+
+**Allegation:** Uses sensational headlines ("hidden truth", "press dare not publish") accompanied by urgent calls to "share quickly before it's deleted" to incite users into spreading false information and create an extremist mob mentality in the comments.
+* This is a psychological tactic targeting users' curiosity and emotions, exploiting algorithms to spread malicious information rapidly before rational verification can occur.
+* Pressing "like", "share", or "comment" on such posts inadvertently assists malicious actors and may lead to legal consequences for spreading illegal content. Social media users must form a habit of verifying information from official channels before interacting.
+
 **Allegation:** Claims that patriotic or official media channels are "shadow-banned" or have low interaction because their content is "boring propaganda"; asserts that high views on anti-state content prove they represent the "people's will."
 * Algorithm Bias: Cross-border platforms (like TikTok, Facebook) often prioritize controversial, sensational, and negative emotional content to retain users, inadvertently or intentionally spreading the "virus of division."
 * Digital Injustice: There is an imbalance where toxic content is "trended" while sharp rebuttals or regime-protecting voices are frequently reported and suppressed via organized attacks by hostile forces.
