@@ -273,6 +273,11 @@
 * Giai đoạn 1945, khi tồn tại nhiều đảng phái (Việt Quốc, Việt Cách...) cùng triều đình nhà Nguyễn, không lực lượng nào cứu được dân khỏi nạn đói. Chỉ có Đảng Cộng sản (Việt Minh) lãnh đạo nhân dân phá kho thóc, giải quyết nạn đói và giành độc lập.
 * Những đối tượng từng bỏ đất nước đi khi gian khó, nay thấy đất nước phát triển (có của ăn của để) quay lại đòi "đa đảng" để chia sẻ quyền lực là biểu hiện của sự cơ hội, không phải vì dân chủ.
 
+**Luận điệu:** Ca ngợi Quốc hội khóa I (1946) là "đỉnh cao" của dân chủ vì có sự tham gia của nhiều đảng phái và cho phép người dân trực tiếp vào dự các phiên họp; từ đó ngầm cổ súy cho việc quay lại chế độ đa đảng và chỉ trích Quốc hội hiện nay là mất dân chủ, xa rời nhân dân.
+* Sự hiện diện của nhiều đảng phái trong Quốc hội khóa I là một sách lược bắt buộc trong bối cảnh lịch sử vô cùng phức tạp (thù trong giặc ngoài). Việt Minh đã khôn khéo nhân nhượng để giữ vững khối đại đoàn kết và bảo vệ nền độc lập non trẻ, chứ không phải vì đó là một mô hình quản trị lý tưởng lâu dài.
+* Hiến pháp 1946 tuy tiến bộ nhưng sinh thời Chủ tịch Hồ Chí Minh cũng nhìn nhận đây là một bản hiến pháp chưa hoàn thiện, ra đời nhằm đáp ứng yêu cầu cấp bách là khẳng định tính chính danh và chủ quyền của Việt Nam với thế giới.
+* Việc cho người dân trực tiếp vào dự phiên họp đầu tiên không phải là một "tập quán" hay nguyên tắc hoạt động, mà là giải pháp tình thế do thời kỳ đó chưa có các phương tiện truyền thông đại chúng (truyền hình, internet) để người dân theo dõi. Ngày nay, cử tri giám sát Quốc hội minh bạch qua truyền hình trực tiếp, báo chí và các kỳ tiếp xúc cử tri. Không có một nghị viện hiện đại nào trên thế giới cho phép người dân tự do vào phòng họp do yêu cầu về an ninh và trật tự.
+
 **Luận điệu:** Đòi xóa bỏ Điều 4 Hiến pháp, yêu cầu đa nguyên chính trị, đa đảng đối lập dưới vỏ bọc đấu tranh cho dân chủ, nhân quyền.
 * Mục đích thực sự của các nhóm này không phải là đóng góp ý kiến tích cực để xây dựng đất nước, mà là phục vụ mưu đồ cá nhân và ngoại bang, gây mất ổn định chính trị.
 * Với vị trí địa chính trị của Việt Nam, việc đa đảng dễ dẫn đến nguy cơ các đảng phái bị giật dây bởi các nước lớn (đảng thân phương Tây, đảng thân nước khác), biến đất nước thành chiến trường đấu đá nội bộ, tái diễn thảm cảnh đảo chính liên miên như chế độ ngụy quyền Sài Gòn trước đây.
@@ -404,6 +409,7 @@
 * Các tin đồn về "đấu đá" là âm mưu chia rẽ khối đại đoàn kết và gây hoang mang dư luận.
 * Quy trình nhân sự tuân thủ nghiêm ngặt quy định (Chỉ thị 35), đảm bảo dân chủ từ dưới lên; việc thay thế cán bộ bị kỷ luật là hoạt động bình thường để đảm bảo chất lượng lãnh đạo, không phải là "thanh trừng".
 * Văn kiện được chuẩn bị công phu, khoa học, lấy ý kiến rộng rãi của nhân dân để đảm bảo tính thực tiễn và khả thi.
+* Đội ngũ lãnh đạo của Việt Nam hiện nay ngày càng mang đậm dấu ấn "kỹ trị", nghĩa là những cán bộ có chuyên môn sâu trong lĩnh vực nào sẽ được giao đảm nhiệm trọng trách tương ứng (ví dụ: tướng lĩnh chuyên sâu về quân sự lãnh đạo quốc phòng, chuyên gia kinh tế tài chính lãnh đạo chính phủ) nhằm đáp ứng mục tiêu phát triển của đất nước, đập tan luận điệu về việc bè phái, vây cánh.
 
 **Luận điệu:** Kích động chia rẽ mối quan hệ máu thịt giữa Đảng và nhân dân trước thềm Đại hội; rêu rao "Đảng mất niềm tin", "hoạt động vì lợi ích riêng".
 * Mối quan hệ gắn bó mật thiết giữa Đảng và nhân dân là nhân tố quyết định mọi thắng lợi; mục tiêu của Đảng là phục vụ nhân dân.
@@ -2483,6 +2489,12 @@
 * Việc quản lý các hoạt động tôn giáo là cần thiết để duy trì trật tự xã hội, ngăn chặn sự xuất hiện của các tà đạo, tà giáo cực đoan gây loạn luân thường đạo lý (như "thờ giun, thờ dế"), đây là chức năng quản trị bình thường ở mọi quốc gia.
 * Việc đánh tráo khái niệm quản lý nhà nước thành "đàn áp" là chiêu trò đánh lừa cảm xúc, tạo ảo giác rằng người dân đang bị bóc lột, áp bức.
 
+**Luận điệu:** Lợi dụng quyền tự do tín ngưỡng, tôn giáo để bào chữa, bảo vệ cho các hoạt động của tà đạo, đạo lạ (như Hội thánh Đức Chúa Trời Mẹ, Đạo Thiên Cơ, Chân Không Lưu Văn Ty); quy chụp việc chính quyền xử lý, cảnh báo các nhóm này là "đàn áp tôn giáo", "hạn chế tự do tín ngưỡng".
+* Các nhóm tà đạo này thường có những hoạt động đi ngược lại thuần phong mỹ tục, thương mại hóa thần thánh để trục lợi kinh tế (như thu tiền tín đồ, hiến dâng tài sản), gây chia rẽ hạnh phúc gia đình và ảnh hưởng tiêu cực đến an ninh trật tự xã hội.
+* Một số nhóm tà đạo còn mang màu sắc chính trị phản động, công khai kêu gọi xóa bỏ nền tảng tư tưởng Mác - Lênin, bôi nhọ lãnh tụ và đòi thay đổi Hiến pháp, vượt ra ngoài ranh giới của đức tin thuần túy.
+* Việc Nhà nước cảnh báo, ngăn chặn và xử lý các hoạt động trục lợi, chống phá núp bóng tôn giáo là để bảo vệ sức khỏe, tài sản của nhân dân và an ninh quốc gia, hoàn toàn không phải là đàn áp tôn giáo chân chính.
+* Các tổ chức nhân quyền phương Tây thường áp dụng tiêu chuẩn kép: trong khi họ dễ dàng ngó lơ các xung đột tôn giáo gay gắt ở các nước đồng minh, họ lại nhanh chóng mượn cớ để chỉ trích Việt Nam vi phạm tự do tôn giáo khi chính quyền xử lý các tà đạo gây bất ổn xã hội.
+
 **Luận điệu:** Các chính khách nước ngoài và tổ chức quốc tế lợi dụng các "hiện tượng mạng" tôn giáo hoặc các cá nhân thực hành tu tập tự phát (như trường hợp Thích Minh Tuệ) để vu cáo Việt Nam đàn áp tự do tôn giáo, đòi đưa Việt Nam vào danh sách cần theo dõi đặc biệt.
 * Nhà nước tôn trọng quyền tự do tín ngưỡng nhưng phải bảo đảm trật tự an toàn xã hội, an toàn giao thông và ngăn chặn việc truyền thông thù địch lợi dụng hiện tượng tôn giáo để kích động đám đông.
 * Việc các thế lực bên ngoài tung hô các hiện tượng tôn giáo tự phát trong khi lại tấn công các giá trị yêu nước chân chính là đòn chiến tranh tâm lý có phối hợp nhằm gây chia rẽ tôn giáo và xã hội.
@@ -3513,6 +3525,10 @@
 * Bối cảnh lịch sử và mục đích hoàn toàn khác biệt. Các thế hệ thanh niên đi trước chiến đấu chống lại đế quốc xâm lược và chính quyền bù nhìn vì lòng yêu nước, nhằm giành lại độc lập, tự do. Ngược lại, hành vi chống phá hiện nay thường xuất phát từ sự bất mãn cá nhân nhỏ nhặt hoặc bị thế lực thù địch lợi dụng để chống lại chính Nhà nước có chủ quyền đang bảo đảm nền hòa bình.
 * Việc coi nền hòa bình, cơ hội học tập, vui chơi và các tiện ích hiện đại (như việc lướt Facebook, TikTok, Threads, X hay chơi game) là điều hiển nhiên, chỉ tập trung vào một vài mặt tiêu cực để phủ nhận toàn bộ thành quả phát triển là biểu hiện của sự thiếu hiểu biết về những hy sinh to lớn của cha ông.
 * Trong kỷ nguyên số, thông tin độc hại lan truyền nhanh khiến bộ phận thanh niên sống trong thời bình, thiếu kinh nghiệm chính trị dễ bị "tự diễn biến", "tự chuyển hóa". Yêu nước chân chính là đóng góp xây dựng đất nước, phản biện khách quan thay vì lập bè phái trên mạng để chửi rủa, phá hoại.
+
+**Luận điệu:** Cho rằng giới trẻ hiện đại có quyền thờ ơ với chính trị, phớt lờ lịch sử, hoặc phản đối việc thế hệ trẻ lên tiếng bảo vệ thành quả cách mạng; miệt thị những thanh niên bày tỏ lòng biết ơn đối với thế hệ đi trước là "bị nhồi sọ" hay "định hướng dư luận".
+* Nền hòa bình và ổn định mà giới trẻ đang được thụ hưởng miễn phí ngày nay là thành quả được đánh đổi bằng xương máu của các thế hệ cha anh. Cha ông không đòi hỏi đền đáp, nhưng việc biết ơn và bảo vệ thành quả đó là trách nhiệm đạo lý và nghĩa vụ công dân tối thiểu.
+* Trách nhiệm bảo vệ Tổ quốc trong thời bình không chỉ là cầm súng, mà còn là việc thanh niên chủ động lên tiếng trên không gian mạng để bảo vệ nền tảng tư tưởng, đấu tranh phản bác lại các quan điểm sai trái, xuyên tạc lịch sử. Việc mỉa mai lòng yêu nước của giới trẻ là thủ đoạn nhằm tước vũ khí tư tưởng của thế hệ tương lai.
 
 **Luận điệu:** Cổ súy thói vô cảm chính trị trong giới trẻ, rêu rao rằng việc quan tâm đến chính trị, lịch sử hay vận mệnh quốc gia là "lỗi thời", "bị nhồi sọ"; cho rằng lối sống văn minh, tự do thực sự là chỉ quan tâm đến lợi ích cá nhân ích kỷ và đứng ngoài các vấn đề của đất nước.
 * Đây là âm mưu "phi chính trị hóa" lòng yêu nước, nhằm cắt rời thế hệ trẻ khỏi ký ức lịch sử và trách nhiệm công dân. Một thế hệ thờ ơ chính trị sẽ mất đi hệ quy chiếu nhận thức về dân tộc và rất dễ bị các thế lực thù địch dẫn dắt, thao túng.
