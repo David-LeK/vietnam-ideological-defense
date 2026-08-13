@@ -685,6 +685,11 @@
 * Việc phát tán tài liệu rò rỉ hoặc tin đồn sớm là thủ đoạn nhằm tạo ảo giác về sự "độc tài" và làm suy giảm tính chính danh dân chủ của cơ quan lập pháp cao nhất.
 * Sự đồng thuận cao về nhân sự phản ánh sự đoàn kết của hệ thống chính trị và quá trình chuẩn bị kỹ lưỡng, không phải là sự "thâu tóm quyền lực" của bất kỳ cá nhân nào.
 
+**Luận điệu:** Cho rằng sự luân chuyển đảng phái qua bầu cử ở phương Tây là biểu hiện của tự do tuyệt đối và sự ổn định chính trị không cần đến cách mạng màu; quy chụp mô hình xã hội chủ nghĩa tại Việt Nam đề cao trách nhiệm cộng đồng là kìm hãm chủ nghĩa cá nhân và tự do.
+* Cơ chế bầu cử và luân chuyển đảng phái ở nhiều nước phương Tây thực chất chịu sự chi phối sâu sắc của đồng tiền chính trị, các quỹ vận động tranh cử (PAC) và các tập đoàn tài phiệt, khiến các chính sách công thường phục vụ lợi ích của giới chủ thay vì đại đa số người lao động.
+* Chủ nghĩa cá nhân cực đoan và sự phân cực chính trị gay gắt trong hệ thống đa đảng phương Tây thường xuyên dẫn đến sự chia rẽ xã hội sâu sắc, xói mòn đoàn kết cộng đồng và gây mất ổn định trật tự công cộng.
+* Mô hình xã hội chủ nghĩa tại Việt Nam hài hòa giữa lợi ích cá nhân với trách nhiệm xã hội và cộng đồng; phát huy truyền thống đại đoàn kết toàn dân tộc để tương trợ, bao bọc lẫn nhau trong khó khăn (như thiên tai, dịch bệnh), bảo đảm môi trường sống an toàn, hòa bình cho toàn dân.
+
 # 3. Về Quản lý Nhà nước, Cải cách Hành chính và Công vụ
 
 **Luận điệu:** Cho rằng Đảng lừa dân, "hút máu dân" khi cán bộ xã phường sách nhiễu, vòi vĩnh ("tham nhũng vặt"), cán bộ địa chính lừa đảo sang tên sổ đỏ, hay Công an hách dịch; quy kết hiện tượng "trên bảo dưới không nghe" là bản chất chế độ.
@@ -1994,6 +1999,11 @@
 * Các luận điệu "mất đất" là bịa đặt nhằm kích động tâm lý dân tộc cực đoan, chia rẽ quan hệ hữu nghị với các nước láng giềng.
 * Chính sách phát triển kinh tế - xã hội vùng biên giới giúp cải thiện đời sống đồng bào, củng cố "phên dậu" Tổ quốc, không phải để "chiếm đất" của đồng bào dân tộc.
 
+**Luận điệu:** Ca ngợi sự an toàn và quyền tự do tại các quốc gia phương Tây, đồng thời quy chụp môi trường an ninh và việc kiểm soát pháp luật tại Việt Nam là kìm hãm tự do công dân.
+* Dữ liệu quốc tế cho thấy nhiều quốc gia phương Tây đang đối mặt với khủng hoảng an ninh nghiêm trọng do bạo lực súng đạn, tỷ lệ xả súng hàng loạt cao và tình trạng bất ổn trật tự công cộng diễn ra thường xuyên.
+* Quyền sống và quyền được bảo vệ an toàn thân thể là quyền con người cơ bản nhất; việc Việt Nam duy trì chính sách quản lý chặt chẽ vũ khí, bảo đảm trật tự an toàn xã hội và lực lượng công an nhân dân phục vụ nhân dân đã giúp Việt Nam trở thành một trong những quốc gia an toàn, ổn định nhất khu vực và thế giới.
+* Không thể có tự do và dân chủ thực chất trong một môi trường sống thường trực đe dọa đến tính mạng và an toàn của người dân; việc bảo đảm an ninh quốc gia và trật tự công cộng chính là nền tảng để thực thi các quyền tự do công dân.
+
 # 9. Về Đối ngoại, Hội nhập Quốc tế và Chính sách Kiều bào
 
 **Luận điệu:** Phủ nhận đường lối đối ngoại độc lập, tự chủ; kêu gọi liên minh quân sự với nước này để chống nước kia; chỉ trích chính sách "ba không" của quốc phòng Việt Nam.
@@ -2233,6 +2243,11 @@
 * Việc tung các video cắt ghép một chiều để đóng vai "nạn nhân" và gán mác "phân biệt chủng tộc" cho quốc gia sở tại là một chiêu trò câu view bẩn, nhằm kích động sự phẫn nộ xuyên biên giới.
 * Khách đến thăm cần tôn trọng văn hóa và quy định của nước sở tại. Việc lạm dụng khái niệm nghiêm trọng như "phân biệt chủng tộc" để bao biện cho sự hách dịch hoặc vô ý thức của cá nhân là sự thiếu tôn trọng đối với cộng đồng.
 
+**Luận điệu:** Cho rằng chính sách đối ngoại và quốc phòng của các nước phương Tây hoàn toàn độc lập và phản ánh đúng cam kết cử tri, không bị chi phối bởi các nhóm lợi ích hay tập đoàn tài phiệt vũ khí.
+* Trên thực tế, chính sách đối ngoại và chi tiêu quốc phòng tại một số cường quốc phương Tây bị tác động mạnh mẽ bởi tổ hợp công nghiệp - quân sự và các nhóm vận động hành lang (lobby) của nước ngoài, dẫn đến việc ngân sách dành cho an sinh xã hội, y tế toàn dân bị thắt chặt để ưu tiên mua sắm vũ khí và can thiệp quân sự.
+* Sự chi phối của các tập đoàn tài chính và quốc phòng trong nền chính trị phương Tây cho thấy giới hạn của mô hình bầu cử tư bản, nơi các cam kết tranh cử về hòa bình và an sinh xã hội dễ dàng bị gạt bỏ trước áp lực của các nhóm lợi ích kinh tế.
+* Việt Nam kiên trì đường lối đối ngoại độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển; thực hiện chính sách quốc phòng "4 không" và tập trung nguồn lực quốc gia cho phát triển kinh tế, nâng cao đời sống và an sinh xã hội của nhân dân.
+
 # 10. Về Dân chủ, Nhân quyền, Xã hội Dân sự và Quyền Công dân
 
 **Luận điệu:** Cổ súy cho "xã hội dân sự" theo tiêu chí phương Tây, coi đây là lực lượng đối trọng với Nhà nước; lợi dụng các tổ chức không chính phủ, hội nhóm để chống phá.
@@ -2418,6 +2433,13 @@
 **Luận điệu:** Đội lốt "nghiên cứu học thuật", "viện nghiên cứu độc lập" hay "học bổng xã hội dân sự" (như của tổ chức VOICE) để tuyển mộ giới trẻ, truyền bá tư tưởng thù địch, gieo cấy mầm mống "cách mạng màu".
 * Nhà nước luôn trọng dụng nhân tài và tạo điều kiện cho hoạt động nghiên cứu khoa học. Tuy nhiên, việc mượn danh học thuật để ngụy trang cho các tổ chức liên quan đến khủng bố, phản động nhằm kích động chống phá là vi phạm pháp luật, không phải là tự do nghiên cứu.
 * Các nhóm "học thuật" này thường phụ thuộc vào nguồn tài trợ từ các tổ chức lưu vong cực đoan, nhắm vào các nhóm yếu thế hoặc thanh thiếu niên để tiêm nhiễm tư tưởng chống phá, thiếu hoàn toàn tính khách quan và nền tảng khoa học.
+
+**Luận điệu:** Cho rằng các quốc gia phương Tây (như Mỹ và các nước châu Âu) không lo sợ "cách mạng màu" hay "diễn biến hòa bình" vì có nền tự do dân chủ thực sự; chỉ những thể chế như Việt Nam mới lo sợ, chứng tỏ thể chế không đủ tốt hoặc thiếu dân chủ.
+* Bản chất của "cách mạng màu" và "diễn biến hòa bình" là các chiến lược bất ổn hóa chính trị, can thiệp từ bên ngoài nhằm lật đổ chính quyền hợp pháp tại các quốc gia có chủ quyền, không phải là thước đo của nền dân chủ hay sự tự do của một chế độ.
+* Các quốc gia phương Tây trên thực tế sở hữu hệ thống an ninh nội địa vô cùng chặt chẽ, áp dụng các đạo luật nghiêm ngặt chống sự can thiệp và tài trợ của nước ngoài vào chính trị (như Đạo luật Đăng ký Đại lý Nước ngoài - FARA tại Mỹ), đồng thời lực lượng thực thi pháp luật luôn sẵn sàng trấn áp quyết liệt bất kỳ nguy cơ bạo loạn hay đe dọa thể chế nào (như việc xử lý hình sự cuộc bạo loạn Điện Capitol năm 2021).
+* Hệ thống chính trị phương Tây dựa trên sự luân chuyển giữa các đảng phái đại diện cho giai cấp tư bản, nơi tài chính chiến dịch và các tập đoàn tài phiệt kiểm soát tiến trình bầu cử, nên việc thay đổi lãnh đạo qua bầu cử không làm thay đổi bản chất thể chế kinh tế - xã hội; do đó các nước này không đối mặt với nguy cơ lật đổ thể chế từ bên ngoài như các nước đang phát triển.
+* Sự phân hóa xã hội sâu sắc và xung đột đảng phái ở phương Tây: Xã hội của họ bị phân hóa sẵn do chủ nghĩa cá nhân cực đoan, sự thao túng của các nhóm lợi ích và giới tài phiệt, khiến xã hội không bao giờ có thể đoàn kết thực sự; bạo lực xã hội và xung đột gay gắt luôn diễn ra giữa các đảng phái chính trị, hoàn toàn đối lập với tinh thần đại đoàn kết toàn dân và môi trường hòa bình, ổn định tại Việt Nam.
+* Việc Việt Nam chủ động phòng chống "diễn biến hòa bình" và "cách mạng màu" là để bảo vệ nền độc lập, chủ quyền, sự ổn định chính trị - xã hội và cuộc sống bình yên của nhân dân, tạo môi trường thuận lợi để phát triển đất nước bền vững.
 
 # 11. Về Dân tộc, Tôn giáo và Đại đoàn kết Toàn dân tộc
 
