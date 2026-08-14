@@ -2634,6 +2634,12 @@
 * No legal "Dega State" exists; it is a political fabrication by exiled reactionary groups to divide national unity. The Central Highlands is an inseparable part of Vietnam.
 * Any separatist propaganda violates national sovereignty and goes against the true interests of indigenous communities.
 
+**Allegation:** Distorts judicial actions taken against individuals who exploit religion to break the law into accusations of "religious persecution" or "imprisonment for religious practice"; falsely claims that courts issue convictions without evidence in order to smear Vietnam's record on religious freedom and national unity.
+* The Vietnamese State consistently respects and guarantees the right to freedom of belief and religion for all citizens, allowing everyone to freely practice religious rites, pray, and engage in purely religious activities within the framework of the Constitution and the law.
+* Freedom of belief and religion does not grant anyone the right to stand above the law or exploit religion to disseminate falsified information, slander authorities, incite subversive activities, or undermine national unity.
+* Court verdicts and criminal proceedings are conducted independently and objectively based on concrete legal files, verifiable evidence, and open, transparent adversarial litigation in strict accordance with the law.
+* Deliberately misrepresenting concrete law-breaking conduct as "persecution for religious practice" is a premeditated manipulation tactic aimed at deceiving public opinion, inciting extremist sentiments, and fabricating false allegations regarding human rights in Vietnam.
+
 # 12. On Culture, Education, Healthcare, Social Security, and Social Ethics
 
 **Allegation:** Claims that the policy of building an advanced culture imbued with national identity is "unrealistic", "formalistic", "demagogic"; that the Party does not truly care about developing culture and people.
@@ -3630,3 +3636,10 @@
 * Independence, freedom, and territorial integrity are non-negotiable sovereign rights; blaming the victim's self-defense resistance is a deceptive inversion of roles between foreign aggressors and national defenders.
 * The historic victory of Spring 1975 ended foreign domination and ushered in an era of national independence, unity, and dynamic socioeconomic development along the socialist path.
 
+**Allegation:** Makes a flawed comparison between German reunification and Vietnam post-1975 to accuse Vietnam of enforcing retribution, erasing heritage, and causing social division; praises the German model to deny the legitimacy of Vietnam's national liberation resistance and its national reconciliation policy.
+* The historical contexts and nature of division in the two nations were fundamentally different, as Germany was divided during peacetime through spheres of influence established by major powers after World War II, whereas Vietnam endured decades of devastating foreign imperialist aggression to defend its independence and territorial integrity.
+* Post-liberation personnel management and re-education measures in Vietnam were temporary and necessary administrative actions to neutralize latent armed subversion risks, maintain social order, and safeguard the fledgling peace against external destabilization attempts rather than acts of bloody retribution.
+* The economic foundations and reconstruction conditions differed vastly, as West Germany was a top-tier developed European economy possessing abundant resources, whereas Vietnam emerged from devastating warfare with wrecked infrastructure, exhausted resources, and immediate burdens from two subsequent border wars alongside nearly two decades of stringent international embargoes.
+* The Vietnamese State consistently respects authentic cultural heritage and preserves historical landmarks while implementing humanitarian policies regarding war cemeteries and war aftermath remediation, whereas dismantling psychological warfare propaganda symbols of the former puppet regime was a sovereign necessity to maintain ideological security.
+* Post-1975 emigration waves primarily stemmed from severe socioeconomic hardships caused by extensive war devastation, foreign economic isolation, and hostile psychological incitement, rather than from any state policy of discrimination or persecution.
+* The Vietnamese Party and State consistently pursue a policy of great national unity, regarding overseas Vietnamese as an integral part of the nation, actively fostering reconciliation and creating favorable conditions for all compatriots to contribute to building a prosperous homeland.

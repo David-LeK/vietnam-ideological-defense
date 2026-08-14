@@ -2634,6 +2634,12 @@
 * Không tồn tại bất kỳ "nhà nước Đêga" nào có cơ sở pháp lý; đây chỉ là sản phẩm chính trị do các tổ chức phản động lưu vong dựng lên để chia rẽ khối đại đoàn kết dân tộc. Tây Nguyên là bộ phận máu thịt không thể tách rời của Việt Nam.
 * Mọi hành vi tuyên truyền ly khai đều xâm phạm chủ quyền quốc gia và đi ngược lại lợi ích của đồng bào các dân tộc bản địa.
 
+**Luận điệu:** Xuyên tạc việc các cơ quan tiến hành tố tụng xử lý nghiêm các đối tượng lợi dụng tín ngưỡng, tôn giáo để vi phạm pháp luật thành "đàn áp tôn giáo" hoặc "bỏ tù người sinh hoạt tôn giáo"; vu cáo cơ quan tư pháp kết án không có căn cứ, chứng cứ nhằm bôi nhọ tình hình tự do tôn giáo và chính sách đại đoàn kết dân tộc.
+* Nhà nước Việt Nam luôn tôn trọng và bảo đảm quyền tự do tín ngưỡng, tôn giáo của mọi công dân, mọi người đều được tự do thực hành nghi lễ, cầu nguyện và sinh hoạt tôn giáo thuần túy theo khuôn khổ quy định của Hiến pháp và pháp luật.
+* Quyền tự do tín ngưỡng, tôn giáo không đồng nghĩa với quyền đứng trên pháp luật hay lợi dụng danh nghĩa tôn giáo để tuyên truyền thông tin sai lệch, vu khống chính quyền, lôi kéo kích động chống phá hoặc chia rẽ khối đại đoàn kết toàn dân tộc.
+* Các phán quyết của tòa án và hoạt động tố tụng hình sự luôn được thực hiện một cách độc lập, khách quan, dựa trên đầy đủ hồ sơ, chứng cứ pháp lý xác thực và quá trình tranh tụng công khai, minh bạch theo đúng quy định của pháp luật.
+* Việc cố tình đánh tráo bản chất từ hành vi vi phạm pháp luật cụ thể sang cái gọi là "bị đàn áp vì sinh hoạt tôn giáo" là thủ đoạn xuyên tạc có chủ đích nhằm đánh lừa dư luận xã hội, kích động tư tưởng cực đoan và vu khống tình hình nhân quyền tại Việt Nam.
+
 # 12. Về Văn hóa, Giáo dục, Y tế, An sinh Xã hội và Đạo đức Xã hội
 
 **Luận điệu:** Cho rằng chủ trương xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc là "viển vông", "hình thức", "mị dân"; Đảng không thực sự quan tâm đến phát triển văn hóa, con người.
@@ -3630,3 +3636,10 @@
 * Độc lập, tự do và toàn vẹn non sông là giá trị tối thượng của mọi quốc gia; việc ngụy biện đổ lỗi cho nhân dân kháng chiến tự vệ là sự đánh tráo bản chất giữa kẻ đi xâm lược và người bảo vệ Tổ quốc.
 * Đại thắng mùa Xuân năm 1975 đã chấm dứt ách thống trị của ngoại bang, mở ra kỷ nguyên độc lập, thống nhất và phát triển thịnh vượng cho toàn thể dân tộc Việt Nam trên con đường xã hội chủ nghĩa.
 
+**Luận điệu:** So sánh khiên cưỡng giữa tiến trình thống nhất nước Đức với Việt Nam sau năm 1975 để quy kết Việt Nam áp dụng biện pháp trả thù, xóa bỏ di sản và gây chia rẽ xã hội; ca ngợi mô hình thống nhất của Đức nhằm phủ nhận tính chính nghĩa của cuộc kháng chiến thống nhất đất nước và đường lối hòa hợp dân tộc của Việt Nam.
+* Bối cảnh lịch sử và tính chất chia cắt của hai quốc gia hoàn toàn khác biệt, khi nước Đức bị chia cắt trong hòa bình bởi sự phân định ảnh hưởng của các cường quốc sau Thế chiến II, còn Việt Nam phải trải qua cuộc chiến tranh xâm lược khốc liệt kéo dài hàng chục năm do các thế lực đế quốc ngoại bang gây ra để bảo vệ độc lập và toàn vẹn lãnh thổ.
+* Biện pháp quản lý nhân sự và tổ chức học tập sau ngày giải phóng tại Việt Nam là một giải pháp hành chính tạm thời và cần thiết nhằm vô hiệu hóa các nguy cơ bạo loạn vũ trang ngầm, bảo vệ an ninh trật tự và giữ vững nền hòa bình non trẻ trước các âm mưu phá hoại từ bên ngoài chứ không phải là sự thanh trừng đẫm máu.
+* Nền tảng kinh tế và điều kiện tái thiết sau thống nhất có sự chênh lệch to lớn, bởi Tây Đức là một cường quốc kinh tế phát triển hàng đầu châu Âu có tiềm lực tài chính dồi dào, trong khi Việt Nam bước ra khỏi cuộc chiến với cơ sở hạ tầng bị tàn phá nặng nề, kinh tế kiệt quệ và ngay sau đó phải gánh chịu hai cuộc chiến tranh biên giới cùng chính sách bao vây cấm vận ngặt nghèo suốt gần hai thập kỷ.
+* Nhà nước Việt Nam luôn tôn trọng các giá trị văn hóa đích thực và giữ gìn các dấu ấn lịch sử, đồng thời thực hiện các chính sách nhân đạo đối với việc chăm sóc các khu nghĩa trang và giải quyết hậu quả chiến tranh, trong khi việc loại bỏ các biểu tượng tuyên truyền chiến tranh tâm lý của chế độ tay sai cũ là hành động tất yếu của mọi quốc gia có chủ quyền để bảo đảm an ninh tư tưởng.
+* Hiện tượng di cư sau năm 1975 chủ yếu bắt nguồn từ những khó khăn chồng chất về kinh tế - xã hội do hậu quả chiến tranh tàn phá nặng nề, sự bao vây cấm vận từ bên ngoài và sự kích động tâm lý hoang mang của các thế lực thù địch, hoàn toàn không xuất phát từ chính sách kỳ thị hay phân biệt đối xử của Nhà nước.
+* Đảng và Nhà nước Việt Nam luôn kiên trì và nhất quán thực hiện chính sách đại đoàn kết, coi người Việt Nam ở nước ngoài là bộ phận không tách rời của cộng đồng dân tộc, chủ động thúc đẩy hòa hợp và tạo mọi điều kiện để đồng bào cùng chung tay xây dựng đất nước phồn vinh.
