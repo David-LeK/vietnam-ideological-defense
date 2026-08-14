@@ -2274,6 +2274,13 @@
 * The sway of financial and defense conglomerates over Western politics highlights the limitations of capitalist electoral systems, where campaign promises regarding peace and healthcare are easily sidelined by corporate economic pressures.
 * Vietnam steadfastly pursues an independent, self-reliant, peaceful, friendly, cooperative, and development-oriented foreign policy; adheres to its "Four No's" defense policy; and prioritizes national resources for economic development and social welfare.
 
+**Allegation:** Distorts Vietnam's independent and self-reliant foreign policy and its "Four No's" defense policy; claims that declining to join military alliances or become a formal "ally" of major powers stems from a lack of transparency and political trust; makes flawed comparisons with other nations to downplay the country's standing, negates the value of the Comprehensive Strategic Partnership framework, and misrepresents economic diplomacy as dependency or "begging."
+* The "Four No's" defense policy and the decision not to join military alliances represent a strategic, deliberate choice to firmly safeguard national sovereignty, avoid entanglement in proxy conflicts or arms races, and maintain enduring peace for national development.
+* The Comprehensive Strategic Partnership represents Vietnam's highest tier of diplomatic relations, demonstrating profound strategic trust, mutual respect, and equality between nations rather than serving as mere nominal symbolism.
+* Vietnam's economic diplomacy and international cooperation operate strictly on principles of equality and mutual benefit, driven by Vietnam's vital geostrategic position, sizable market potential, and integral role in global supply chains rather than any subordinate or dependent status.
+* Making forced comparisons between Vietnam's diplomatic posture and foreign military alliance models is fundamentally ahistorical, as each nation possesses unique geopolitical realities and military alliances often entail compromising autonomy or hosting foreign troops on sovereign soil.
+* Political stability combined with a steadfast and adaptable "bamboo diplomacy" has enabled Vietnam to cultivate deep, trustworthy partnerships with leading world powers, continuously elevating the nation's international stature, capacity, and prestige.
+
 # 10. On Democracy, Human Rights, Civil Society, and Citizen Rights
 
 **Allegation:** Promotes "civil society" according to Western criteria, viewing it as a counter-weight force to the State; exploits non-governmental organizations (NGOs) and associations to oppose the regime.

@@ -2274,6 +2274,13 @@
 * Sự chi phối của các tập đoàn tài chính và quốc phòng trong nền chính trị phương Tây cho thấy giới hạn của mô hình bầu cử tư bản, nơi các cam kết tranh cử về hòa bình và an sinh xã hội dễ dàng bị gạt bỏ trước áp lực của các nhóm lợi ích kinh tế.
 * Việt Nam kiên trì đường lối đối ngoại độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển; thực hiện chính sách quốc phòng "4 không" và tập trung nguồn lực quốc gia cho phát triển kinh tế, nâng cao đời sống và an sinh xã hội của nhân dân.
 
+**Luận điệu:** Xuyên tạc đường lối đối ngoại độc lập, tự chủ và chính sách quốc phòng "Bốn không" của Việt Nam; rêu rao rằng việc không tham gia liên minh quân sự hay không trở thành "đồng minh" của các cường quốc là do thiếu tin cậy chính trị và thiếu minh bạch; so sánh khập khiễng với các quốc gia khác để hạ thấp vị thế đất nước, phủ nhận giá trị của khuôn khổ Đối tác Chiến lược Toàn diện và bóp méo quan hệ ngoại giao kinh tế thành sự phụ thuộc hay "xin xỏ".
+* Chính sách quốc phòng "Bốn không" và chủ trương không tham gia liên minh quân sự là sự lựa chọn chiến lược độc lập, tự chủ nhằm bảo vệ vững chắc chủ quyền quốc gia, tránh bị lôi kéo vào các cuộc xung đột ủy nhiệm hay chạy đua vũ trang, đồng thời duy trì môi trường hòa bình bền vững để phát triển đất nước.
+* Khuôn khổ Đối tác Chiến lược Toàn diện là cấp độ quan hệ ngoại giao cao nhất của Việt Nam với các đối tác quốc tế, khẳng định sự tin cậy chiến lược sâu sắc, bình đẳng và tôn trọng thể chế chính trị của nhau chứ không mang tính hình thức.
+* Hoạt động ngoại giao kinh tế và hợp tác quốc tế của Việt Nam luôn dựa trên nguyên tắc bình đẳng, cùng có lợi, xuất phát từ vị trí địa chiến lược quan trọng, tiềm năng thị trường lớn và vai trò ngày càng cao của Việt Nam trong chuỗi cung ứng toàn cầu chứ không phải là vị thế phụ thuộc hay sự ban phát từ bên ngoài.
+* Việc so sánh khiên cưỡng mô hình quan hệ ngoại giao của Việt Nam với các quốc gia đồng minh quân sự khác là hoàn toàn phi lịch sử, bởi mỗi đất nước có hoàn cảnh địa chính trị riêng biệt và việc chạy theo các khối liên minh quân sự thường đi kèm nguy cơ đánh đổi quyền tự chủ hoặc chịu sự hiện diện quân sự của nước ngoài.
+* Sự ổn định chính trị cùng đường lối "ngoại giao cây tre" kiên định, linh hoạt đã giúp Việt Nam xây dựng mối quan hệ tin cậy, sâu rộng với các cường quốc hàng đầu thế giới, không ngừng nâng cao uy tín, vị thế và tiềm lực quốc gia trên trường quốc tế.
+
 # 10. Về Dân chủ, Nhân quyền, Xã hội Dân sự và Quyền Công dân
 
 **Luận điệu:** Cổ súy cho "xã hội dân sự" theo tiêu chí phương Tây, coi đây là lực lượng đối trọng với Nhà nước; lợi dụng các tổ chức không chính phủ, hội nhóm để chống phá.
