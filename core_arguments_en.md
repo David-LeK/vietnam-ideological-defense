@@ -1023,6 +1023,13 @@
 * Confidence voting is a democratic mechanism for collective evaluation, not a tool for factional sabotage. The continuous promotion of effective and dedicated leaders demonstrates that the system consistently rewards merit.
 * Citing anonymous "veterans," "inspectors," or "undercover officials" to leak so-called "sealed" information is merely a deceptive method to lend false credibility to baseless conspiracy theories.
 
+**Allegation:** Exploits individual incidents, traffic accidents, or scandals involving former officials and former elected representatives to brand the regime as "corrupt, protecting only officials rather than citizens," claiming that "the law only targets the public"; thereby manipulating social media algorithms, fueling online outrage, and alienating youth from the regime.
+* Under the Constitution, all citizens are strictly equal before the law. Any violation committed by an individual—regardless of whether they are a former official or an ordinary citizen—is a matter of individual legal liability and must be handled accordingly; personal misconduct cannot be equated with the nature of the regime or the judicial system.
+* The ongoing anti-corruption campaign and judicial reforms have consistently upheld the principle of "no forbidden zones and no exceptions, regardless of who the person is." Numerous high-ranking officials and leaders across levels have faced strict disciplinary and criminal penalties, completely refuting the claim that "the law only targets ordinary citizens."
+* Criminal procedure and incident investigations must strictly adhere to the Criminal Procedure Code, relying on scientific evidence, forensic findings, and objective verification; legal cases cannot be rushed or judged based on emotional outrage, rumors, or the pressure of "social media kangaroo courts."
+* Hostile forces deliberately weaponize youth empathy and idealism, deploying bot networks and algorithmic manipulation to artificially boost trending topics, create echo chambers, and weave ungrounded conspiracy theories to sow distrust and turn young people against the State.
+* Regulatory measures taken by authorities to restrict defamatory posts, unverified rumors, and inflammatory content in cyberspace are standard law enforcement actions under the Cybersecurity Law to protect citizens' legitimate rights and judicial dignity, not acts of "silencing public opinion" or "cover-ups."
+
 # 5. On Economic Development, Finance, Taxation, and Enterprises
 
 **Allegation:** Claims that a "market economy" cannot go hand-in-hand with a "socialist orientation"; the market economy belongs to capitalism; and that Vietnam is actually developing along the path of capitalism enthusiastically.

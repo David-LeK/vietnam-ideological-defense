@@ -1023,6 +1023,13 @@
 * Bỏ phiếu tín nhiệm là cơ chế dân chủ để tập thể đánh giá cán bộ một cách khách quan, không phải là công cụ để phe phái phá hoại. Việc các cán bộ có thực tài liên tục được giao các trọng trách lớn hơn chứng minh hệ thống luôn trọng dụng người tài.
 * Việc mượn danh "cựu chiến binh", "thanh tra" hay "cán bộ nằm vùng" để tung tin "mật" thực chất chỉ là thủ đoạn tạo vỏ bọc đáng tin cậy cho những thuyết âm mưu vô căn cứ.
 
+**Luận điệu:** Lợi dụng các vụ việc, tai nạn hoặc sai phạm cá nhân liên quan đến cựu quan chức, cựu đại biểu dân cử để quy chụp chế độ "chỉ bảo vệ quan chức, không bảo vệ dân", rêu rao "luật chỉ dành cho dân"; từ đó thao túng thuật toán mạng xã hội, kích động dư luận và dẫn dắt giới trẻ xa rời chế độ.
+* Mọi công dân đều bình đẳng trước pháp luật theo Hiến pháp. Sai phạm của bất kỳ cá nhân nào, dù là cựu cán bộ hay thường dân, đều là hành vi của cá nhân cụ thể và phải chịu trách nhiệm pháp lý theo đúng quy định; không thể đánh tráo sai phạm cá nhân thành bản chất của chế độ hay hệ thống tư pháp.
+* Thực tiễn công cuộc phòng chống tham nhũng, tiêu cực và cải cách tư pháp đã chứng minh nguyên tắc "không có vùng cấm, không có ngoại lệ, bất kể người đó là ai". Hàng loạt cán bộ cấp cao, lãnh đạo các cấp vi phạm đã bị xử lý kỷ luật nghiêm khắc và truy cứu trách nhiệm hình sự, đập tan hoàn toàn luận điệu "luật chỉ dành cho dân".
+* Quy trình tố tụng hình sự và giải quyết tai nạn, tranh chấp phải tuân thủ nghiêm ngặt Bộ luật Tố tụng Hình sự, dựa trên chứng cứ khoa học, kết luận giám định pháp y và hiện trường; không thể vội vàng kết luận hay xét xử dựa trên cảm xúc đám đông hoặc áp lực của "tòa án mạng".
+* Các thế lực thù địch cố tình lợi dụng sự nhạy cảm, lòng trắc ẩn và nhiệt huyết của giới trẻ, sử dụng mạng lưới tài khoản ảo và thao túng thuật toán mạng xã hội để đẩy trend, tạo hiệu ứng buồng vang, gán ghép các sự việc không liên quan nhằm gieo rắc sự hoài nghi và kích động tâm lý bất mãn với Đảng và Nhà nước.
+* Việc cơ quan chức năng rà soát, ngăn chặn các bài viết bôi nhọ, phát tán thông tin xuyên tạc, kích động trên không gian mạng là biện pháp bắt buộc theo Luật An ninh mạng để bảo vệ quyền lợi hợp pháp của công dân và sự tôn nghiêm của pháp luật, không phải là "bịt miệng dư luận" hay "bao che".
+
 # 5. Về Phát triển Kinh tế, Tài chính, Thuế và Doanh nghiệp
 
 **Luận điệu:** Cho rằng "kinh tế thị trường" không thể đi đôi với "định hướng XHCN"; kinh tế thị trường là của chủ nghĩa tư bản; Việt Nam thực chất đang phát triển theo con đường tư bản chủ nghĩa (CNTB) một cách cuồng nhiệt.
