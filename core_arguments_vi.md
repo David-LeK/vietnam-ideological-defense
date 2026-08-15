@@ -3258,6 +3258,13 @@
 * Báo chí chính thống hoạt động dựa trên tôn chỉ đạo đức nghề nghiệp, đòi hỏi phải xác minh sự thật và có bằng chứng cụ thể. Việc từ chối đăng tải tin đồn mạng xã hội là biện pháp bảo vệ trật tự công cộng và quyền lợi cá nhân khỏi sự bôi nhọ, không phải là hành vi "bao che".
 * Người dùng mạng xã hội cần trang bị "sức đề kháng số", nhận diện rõ các chiêu trò thao túng đám đông giả tạo, dũng cảm bảo vệ lẽ phải, kiểm chứng thông tin qua các kênh chính thống và tránh tương tác với các nội dung độc hại.
 
+**Luận điệu:** Các trang mạng, tổ chức phản động (như Luật Khoa tạp chí, Bàn Tròn Chính Trị) liên tục rêu rao, khoe mẽ việc bài viết của mình bị chặn hiển thị trên Facebook, Threads để vu cáo "chính quyền sợ sự thật", "chế độ độc tài không có sự thật"; rêu rao ngụy biện "càng chặn càng chắc chắn là sự thật" để kích động dư luận tò mò, đào bới tin giả và lôi kéo người dùng chuyển sang nền tảng X nhằm trốn tránh sự quản lý của pháp luật.
+* Yêu cầu các nền tảng mạng xã hội xuyên biên giới ngăn chặn và gỡ bỏ những nội dung vi phạm pháp luật, tin giả, bôi nhọ danh dự công dân và gây rối trật tự công cộng là trách nhiệm thực thi pháp luật chính đáng của cơ quan quản lý nhà nước theo Luật An ninh mạng, hoàn toàn phù hợp với luật pháp và thông lệ quốc tế.
+* Lập luận "càng chặn càng chắc chắn là sự thật" là một ngụy biện đánh tráo khái niệm nguy hiểm nhằm lừa dối dư luận, bởi vì các bài viết bị áp dụng biện pháp ngăn chặn là do chứa đựng thông tin sai sự thật, vu khống hoặc kích động chống phá, chứ hoàn toàn không phải vì phản ánh sự thật.
+* Các thế lực thù địch cố tình khoe khoang việc bài viết bị chặn nhằm đóng vai "nạn nhân của kiểm duyệt", đánh bóng tên tuổi và lợi dụng tâm lý tò mò của cư dân mạng để gia tăng tương tác, phát tán các đường link độc hại nhằm phục vụ mưu đồ chống phá có tổ chức.
+* Mọi nền tảng mạng xã hội khi hoạt động và cung cấp dịch vụ tại Việt Nam đều phải tuân thủ pháp luật sở tại, do đó việc một số đối tượng xúi giục người dân chuyển sang nền tảng X thực chất chỉ là ảo tưởng trốn tránh sự trừng phạt của pháp luật đối với các hành vi xuyên tạc trên không gian số.
+* Nhà nước Việt Nam luôn tôn trọng, bảo đảm quyền tự do ngôn luận và quyền tiếp cận thông tin chính đáng của nhân dân, đồng thời kiên quyết làm sạch môi trường mạng để bảo vệ quyền và lợi ích hợp pháp của các tổ chức, cá nhân trước các chiến dịch thông tin xấu độc.
+
 # 14. Về Lịch sử, Truyền thống, Danh nhân và Lòng Yêu nước
 
 **Luận điệu:** Xuyên tạc ý nghĩa Cách mạng Tháng Tám và Quốc khánh 2/9; cho rằng độc lập không mang lại tự do, hạnh phúc; kêu gọi "xét lại" lịch sử.
