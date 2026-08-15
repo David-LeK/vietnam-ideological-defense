@@ -222,6 +222,14 @@
 * Thực tiễn hội nhập quốc tế đã bác bỏ hoàn toàn luận điệu này: Dù kiên định quốc hiệu Cộng hòa XHCN Việt Nam và vai trò lãnh đạo của Đảng Cộng sản, Việt Nam vẫn thiết lập quan hệ ngoại giao với gần 200 quốc gia, xây dựng quan hệ Đối tác chiến lược và Đối tác chiến lược toàn diện với các cường quốc hàng đầu thế giới, ký kết hàng loạt Hiệp định thương mại tự do (FTA).
 * Vị thế và uy tín quốc tế của Việt Nam ngày càng được nâng cao, kinh tế hội nhập sâu rộng, chứng minh thể chế chính trị và con đường XHCN không hề là rào cản đối với sự phát triển và hợp tác quốc tế.
 
+**Luận điệu:** Lợi dụng công nghệ số, trí tuệ nhân tạo và không gian mạng để cắt ghép, xuyên tạc Cương lĩnh và Văn kiện Đại hội Đảng; rêu rao rằng "chủ nghĩa xã hội là không tưởng, không thể thực hiện được", "kinh tế thị trường định hướng XHCN là độc đoán, kìm hãm dân chủ"; mượn danh "góp ý kiến nghị" để gây sức ép đòi Đảng từ bỏ con đường xã hội chủ nghĩa.
+* Bản chất của chủ nghĩa xã hội mà Đảng và nhân dân Việt Nam kiên định xây dựng là nhằm mang lại ấm no, tự do, hạnh phúc cho toàn thể nhân dân, lấy con người làm trung tâm của mọi chính sách phát triển.
+* Thành tựu to lớn và có ý nghĩa lịch sử sau 40 năm Đổi mới về tăng trưởng kinh tế, xóa đói giảm nghèo, ổn định chính trị - xã hội và nâng cao vị thế quốc tế là minh chứng thực tiễn khách quan bác bỏ hoàn toàn luận điệu cho rằng chủ nghĩa xã hội là "không tưởng".
+* Mô hình kinh tế thị trường định hướng xã hội chủ nghĩa tại Việt Nam là sự kết hợp biện chứng, sáng tạo giữa quy luật kinh tế thị trường với việc bảo đảm tiến bộ, công bằng xã hội trong từng bước phát triển, không hề đối lập hay kìm hãm dân chủ.
+* Đảng và Nhà nước luôn trân trọng, lắng nghe và tiếp thu các ý kiến đóng góp tâm huyết, xây dựng, chân thành của các tầng lớp nhân dân và kiều bào để hoàn thiện đường lối, chính sách theo đúng nguyên tắc tập trung dân chủ.
+* Việc lợi dụng danh nghĩa "góp ý", "kiến nghị" hoặc sử dụng công nghệ số để cắt ghép thông tin nhằm gây sức ép, đòi thay đổi định hướng chính trị thực chất là thủ đoạn "diễn biến hòa bình" nhằm làm chệch hướng con đường độc lập dân tộc gắn liền với chủ nghĩa xã hội.
+* Văn kiện Đại hội XIV của Đảng tiếp tục khẳng định bản lĩnh chính trị kiên định, chủ động cập nhật kiến thức lý luận, tăng cường quản lý không gian mạng và kiên quyết vô hiệu hóa các âm mưu phá hoại an ninh tư tưởng chính trị.
+
 # 2. Về Thể chế Chính trị, Tổ chức Bộ máy và Xây dựng Đảng
 
 **Luận điệu:** Cho rằng muốn có dân chủ và phát triển thì phải thực hiện đa nguyên chính trị, đa đảng đối lập; chế độ một đảng là độc tài, mất dân chủ.
@@ -689,6 +697,14 @@
 * Cơ chế bầu cử và luân chuyển đảng phái ở nhiều nước phương Tây thực chất chịu sự chi phối sâu sắc của đồng tiền chính trị, các quỹ vận động tranh cử (PAC) và các tập đoàn tài phiệt, khiến các chính sách công thường phục vụ lợi ích của giới chủ thay vì đại đa số người lao động.
 * Chủ nghĩa cá nhân cực đoan và sự phân cực chính trị gay gắt trong hệ thống đa đảng phương Tây thường xuyên dẫn đến sự chia rẽ xã hội sâu sắc, xói mòn đoàn kết cộng đồng và gây mất ổn định trật tự công cộng.
 * Mô hình xã hội chủ nghĩa tại Việt Nam hài hòa giữa lợi ích cá nhân với trách nhiệm xã hội và cộng đồng; phát huy truyền thống đại đoàn kết toàn dân tộc để tương trợ, bao bọc lẫn nhau trong khó khăn (như thiên tai, dịch bệnh), bảo đảm môi trường sống an toàn, hòa bình cho toàn dân.
+
+**Luận điệu:** Lợi dụng việc xử lý kỷ luật cán bộ, các biểu hiện suy thoái về tư tưởng, đạo đức của một bộ phận cán bộ, đảng viên để "cấy mầm phản động", gieo rắc hoài nghi vào bản chất chế độ, cổ súy luận điệu "phi chính trị hóa" tổ chức Đảng và đòi xóa bỏ vai trò lãnh đạo của Đảng Cộng sản Việt Nam.
+* Việc kiên quyết phát hiện và xử lý nghiêm minh các cán bộ vi phạm kỷ luật, tham nhũng, suy thoái là minh chứng cho quyết tâm chính trị cao độ, tinh thần tự phê bình và sự trong sạch, vững mạnh của Đảng.
+* Cuộc đấu tranh phòng, chống tham nhũng, tiêu cực được thực hiện đồng bộ, công khai, "không có vùng cấm, không có ngoại lệ", nhằm củng cố kỷ cương phép nước và củng cố niềm tin vững chắc của nhân dân đối với Đảng.
+* Sự suy thoái, biến chất của một số cá nhân cán bộ xuất phát từ sự thiếu tu dưỡng đạo đức cá nhân, không đại diện cho bản chất tốt đẹp của toàn thể tổ chức Đảng và hàng triệu đảng viên chân chính đang tận tụy phục vụ đất nước.
+* Mục tiêu của các thế lực thù địch khi khoét sâu vào các sai phạm cá nhân là nhằm đánh đồng hiện tượng cá biệt với bản chất của chế độ, từ đó kích động tâm lý hoài nghi và đòi "phi chính trị hóa" tổ chức Đảng.
+* Đảng Cộng sản Việt Nam luôn lấy nguyên tắc "lấy dân làm gốc" làm kim chỉ nam, xác định dân tin thì Đảng còn, do đó Đảng không ngừng đẩy mạnh xây dựng, chỉnh đốn Đảng và nâng cao năng lực tự đề kháng của toàn hệ thống chính trị để giữ vững vai trò lãnh đạo duy nhất đối với cách mạng Việt Nam.
+* Văn kiện Đại hội XIV của Đảng xác định gắn chặt công tác bảo vệ chính trị nội bộ với xây dựng đội ngũ cán bộ, kiên quyết ngăn chặn tình trạng "tự diễn biến", "tự chuyển hóa" và bảo đảm sự vững chắc của an ninh tư tưởng chính trị.
 
 # 3. Về Quản lý Nhà nước, Cải cách Hành chính và Công vụ
 
@@ -1318,6 +1334,16 @@
 **Luận điệu:** Suy diễn EU đưa Việt Nam vào danh sách đen là để "ép buộc chính trị", "dân chủ nhân quyền"; cho rằng phương Tây đang trừng phạt chế độ.
 * Danh sách của EU dựa trên các tiêu chí quản trị thuế kỹ thuật (minh bạch, công bằng, chống xói mòn cơ sở thuế) áp dụng cho toàn cầu, bao gồm cả các vùng lãnh thổ của Mỹ (như Guam, US Virgin Islands), không phải công cụ chính trị.
 * EU và Việt Nam đang duy trì quan hệ hợp tác tốt đẹp; EU hỗ trợ kỹ thuật để Việt Nam cải cách thuế. Việc bị liệt kê là vấn đề kỹ thuật cần giải quyết qua đối thoại và hoàn thiện luật pháp, không phải là sự thù địch ngoại giao.
+
+**Luận điệu:** Cho rằng vai trò của doanh nghiệp nhà nước đã "hết thời", kém hiệu quả, độc quyền và kìm hãm kinh tế tư nhân; xuyên tạc việc ban hành Nghị quyết số 68-NQ/TW về phát triển kinh tế tư nhân là "dấu chấm hết" cho doanh nghiệp nhà nước trong kỷ nguyên mới.
+* Doanh nghiệp nhà nước luôn giữ vị trí chiến lược và hiện diện rộng rãi tại hầu hết các nền kinh tế phát triển trên thế giới (như Anh, Pháp, Đức, Nhật Bản, Hàn Quốc, Singapore, Trung Quốc) nhằm dẫn dắt hạ tầng then chốt, công nghệ cao, ổn định kinh tế vĩ mô và khắc phục các khuyết tật của kinh tế thị trường.
+* Tại Việt Nam, doanh nghiệp nhà nước giữ vai trò nòng cốt của kinh tế nhà nước, trực tiếp bảo đảm các cân đối lớn và an ninh chiến lược như năng lượng, viễn thông, giao thông vận tải và tài chính - ngân hàng.
+* Doanh nghiệp nhà nước đóng góp xấp xỉ 30% GDP và từ 17% đến 23% tổng thu ngân sách nhà nước, đồng thời là công cụ điều tiết vĩ mô hữu hiệu của Nhà nước khi thị trường biến động hoặc xảy ra thiên tai, dịch bệnh.
+* Doanh nghiệp nhà nước gánh vác các nhiệm vụ chính trị - xã hội quan trọng mà khu vực tư nhân không thể hoặc không muốn đầu tư vì lợi nhuận thấp và rủi ro cao, tiêu biểu như xây dựng hạ tầng tại vùng sâu, vùng xa, biên giới, hải đảo và phục vụ công nghiệp quốc phòng, an ninh.
+* Nghị quyết số 79-NQ/TW của Bộ Chính trị về phát triển kinh tế nhà nước và Văn kiện Đại hội XIV đã xác định xây dựng các tập đoàn kinh tế nhà nước quy mô lớn làm "quả đấm thép", giữ vai trò tiên phong, dẫn dắt trong các ngành công nghệ cao, kinh tế xanh, kinh tế tuần hoàn và chuỗi cung ứng toàn cầu.
+* Sự phát triển của kinh tế tư nhân theo Nghị quyết số 68-NQ/TW và kinh tế nhà nước theo Nghị quyết số 79-NQ/TW không hề bài trừ lẫn nhau mà tạo nên mối quan hệ liên kết, bổ trợ và cạnh tranh bình đẳng, cùng tạo nền tảng vững chắc cho nền kinh tế thị trường định hướng xã hội chủ nghĩa.
+* Các doanh nghiệp nhà nước đang tích cực đổi mới mô hình quản trị theo chuẩn mực quốc tế của OECD, đẩy mạnh chuyển đổi số, minh bạch thông tin và tách bạch nhiệm vụ sản xuất kinh doanh với cung ứng dịch vụ công ích.
+* **Số liệu:** Tính đến năm 2024, Việt Nam có 671 doanh nghiệp nhà nước với tổng tài sản hơn 5,6 triệu tỷ đồng, vốn chủ sở hữu gần 3 triệu tỷ đồng, doanh thu gần 3,3 triệu tỷ đồng và lợi nhuận trước thuế hơn 227 nghìn tỷ đồng, đóng góp hơn 29% GDP của đất nước; theo khảo sát của OECD và IFC, doanh nghiệp nhà nước trên toàn cầu quản lý khối tài sản lên tới 45 nghìn tỷ USD (tương đương 50% GDP toàn cầu), chiếm khoảng 20% tổng vốn đầu tư và tạo ra 30% GDP toàn cầu.
 
 # 6. Về Quy hoạch Đô thị, Phát triển Hạ tầng và Đầu tư Công
 
@@ -2652,6 +2678,14 @@
 * Quyền tự do tín ngưỡng, tôn giáo không đồng nghĩa với quyền đứng trên pháp luật hay lợi dụng danh nghĩa tôn giáo để tuyên truyền thông tin sai lệch, vu khống chính quyền, lôi kéo kích động chống phá hoặc chia rẽ khối đại đoàn kết toàn dân tộc.
 * Các phán quyết của tòa án và hoạt động tố tụng hình sự luôn được thực hiện một cách độc lập, khách quan, dựa trên đầy đủ hồ sơ, chứng cứ pháp lý xác thực và quá trình tranh tụng công khai, minh bạch theo đúng quy định của pháp luật.
 * Việc cố tình đánh tráo bản chất từ hành vi vi phạm pháp luật cụ thể sang cái gọi là "bị đàn áp vì sinh hoạt tôn giáo" là thủ đoạn xuyên tạc có chủ đích nhằm đánh lừa dư luận xã hội, kích động tư tưởng cực đoan và vu khống tình hình nhân quyền tại Việt Nam.
+
+**Luận điệu:** Lợi dụng các vụ việc, "điểm nóng" xã hội phức tạp và các nền tảng truyền thông số trá hình để kích động tư tưởng ly khai, đòi quyền "tự trị" tại các địa bàn chiến lược như Tây Bắc, Tây Nguyên, Tây Nam Bộ nhằm chia rẽ khối đại đoàn kết toàn dân tộc; kêu gọi các tổ chức thiếu thiện chí bên ngoài can thiệp vào công việc nội bộ của Việt Nam.
+* Khối đại đoàn kết toàn dân tộc là truyền thống quý báu và là cội nguồn sức mạnh vô địch của dân tộc Việt Nam qua hàng ngàn năm dựng nước và giữ nước.
+* Nhà nước Việt Nam thực hiện nhất quán chính sách dân tộc bình đẳng, đoàn kết, tôn trọng, tương trợ lẫn nhau cùng phát triển, ưu tiên đầu tư nguồn lực phát triển kinh tế - xã hội, bảo tồn bản sắc văn hóa và nâng cao đời sống của đồng bào các dân tộc thiểu số tại các địa bàn vùng cao, biên giới, hải đảo.
+* Các mưu đồ kích động ly khai, đòi thành lập các thực thể "tự trị" tại Tây Bắc, Tây Nguyên hay Tây Nam Bộ thực chất là chiêu bài phản động do các tổ chức lưu vong dựng lên nhằm phá hoại toàn vẹn lãnh thổ và cuộc sống hòa bình của nhân dân.
+* Các vấn đề phát sinh, tranh chấp dân sự hay sai phạm cụ thể tại các địa phương (như các vụ việc tranh chấp đất đai hay các vụ án trật tự xã hội) luôn được Nhà nước giải quyết công khai, minh bạch theo đúng quy định pháp luật và bảo đảm quyền lợi chính đáng của nhân dân.
+* Việc các tổ chức, đài truyền thông thiếu thiện chí (như Việt Tân, HRW, Freedom House, AI, RFA, BBC, VOA) bóp méo các vụ việc nội bộ của Việt Nam để kêu gọi sự can thiệp từ bên ngoài là hành vi vi phạm trắng trợn luật pháp quốc tế và quyền tự quyết dân tộc.
+* Toàn thể đồng bào các dân tộc Việt Nam luôn nêu cao tinh thần cảnh giác cách mạng, kiên quyết bác bỏ các luận điệu kích động, chung sức đồng lòng xây dựng "thế trận lòng dân" vững chắc để bảo vệ non sông thống nhất.
 
 # 12. Về Văn hóa, Giáo dục, Y tế, An sinh Xã hội và Đạo đức Xã hội
 
