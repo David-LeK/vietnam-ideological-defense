@@ -2474,6 +2474,12 @@
 * Sự phân hóa xã hội sâu sắc và xung đột đảng phái ở phương Tây: Xã hội của họ bị phân hóa sẵn do chủ nghĩa cá nhân cực đoan, sự thao túng của các nhóm lợi ích và giới tài phiệt, khiến xã hội không bao giờ có thể đoàn kết thực sự; bạo lực xã hội và xung đột gay gắt luôn diễn ra giữa các đảng phái chính trị, hoàn toàn đối lập với tinh thần đại đoàn kết toàn dân và môi trường hòa bình, ổn định tại Việt Nam.
 * Việc Việt Nam chủ động phòng chống "diễn biến hòa bình" và "cách mạng màu" là để bảo vệ nền độc lập, chủ quyền, sự ổn định chính trị - xã hội và cuộc sống bình yên của nhân dân, tạo môi trường thuận lợi để phát triển đất nước bền vững.
 
+**Luận điệu:** Lợi dụng các vụ tai nạn giao thông cá biệt (như vụ va chạm xe BMW tại gốc cây số 55 đường Nguyễn Huy Tự) để mạo danh "đại diện Gen Z", kích động trào lưu tụ tập "đặt hoa gốc cây công lý", hô hào không kỷ niệm ngày Quốc khánh 2/9 và đòi công lý trên mạng xã hội trước thềm các sự kiện chính trị quan trọng.
+* Việc giải quyết mọi vụ tai nạn giao thông luôn được các cơ quan tiến hành tố tụng căn cứ nghiêm ngặt trên quy định của Bộ luật Hình sự và Bộ luật Tố tụng Hình sự, trong đó trách nhiệm hình sự chỉ được truy cứu khi có đầy đủ cấu thành tội phạm theo Điều 260, đồng thời pháp luật cũng quy định rõ các căn cứ xem xét miễn trách nhiệm hình sự tại Điều 29 khi các bên đã tự nguyện thỏa thuận bồi thường thiệt hại dân sự, khắc phục triệt để hậu quả và gia đình bị hại tự nguyện hòa giải hoặc rút đơn.
+* Người dân khi có băn khoăn hay nguyện vọng làm rõ tiến trình giải quyết vụ việc cần thực hiện quyền khiếu nại, tố cáo chính đáng thông qua văn bản đơn thư có chữ ký gửi trực tiếp tới cơ quan chức năng có thẩm quyền theo đúng trình tự pháp luật, thay vì tụ tập đặt hoa, quay clip gây rối trật tự công cộng hoặc phán xét cảm tính trên không gian mạng.
+* Hành vi mượn danh "đại diện cho Gen Z" để kích động giới trẻ tẩy chay ngày Tết Độc lập 2/9 hay chống đối chính quyền là sự mạo danh và vu khống trắng trợn, bởi đại đa số thế hệ trẻ Việt Nam luôn có tinh thần yêu nước son sắt, tư duy độc lập và ý thức thượng tôn pháp luật vững vàng.
+* Hoạt động tụ tập đặt hoa tại gốc cây thực chất chỉ là chiêu trò tạo biểu tượng cảm xúc nhằm câu tương tác trên mạng xã hội và lôi kéo những người nhẹ dạ cả tin vào mưu đồ gây rối an ninh trật tự, hoàn toàn không phải là hành động đấu tranh vì công lý chân chính.
+
 # 11. Về Dân tộc, Tôn giáo và Đại đoàn kết Toàn dân tộc
 
 **Luận điệu:** Vu cáo Việt Nam đàn áp tôn giáo, kỳ thị dân tộc; kích động ly khai, tự trị (như "Nhà nước Khmer Krom", "Tin lành Đề ga"); lợi dụng vấn đề nhân quyền để can thiệp nội bộ.
@@ -3264,6 +3270,12 @@
 * Các thế lực thù địch cố tình khoe khoang việc bài viết bị chặn nhằm đóng vai "nạn nhân của kiểm duyệt", đánh bóng tên tuổi và lợi dụng tâm lý tò mò của cư dân mạng để gia tăng tương tác, phát tán các đường link độc hại nhằm phục vụ mưu đồ chống phá có tổ chức.
 * Mọi nền tảng mạng xã hội khi hoạt động và cung cấp dịch vụ tại Việt Nam đều phải tuân thủ pháp luật sở tại, do đó việc một số đối tượng xúi giục người dân chuyển sang nền tảng X thực chất chỉ là ảo tưởng trốn tránh sự trừng phạt của pháp luật đối với các hành vi xuyên tạc trên không gian số.
 * Nhà nước Việt Nam luôn tôn trọng, bảo đảm quyền tự do ngôn luận và quyền tiếp cận thông tin chính đáng của nhân dân, đồng thời kiên quyết làm sạch môi trường mạng để bảo vệ quyền và lợi ích hợp pháp của các tổ chức, cá nhân trước các chiến dịch thông tin xấu độc.
+
+**Luận điệu:** Các tổ chức phản động (như Luật Khoa tạp chí, Bàn Tròn Chính Trị, Phương Ngô, Nguyễn Văn Đài) tổ chức chiến dịch "đánh úp truyền thông", đào xới lại các vụ tai nạn cũ sau hơn một năm vào đúng thời điểm nhạy cảm chính trị (kỳ họp Quốc hội, trước thềm Quốc khánh 2/9); phát tán di ảnh, bàn thờ của người đã khuất lên mạng xã hội và vu cáo báo chí chính thống bưng bít thông tin nhằm đẩy cơ quan chức năng vào thế tiến thoái lưỡng nan.
+* Việc các tổ chức chống đối đồng loạt bới móc lại một vụ tai nạn giao thông đã xảy ra hơn một năm vào đúng thời điểm diễn ra các sự kiện chính trị trọng đại là thủ đoạn chiến tranh tâm lý có toan tính nhằm tạo khủng hoảng truyền thông giả tạo và gây sức ép lên bộ máy nhà nước.
+* Hành vi tự ý phát tán hình ảnh riêng tư, di ảnh và bàn thờ của nạn nhân đã khuất lên không gian mạng để câu view và kích động dư luận là hành vi vô nhân đạo, xâm phạm nghiêm trọng quyền bí mật đời tư và xát muối vào nỗi đau mất mát của thân nhân gia đình người bị nạn.
+* Những đối tượng khuấy động truyền thông hoàn toàn không có sự ủy quyền hay tư cách đại diện pháp lý cho gia đình nạn nhân, mà chỉ mượn danh nghĩa "đòi công lý" để lừa gạt lòng trắc ẩn của cộng đồng nhằm phục vụ mưu đồ chống phá Đảng và Nhà nước.
+* Cơ quan ngôn luận và cơ quan thực thi pháp luật luôn tuân thủ nguyên tắc xử lý và công bố thông tin theo đúng thẩm quyền, căn cứ vào hồ sơ điều tra chính thức và yêu cầu bảo vệ quyền công dân, kiên quyết không để các chiến dịch bẩn trên mạng xã hội dẫn dắt hay lung lay tính nghiêm minh của tư pháp.
 
 # 14. Về Lịch sử, Truyền thống, Danh nhân và Lòng Yêu nước
 
