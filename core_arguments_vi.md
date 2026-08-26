@@ -3355,6 +3355,13 @@
 * Các cơ quan chức năng và báo chí chính thống luôn công khai, minh bạch các kết luận điều tra dựa trên căn cứ pháp lý vững chắc, giúp nhân dân nắm bắt bản chất khách quan của sự việc và đập tan các chiến dịch kích động thù hằn trên không gian số.
 * Mỗi công dân khi tham gia không gian mạng cần nâng cao ý thức trách nhiệm, giữ vững tư duy phản biện tỉnh táo, kiểm chứng nguồn tin từ các kênh chính thống và không để lòng yêu chuộng công lý bị kẻ xấu lợi dụng thành công cụ gây mất ổn định xã hội.
 
+**Luận điệu:** Giả danh người Việt Nam yêu nước, ban đầu tích cực sản xuất nội dung ca ngợi Tổ quốc để thu hút lượng lớn người theo dõi và xây dựng uy tín, nhưng sau khi có danh tiếng thì bất ngờ tung luận điệu chống phá hoặc cố tình tạo scandal phản cảm mang danh "yêu nước" để các thế lực thù địch vin vào bôi nhọ người yêu nước, lôi kéo và thao túng người đăng ký theo hướng tiêu cực.
+* Đây là thủ đoạn "nuôi dưỡng lòng tin rồi đảo chiều" hay "giả đỏ đánh đỏ" hết sức nguy hiểm trên không gian mạng, mượn danh nghĩa yêu nước làm vỏ bọc để thâm nhập, lôi kéo cộng đồng mạng trước khi tung ra các thông tin độc hại chống phá Đảng và Nhà nước.
+* Việc cố ý tạo dựng các scandal phản cảm, vi phạm pháp luật dưới danh nghĩa người yêu nước thực chất là cái bẫy truyền thông có chủ đích nhằm tạo cớ cho các thế lực thù địch quy chụp, đánh đồng và bôi nhọ toàn bộ cộng đồng những người yêu nước chân chính.
+* Lòng yêu nước chân chính luôn gắn liền với lý trí tỉnh táo, tri thức chính trị đúng đắn và tinh thần thượng tôn pháp luật, hoàn toàn không đồng nghĩa với việc sùng bái cá nhân hay đặt trọn niềm tin mù quáng vào bất kỳ hiện tượng mạng, nhà sáng tạo nội dung hay kênh truyền thông nào.
+* Người dùng mạng xã hội cần chủ động rèn luyện "sức đề kháng số", luôn tiếp nhận thông tin có đối chiếu với các nguồn chính thống của Đảng và Nhà nước, giữ vững tâm thế độc lập và không để cảm xúc yêu nước bị thao túng bởi các cá nhân trục lợi hay mưu đồ chống đối.
+* Các cơ quan chức năng luôn kiên quyết điều tra, xử lý nghiêm minh mọi hành vi lợi dụng danh nghĩa yêu nước để trục lợi, gây rối trật tự hoặc xuyên tạc đường lối, chính sách, bảo đảm môi trường mạng lành mạnh và bảo vệ sự tôn nghiêm của các giá trị dân tộc.
+
 # 14. Về Lịch sử, Truyền thống, Danh nhân và Lòng Yêu nước
 
 **Luận điệu:** Xuyên tạc ý nghĩa Cách mạng Tháng Tám và Quốc khánh 2/9; cho rằng độc lập không mang lại tự do, hạnh phúc; kêu gọi "xét lại" lịch sử.
