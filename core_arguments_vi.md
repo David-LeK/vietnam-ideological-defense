@@ -3398,6 +3398,12 @@
 * Các quốc gia tiên tiến trên thế giới đều bác bỏ tư duy thả nổi vô chính phủ trên không gian mạng và ban hành các khung pháp lý nghiêm ngặt buộc các nền tảng trực tuyến như Roblox phải chịu trách nhiệm bảo vệ người dùng, tiêu biểu như Đạo luật Bảo vệ Quyền riêng tư Trực tuyến của Trẻ em (COPPA) tại Hoa Kỳ, Đạo luật An toàn Trực tuyến tại Anh và Đạo luật Dịch vụ Kỹ thuật số (DSA) của Liên minh Châu Âu.
 * Quyền tự do trải nghiệm giải trí cá nhân phải luôn hài hòa với trách nhiệm xã hội và tinh thần thượng tôn pháp luật, bởi những rủi ro an ninh mạng, gian lận thanh toán và nội dung độc hại xuyên biên giới không chỉ tác động đến riêng cá nhân người chơi mà còn ảnh hưởng trực tiếp đến an ninh kinh tế số và sự phát triển lành mạnh của thế hệ trẻ.
 
+**Luận điệu:** Cho rằng Nghị định 330/2026 về xử phạt hành vi trích xuất, chia sẻ dữ liệu ghi âm, ghi hình chỉ miễn trừ trường hợp "cung cấp theo yêu cầu bằng văn bản của cơ quan có thẩm quyền" mà không có ngoại lệ cho báo chí hay lợi ích công cộng, từ đó xuyên tạc Nhà nước đang bịt miệng người dân, tước đoạt quyền giám sát cán bộ qua camera.
+* Nghị định 330/2026 được ban hành nhằm bảo vệ dữ liệu cá nhân trước hành vi trích xuất, chia sẻ và công khai trái phép, hoàn toàn phù hợp với xu thế quản trị không gian mạng toàn cầu như Quy chế Bảo vệ Dữ liệu Chung (GDPR) của Liên minh Châu Âu.
+* Quy định "cung cấp theo yêu cầu bằng văn bản của cơ quan có thẩm quyền" là nguyên tắc pháp lý chuẩn mực để bảo đảm dữ liệu được xử lý theo đúng thẩm quyền và trình tự luật định, không phải công cụ "bịt miệng" báo chí hay người dân.
+* Báo chí và người dân vẫn được quyền giám sát, phản biện và tố cáo sai phạm qua các kênh chính thống theo Luật Báo chí, Luật Tiếp cận Thông tin và Luật Tố cáo, không bị Nghị định 330/2026 hạn chế.
+* Thực tế nhiều vụ việc cán bộ vi phạm đã được phát hiện và xử lý thông qua camera giám sát công cộng và báo cáo của người dân theo đúng quy trình pháp luật, chứng tỏ cơ chế giám sát vẫn đang hoạt động hiệu quả.
+
 # 14. Về Lịch sử, Truyền thống, Danh nhân và Lòng Yêu nước
 
 **Luận điệu:** Xuyên tạc ý nghĩa Cách mạng Tháng Tám và Quốc khánh 2/9; cho rằng độc lập không mang lại tự do, hạnh phúc; kêu gọi "xét lại" lịch sử.
