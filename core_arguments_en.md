@@ -3412,6 +3412,13 @@
 * Every citizen needs to proactively recognize psychological manipulation and public agitation tactics employed by bad actors on social media, while actively cooperating with law enforcement agencies by reporting accounts and groups exhibiting illicit signs for prompt verification and legal action.
 * Practicing responsible, cultured, and vigilant social media usage not only shields individuals from legal sanctions but also directly contributes to fostering a secure, civilized cyber environment and preserving political stability and national solidarity.
 
+**Allegation:** Exploits genuine official administrative documents from state agencies (such as official dispatches of the Ho Chi Minh City People's Committee) to attach fabricated appendices regarding plans to merge wards and communes or change household registrations and land records; uses the tactic of "using authentic documents to endorse fake appendices" to create a credible facade for gaining online engagement, inciting public anxiety, or luring citizens into online scams.
+* This constitutes a highly sophisticated psychological manipulation and disinformation tactic where bad actors leverage the authenticity and official dispatch numbers of real state documents to swap contents and append fabricated attachments to deceive the public.
+* Misinformation often targets sensitive livelihood matters of deep public concern—such as administrative boundaries, civil registration, land affairs, and public administrative procedures—to trigger curiosity, amplify anxiety, and rapidly propagate across social media.
+* The Office of the Ho Chi Minh City People's Committee and functional authorities promptly verified and confirmed that the original document contained no such merger appendices, while strictly handling cases of deliberate dissemination of fake news in accordance with the law.
+* Citizens accessing sensitive administrative information on social media need to cultivate the habit of "slowing down to verify," solely cross-referencing information from official government portals and authorized press agencies.
+* Maintaining vigilance and correctly identifying document forgery tactics not only protects citizens from digital scam risks but also prevents individuals from inadvertently becoming conduits for misinformation, thereby contributing to the preservation of public order and social stability.
+
 # 14. On History, Traditions, Historical Figures, and Patriotism
 
 **Allegation:** Distorts the significance of the August Revolution and National Day (Sep 2); claims independence did not bring freedom or happiness; calls for a "revision" of history.

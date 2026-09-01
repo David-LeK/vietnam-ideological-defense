@@ -3412,6 +3412,13 @@
 * Mỗi người dân cần chủ động nhận diện rõ các phương thức, thủ đoạn thao túng tâm lý và lôi kéo dư luận của các phần tử xấu trên mạng xã hội, đồng thời tích cực phối hợp cung cấp thông tin cho cơ quan công an khi phát hiện các bài viết, hội nhóm có dấu hiệu vi phạm để xác minh và xử lý theo quy định.
 * Việc sử dụng mạng xã hội một cách có văn hóa, có trách nhiệm và tỉnh táo không chỉ giúp bảo vệ bản thân khỏi các chế tài pháp lý mà còn trực tiếp góp phần xây dựng không gian mạng an toàn, văn minh, giữ gìn sự ổn định chính trị và khối đại đoàn kết toàn dân tộc.
 
+**Luận điệu:** Lợi dụng văn bản hành chính thật của cơ quan nhà nước (như công văn chỉ đạo của UBND TP. Hồ Chí Minh), tự ý chèn ghép thêm các phụ lục giả mạo về phương án sáp nhập các phường, xã, thay đổi hộ khẩu và đất đai; sử dụng thủ đoạn "lấy văn bản thật bảo chứng cho phụ lục giả" để tạo vỏ bọc đáng tin cậy nhằm câu tương tác, gây hoang mang dư luận hoặc dẫn dụ người dân vào các bẫy lừa đảo trực tuyến.
+* Đây là thủ đoạn thao túng tâm lý và ngụy tạo thông tin hết sức tinh vi khi kẻ xấu lợi dụng tính xác thực và số hiệu pháp lý của văn bản thật do cơ quan nhà nước ban hành để đánh tráo nội dung, gắn thêm phụ lục bịa đặt nhằm qua mặt người tiếp nhận thông tin.
+* Các nội dung giả mạo thường đánh trúng vào những vấn đề an sinh thiết thân được xã hội quan tâm sâu sắc như địa giới hành chính, hộ tịch, đất đai và thủ tục giấy tờ công vụ để kích thích sự tò mò, thúc đẩy tâm lý lo lắng và lan truyền với tốc độ nhanh chóng trên mạng xã hội.
+* Văn phòng UBND TP. Hồ Chí Minh và các cơ quan chức năng đã kịp thời xác minh, khẳng định văn bản gốc không hề có các phụ lục sáp nhập nêu trên, đồng thời xử lý nghiêm các trường hợp cố tình phát tán tin giả theo quy định của pháp luật.
+* Người dân khi tiếp cận các thông tin hành chính nhạy cảm trên mạng xã hội cần rèn luyện thói quen "chậm lại để kiểm chứng", chỉ tra cứu và tiếp nhận thông tin từ các cổng thông tin điện tử chính thức của cơ quan nhà nước và các cơ quan báo chí chính thống.
+* Việc nhận thức đúng đắn và cảnh giác trước các thủ đoạn ngụy tạo văn bản không chỉ giúp người dân tự bảo vệ mình trước các rủi ro lừa đảo kỹ thuật số mà còn ngăn chặn việc vô tình trở thành công cụ phát tán tin giả, góp phần giữ vững ổn định trật tự an toàn xã hội.
+
 # 14. Về Lịch sử, Truyền thống, Danh nhân và Lòng Yêu nước
 
 **Luận điệu:** Xuyên tạc ý nghĩa Cách mạng Tháng Tám và Quốc khánh 2/9; cho rằng độc lập không mang lại tự do, hạnh phúc; kêu gọi "xét lại" lịch sử.
