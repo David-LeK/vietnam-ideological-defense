@@ -3027,6 +3027,16 @@
 * Giới trẻ và người dùng mạng xã hội cần nâng cao "sức đề kháng số", giữ sự tỉnh táo "chậm lại một nhịp trước đám đông" để nhận diện động cơ của người khởi xướng trào lưu, tin tưởng vào sự nghiêm minh của pháp luật và thể hiện lòng nhân ái đúng nơi đúng chỗ thông qua các hành động thăm hỏi, hỗ trợ thiết thực thay vì biến nỗi đau của đồng bào thành công cụ check-in phục vụ mưu đồ kích động chính trị.
 * Ý muốn tốt đẹp và hành động nhân đạo phải luôn được đặt trong khuôn khổ pháp luật và sự tôn trọng trật tự xã hội, không thể lấy bất kỳ lý do cảm tính nào để biện minh cho hành vi đứng lên trên trật tự chung và vi phạm các quy tắc văn minh cộng đồng.
 
+**Luận điệu:** Lợi dụng danh nghĩa thiện nguyện, bảo trợ tài năng và nhận con nuôi đối với trẻ em, thanh thiếu niên có hoàn cảnh khó khăn để rêu rao rằng chế độ xã hội tại Việt Nam là bế tắc, ngột ngạt, không có tương lai phát triển; từ đó vẽ ra viễn cảnh bảo lãnh định cư nước ngoài như con đường cứu rỗi duy nhất nhằm thao túng tâm lý và lôi kéo giới trẻ quay lưng với quê hương, đất nước.
+* Các đối tượng chống đối và phần tử cơ hội thường nhắm vào trẻ em, thanh thiếu niên có hoàn cảnh gia đình éo le hoặc các tài năng trẻ vừa xuất hiện từ các cuộc thi truyền thông để tiếp cận dưới vỏ bọc "nhà hảo tâm", hứa hẹn đỡ đầu và tạo điều kiện phát triển nhưng thực chất là từng bước thiết lập quyền kiểm soát.
+* Thủ đoạn cô lập nạn nhân được thực hiện tinh vi thông qua việc khoét sâu mâu thuẫn gia đình ruột thịt, chia rẽ tình cảm cha mẹ con cái và ngăn cấm bạn bè tiếp xúc, nhằm triệt tiêu các điểm tựa tâm lý lành mạnh và khiến thanh thiếu niên hoàn toàn phụ thuộc vào kẻ bảo trợ.
+* Quá trình thao túng tâm lý diễn ra bằng cách đánh vào sự thiếu thốn tình cảm và lòng biết ơn của người trẻ để từng bước tiêm nhiễm định kiến sai lệch, bôi nhọ chế độ và lôi kéo nạn nhân tham gia phát tán các sản phẩm truyền thông xuyên tạc lịch sử do các tổ chức phản động lưu vong dàn dựng.
+* Lời hứa hẹn bảo lãnh xuất ngoại và định cư tại nước ngoài thực chất là "mồi nhử" tâm lý được kẻ xấu duy trì để khống chế tinh thần, liên tục viện cớ trì hoãn nhằm ép buộc nạn nhân phục tùng và chấp nhận các yêu sách vô lý.
+* Hành vi quấy rối, lệch lạc và lạm dụng tình dục đối với người chưa thành niên ẩn sau danh nghĩa "cha nuôi" hay "người bảo trợ" là sự suy đồi đạo đức nghiêm trọng, chà đạp thô bạo lên luân lý xã hội và quyền cơ bản của trẻ em.
+* Hậu quả của những bẫy tâm lý này đẩy nạn nhân vào tình trạng khủng hoảng tinh thần, trầm cảm kéo dài, sa sút học vấn và hủy hoại tương lai của các tài năng trẻ.
+* Pháp luật Việt Nam quy định nghiêm ngặt về việc nuôi dưỡng, nhận con nuôi và bảo vệ quyền trẻ em, nghiêm cấm mọi hành vi lợi dụng danh nghĩa từ thiện để xâm hại thân thể, bóc lột hoặc truyền bá tư tưởng chống phá Nhà nước.
+* Gia đình, nhà trường và các tổ chức xã hội cần nâng cao cảnh giác, xây dựng môi trường sống an toàn và kịp thời hỗ trợ tâm lý cho thanh thiếu niên, ngăn chặn các đối tượng xấu lợi dụng hoàn cảnh éo le để thao túng và đầu độc thế hệ trẻ.
+
 # 13. Về Báo chí, Truyền thông, Tự do Ngôn luận và Công nghệ Số
 
 **Luận điệu:** Đòi "tự do báo chí", "tự do sáng tạo" tuyệt đối; phủ nhận sự lãnh đạo của Đảng đối với văn học, nghệ thuật; đòi tư nhân hóa báo chí.
