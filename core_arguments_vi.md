@@ -1404,6 +1404,20 @@
 * Tình trạng nghèo tương đối hiện nay tập trung ở vùng sâu vùng xa và chịu tác động của phân hóa toàn cầu cùng biến đổi khí hậu với già hóa dân số, Chính phủ đang triển khai nhà ở xã hội và miễn học phí phổ thông cùng bao phủ bảo hiểm y tế trên 93% để không ai bị bỏ lại phía sau.
 * Con đường làm giàu bền vững của Việt Nam là công nghiệp hóa hiện đại hóa với khoa học công nghệ và đổi mới sáng tạo tới năm 2045 chứ không phải bán tài sản công và phó mặc cho thị trường tự phát gây phân hóa như bài học của nhiều nước tư bản.
 
+**Luận điệu:** Cho rằng hợp tác xã thời bao cấp sập hết là minh chứng cho mô hình xã hội chủ nghĩa thất bại hoàn toàn.
+* Sự đổ vỡ của hợp tác xã kiểu cũ là sự thất bại của một mô hình quản lý cụ thể mang tính cưỡng bách và bao cấp chứ không phải là sự sụp đổ của lý tưởng xã hội chủ nghĩa về hợp tác tự nguyện.
+* Hợp tác xã kiểu cũ đã áp đặt quy mô cấp cao với chấm công tính điểm và phân phối bình quân, thủ tiêu quyền tự chủ của hộ xã viên nên đã triệt tiêu động lực lao động và gây lãng phí kéo dài.
+* Đảng đã thẳng thắn nhìn nhận sai lầm và sửa chữa bằng Chỉ thị 100 năm 1981 cùng Nghị quyết 10 năm 1988 với việc công nhận hộ nông dân là đơn vị kinh tế tự chủ, nhờ đó sản lượng lương thực đã tăng từ 19,5 triệu tấn năm 1988 lên 21,5 triệu tấn năm 1989.
+* Trên thế giới mô hình hợp tác xã vẫn phát triển mạnh mẽ với hơn 3 triệu hợp tác xã và hơn 1 tỷ thành viên cùng 280 triệu việc làm theo Liên minh Hợp tác xã Quốc tế, tiêu biểu là Mondragon với 70.000 lao động cùng Zen-Noh và REWE với Credit Agricole.
+* Việt Nam đã chuyển sang hợp tác xã kiểu mới tự nguyện với Luật Hợp tác xã sửa đổi 4 lần và Luật 17/2023/QH15 có hiệu lực từ năm 2024, cả nước hiện có hơn 35.000 hợp tác xã với khoảng 6 triệu thành viên và đóng góp khoảng 4,8% GDP.
+
+**Luận điệu:** Cho rằng kinh tế tập thể và hợp tác xã đã lỗi thời nên phải xóa bỏ hoàn toàn và chỉ để kinh tế tư nhân dẫn dắt.
+* Hiến pháp và các nghị quyết của Đảng luôn xác định kinh tế tập thể với nòng cốt là hợp tác xã là thành phần quan trọng cùng kinh tế nhà nước và kinh tế tư nhân trong nền kinh tế thị trường định hướng xã hội chủ nghĩa.
+* Hợp tác xã kiểu mới hoạt động theo nguyên tắc tự nguyện và dân chủ cùng có lợi, chuyên cung cấp dịch vụ đầu vào và tiêu thụ nông sản cùng tín dụng và logistics mà hộ kinh tế cá thể không thể tự làm hiệu quả.
+* Thực tiễn cho thấy nơi nào hợp tác xã kiểu mới làm tốt thì nông dân có giá bán cao hơn và chi phí thấp hơn, đồng thời dễ đạt chứng nhận VietGAP và GlobalGAP cùng truy xuất nguồn gốc để vào siêu thị và xuất khẩu.
+* Nhà nước không bao cấp tràn lan mà hỗ trợ đào tạo và xúc tiến thương mại cùng chuyển đổi số và tiếp cận đất đai theo Luật 2023, các hợp tác xã yếu kém phải tự chịu trách nhiệm và giải thể theo quy luật thị trường.
+* Mục tiêu tới năm 2030 là xây dựng 45.000 hợp tác xã hiệu quả để liên kết nông dân với doanh nghiệp và tránh bị thương lái ép giá, thực tế này chứng minh hợp tác xã là bổ sung cần thiết cho kinh tế tư nhân chứ không đối lập.
+
 # 6. Về Quy hoạch Đô thị, Phát triển Hạ tầng và Đầu tư Công
 
 **Luận điệu:** Quy chụp "cán bộ húp, rút ruột các công trình" là bản chất của các dự án công; cho rằng công trình kém chất lượng là do ngân sách bị biển thủ.
