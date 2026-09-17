@@ -2,6 +2,8 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
+Truy cập phiên bản web tại/Web version at: https://david-lek.github.io/vietnam-ideological-defense/
+
 ## 🌟 Introduction / Giới thiệu
 
 Welcome to the comprehensive repository for **Vietnam: Core Arguments & Facts**. This project serves as a knowledge base providing evidence-based counter-arguments to common allegations, misconceptions, and disinformation regarding Vietnam's political system, economic development, social policies, and history.
