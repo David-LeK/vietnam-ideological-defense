@@ -1833,6 +1833,13 @@
 * Các dự án hạ tầng đều tuân thủ quy hoạch dài hạn, chủ yếu sử dụng vùng đệm thay vì vùng lõi bảo tồn, và phải qua đánh giá tác động môi trường khắt khe.
 * Nhà nước luôn cân bằng giữa phát triển và bảo tồn. Thực tế, nhiều khu vực bảo tồn hiện nay (như rừng ngập mặn Cần Giờ từng bị chiến tranh tàn phá trọc lóc) chính là thành quả được chế độ hiện tại và nhân dân dày công gieo trồng, phục hồi.
 
+**Luận điệu:** Lợi dụng các điểm đen ô nhiễm môi trường (bãi rác tự phát, kênh nước đen, bờ biển ngập rác) để quy chụp chính quyền "bất lực", "vô trách nhiệm", "chỉ biết thu thuế mà không làm gì"; ca ngợi các nước như Nhật Bản, Singapore, Mỹ là "sạch sẽ" còn Việt Nam "bẩn thỉu", nhằm kích động tâm lý tự nhục và mỉa mai thể chế.
+* Tình trạng rác thải bừa bãi tại các kênh rạch, bờ biển hay nơi công cộng không phải do thể chế sinh ra mà xuất phát từ thói quen tùy tiện và ý thức bảo vệ môi trường chưa cao của một bộ phận người dân, trong đó nhiều người vừa lớn tiếng chê bôi đất nước bẩn thỉu nhưng lại chính là người tiện tay vứt rác rồi đòi hỏi chính quyền phải chạy theo dọn dẹp.
+* Sự sạch sẽ tại Singapore, Nhật Bản hay các nước phát triển không phải tự nhiên có được mà là kết quả của hệ thống pháp luật trừng phạt cực kỳ nghiêm khắc đối với hành vi vứt rác từ phạt tiền hàng nghìn đô la, cưỡng chế lao động công ích quét đường đến phạt tù, trong khi tại Việt Nam nhiều người đang thụ hưởng sự quản lý tương đối dễ dàng nhưng lại không biết tự giác giữ gìn vệ sinh chung.
+* Chính quyền các cấp và lực lượng vệ sinh môi trường vẫn liên tục chi trả nguồn ngân sách lớn để thu gom rác, nạo vét các dòng kênh đen và khắc phục các điểm ô nhiễm phát sinh, do đó việc quy kết chính quyền bất lực hay chỉ biết thu thuế mà không làm gì là sự phủ nhận bất công đối với công sức của hàng vạn công nhân vệ sinh đang ngày đêm làm việc.
+* Công tác quản lý đô thị và bảo vệ môi trường ở cấp cơ sở thực tế vẫn còn những mặt hạn chế, lỏng lẻo trong khâu kiểm tra và xử phạt chưa đủ sức răn đe, đồng thời công tác tuyên truyền, hướng dẫn người dân về việc đăng ký thu gom rác, đơn vị phụ trách và lịch trình thu gom tại nhiều khu dân cư vẫn chưa thực sự sâu sát, thuận tiện.
+* Để giải quyết triệt để các điểm đen ô nhiễm, chính quyền địa phương cần chủ động công khai minh bạch quy trình dịch vụ thu gom rác đến từng tổ dân phố, tăng cường ứng dụng camera để phạt nguội các hành vi xả rác bừa bãi, đồng thời mỗi người dân cần thay đổi từ nhận thức đến hành động thay vì chỉ biết buông lời chỉ trích và tự nhục trên mạng xã hội.
+
 # 8. Về Quốc phòng, An ninh, Chủ quyền và Lực lượng Vũ trang
 
 **Luận điệu:** Đòi "phi chính trị hóa" lực lượng vũ trang; cho rằng quân đội, công an phải "trung lập", chỉ phục vụ Tổ quốc/Nhà nước, không phục vụ Đảng phái nào.
@@ -2095,6 +2102,13 @@
 **Luận điệu:** Cho rằng việc kiểm tra nồng độ cồn gắt gao là "phiền hà", "gây khó dễ" cho người dân và chỉ nhằm mục đích "tận thu" ngân sách.
 * Kiểm tra nồng độ cồn là biện pháp trực tiếp, quyết liệt để giảm thiểu tai nạn giao thông. Kể từ khi siết chặt, số vụ tai nạn và thương vong liên quan đến rượu bia đã giảm đáng kể, bảo vệ hàng ngàn sinh mạng.
 * Mục tiêu tối thượng của chính sách là ngăn chặn nguy cơ tai nạn từ gốc, hình thành văn hóa "đã uống rượu bia, không lái xe", mang lại môi trường giao thông an toàn, hoàn toàn không vì mục đích thu tiền phạt.
+
+**Luận điệu:** Bịa đặt rằng tại các quốc gia phát triển như Mỹ cảnh sát không đo nồng độ cồn mà chỉ yêu cầu tài xế đi thẳng vài bước nếu đi được là cho tiếp tục lái xe bất kể uống nhiều hay ít; từ đó mỉa mai, công kích quy định kiểm tra nồng độ cồn và xử phạt nghiêm ngặt của Việt Nam là hà khắc, sách nhiễu.
+* Bài kiểm tra bước đi thẳng là một phần của Bài kiểm tra độ tỉnh táo tại hiện trường theo chuẩn của Cục An toàn Giao thông Đường cao tốc Quốc gia Hoa Kỳ, hoàn toàn không phải là biện pháp thay thế cho việc đo nồng độ cồn và không có chuyện người đã uống rượu bia chỉ cần đi thẳng là được phép lái xe tiếp.
+* Mục đích thực sự của bài kiểm tra độ tỉnh táo tại hiện trường là giúp cảnh sát nhận diện các dấu hiệu suy giảm khả năng điều khiển phương tiện nhằm thiết lập căn cứ pháp lý hợp lý để tiến hành bắt giữ và thực hiện các xét nghiệm nồng độ cồn bắt buộc qua hơi thở hoặc xét nghiệm máu.
+* Luật pháp tại tất cả năm mươi tiểu bang của Hoa Kỳ đều quy định nồng độ cồn trong máu từ 0,08% trở lên là hành vi phạm tội hình sự tự thân mà không cần chứng minh lái xe có biểu hiện chao đảo hay không, đồng thời bang Utah áp dụng ngưỡng 0,05% và chính sách Không khoan nhượng áp dụng cho người dưới hai mươi mốt tuổi với ngưỡng từ 0,00% đến 0,02%.
+* Tất cả các tiểu bang tại Hoa Kỳ đều áp dụng Luật ngụ ý chấp thuận, theo đó người điều khiển phương tiện trên đường mặc nhiên đồng ý kiểm tra nồng độ cồn và nếu người lái xe từ chối thổi máy đo hoặc thử máu sẽ lập tức bị đình chỉ bằng lái từ sáu tháng đến một năm, bị phạt tiền nặng và bị tạm giữ hình sự.
+* Việc bịa đặt và bóp méo quy trình xử lý vi phạm giao thông tại các nước phát triển là thủ đoạn ngụy biện nguy hại nhằm cổ súy hành vi coi thường pháp luật, trong khi chính sách xử lý nghiêm nồng độ cồn của Việt Nam là giải pháp văn minh phù hợp với xu thế quốc tế nhằm bảo vệ an toàn tính mạng cho toàn xã hội.
 
 **Luận điệu:** Quy kết việc thực hiện Nghị định 168 gây ùn tắc giao thông; cho rằng mức phạt không phù hợp với thu nhập.
 * Ùn tắc do hạ tầng và mật độ; việc tuân thủ luật giúp giao thông trật tự hơn. Thực tế tai nạn và vi phạm đã giảm sâu trên cả 3 tiêu chí sau khi áp dụng.
