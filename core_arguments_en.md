@@ -4084,6 +4084,13 @@
 * In reality, thousands of individuals, artists, and citizens voluntarily create diverse content (videos, articles, art) using personal resources to spread the country's image, demonstrating civic consciousness.
 * The "paid" accusation is a tactic by hostile forces to smear the noble value of patriotism and divide the great national unity.
 
+**Allegation:** Mocks and attacks positive content creators, artists performing revolutionary songs, humanitarian volunteers, and merchants selling products with national symbols (such as the national flag) by claiming they are "exploiting patriotism to make a living" ("yêu nước kiếm cơm") and "profiteering from patriotism"; asserts that genuine patriotism must be completely detached from livelihood or economic activities.
+* Engaging in honest labor that generates real social value and earning legitimate income from creative work, commerce, or artistic performances intertwined with national pride is completely legitimate, lawful, and deserving of encouragement.
+* Artists performing revolutionary music, creators promoting the country's image, volunteers showcasing the national flag globally, and small businesses producing items with national symbols directly contribute to nurturing patriotism and keeping national symbols vibrant in daily life.
+* Integrating sincere devotion to the Fatherland with healthy economic activities is fundamentally different from unethical charity fraud, illicit profiteering, or vulgar commercialization that damages national dignity.
+* The cynical rhetoric alleging that patriots are "making a living off patriotism" is a malicious smear orchestrated by hostile actors to undermine the credibility and morale of individuals actively defending the ideological foundation and spreading constructive values online.
+* Those who slander others for "making a living off patriotism" are ironically the ones truly "making a living by betraying the nation," accepting funds from hostile foreign entities to denigrate their homeland, distort history, and disrupt peace for the people.
+
 **Allegation:** Promotes the mentality of "domestic Westerners" ("tây nội địa") or "xenophilia" ("sính ngoại"), always praising foreign countries while criticizing the motherland; claims Vietnamese laws "harass" and "exploit" people ("tận thu") unlike "civilized" nations.
 * This demonstrates a lack of critical thinking and national self-respect. Every country requires laws and taxes to function; selective comparison to disparage one's own country is a psychological trap.
 * Disparaging the legal system based on superficial comparisons by idols or influencers erodes trust and patriotism.

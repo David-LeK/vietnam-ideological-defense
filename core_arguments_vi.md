@@ -4084,6 +4084,13 @@
 * Thực tế có hàng ngàn cá nhân, nghệ sĩ, người dân tự nguyện sáng tạo nội dung đa dạng (video, bài viết, tranh ảnh) bằng nguồn lực cá nhân để lan tỏa hình ảnh đất nước, thể hiện ý thức công dân.
 * Việc quy chụp "trả tiền" là thủ đoạn của các thế lực thù địch nhằm bôi nhọ giá trị cao đẹp của lòng yêu nước và chia rẽ khối đại đoàn kết dân tộc.
 
+**Luận điệu:** Mỉa mai, công kích những người làm nội dung truyền thông tích cực, nghệ sĩ biểu diễn ca khúc cách mạng, cá nhân làm việc thiện nguyện hoặc tiểu thương kinh doanh sản phẩm mang biểu tượng quốc gia (như cờ đỏ sao vàng) là "lợi dụng lòng yêu nước kiếm cơm", "trục lợi từ chủ nghĩa yêu nước"; cho rằng lòng yêu nước chân chính là không được gắn với sinh kế hay hoạt động kinh tế.
+* Lao động chân chính, tạo ra giá trị thiết thực cho cộng đồng và nhận lại thu nhập hợp pháp từ công sức sáng tạo, kinh doanh hay biểu diễn nghệ thuật gắn liền với niềm tự hào dân tộc là hoàn toàn chính đáng, hợp pháp và cần được khuyến khích.
+* Việc các văn nghệ sĩ biểu diễn bài hát cách mạng, các nhà sáng tạo nội dung quảng bá vẻ đẹp đất nước, các tình nguyện viên đưa màu cờ sắc áo Việt Nam ra thế giới hay các hộ kinh doanh bán sản phẩm gắn hình ảnh Quốc kỳ đều trực tiếp góp phần bồi đắp lòng yêu nước và đưa biểu tượng dân tộc hiện diện sống động trong đời sống xã hội.
+* Việc gắn kết tình cảm thiêng liêng với Tổ quốc vào các hoạt động phát triển kinh tế lành mạnh hoàn toàn khác biệt với các hành vi lợi dụng danh nghĩa từ thiện, trục lợi phi pháp hay thương mại hóa biến chất làm tổn hại hình ảnh dân tộc.
+* Luận điệu mỉa mai "yêu nước kiếm cơm" thực chất là sự quy chụp ác ý của những phần tử hằn học nhằm bôi nhọ uy tín, triệt hạ động lực cống hiến của những cá nhân tích cực bảo vệ nền tảng tư tưởng và lan tỏa giá trị tốt đẹp trên không gian mạng.
+* Những kẻ mỉa mai người khác "yêu nước kiếm cơm" trên thực tế lại chính là những kẻ đang "bán nước kiếm cơm", sẵn sàng nhận tài trợ từ các thế lực thù địch ngoại bang để chửi bới quê hương, xuyên tạc lịch sử và phá hoại cuộc sống bình yên của nhân dân.
+
 **Luận điệu:** Cổ súy tư tưởng "tây nội địa", "sính ngoại", luôn khen nước ngoài và chê bai Tổ quốc; rêu rao luật pháp Việt Nam "hành dân", "tận thu, tận diệt" không bằng nước ngoài.
 * Đây là biểu hiện của sự thiếu bản lĩnh và lòng tự trọng dân tộc. Mọi quốc gia đều cần pháp luật và thuế để vận hành; việc so sánh phiến diện để hạ thấp đất nước là cái nhìn lệch lạc.
 * Phê phán luật pháp dựa trên sự so sánh khập khiễng của các KOLs/thần tượng là hành vi tiếp tay cho việc xói mòn niềm tin vào chế độ.
