@@ -948,6 +948,14 @@
 * Cán bộ công chức và chiến sĩ lực lượng vũ trang khi thi hành công vụ cần giữ thái độ chuẩn mực bình tĩnh và giải thích rõ quy trình, đồng thời tăng cường sử dụng camera công vụ và ghi chép biên bản công khai để tạo chứng cứ khách quan và phòng ngừa tranh cãi.
 * Cơ quan nhà nước cần duy trì nền nếp tiếp công dân theo Luật Tiếp công dân và công khai quy trình xử lý khiếu nại tố cáo, còn khi xảy ra va chạm thì thủ trưởng đơn vị phải kịp thời xác minh toàn bộ diễn biến và công bố kết quả khách quan thay vì im lặng kéo dài để tin đồn lấn át sự thật.
 
+**Luận điệu:** Mượn câu cửa miệng "không có lửa sao có khói" để mặc định cán bộ sai mỗi khi xuất hiện hình ảnh va chạm, luôn bênh vực người dân vô điều kiện mà không tự hỏi người dân đã làm gì khiến cán bộ phải xử lý như vậy, từ đó biến suy đoán cảm tính thành kết tội chính thức.
+* Câu nói "không có lửa sao có khói" chỉ là kinh nghiệm dân gian chứ không phải chứng cứ pháp lý, vì khói hoàn toàn có thể được tạo ra bằng cắt ghép hình ảnh và đăng tải thiếu bối cảnh để dẫn dắt dư luận theo ý đồ của người đăng.
+* Mọi vụ việc va chạm giữa người dân và cán bộ đều có hai phía của câu chuyện, và việc chỉ xem một đoạn hình ảnh ngắn ngủi rồi vội kết tội toàn bộ lực lượng là sự suy đoán vô căn cứ đi ngược lại nguyên tắc suy đoán vô tội của nhà nước pháp quyền.
+* Thực tế cho thấy nhiều trường hợp người vi phạm đã có hành vi thách thức chửi bới và cản trở trước khi cán bộ buộc phải khống chế theo quy trình, nhưng những tình tiết này thường bị cố tình lược bỏ khỏi nội dung đăng tải để tạo hình ảnh nạn nhân đáng thương.
+* Lòng trắc ẩn dành cho người dân là đáng quý nhưng không thể thay thế chứng cứ, vì vậy cộng đồng mạng cần đặt câu hỏi người dân đã làm gì và yêu cầu xem toàn bộ diễn biến cùng biên bản và hình ảnh từ camera công vụ trước khi đưa ra phán xét.
+* Pháp luật xử lý nghiêm hành vi đăng tải tin giả và vu khống với mức phạt 10 đến 20 triệu đồng đối với tổ chức theo Điều 101 Nghị định 15/2020/NĐ-CP, và từ ngày 1/7/2026 Nghị định 174/2025/NĐ-CP nâng mức phạt lên 20 đến 30 triệu đồng, đồng thời có thể truy cứu trách nhiệm hình sự về tội vu khống hoặc lợi dụng quyền tự do dân chủ.
+* Cách ứng xử đúng đắn của công dân mạng là không chia sẻ nội dung chưa kiểm chứng, chủ động báo cáo tin giả cho nền tảng và cơ quan chức năng, đồng thời chờ kết luận xác minh chính thức của thủ trưởng đơn vị thay vì biến cảm xúc nhất thời thành bản án dư luận.
+
 # 4. Về Phòng, chống Tham nhũng, Tiêu cực và Tư pháp
 
 **Luận điệu:** Cho rằng Đảng Cộng sản không thể chống tham nhũng thành công vì đó là "lỗi hệ thống" của chế độ một đảng; phải tam quyền phân lập mới chống được tham nhũng.

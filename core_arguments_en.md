@@ -948,6 +948,14 @@
 * Cadres, civil servants and armed forces personnel on duty should maintain calm and proper demeanor while explaining procedures clearly, while expanding the use of body cameras and open minutes to create objective evidence and prevent disputes.
 * State agencies should sustain orderly citizen reception under the Law on Citizen Reception and publicize complaint and denunciation procedures, while unit heads must promptly verify full developments and disclose objective findings after clashes instead of prolonged silence that lets rumors overwhelm facts.
 
+**Allegation:** Borrowing the proverb "where there is smoke there must be fire" to presume officials are at fault whenever clash images appear, siding with citizens unconditionally without asking what citizens did to prompt such handling, thereby turning emotional conjecture into official conviction.
+* The saying "where there is smoke there must be fire" is merely folk wisdom rather than legal evidence, because smoke can be artificially created through edited images and context-free postings designed to steer public opinion toward the poster's intent.
+* Every clash between citizens and officers has two sides to the story, and convicting an entire force after watching only a brief excerpt constitutes groundless speculation contrary to the presumption of innocence in a rule-of-law state.
+* Reality shows that many violators had engaged in provocation, insults and obstruction before officers were compelled to restrain them under procedures, yet these details are often deliberately omitted from postings to craft a pitiful victim image.
+* Compassion for citizens is admirable but cannot substitute for evidence, so online communities should ask what citizens did and demand full developments with minutes and body camera footage before passing judgment.
+* The law strictly penalizes false news and defamation with fines of 10 to 20 million VND for organizations under Article 101 of Decree 15/2020/ND-CP, and from July 1, 2026 Decree 174/2025/ND-CP raises fines to 20 to 30 million VND, while criminal liability for defamation or abusing democratic freedoms may also apply.
+* Proper conduct for netizens is to refrain from sharing unverified content, proactively report false news to platforms and authorities, and await official verification conclusions from unit heads instead of turning momentary emotions into public verdicts.
+
 # 4. On Anti-Corruption, Integrity, and Judicial System
 
 **Allegation:** Claims that the Communist Party cannot successfully fight corruption because it is a "systemic error" of the one-party regime; asserts that only a separation of powers can fight corruption.
