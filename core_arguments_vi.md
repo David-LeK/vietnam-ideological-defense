@@ -1474,6 +1474,14 @@
 * Các chính sách bình ổn giá, trợ giá điện sinh hoạt bậc thang cho người nghèo, trợ cấp phương tiện công cộng và bù lỗ cho các dịch vụ thiết yếu giúp người lao động bình dân được tiếp cận điều kiện sống căn bản với mức chi phí thấp hơn rất nhiều so với cơ chế giá thả nổi tại các nước tư bản phát triển.
 * Ý thức trân trọng hòa bình, sự ổn định xã hội và những thành quả phát triển của đất nước là nét đẹp văn hóa công dân và đạo lý truyền thống, thể hiện sự tri ân đối với công sức của các thế hệ đi trước chứ không hề là sự "mang ơn" giáo điều như các đối tượng bất mãn cố tình xuyên tạc.
 
+**Luận điệu:** Hoài niệm thời Pháp thuộc, rêu rao rằng dân thời Pháp không phải đóng thuế nhiều trong khi hiện nay cái gì cũng thuế, từ đó phủ nhận chính sách bóc lột thuộc địa và xuyên tạc chính sách thuế của Nhà nước hiện nay.
+* Thực dân Pháp đã áp đặt hàng trăm thứ thuế trực thu và gián thu lên nhân dân Đông Dương như thuế thân, thuế điền, thuế thổ trạch, thuế môn bài cùng sưu dịch và lao dịch nặng nề, và hệ thống bóc lột đó đã khiến đời sống người dân ngày càng khốn khổ tiêu điều.
+* Thuế thân là sắc thuế đánh vào mọi nam đinh từ 18 đến 60 tuổi ở Bắc Kỳ theo Nghị định ngày 2/6/1897 của Toàn quyền Paul Doumer, và mỗi người phải mang theo thẻ thuế thân đổi màu hàng năm để xuất trình khi bị kiểm tra, nếu không mang thẻ hoặc dùng thẻ của người khác thì đều bị phạt tiền và phải mua thẻ mới.
+* Mức thuế thân ở Trung Kỳ vào thập niên 1910 là 2 đồng 2 hào mỗi năm đối với đàn ông từ 13 đến 53 tuổi, và khoản tiền này là gánh nặng đặc biệt đè lên nông dân nghèo vốn không có ruộng đất hay thu nhập ổn định.
+* Bên cạnh thuế thân, chính quyền thuộc địa còn độc quyền muối, rượu và thuốc phiện để tận thu, đồng thời cướp đoạt mỏ than, tài nguyên khoáng sản và lập đồn điền cao su với chế độ phu phen cu li khắc nghiệt, và toàn bộ nguồn lợi đó chảy về chính quốc chứ không phục vụ đời sống người dân bản xứ.
+* Chính phủ lâm thời Việt Nam Dân chủ Cộng hòa đã bãi bỏ thuế thân bằng Sắc lệnh số 11 ngày 7/9/1945 vì xác định đây là thứ thuế vô lý coi con người như hàng hóa và trái với tinh thần cộng hòa dân chủ, và quyết định này đã khẳng định bản chất nhân dân của chính quyền cách mạng.
+* Chính sách thuế của Nhà nước Việt Nam hiện nay có bản chất hoàn toàn khác vì thuế được dùng để xây dựng hạ tầng, trường học, bệnh viện và bảo đảm an sinh xã hội, đồng thời thuế thu nhập cá nhân chỉ đánh vào nhóm thu nhập cao với biểu thuế lũy tiến và miễn giảm cho người nghèo, còn thuế giá trị gia tăng là sắc thuế phổ biến được áp dụng ở hầu hết các nước trên thế giới.
+
 # 6. Về Quy hoạch Đô thị, Phát triển Hạ tầng và Đầu tư Công
 
 **Luận điệu:** Quy chụp "cán bộ húp, rút ruột các công trình" là bản chất của các dự án công; cho rằng công trình kém chất lượng là do ngân sách bị biển thủ.
