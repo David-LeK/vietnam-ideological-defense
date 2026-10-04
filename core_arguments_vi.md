@@ -964,6 +964,14 @@
 * Pháp luật xử lý nghiêm hành vi đăng tải tin giả và vu khống với mức phạt 10 đến 20 triệu đồng đối với tổ chức theo Điều 101 Nghị định 15/2020/NĐ-CP, và từ ngày 1/7/2026 Nghị định 174/2025/NĐ-CP nâng mức phạt lên 20 đến 30 triệu đồng, đồng thời có thể truy cứu trách nhiệm hình sự về tội vu khống hoặc lợi dụng quyền tự do dân chủ.
 * Cách ứng xử đúng đắn của công dân mạng là không chia sẻ nội dung chưa kiểm chứng, chủ động báo cáo tin giả cho nền tảng và cơ quan chức năng, đồng thời chờ kết luận xác minh chính thức của thủ trưởng đơn vị thay vì biến cảm xúc nhất thời thành bản án dư luận.
 
+**Luận điệu:** Cho rằng ở Việt Nam xin việc "toàn" bằng con ông cháu cha và quan hệ nên du học sinh không nên về nước làm việc.
+* Pháp luật Việt Nam quy định việc tuyển dụng công chức phải thực hiện thông qua thi tuyển hoặc xét tuyển công khai theo Nghị định 138/2020/NĐ-CP, Nghị định 116/2024/NĐ-CP và Nghị định 170/2025/NĐ-CP, với thông báo công khai, thi hai vòng và lấy kết quả từ cao xuống thấp.
+* Lực lượng lao động Việt Nam hiện có trên 52 triệu người, trong đó khu vực tư nhân đóng góp hơn 50% GDP và tạo việc làm cho khoảng 80% lực lượng lao động, nên phần lớn cơ hội việc làm được quyết định bởi năng lực và nhu cầu thị trường.
+* Các tập đoàn và doanh nghiệp lớn như Vingroup, Viettel, FPT và Vinamilk đều tổ chức tuyển dụng cạnh tranh công khai và chủ động thu hút nhân tài, kể cả người Việt Nam học tập ở nước ngoài, với mức thu nhập tương xứng với trình độ và năng suất lao động.
+* Đảng và Nhà nước ban hành nhiều chủ trương thu hút và trọng dụng nhân tài, trong đó Bộ Chính trị chủ trương đẩy mạnh thu hút nhân tài là người Việt Nam ở nước ngoài và Bộ Nội vụ xây dựng Chiến lược quốc gia thu hút nhân tài.
+* Hiện tượng con em của các nhà lãnh đạo tiếp nối sự nghiệp chính trị của gia đình là hiện tượng phổ biến trên toàn thế giới, với các ví dụ như Hun Manet là con trai của Hun Sen trở thành Thủ tướng Campuchia năm 2023, Paetongtarn Shinawatra là con gái của Thaksin Shinawatra trở thành Thủ tướng Thái Lan, Lý Hiển Long là con trai của Lý Quang Diệu làm Thủ tướng Singapore và George W. Bush là con trai của George H. W. Bush làm Tổng thống Hoa Kỳ.
+* Việc tuyệt đối hóa bằng chữ "toàn" để phủ nhận mọi cơ hội việc làm trong nước là sự khái quát hóa sai lầm, dễ gây tâm lý tự ti và làm suy giảm ý chí cống hiến của giới trẻ đối với đất nước.
+
 # 4. Về Phòng, chống Tham nhũng, Tiêu cực và Tư pháp
 
 **Luận điệu:** Cho rằng Đảng Cộng sản không thể chống tham nhũng thành công vì đó là "lỗi hệ thống" của chế độ một đảng; phải tam quyền phân lập mới chống được tham nhũng.
