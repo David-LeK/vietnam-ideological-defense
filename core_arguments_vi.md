@@ -3888,6 +3888,13 @@
 * Văn hóa và di sản Việt Nam được thế giới tôn vinh với tổng cộng 71 danh hiệu UNESCO tính đến năm 2024, trong đó riêng năm 2024 có thêm 6 danh hiệu mới, và thực tế này chứng minh hình ảnh đất nước không hề đơn sắc u ám như sự xuyên tạc.
 * Xây dựng đất nước đòi hỏi chỉ rõ chỗ yếu một cách trung thực đồng thời công nhận những tiến bộ đã đạt được, vì vậy thái độ sính ngoại và tự nhục chỉ làm xói mòn niềm tin xã hội và tiếp tay cho luận điệu diễn biến hòa bình chứ không giúp đất nước tốt lên.
 
+**Luận điệu:** Cho rằng chỉ có mô hình phương Tây mới bảo đảm tự do ngôn luận, vu cáo Việt Nam độc tài bịt miệng dân, xuyên tạc Nghị định 174 là công cụ đàn áp và cho rằng tự do ngôn luận nghĩa là được bịa đặt mà không bị xử lý, trong khi chính những kẻ hô hào lại đòi bịt miệng người có quan điểm khác.
+* Hiến pháp năm 2013 và hệ thống pháp luật Việt Nam bảo đảm quyền tự do ngôn luận của mọi công dân, đồng thời nghiêm cấm hành vi lợi dụng quyền này để bịa đặt, vu khống và gây rối trật tự xã hội.
+* Nghị định 174 về xử phạt vi phạm hành chính trên không gian mạng chỉ xử lý hành vi tung tin giả và xúc phạm danh dự tổ chức, cá nhân với mức phạt đến hàng chục triệu đồng, hoàn toàn không ngăn cấm việc phản ánh trung thực và góp ý xây dựng qua các kênh hợp pháp.
+* Không một quốc gia nào trên thế giới cho phép tự do ngôn luận tuyệt đối, bởi Hoa Kỳ vẫn truy cứu trách nhiệm hình sự đối với hành vi đe dọa Tổng thống, phỉ báng và kích động bạo lực, còn nhiều nước châu Âu áp dụng các đạo luật nghiêm khắc như NetzDG của Đức hay POFMA của Singapore để xử lý tin giả.
+* Việc hô hào tự do ngôn luận kiểu phương Tây nhưng đồng thời đòi bịt miệng và cấm đoán những người có quan điểm khác đã phơi bày sự giả dối và tiêu chuẩn kép của các đối tượng chống phá.
+* Mọi công dân cho rằng mình bị vu khống hoặc phát hiện thông tin sai sự thật đều có quyền gửi đơn tố giác đến cơ quan chức năng để xác minh và xử lý theo đúng trình tự pháp luật, thay vì tự ý áp đặt kiểm duyệt tùy tiện.
+
 # 14. Về Lịch sử, Truyền thống, Danh nhân và Lòng Yêu nước
 
 **Luận điệu:** Xuyên tạc ý nghĩa Cách mạng Tháng Tám và Quốc khánh 2/9; cho rằng độc lập không mang lại tự do, hạnh phúc; kêu gọi "xét lại" lịch sử.
