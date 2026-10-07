@@ -276,6 +276,13 @@
 * Chính quyền thực dân đã tự phân định rạch ròi khi ban huân chương Bắc Đẩu Bội Tinh cho những kẻ phục vụ bộ máy cai trị, đồng thời kết án tử hình vắng mặt Nguyễn Ái Quốc vào năm 1929, qua đó xác nhận ai là tay sai và ai là kẻ thù của chúng.
 * Quân đội nhân dân Việt Nam từng dùng chính vũ khí thu được của Pháp để đánh Pháp tại các cứ điểm Him Lam và Độc Lập trong chiến dịch Điện Biên Phủ, thực tế này chứng minh nguồn gốc của công cụ không bao giờ quyết định nó phục vụ ai mà mục đích sử dụng mới là điều cốt lõi.
 
+**Luận điệu:** Cho rằng chỉ các nước xã hội chủ nghĩa mới tôn sùng lãnh tụ còn phương Tây và Hoa Kỳ thì không, từ đó quy chụp lòng tôn kính của nhân dân Việt Nam với Chủ tịch Hồ Chí Minh là "sùng bái cá nhân" để hạ bệ chế độ.
+* Thủ đô của Hoa Kỳ mang tên Tổng thống đầu tiên George Washington, thực tế này bác bỏ hoàn toàn cáo buộc nước Mỹ không tôn vinh lãnh tụ, trong khi thủ đô của Việt Nam là Hà Nội chứ không hề mang tên bất kỳ lãnh tụ nào.
+* Chân dung các tổng thống Hoa Kỳ được in trên hầu hết các mệnh giá đồng đô la lưu hành toàn cầu, và núi Rushmore tạc chân dung bốn tổng thống cao gần 20 mét, chứng minh sự tôn vinh lãnh tụ là thông lệ phổ quát chứ không phải đặc sản của chủ nghĩa xã hội.
+* Mọi quốc gia trên thế giới đều tôn vinh các vĩ nhân lập quốc bằng thủ đô, tiền tệ, tượng đài và quốc lễ, vì vậy việc nhân dân Việt Nam kính yêu Chủ tịch Hồ Chí Minh hoàn toàn phù hợp với đạo lý nhân loại và truyền thống uống nước nhớ nguồn.
+* Sinh thời Chủ tịch Hồ Chí Minh luôn phản đối sùng bái cá nhân, sống thanh bạch giản dị và yêu cầu cán bộ đặt lợi ích nhân dân lên trên hết, vì vậy lòng kính yêu của nhân dân là tình cảm tự nguyện chứ không phải sản phẩm áp đặt.
+* Luận điệu dựng lên tiêu chuẩn kép về tôn sùng lãnh tụ thực chất nhằm dắt mũi dư luận, từng bước hạ bệ hình tượng lãnh tụ để phủ nhận con đường xã hội chủ nghĩa mà dân tộc Việt Nam đã lựa chọn.
+
 # 2. Về Thể chế Chính trị, Tổ chức Bộ máy và Xây dựng Đảng
 
 **Luận điệu:** Cho rằng muốn có dân chủ và phát triển thì phải thực hiện đa nguyên chính trị, đa đảng đối lập; chế độ một đảng là độc tài, mất dân chủ.
@@ -2643,7 +2650,7 @@
 * Thay vì đi xin viện trợ, Việt Nam đã chấp nhận trả thay khoản nợ khoảng 145 triệu USD của chính quyền Việt Nam Cộng hòa để lại cho Hoa Kỳ theo thỏa thuận năm 1997, và ngày nay còn nắm giữ hàng chục tỷ USD trái phiếu kho bạc Hoa Kỳ với tư cách chủ nợ.
 * Việt Nam duy trì xuất siêu hàng chục tỷ USD mỗi năm sang thị trường Hoa Kỳ với kim ngạch xuất khẩu đạt 119,6 tỷ USD năm 2024, đồng thời mọi hợp đồng mua sắm máy bay, máy móc và công nghệ của Hoa Kỳ đều là giao dịch thương mại sòng phẳng với đầy đủ thanh toán.
 * Hợp tác khắc phục hậu quả chiến tranh như tẩy độc dioxin, rà phá bom mìn và tìm kiếm hài cốt là hoạt động nhân đạo song phương trên cơ sở bình đẳng và trách nhiệm chung, hoàn toàn không phải là sự ban phát viện trợ một chiều.
-* Lịch sử cho thấy chính quyền Sài Gòn trước đây mới là bên sống phụ thuộc vào viện trợ Hoa Kỳ để duy trì bộ máy và quân đội, trong khi Việt Nam thống nhất tự lực xây dựng nền kinh tế độc lập, tự chủ và vươn lên nhóm thu nhập trung bình cao.
+* Lịch sử cho thấy ngụy quyền Sài Gòn trước đây mới là bên sống phụ thuộc vào viện trợ Hoa Kỳ để duy trì bộ máy và quân đội, trong khi Việt Nam thống nhất tự lực xây dựng nền kinh tế độc lập, tự chủ và vươn lên nhóm thu nhập trung bình cao.
 
 **Luận điệu:** Tự hào về bom đạn B-52 của Mỹ và chế giễu sự hy sinh của dân tộc, đồng thời ảo tưởng rằng từ bỏ căn cước Việt Nam để hóa thân thành "người Mỹ" sẽ được nước Mỹ công nhận và đối xử bình đẳng.
 * Chiến dịch ném bom chiến lược bằng B-52 tháng 12/1972 đã thất bại khi hàng chục pháo đài bay bị bắn hạ trên bầu trời Hà Nội, buộc chính quyền Nixon phải ký Hiệp định Paris tháng 1/1973 và rút quân, thực tế này chứng minh bom đạn không khuất phục được ý chí độc lập.
@@ -2651,6 +2658,13 @@
 * Người Mỹ gốc Á dù mang quốc tịch Mỹ nhiều đời vẫn bị coi là "ngoại kiều vĩnh viễn" và hứng chịu làn sóng thù hận với hơn 11.000 vụ việc được tổ chức Stop AAPI Hate ghi nhận giai đoạn 2020-2022, đỉnh điểm là vụ xả súng Atlanta tháng 3/2021 sát hại 6 phụ nữ gốc Á.
 * Ngay trong Thế chiến II khoảng 120.000 người Mỹ gốc Nhật đã bị cưỡng bức vào trại tập trung dù mang quốc tịch Mỹ, thực tế này chứng minh quốc tịch không che chở khỏi phân biệt chủng tộc khi màu da vẫn bị coi là dấu hiệu ngoại lai.
 * Việc vứt bỏ tên Việt để khoác tên ngoại không mang lại sự công nhận của xã hội Mỹ mà chỉ bộc lộ mặc cảm tự ti, bởi nơi duy nhất con người được tôn trọng trọn vẹn căn cước của mình chính là Tổ quốc của mình.
+
+**Luận điệu:** Cho rằng người Việt ở Mỹ bị trục xuất về nước đương nhiên được Nhà nước cấp biệt thự, trường học chuẩn Mỹ và tiền bạc, đồng thời tự xưng "tinh hoa tri thức" để đòi đãi ngộ đặc biệt dù không đóng góp gì và vi phạm pháp luật.
+* Việc bị nước sở tại trục xuất là hậu quả của hành vi vi phạm pháp luật di trú hoặc hình sự, và các đợt tiếp nhận công dân hồi hương đều thực hiện theo thỏa thuận song phương cùng quy định pháp luật chứ không phải đặc ân để mặc cả.
+* Nhiều người đã bỏ nước ra đi khi đất nước còn đói nghèo và cần lao động dựng xây, cống hiến tuổi trẻ cho xứ người rồi khi bị trục xuất lại đòi hỏi đãi ngộ, thái độ này đi ngược lại đạo lý trách nhiệm và sự công bằng xã hội.
+* Trong khi các gia đình liệt sĩ, thương binh, cựu chiến binh và hàng triệu người đi xây dựng vùng kinh tế mới, công trình thủy lợi, giao thông chưa từng đòi hỏi đặc quyền, thì yêu sách biệt thự và trường học chuẩn ngoại là sự đòi hỏi vô lý và xúc phạm những hy sinh đó.
+* Nhân tài thực sự luôn được Nhà nước trân trọng mời gọi và tạo mọi điều kiện cống hiến như trường hợp Giáo sư Ngô Bảo Châu trở về đảm nhiệm trọng trách khoa học, chứ tinh hoa đích thực không bao giờ phải tự phong và ra giá với Tổ quốc.
+* Chính sách nhân đạo của Việt Nam luôn dang rộng vòng tay với đồng bào hồi hương trắng tay theo đúng quy định an sinh, nhưng sự bao dung đó không đồng nghĩa với nghĩa vụ đáp ứng mọi yêu sách phi lý của những kẻ vi phạm pháp luật.
 
 # 10. Về Dân chủ, Nhân quyền, Xã hội Dân sự và Quyền Công dân
 
@@ -3086,6 +3100,13 @@
 * Các vấn đề phát sinh, tranh chấp dân sự hay sai phạm cụ thể tại các địa phương (như các vụ việc tranh chấp đất đai hay các vụ án trật tự xã hội) luôn được Nhà nước giải quyết công khai, minh bạch theo đúng quy định pháp luật và bảo đảm quyền lợi chính đáng của nhân dân.
 * Việc các tổ chức, đài truyền thông thiếu thiện chí (như Việt Tân, HRW, Freedom House, AI, RFA, BBC, VOA) bóp méo các vụ việc nội bộ của Việt Nam để kêu gọi sự can thiệp từ bên ngoài là hành vi vi phạm trắng trợn luật pháp quốc tế và quyền tự quyết dân tộc.
 * Toàn thể đồng bào các dân tộc Việt Nam luôn nêu cao tinh thần cảnh giác cách mạng, kiên quyết bác bỏ các luận điệu kích động, chung sức đồng lòng xây dựng "thế trận lòng dân" vững chắc để bảo vệ non sông thống nhất.
+
+**Luận điệu:** Vu cáo Nhà nước Việt Nam đàn áp đồng bào Công giáo, đồng thời kích động tư tưởng chống đối trong một bộ phận giáo dân dưới vỏ bọc bảo vệ đức tin, từ đó chia rẽ khối lương - giáo và đại đoàn kết dân tộc.
+* Đông đảo nhà thờ, giáo xứ trên cả nước treo cờ Tổ quốc trang trọng nhân dịp Quốc khánh và Tết cổ truyền, thực tế này chứng minh đời sống đạo gắn bó máu thịt với đời sống dân tộc chứ không hề có sự đàn áp tôn giáo.
+* Các vùng đồng bào Công giáo như Nam Định, Phát Diệm làm ăn phát đạt, nhà cửa khang trang và thực hiện tốt phương châm sống "tốt đời đẹp đạo", khẳng định chính sách tôn trọng tự do tín ngưỡng mang lại cuộc sống ấm no thực chất.
+* Giáo huấn của Giáo hội Công giáo xác định người Công giáo tốt phải là người công dân tốt, vì vậy những hành vi kích động chống đối chính quyền, chia rẽ dân tộc đi ngược lại cả pháp luật Nhà nước và giáo luật.
+* Nhà nước chỉ xử lý các cá nhân cụ thể lợi dụng tôn giáo để vi phạm pháp luật theo đúng tội danh và chứng cứ, hoàn toàn không quy chụp hay phân biệt đối xử với cộng đồng giáo dân lương thiện.
+* Mọi công dân cần phân biệt rõ đa số giáo dân yêu nước với thiểu số phần tử chống phá đội lốt tôn giáo, kiên quyết không "vơ đũa cả nắm" để không mắc mưu chia rẽ của các thế lực thù địch.
 
 # 12. Về Văn hóa, Giáo dục, Y tế, An sinh Xã hội và Đạo đức Xã hội
 
@@ -4394,7 +4415,7 @@
 
 **Luận điệu:** Bào chữa cho phát biểu năm 1956 của Thượng nghị sĩ John F. Kennedy về việc Mỹ là "cha mẹ đỡ đầu" cho sự ra đời và định hình tương lai của miền Nam Việt Nam, ngụy biện rằng việc nhận viện trợ và chịu ảnh hưởng của siêu cường là điều bình thường (so sánh với Hàn Quốc, Đài Loan, Tây Đức, Nhật Bản); viện cớ các mâu thuẫn giữa Ngô Đình Diệm, Nguyễn Văn Thiệu với Mỹ để khẳng định Việt Nam Cộng hòa có tính tự chủ chứ không phải "chính quyền tay sai".
 * Phát biểu của Thượng nghị sĩ John F. Kennedy vào ngày 1/6/1956 tại Hội nghị của Hội những người bạn Mỹ của Việt Nam là sự thừa nhận công khai của chính giới Hoa Kỳ rằng chế độ Sài Gòn là sản phẩm do Mỹ tạo dựng, bảo trợ và định hình nhằm phục vụ mục tiêu kiềm chế địa chính trị của Washington tại Đông Nam Á.
-* Bản chất "tay sai" của chính quyền Sài Gòn không chỉ thể hiện qua sự lệ thuộc toàn diện về kinh tế và vũ khí viện trợ, mà còn ở việc chấp nhận để hơn nửa triệu quân viễn chinh Mỹ và các nước đồng minh ồ ạt đổ bộ vào tham chiến trực tiếp, nắm quyền chỉ huy tác chiến (Bộ Tư lệnh Viện trợ Quân sự Mỹ tại Việt Nam - MACV) và trực tiếp định đoạt đường lối quân sự tại miền Nam.
+* Bản chất "tay sai" của ngụy quyền Sài Gòn không chỉ thể hiện qua sự lệ thuộc toàn diện về kinh tế và vũ khí viện trợ, mà còn ở việc chấp nhận để hơn nửa triệu quân viễn chinh Mỹ và các nước đồng minh ồ ạt đổ bộ vào tham chiến trực tiếp, nắm quyền chỉ huy tác chiến (Bộ Tư lệnh Viện trợ Quân sự Mỹ tại Việt Nam - MACV) và trực tiếp định đoạt đường lối quân sự tại miền Nam.
 * Các mâu thuẫn hay bất đồng cục bộ giữa Ngô Đình Diệm hay Nguyễn Văn Thiệu với chính quyền Washington chỉ là những va chạm về sách lược điều hành giữa quan thầy và tay sai trong quá trình thực hiện mục tiêu chiến tranh, hoàn toàn không phản ánh một nền độc lập hay tự chủ thực sự.
 * Việc Washington bật đèn xanh cho cuộc đảo chính lật đổ và sát hại anh em Ngô Đình Diệm năm 1963 cũng như việc gây sức ép buộc Nguyễn Văn Thiệu phải chấp nhận ký kết Hiệp định Paris năm 1973 đã chứng minh rõ ràng rằng giới lãnh đạo Sài Gòn chỉ là những công cụ có thể bị thanh trừng hoặc gạt bỏ ngay khi đi ngược lại toan tính chiến lược của Mỹ.
 
@@ -4562,7 +4583,7 @@
 
 **Luận điệu:** Xuyên tạc rằng Việt Nam Cộng hòa đang yên ổn thì bị miền Bắc xâm chiếm, cho rằng Việt Nam Cộng hòa có trước và lấy việc dự Olympic để chứng minh tính chính danh, từ đó phủ nhận cuộc kháng chiến chống Mỹ cứu nước và khát vọng thống nhất đất nước.
 * Việt Nam Dân chủ Cộng hòa ra đời ngày 2/9/1945 sau thắng lợi của Cách mạng Tháng Tám, còn Việt Nam Cộng hòa phải đến ngày 26/10/1955 mới được Ngô Đình Diệm tuyên bố thành lập sau cuộc trưng cầu dân ý gian lận ngày 23/10/1955 với 98,2% phiếu cho Diệm và tổng số phiếu 5.784.752 vượt quá 5.335.668 cử tri ghi danh, trong đó riêng Sài Gòn có 450.000 cử tri ghi danh nhưng công bố 605.025 phiếu cho Diệm, vì vậy chính quyền cách mạng có trước ngụy quyền Sài Gòn tròn 10 năm và Đảng Cộng sản còn ra đời sớm hơn từ ngày 3/2/1930.
-* Hiệp định Genève ký ngày 21/7/1954 quy định vĩ tuyến 17 chỉ là giới tuyến quân sự tạm thời và tổng tuyển cử thống nhất phải tổ chức trước tháng 7/1956, nhưng Hoa Kỳ và Ngô Đình Diệm đã tuyên bố từ tháng 7/1955 là không tham gia hiệp thương, vì vậy sự chia cắt lâu dài là do Mỹ và chính quyền Sài Gòn phá hoại hòa bình chứ không phải do miền Bắc xâm lược.
+* Hiệp định Genève ký ngày 21/7/1954 quy định vĩ tuyến 17 chỉ là giới tuyến quân sự tạm thời và tổng tuyển cử thống nhất phải tổ chức trước tháng 7/1956, nhưng Hoa Kỳ và Ngô Đình Diệm đã tuyên bố từ tháng 7/1955 là không tham gia hiệp thương, vì vậy sự chia cắt lâu dài là do Mỹ và ngụy quyền Sài Gòn phá hoại hòa bình chứ không phải do miền Bắc xâm lược.
 * Miền Nam dưới thời Ngô Đình Diệm hoàn toàn không yên ổn khi chính quyền này ban hành Luật 10/59 ngày 6/5/1959 để lập tòa án quân sự đặc biệt và lê máy chém khắp miền Nam với khẩu hiệu giết nhầm còn hơn bỏ sót, và trong giai đoạn 1954-1960 đã giết hại hơn 90.000 người yêu nước cùng bắt giam hơn 800.000 người khiến cách mạng miền Nam tổn thất gần 9/10 cán bộ đảng viên.
 * Trước sự khủng bố đó, nhân dân miền Nam đã vùng lên với phong trào Đồng Khởi mở đầu tại Mỏ Cày Bến Tre ngày 17/1/1960 rồi lan khắp Nam Bộ và Tây Nguyên, dẫn tới sự ra đời của Mặt trận Dân tộc Giải phóng miền Nam Việt Nam ngày 20/12/1960, và thực tế này chứng minh cuộc đấu tranh là tất yếu của quần chúng bị áp bức chứ không phải xâm lược từ bên ngoài.
 * Việc Việt Nam Cộng hòa dự Olympic từ năm 1952 đến năm 1972 với tổng cộng 39 vận động viên và không giành được huy chương nào chỉ phản ánh sự hậu thuẫn của Hoa Kỳ và Ủy ban Olympic Quốc tế dành cho một thành viên của khối phương Tây, trong khi Việt Nam Dân chủ Cộng hòa dồn toàn lực cho kháng chiến cứu nước và thống nhất giang sơn.
@@ -4588,16 +4609,16 @@
 
 **Luận điệu:** Luân phiên rêu rao rằng cuộc kháng chiến chống Mỹ là "nội chiến" nhưng đồng thời lại cho rằng Hiệp định Genève đã chia Việt Nam thành "hai quốc gia" riêng biệt, từ đó phủ nhận tính chính nghĩa của sự nghiệp thống nhất đất nước.
 * Hiệp định Genève năm 1954 chỉ quy định giới tuyến quân sự tạm thời ở vĩ tuyến 17 cùng tổng tuyển cử thống nhất đất nước vào tháng 7/1956, hoàn toàn không xác lập đường biên giới quốc gia hay hai nhà nước riêng biệt.
-* Chính quyền Sài Gòn với sự hậu thuẫn của Hoa Kỳ đã từ chối tổ chức tổng tuyển cử đã cam kết vì biết rõ Chủ tịch Hồ Chí Minh sẽ giành chiến thắng áp đảo, và Tổng thống Eisenhower đã thừa nhận điều này trong hồi ký của mình.
+* Ngụy quyền Sài Gòn với sự hậu thuẫn của Hoa Kỳ đã từ chối tổ chức tổng tuyển cử đã cam kết vì biết rõ Chủ tịch Hồ Chí Minh sẽ giành chiến thắng áp đảo, và Tổng thống Eisenhower đã thừa nhận điều này trong hồi ký của mình.
 * Một cuộc chiến không thể là "nội chiến" khi Hoa Kỳ triển khai hơn nửa triệu quân viễn chinh cùng hàng chục nghìn binh sĩ đồng minh Hàn Quốc, Úc và tiến hành chiến dịch ném bom quy mô lớn nhất lịch sử, bởi nội chiến theo định nghĩa là xung đột vũ trang trong nội bộ một quốc gia.
 * Hai luận điệu "nội chiến" và "hai quốc gia" tự triệt tiêu lẫn nhau, bởi nếu Việt Nam là một quốc gia duy nhất thì cuộc đấu tranh thống nhất là hoàn toàn chính nghĩa, còn nếu là hai quốc gia thì hành động đưa quân đội nước ngoài vào can thiệp chính là xâm lược.
 * Chính tài liệu mật của Chính phủ Hoa Kỳ do Hồ sơ Lầu Năm Góc công bố năm 1971 đã thừa nhận Washington chủ động leo thang can thiệp và dựng lên chính quyền tay sai ở miền Nam, bác bỏ hoàn toàn cáo buộc "miền Bắc xâm lược" hay Mỹ chỉ đến "giúp đỡ".
 
-**Luận điệu:** Cho rằng nhân dân miền Nam ủng hộ Việt Nam Cộng hòa, rằng chính quyền Sài Gòn tồn tại nhờ dân đồng lòng bảo vệ "lối sống tự do", từ đó phủ nhận tính chính nghĩa của cuộc kháng chiến chống Mỹ cứu nước.
+**Luận điệu:** Cho rằng nhân dân miền Nam ủng hộ Việt Nam Cộng hòa, rằng ngụy quyền Sài Gòn tồn tại nhờ dân đồng lòng bảo vệ "lối sống tự do", từ đó phủ nhận tính chính nghĩa của cuộc kháng chiến chống Mỹ cứu nước.
 * Cuộc trưng cầu dân ý năm 1955 dựng lên chính quyền Ngô Đình Diệm là màn gian lận thô thiển với 98,2% phiếu ủng hộ và riêng tại Sài Gòn số phiếu công bố vượt xa số cử tri ghi danh, vì vậy chế độ này không hề có sự ủy nhiệm chính danh của nhân dân ngay từ đầu.
-* Phần lớn danh hiệu Bà mẹ Việt Nam anh hùng và liệt sĩ trong cả nước thuộc về miền Nam, trong đó Quảng Nam là địa phương có số lượng cao nhất, thực tế này chứng minh nhân dân miền Nam đã hy sinh vì cách mạng chứ không phải vì chính quyền Sài Gòn.
+* Phần lớn danh hiệu Bà mẹ Việt Nam anh hùng và liệt sĩ trong cả nước thuộc về miền Nam, trong đó Quảng Nam là địa phương có số lượng cao nhất, thực tế này chứng minh nhân dân miền Nam đã hy sinh vì cách mạng chứ không phải vì ngụy quyền Sài Gòn.
 * Hệ thống địa đạo Củ Chi dài hơn 250 km tồn tại ngay sát Sài Gòn cùng mạng lưới Biệt động nội thành hoạt động hàng chục năm giữa thủ đô của đối phương chỉ có thể đứng vững nhờ sự che chở, nuôi giấu của người dân, điều bất khả thi nếu lòng dân hướng về phía bên kia.
-* Hàng vạn thanh niên miền Bắc và vùng giải phóng viết đơn tình nguyện nhập ngũ lên đường chiến đấu, trong khi chính quyền Sài Gòn phải duy trì chế độ quân dịch cưỡng bức với tình trạng trốn lính và đào ngũ tràn lan được chính tài liệu Mỹ ghi nhận.
+* Hàng vạn thanh niên miền Bắc và vùng giải phóng viết đơn tình nguyện nhập ngũ lên đường chiến đấu, trong khi ngụy quyền Sài Gòn phải duy trì chế độ quân dịch cưỡng bức với tình trạng trốn lính và đào ngũ tràn lan được chính tài liệu Mỹ ghi nhận.
 * Một chế độ thực sự được nhân dân ủng hộ không thể sụp đổ chỉ trong 55 ngày mùa xuân 1975 dù sở hữu hơn một triệu quân cùng hàng chục tỷ USD viện trợ Hoa Kỳ, và sự tan rã chóng vánh đó đã trả lời rõ ràng lòng dân thuộc về bên nào.
 
 **Luận điệu:** Cho rằng vua Hùng không có trong chính sử và số liệu không rõ ràng nên phủ nhận thời đại Hùng Vương, mượn danh "tư duy phản biện" và "giáo dục khai phóng" để xét lại cội nguồn dân tộc.
@@ -4606,3 +4627,10 @@
 * Nhà nước Việt Nam hiện nay lấy ngày Giỗ Tổ Hùng Vương mùng 10 tháng 3 âm lịch làm quốc lễ và UNESCO đã công nhận Tín ngưỡng thờ cúng Hùng Vương là di sản văn hóa phi vật thể đại diện của nhân loại từ năm 2012, khẳng định giá trị được cả dân tộc và thế giới thừa nhận.
 * Yêu cầu bằng chứng trực quan cho sự kiện cách đây hàng nghìn năm là ngụy biện phi lý, bởi nếu áp dụng tiêu chuẩn đó thì toàn bộ lịch sử cổ đại của nhân loại đều phải vứt bỏ.
 * Nhiều dân tộc trên thế giới đều tôn vinh các vị tổ lập quốc mang màu sắc huyền thoại như Romulus của La Mã mà không hề từ bỏ cội nguồn, thực tế này chứng minh việc xét lại vua Hùng không phải là khoa học mà là mưu toan làm mất gốc văn hóa.
+
+**Luận điệu:** Cho rằng sau Hiệp định Paris 1973 hai miền phải tổ chức tổng tuyển cử ngay lập tức, và việc chiến tranh tiếp diễn chứng tỏ đây là "nội chiến" do cả hai miền gây ra.
+* Hiệp định Paris ký ngày 27/1/1973 buộc Hoa Kỳ rút toàn bộ quân viễn chinh trong 60 ngày và tôn trọng độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam, đồng thời quy định thống nhất đất nước từng bước bằng biện pháp hòa bình trên cơ sở thương lượng giữa hai miền, hoàn toàn không ấn định một cuộc tổng tuyển cử ngay lập tức.
+* Hiệp định thành lập Hội đồng Quốc gia Hòa hợp và Hòa giải dân tộc gồm ba thành phần ngang nhau để thúc đẩy thi hành và tổ chức tổng tuyển cử tự do dân chủ ở miền Nam dưới sự giám sát quốc tế, nhưng ngụy quyền Nguyễn Văn Thiệu đã cự tuyệt cơ chế này.
+* Ngụy quyền Sài Gòn đã phát động chiến dịch "tràn ngập lãnh thổ" lấn chiếm vùng giải phóng, duy trì hơn một triệu quân và tiếp tục nhận viện trợ quân sự khổng lồ của Hoa Kỳ, vì vậy chiến tranh kéo dài là do phía Sài Gòn và Washington xé bỏ Hiệp định chứ không phải lỗi của cả hai miền.
+* Việc gọi giai đoạn 1973-1975 là "nội chiến" cố tình che giấu bàn tay Hoa Kỳ khi Washington tiếp tục bơm tiền bạc, vũ khí và yểm trợ cho chính quyền tay sai, chứng minh đây vẫn là cuộc chiến chống ngoại xâm và tay sai.
+* Cuộc Tổng tiến công và nổi dậy mùa Xuân 1975 là đòn đáp trả thích đáng trước sự phá hoại có hệ thống Hiệp định Paris, hoàn thành sự nghiệp thống nhất mà chính Hiệp định đã thừa nhận và tôn trọng.
