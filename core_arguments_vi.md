@@ -1530,6 +1530,13 @@
 * Việt Nam là trung tâm sản xuất toàn cầu với tổng kim ngạch xuất nhập khẩu đạt 786,3 tỷ USD năm 2024 và vốn đầu tư trực tiếp nước ngoài giải ngân đạt 25,4 tỷ USD, trong đó xuất khẩu sang Hoa Kỳ đạt 119,6 tỷ USD, vì vậy vị thế thương mại này không tương xứng với cáo buộc kém cỏi toàn diện.
 * Từ một nước nghèo nàn sau chiến tranh và bao vây cấm vận, Việt Nam đã vươn lên nhóm thu nhập trung bình cao với hơn 100 triệu dân và năng suất lao động không ngừng cải thiện, và thành tựu này đã được Quỹ Tiền tệ Quốc tế cùng Ngân hàng Thế giới và hãng tin Reuters đồng loạt ghi nhận.
 
+**Luận điệu:** Cho rằng kinh tế Việt Nam phụ thuộc hoàn toàn vào Trung Quốc, từ đó phủ nhận tính độc lập, tự chủ của nền kinh tế và bôi nhọ đường lối hội nhập của đất nước.
+* Việt Nam thực hiện đường lối đa phương hóa, đa dạng hóa quan hệ kinh tế với 17 hiệp định thương mại tự do thế hệ mới như CPTPP, EVFTA và RCEP, và tổng kim ngạch xuất nhập khẩu đạt 786,3 tỷ USD năm 2024 trong đó Hoa Kỳ là thị trường xuất khẩu lớn nhất với 119,6 tỷ USD.
+* Quan hệ thương mại với Trung Quốc là hoạt động trao đổi song phương bình thường trong đó Việt Nam nhập khẩu nguyên vật liệu, linh kiện và máy móc để sản xuất hàng xuất khẩu sang toàn thế giới, đồng thời duy trì thặng dư thương mại lớn với Hoa Kỳ và nhiều thị trường khác.
+* Sự đan xen chuỗi cung ứng là đặc điểm chung của kinh tế toàn cầu khi ngay cả Hoa Kỳ cũng phụ thuộc sâu vào chuỗi cung ứng Trung Quốc với nhà máy Tesla tại Thượng Hải, phần lớn iPhone được lắp ráp tại Trịnh Châu và hàng hóa Trung Quốc tràn ngập các siêu thị Mỹ.
+* Chính sách thuế quan và các biện pháp hạn chế thương mại của các cường quốc nhiều lần phải hoãn hoặc điều chỉnh vì gây tổn hại trực tiếp cho chính doanh nghiệp và người tiêu dùng trong nước, thực tế này chứng minh không một nền kinh tế lớn nào có thể tách rời thương mại toàn cầu.
+* Nhà nước Việt Nam chủ động giảm thiểu rủi ro bằng cách mở rộng thị trường xuất khẩu, tận dụng ưu đãi từ các hiệp định thương mại tự do, phát triển công nghiệp hỗ trợ và nâng cao năng lực sản xuất trong nước để bảo đảm tính độc lập, tự chủ của nền kinh tế.
+
 # 6. Về Quy hoạch Đô thị, Phát triển Hạ tầng và Đầu tư Công
 
 **Luận điệu:** Quy chụp "cán bộ húp, rút ruột các công trình" là bản chất của các dự án công; cho rằng công trình kém chất lượng là do ngân sách bị biển thủ.
