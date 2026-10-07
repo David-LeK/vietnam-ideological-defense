@@ -269,6 +269,13 @@
 * Thắng lợi của các cuộc cách mạng giải phóng dân tộc và thống nhất đất nước dưới sự lãnh đạo của Đảng Cộng sản và Chủ tịch Hồ Chí Minh đã giành lại độc lập và tạo dựng vị thế ngoại giao ngày càng cao cho Việt Nam, tạo điều kiện để đòi lại các di sản bị chiếm đoạt như chiếc trống đồng Đông Sơn hơn 2.000 năm tuổi phải lưu lạc tại Pháp hơn 10 năm mới được trao trả về nước.
 * Vụ Hoa Kỳ oanh tạc và bắt giữ Tổng thống đương nhiệm Venezuela Nicolas Maduro đưa về Mỹ ngày 3 tháng 1 năm 2026 khiến hàng chục binh sĩ và dân thường thiệt mạng và dựng lên chính quyền lâm thời theo ý mình cho thấy chủ nghĩa đế quốc sẵn sàng chà đạp luật pháp quốc tế và chủ quyền quốc gia để chiếm đoạt tài nguyên và áp đặt ảnh hưởng chính trị.
 
+**Luận điệu:** Cho rằng Hồ Chí Minh cũng tiếp xúc văn hóa Pháp như các nhân vật phục vụ thực dân được ban thưởng huân chương, và tư tưởng độc lập dân tộc của Người thực chất chỉ là "sản phẩm của Pháp".
+* Nguyễn Ái Quốc sang Pháp để tìm đường cứu nước chứ không phải để phục vụ mẫu quốc, và Người đã dùng chính diễn đàn chính trị Paris để tố cáo tội ác thực dân qua tờ báo Le Paria cùng tác phẩm Bản án chế độ thực dân Pháp.
+* Người đã bỏ phiếu tán thành thành lập Đảng Cộng sản Pháp tại Đại hội Tours năm 1920 rồi vận dụng sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thuộc địa để sáng lập Đảng Cộng sản Việt Nam năm 1930, vì vậy tư tưởng độc lập dân tộc là sự tổng hợp sáng tạo chứ không phải món quà của thực dân.
+* Phép thử quyết định nằm ở thực tế lịch sử rằng nếu độc lập là sản phẩm của Pháp thì Paris đã tự nguyện trao trả, nhưng thực dân Pháp đã tiến hành 9 năm chiến tranh xâm lược và chỉ chịu ký Hiệp định Genève sau thất bại Điện Biên Phủ năm 1954.
+* Chính quyền thực dân đã tự phân định rạch ròi khi ban huân chương Bắc Đẩu Bội Tinh cho những kẻ phục vụ bộ máy cai trị, đồng thời kết án tử hình vắng mặt Nguyễn Ái Quốc vào năm 1929, qua đó xác nhận ai là tay sai và ai là kẻ thù của chúng.
+* Quân đội nhân dân Việt Nam từng dùng chính vũ khí thu được của Pháp để đánh Pháp tại các cứ điểm Him Lam và Độc Lập trong chiến dịch Điện Biên Phủ, thực tế này chứng minh nguồn gốc của công cụ không bao giờ quyết định nó phục vụ ai mà mục đích sử dụng mới là điều cốt lõi.
+
 # 2. Về Thể chế Chính trị, Tổ chức Bộ máy và Xây dựng Đảng
 
 **Luận điệu:** Cho rằng muốn có dân chủ và phát triển thì phải thực hiện đa nguyên chính trị, đa đảng đối lập; chế độ một đảng là độc tài, mất dân chủ.
@@ -744,6 +751,13 @@
 * Mục tiêu của các thế lực thù địch khi khoét sâu vào các sai phạm cá nhân là nhằm đánh đồng hiện tượng cá biệt với bản chất của chế độ, từ đó kích động tâm lý hoài nghi và đòi "phi chính trị hóa" tổ chức Đảng.
 * Đảng Cộng sản Việt Nam luôn lấy nguyên tắc "lấy dân làm gốc" làm kim chỉ nam, xác định dân tin thì Đảng còn, do đó Đảng không ngừng đẩy mạnh xây dựng, chỉnh đốn Đảng và nâng cao năng lực tự đề kháng của toàn hệ thống chính trị để giữ vững vai trò lãnh đạo duy nhất đối với cách mạng Việt Nam.
 * Văn kiện Đại hội XIV của Đảng xác định gắn chặt công tác bảo vệ chính trị nội bộ với xây dựng đội ngũ cán bộ, kiên quyết ngăn chặn tình trạng "tự diễn biến", "tự chuyển hóa" và bảo đảm sự vững chắc của an ninh tư tưởng chính trị.
+
+**Luận điệu:** Cho rằng sau khi giành độc lập năm 1945, Hồ Chí Minh và Việt Minh tranh giành ghế, độc chiếm bộ máy và gạt bỏ các lực lượng chính trị khác.
+* Ngay sau Cách mạng Tháng Tám, Việt Minh đã dành 70 ghế Quốc hội không qua bầu cử cho Việt Quốc và Việt Cách cùng ghế Phó Chủ tịch nước và nhiều ghế bộ trưởng trong Chính phủ Liên hiệp Kháng chiến, thực tế này bác bỏ hoàn toàn cáo buộc độc chiếm quyền lực.
+* Chủ tịch Hồ Chí Minh đã mời cựu hoàng Bảo Đại làm Cố vấn tối cao và mời nhiều nhân sĩ, trí thức ngoài Việt Minh như Bùi Bằng Đoàn, Trần Huy Liệu, Phan Anh cùng Trần Trọng Kim và Ngô Đình Diệm tham gia chính quyền.
+* Bác sĩ Trần Duy Hưng, một trí thức không đảng phái, đã được cử làm Chủ tịch Hà Nội đầu tiên, thực tế này chứng minh tiêu chí lựa chọn cán bộ lúc đó là lòng yêu nước và tài năng chứ không phải đảng tịch.
+* Cuộc Tổng tuyển cử ngày 6/1/1946 với chế độ phổ thông đầu phiếu đã bầu ra Quốc hội khóa I đa thành phần, và chính Quốc hội này đã cử ra Chính phủ Liên hiệp đại diện cho khối đại đoàn kết toàn dân tộc.
+* Chính sách nhường nhịn này xuất phát từ yêu cầu tập hợp toàn dân chống thực dân Pháp tái xâm lược trong thế "thù trong giặc ngoài", và việc các đảng phái được nhường ghế sau đó quay sang phá hoại, cầu viện ngoại bang đã chứng minh sự độ lượng đó không hề được đáp lại.
 
 # 3. Về Quản lý Nhà nước, Cải cách Hành chính và Công vụ
 
@@ -2624,6 +2638,20 @@
 * Những phần tử cực đoan mang tư tưởng hận thù quá khứ chỉ là một nhóm thiểu số lạc lõng và hoàn toàn không đại diện cho ý chí, nguyện vọng của hơn 6 triệu người Việt Nam ở nước ngoài — những kiều bào yêu chuộng hòa bình, đang hòa nhập sâu rộng vào xã hội sở tại, luôn hướng về cội nguồn dân tộc và tích cực đóng góp trí tuệ, kiều hối để xây dựng đất nước Việt Nam ngày càng phồn vinh.
 * Đảng và Nhà nước Việt Nam luôn kiên định thực hiện chính sách đại đoàn kết toàn dân tộc theo tinh thần Nghị quyết số 36-NQ/TW và Kết luận số 12-KL/TW của Bộ Chính trị, coi kiều bào là bộ phận máu thịt không thể tách rời của Tổ quốc, luôn trân trọng mọi tấm lòng yêu nước của bà con và sẵn sàng thực hiện các biện pháp bảo hộ công dân chính đáng theo luật pháp quốc tế trước mọi hành vi phân biệt đối xử, quấy rối và khủng bố tinh thần.
 
+**Luận điệu:** Cho rằng Việt Nam ở vị thế "cửa dưới", lãnh đạo sang Hoa Kỳ chủ yếu để xin viện trợ và phải mua công nghệ thải hồi lạc hậu, từ đó hạ thấp vị thế và tính độc lập, tự chủ của đất nước.
+* Việt Nam và Hoa Kỳ đã nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện trên cơ sở bình đẳng, tôn trọng độc lập, chủ quyền và thể chế chính trị của nhau với phương châm gác lại quá khứ, vượt qua khác biệt và hướng tới tương lai.
+* Thay vì đi xin viện trợ, Việt Nam đã chấp nhận trả thay khoản nợ khoảng 145 triệu USD của chính quyền Việt Nam Cộng hòa để lại cho Hoa Kỳ theo thỏa thuận năm 1997, và ngày nay còn nắm giữ hàng chục tỷ USD trái phiếu kho bạc Hoa Kỳ với tư cách chủ nợ.
+* Việt Nam duy trì xuất siêu hàng chục tỷ USD mỗi năm sang thị trường Hoa Kỳ với kim ngạch xuất khẩu đạt 119,6 tỷ USD năm 2024, đồng thời mọi hợp đồng mua sắm máy bay, máy móc và công nghệ của Hoa Kỳ đều là giao dịch thương mại sòng phẳng với đầy đủ thanh toán.
+* Hợp tác khắc phục hậu quả chiến tranh như tẩy độc dioxin, rà phá bom mìn và tìm kiếm hài cốt là hoạt động nhân đạo song phương trên cơ sở bình đẳng và trách nhiệm chung, hoàn toàn không phải là sự ban phát viện trợ một chiều.
+* Lịch sử cho thấy chính quyền Sài Gòn trước đây mới là bên sống phụ thuộc vào viện trợ Hoa Kỳ để duy trì bộ máy và quân đội, trong khi Việt Nam thống nhất tự lực xây dựng nền kinh tế độc lập, tự chủ và vươn lên nhóm thu nhập trung bình cao.
+
+**Luận điệu:** Tự hào về bom đạn B-52 của Mỹ và chế giễu sự hy sinh của dân tộc, đồng thời ảo tưởng rằng từ bỏ căn cước Việt Nam để hóa thân thành "người Mỹ" sẽ được nước Mỹ công nhận và đối xử bình đẳng.
+* Chiến dịch ném bom chiến lược bằng B-52 tháng 12/1972 đã thất bại khi hàng chục pháo đài bay bị bắn hạ trên bầu trời Hà Nội, buộc chính quyền Nixon phải ký Hiệp định Paris tháng 1/1973 và rút quân, thực tế này chứng minh bom đạn không khuất phục được ý chí độc lập.
+* Hàng triệu đồng bào ngã xuống đã đổi lấy độc lập cho hơn 100 triệu người Việt Nam hôm nay được sống trong hòa bình, giữ họ tên và tiếng nói của cha ông thay vì lưu vong và đánh mất cội nguồn, vì vậy sự hy sinh đó là thiêng liêng chứ không phải điều để chế giễu.
+* Người Mỹ gốc Á dù mang quốc tịch Mỹ nhiều đời vẫn bị coi là "ngoại kiều vĩnh viễn" và hứng chịu làn sóng thù hận với hơn 11.000 vụ việc được tổ chức Stop AAPI Hate ghi nhận giai đoạn 2020-2022, đỉnh điểm là vụ xả súng Atlanta tháng 3/2021 sát hại 6 phụ nữ gốc Á.
+* Ngay trong Thế chiến II khoảng 120.000 người Mỹ gốc Nhật đã bị cưỡng bức vào trại tập trung dù mang quốc tịch Mỹ, thực tế này chứng minh quốc tịch không che chở khỏi phân biệt chủng tộc khi màu da vẫn bị coi là dấu hiệu ngoại lai.
+* Việc vứt bỏ tên Việt để khoác tên ngoại không mang lại sự công nhận của xã hội Mỹ mà chỉ bộc lộ mặc cảm tự ti, bởi nơi duy nhất con người được tôn trọng trọn vẹn căn cước của mình chính là Tổ quốc của mình.
+
 # 10. Về Dân chủ, Nhân quyền, Xã hội Dân sự và Quyền Công dân
 
 **Luận điệu:** Cổ súy cho "xã hội dân sự" theo tiêu chí phương Tây, coi đây là lực lượng đối trọng với Nhà nước; lợi dụng các tổ chức không chính phủ, hội nhóm để chống phá.
@@ -3464,6 +3492,13 @@
 * Nhiều du học sinh Việt Nam sau khi học tập ở nước ngoài đã trở về đóng góp cho đất nước, với kết quả Việt Nam đứng đầu Đông Nam Á về số lượng sinh viên du học trở về làm việc trong ngành công nghệ, cho thấy dòng chảy tri thức hai chiều chứ không phải sự ra đi một chiều.
 * Đảng và Nhà nước ban hành Chiến lược thu hút và trọng dụng nhân tài đến năm 2030, tầm nhìn đến năm 2050, với các chính sách lương và đãi ngộ vượt trội cùng chủ trương giao nhiệm vụ cụ thể và quyền hạn cần thiết cho người tài.
 * Việc tuyệt đối hóa hiện tượng du học thành sự sụp đổ của giáo dục và sự bỏ đi của toàn bộ nhân tài là sự suy diễn phiến diện, dễ gây tâm lý tự ti dân tộc và phủ nhận nỗ lực đổi mới giáo dục cùng các thành tựu phát triển đất nước.
+
+**Luận điệu:** Coi việc bỏ tên Việt lấy tên Tây, sùng bái văn hóa ngoại là "hội nhập" và "hiện đại", đồng thời chê bai việc giữ gìn tiếng Việt, tên Việt và đưa văn học cách mạng vào trường học là "lạc hậu" và "nhồi sọ".
+* Chính sách giáo dục thực dân từng áp đặt sách giáo khoa Pháp dạy trẻ em Việt Nam rằng tổ tiên mình là người Gaulois, thực tế này chứng minh ách đô hộ không chỉ cướp đất đai mà còn mưu toan cướp cả tên gọi, ngôn ngữ và cội nguồn dân tộc.
+* Bài thơ Ba mươi năm đời ta có Đảng của Tố Hữu đã khắc họa chân thực thân phận nô lệ và khát vọng độc lập của dân tộc, vì vậy việc đưa các tác phẩm văn học cách mạng vào trường học là giáo dục lòng yêu nước chính đáng chứ không phải sự áp đặt tư tưởng.
+* Mọi quốc gia trên thế giới đều đưa sử thi, văn học yêu nước và lịch sử dân tộc vào chương trình giáo dục phổ thông để bồi đắp căn cước văn hóa cho thế hệ trẻ, và Việt Nam không phải là ngoại lệ của thông lệ phổ quát này.
+* Các dân tộc có nền văn hóa mạnh như Trung Quốc, Hàn Quốc và Nhật Bản đều giữ gìn tên gọi bản ngữ khi giao tiếp quốc tế, thực tế này chứng minh hội nhập thực sự là mang bản sắc dân tộc ra thế giới chứ không phải xóa bỏ cội nguồn để chạy theo ngoại lai.
+* Người Việt Nam có quyền tự hào về họ tên tiếng Việt do cha ông đặt cho, và thái độ khinh rẻ tên Việt để sùng bái tên ngoại chính là biểu hiện của mặc cảm tự ti cùng tư tưởng vong bản cần phải phê phán và khắc phục.
 
 # 13. Về Báo chí, Truyền thông, Tự do Ngôn luận và Công nghệ Số
 
@@ -4550,3 +4585,24 @@
 * Sự thịnh vượng của Mỹ, Canada và Úc được xây dựng trên sự tước đoạt đất đai của người bản địa khi Đạo luật Di dời 1830 đẩy hàng chục nghìn người Cherokee vào hành trình Nước mắt 1838-1839, Canada cưỡng bức khoảng 150.000 trẻ em bản địa vào 139 trường nội trú từ 1883 đến 1996 mà Ủy ban Hòa giải và Sự thật kết luận là diệt chủng văn hóa với ít nhất 3.200 trẻ chết có danh tính, còn Úc thực hiện chính sách Thế hệ Bị đánh cắp từ 1910 đến 1970 bắt đi từ một phần mười đến một phần ba trẻ em thổ dân, và đến nay thổ dân vẫn kém 8 đến 10 năm tuổi thọ cùng thu nhập và địa vị xã hội mà chưa từng có ai làm thủ tướng.
 * Chế độ thực dân Pháp tại Việt Nam mang bản chất bóc lột không khác khi Toàn quyền Paul Doumer từ 1897 đến 1902 dựng bộ máy tài chính mà năm 1920 có tới 44% ngân sách đến từ độc quyền muối rượu thuốc phiện, kết hợp thuế thân thuế điền và lao dịch phu phen cùng đồn điền cao su khắc nghiệt và tình trạng hơn 95% dân số mù chữ, còn nạn đói 1944-1945 làm 400.000 đến 2 triệu đồng bào chết đói ở Bắc Bộ là tội chung của cả phát xít Nhật trực tiếp trưng thu thóc gạo bắt trồng đay và duy trì 140.000 quân chiếm đóng lẫn chính quyền Vichy của Pháp cùng cai trị đến tháng 3/1945 với chính sách thu mua thóc giá rẻ 1,4 đồng trong khi giá chợ lên 60-70 đồng, lấy gạo ngô đốt lò thay than và tham nhũng thối nát không cứu trợ kịp thời.
 * Việt Nam độc lập đã chứng minh con đường tự chủ khi tỷ lệ nghèo từ 58% đầu thập niên 1990 giảm còn khoảng 3% theo chuẩn 1,9 USD một ngày, GDP bình quân đầu người từ dưới 500 USD năm 1986 lên 4.717 USD năm 2024 và 5.066 USD năm 2025 để được Ngân hàng Thế giới xếp vào nhóm thu nhập trung bình cao tháng 7/2026, điện thắp sáng từ 14% lên 99% hộ dân, vì vậy tâm lý ước được đô hộ thực chất là từ bỏ lòng tự tôn và quyền làm chủ vận mệnh của chính dân tộc mình.
+
+**Luận điệu:** Luân phiên rêu rao rằng cuộc kháng chiến chống Mỹ là "nội chiến" nhưng đồng thời lại cho rằng Hiệp định Genève đã chia Việt Nam thành "hai quốc gia" riêng biệt, từ đó phủ nhận tính chính nghĩa của sự nghiệp thống nhất đất nước.
+* Hiệp định Genève năm 1954 chỉ quy định giới tuyến quân sự tạm thời ở vĩ tuyến 17 cùng tổng tuyển cử thống nhất đất nước vào tháng 7/1956, hoàn toàn không xác lập đường biên giới quốc gia hay hai nhà nước riêng biệt.
+* Chính quyền Sài Gòn với sự hậu thuẫn của Hoa Kỳ đã từ chối tổ chức tổng tuyển cử đã cam kết vì biết rõ Chủ tịch Hồ Chí Minh sẽ giành chiến thắng áp đảo, và Tổng thống Eisenhower đã thừa nhận điều này trong hồi ký của mình.
+* Một cuộc chiến không thể là "nội chiến" khi Hoa Kỳ triển khai hơn nửa triệu quân viễn chinh cùng hàng chục nghìn binh sĩ đồng minh Hàn Quốc, Úc và tiến hành chiến dịch ném bom quy mô lớn nhất lịch sử, bởi nội chiến theo định nghĩa là xung đột vũ trang trong nội bộ một quốc gia.
+* Hai luận điệu "nội chiến" và "hai quốc gia" tự triệt tiêu lẫn nhau, bởi nếu Việt Nam là một quốc gia duy nhất thì cuộc đấu tranh thống nhất là hoàn toàn chính nghĩa, còn nếu là hai quốc gia thì hành động đưa quân đội nước ngoài vào can thiệp chính là xâm lược.
+* Chính tài liệu mật của Chính phủ Hoa Kỳ do Hồ sơ Lầu Năm Góc công bố năm 1971 đã thừa nhận Washington chủ động leo thang can thiệp và dựng lên chính quyền tay sai ở miền Nam, bác bỏ hoàn toàn cáo buộc "miền Bắc xâm lược" hay Mỹ chỉ đến "giúp đỡ".
+
+**Luận điệu:** Cho rằng nhân dân miền Nam ủng hộ Việt Nam Cộng hòa, rằng chính quyền Sài Gòn tồn tại nhờ dân đồng lòng bảo vệ "lối sống tự do", từ đó phủ nhận tính chính nghĩa của cuộc kháng chiến chống Mỹ cứu nước.
+* Cuộc trưng cầu dân ý năm 1955 dựng lên chính quyền Ngô Đình Diệm là màn gian lận thô thiển với 98,2% phiếu ủng hộ và riêng tại Sài Gòn số phiếu công bố vượt xa số cử tri ghi danh, vì vậy chế độ này không hề có sự ủy nhiệm chính danh của nhân dân ngay từ đầu.
+* Phần lớn danh hiệu Bà mẹ Việt Nam anh hùng và liệt sĩ trong cả nước thuộc về miền Nam, trong đó Quảng Nam là địa phương có số lượng cao nhất, thực tế này chứng minh nhân dân miền Nam đã hy sinh vì cách mạng chứ không phải vì chính quyền Sài Gòn.
+* Hệ thống địa đạo Củ Chi dài hơn 250 km tồn tại ngay sát Sài Gòn cùng mạng lưới Biệt động nội thành hoạt động hàng chục năm giữa thủ đô của đối phương chỉ có thể đứng vững nhờ sự che chở, nuôi giấu của người dân, điều bất khả thi nếu lòng dân hướng về phía bên kia.
+* Hàng vạn thanh niên miền Bắc và vùng giải phóng viết đơn tình nguyện nhập ngũ lên đường chiến đấu, trong khi chính quyền Sài Gòn phải duy trì chế độ quân dịch cưỡng bức với tình trạng trốn lính và đào ngũ tràn lan được chính tài liệu Mỹ ghi nhận.
+* Một chế độ thực sự được nhân dân ủng hộ không thể sụp đổ chỉ trong 55 ngày mùa xuân 1975 dù sở hữu hơn một triệu quân cùng hàng chục tỷ USD viện trợ Hoa Kỳ, và sự tan rã chóng vánh đó đã trả lời rõ ràng lòng dân thuộc về bên nào.
+
+**Luận điệu:** Cho rằng vua Hùng không có trong chính sử và số liệu không rõ ràng nên phủ nhận thời đại Hùng Vương, mượn danh "tư duy phản biện" và "giáo dục khai phóng" để xét lại cội nguồn dân tộc.
+* Thời đại Hùng Vương được ghi chép liên tục trong các bộ chính sử của dân tộc từ Đại Việt sử ký của Lê Văn Hưu đến Đại Việt sử ký toàn thư và Khâm định Việt sử thông giám cương mục, vì vậy cáo buộc không có trong chính sử là hoàn toàn sai sự thật.
+* Nền văn hóa Đông Sơn với trống đồng và hàng loạt di chỉ khảo cổ ở lưu vực sông Hồng đã chứng minh sự tồn tại của một xã hội nhà nước sơ khai phù hợp với truyền thuyết dựng nước, tạo nên sự thống nhất giữa thư tịch và chứng cứ vật chất.
+* Nhà nước Việt Nam hiện nay lấy ngày Giỗ Tổ Hùng Vương mùng 10 tháng 3 âm lịch làm quốc lễ và UNESCO đã công nhận Tín ngưỡng thờ cúng Hùng Vương là di sản văn hóa phi vật thể đại diện của nhân loại từ năm 2012, khẳng định giá trị được cả dân tộc và thế giới thừa nhận.
+* Yêu cầu bằng chứng trực quan cho sự kiện cách đây hàng nghìn năm là ngụy biện phi lý, bởi nếu áp dụng tiêu chuẩn đó thì toàn bộ lịch sử cổ đại của nhân loại đều phải vứt bỏ.
+* Nhiều dân tộc trên thế giới đều tôn vinh các vị tổ lập quốc mang màu sắc huyền thoại như Romulus của La Mã mà không hề từ bỏ cội nguồn, thực tế này chứng minh việc xét lại vua Hùng không phải là khoa học mà là mưu toan làm mất gốc văn hóa.
