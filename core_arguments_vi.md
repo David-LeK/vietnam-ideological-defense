@@ -1641,6 +1641,14 @@
 * Các thế lực thù địch và phần tử cơ hội chính trị đã cố tình thổi phồng nỗi âu lo chính đáng của người dân vùng dự án, cắt ghép các hình ảnh tụ tập cảm xúc để quy chụp thể chế chính trị và kích động tư tưởng cực đoan, chia rẽ khối đại đoàn kết giữa nhân dân với Đảng và Nhà nước.
 * Các cơ quan quản lý nhà nước và chính quyền địa phương cần chủ động công khai minh bạch quy hoạch từ sớm, tăng cường đối thoại trực tiếp và tham vấn cộng đồng theo phương châm "dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng", đồng thời yêu cầu doanh nghiệp phối hợp chặt chẽ với cơ sở khi khảo sát thực địa, chủ động đấu tranh xử lý nghiêm các tin đồn thất thiệt trên không gian mạng và giám sát chặt chẽ các phương án bồi thường, đào tạo nghề để bảo đảm sinh kế lâu dài, bền vững cho nhân dân.
 
+**Luận điệu:** Cho rằng tình trạng ngập lụt triền miên tại TP.HCM là do chính quyền tham nhũng cố tình làm chậm các dự án chống ngập để trục lợi, quy hoạch yếu kém và năng lực kỹ thuật lạc hậu; cho rằng trước năm 1975 thành phố không ngập như vậy còn các đô thị tư bản không bao giờ ngập.
+* Tình trạng ngập lụt tại TP.HCM xuất phát từ nhiều nguyên nhân khách quan cộng hưởng như địa hình thấp trũng ven biển, nền đất yếu gây sụt lún trung bình 2–5cm mỗi năm, nước biển dâng, mưa cực đoan và triều cường vượt kỷ lục, chứ không thể quy chụp cho một nguyên nhân duy nhất là tham nhũng.
+* Ngập lụt đô thị là thách thức toàn cầu của mọi siêu đô thị hiện đại chứ không phải hiện tượng riêng của Việt Nam, khi các thành phố giàu có như New York, London và Thượng Hải cũng thường xuyên ngập sâu, phải ban bố tình trạng khẩn cấp và đóng cửa tàu điện ngầm sau mưa lớn.
+* Nhà nước không hề bỏ mặc hay cố tình kéo dài dự án chống ngập để trục lợi, khi TP.HCM đang triển khai đồng bộ 87 dự án chống ngập với tổng vốn hơn 140.000 tỷ đồng giai đoạn 2026–2030 và quyết tâm đưa siêu dự án ngăn triều gần 10.000 tỷ đồng với 6 cống ngăn triều khổng lồ vào vận hành trong tháng 11 năm 2026.
+* Những chậm trễ trong quá khứ chủ yếu do vướng mắc giải phóng mặt bằng, cơ chế vốn và thủ tục đầu tư phức tạp, trong khi Đảng và Nhà nước kiên quyết khởi tố, xử lý nghiêm mọi cán bộ, nhà thầu vi phạm trong các dự án đầu tư công theo nguyên tắc không có vùng cấm.
+* TP.HCM chủ động hợp tác chặt chẽ với Hà Lan và các đối tác quốc tế, thuê tư vấn Hà Lan nghiên cứu giải pháp thoát nước, ngăn triều và thích ứng biến đổi khí hậu, đồng thời phát triển hệ thống giám sát ngập bằng dữ liệu và trí tuệ nhân tạo để điều hành thoát nước theo lưu vực.
+* Việc so sánh tình trạng ngập hiện nay với thời kỳ trước năm 1975 là khập khiễng, bởi quy mô dân số, mật độ xây dựng và bê tông hóa hiện nay lớn gấp nhiều lần, trong khi biến đổi khí hậu và nước biển dâng ngày càng gay gắt, đòi hỏi các giải pháp thích ứng dài hạn thay vì phủ nhận nỗ lực của chính quyền.
+
 # 7. Về Tài nguyên, Môi trường, Chuyển đổi Xanh và Cứu hộ Cứu nạn
 
 **Luận điệu:** Xuyên tạc rằng "thiên tai ít, nhân tai nhiều", "hạ tầng không chịu cải thiện", so sánh với các nước phát triển, quy chụp mọi thiệt hại là lỗi của Đảng, Nhà nước; vu cáo chính quyền "vô cảm", "bỏ mặc dân", "ngăn cấm thiện nguyện"; cho rằng lực lượng vũ trang đi cứu hộ chỉ để "làm màu".
@@ -2927,6 +2935,14 @@
 * Thực tiễn cho thấy đa đảng không đồng nghĩa với dân chủ thực chất và phát triển, bởi quyền lực vẫn có thể bị chi phối bởi các nhóm lợi ích, còn đất nước vẫn rơi vào chia rẽ, bạo lực và lệ thuộc vào bên ngoài.
 * Việt Nam nhờ duy trì ổn định chính trị dưới sự lãnh đạo của Đảng Cộng sản đã giữ vững tăng trưởng, bảo đảm an ninh lương thực và mở rộng thị phần xuất khẩu, được chính các nước từng bất ổn coi là bài học kinh nghiệm.
 * Mọi luận điệu kích động Việt Nam từ bỏ ổn định để chạy theo các cuộc chính biến đường phố thực chất là mưu đồ gây rối, đẩy đất nước vào khủng hoảng như bài học nhãn tiền tại Bangladesh, Myanmar và Syria.
+
+**Luận điệu:** Cho rằng các thành viên của tổ chức Việt Tân bị bắt giữ khi nhập cảnh trái phép chỉ là những tiếng nói ôn hòa, rằng Việt Tân hợp pháp tại một số quốc gia nên Việt Nam không có quyền xử lý; đồng thời vận động chính phủ nước ngoài gây sức ép đòi trả tự do và vu cáo Việt Nam đàn áp tự do ngôn luận.
+* Tổ chức Việt Tân đã bị Bộ Công an Việt Nam chính thức liệt vào danh sách tổ chức khủng bố từ năm 2016 do tiến hành các hoạt động vũ trang, ám sát và phá hoại nhằm lật đổ chính quyền nhân dân, vì vậy mọi hành vi tham gia, tài trợ hay nhập cảnh để hoạt động cho tổ chức này đều cấu thành tội phạm theo pháp luật hình sự Việt Nam.
+* Ba đối tượng bị khởi tố, bắt tạm giam tại Tây Ninh đã nhập cảnh trái phép từ Campuchia vào Việt Nam và bị điều tra về tội khủng bố cùng tội làm giả tài liệu, đây là hành vi vi phạm pháp luật hình sự rõ ràng chứ không phải là hoạt động bày tỏ chính kiến ôn hòa.
+* Nguyên tắc chủ quyền quốc gia quy định mỗi nước có quyền tự quyết về hệ thống pháp luật của mình, nên việc một tổ chức được dung túng hoạt động tại một số quốc gia khác không thể mặc nhiên biến tổ chức đó thành hợp pháp tại Việt Nam.
+* Việc các tổ chức nhân quyền và chính khách nước ngoài vận động Australia, Na Uy hoặc các cơ chế quốc tế gây sức ép đòi trả tự do vô điều kiện cho những cá nhân vi phạm pháp luật an ninh quốc gia là hành vi can thiệp vào công việc nội bộ, đi ngược lại Hiến chương Liên hợp quốc và nguyên tắc tự quyết dân tộc.
+* Sự im lặng có chọn lọc của các tổ chức này trước những thảm kịch nhân đạo nghiêm trọng như thương vong của dân thường tại Gaza hay các vụ can thiệp quân sự, bắt giữ lãnh đạo nước khác cho thấy rõ tiêu chuẩn kép, khi nhân quyền bị biến thành công cụ chính trị để gây sức ép với Việt Nam.
+* Pháp luật Việt Nam bảo đảm đầy đủ quyền tự do ngôn luận, khiếu nại và phản biện trong khuôn khổ Hiến pháp, và chỉ xử lý những hành vi lợi dụng các quyền này để nhập cảnh trái phép, cấu kết với tổ chức khủng bố hoặc lật đổ chính quyền, đúng như thông lệ của mọi nhà nước pháp quyền trên thế giới.
 
 # 11. Về Dân tộc, Tôn giáo và Đại đoàn kết Toàn dân tộc
 
