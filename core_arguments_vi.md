@@ -1588,6 +1588,13 @@
 * Chính sách thuế quan và các biện pháp hạn chế thương mại của các cường quốc nhiều lần phải hoãn hoặc điều chỉnh vì gây tổn hại trực tiếp cho chính doanh nghiệp và người tiêu dùng trong nước, thực tế này chứng minh không một nền kinh tế lớn nào có thể tách rời thương mại toàn cầu.
 * Nhà nước Việt Nam chủ động giảm thiểu rủi ro bằng cách mở rộng thị trường xuất khẩu, tận dụng ưu đãi từ các hiệp định thương mại tự do, phát triển công nghiệp hỗ trợ và nâng cao năng lực sản xuất trong nước để bảo đảm tính độc lập, tự chủ của nền kinh tế.
 
+**Luận điệu:** Cho rằng người Việt ghét VinFast vì hãng giả dối và gian lận, đem hàng Tàu về gắn mác hàng Việt mà không sản xuất được gì ngoài biển số và chữ V với tỷ lệ linh kiện nội địa thấp, đồng thời dùng quan hệ để áp bức người chê bai, che giấu lỗi xe như vụ rớt bánh mà không triệu hồi hay giải thích và báo công an bắt người dám lên tiếng.
+* Cáo buộc giả dối và gian lận được đưa ra hoàn toàn không kèm theo bất kỳ bằng chứng cụ thể nào về hành vi gian lận, trong khi những người đưa ra cáo buộc cũng không chỉ ra được thiệt hại hay sự áp bức mà bản thân phải chịu, vì vậy đây là sự vu khống vô căn cứ chứ không phải phản biện.
+* Xe điện VinFast đạt tỷ lệ nội địa hóa tới 60%, cao hơn mức dưới 40% mà Toyota đạt được sau 30 năm có mặt tại Việt Nam, đồng thời hãng đặt mục tiêu nâng lên 80 đến 84% vào năm 2026, thực tế này đập tan luận điệu không sản xuất được gì ngoài biển số.
+* Không một hãng xe toàn cầu nào tự làm 100% linh kiện trong một quốc gia khi chuỗi cung ứng ô tô vốn phân bổ qua nhiều nước để tối ưu chi phí, vì vậy việc VinFast nhập khẩu một phần linh kiện như mọi hãng xe khác hoàn toàn không đồng nghĩa với đem hàng Tàu gắn mác Việt.
+* VinFast đã xuất khẩu 999 ô tô điện VF 8 đầu tiên sang Mỹ rồi tiếp tục đưa 1.800 xe sang Mỹ và Canada, những thị trường áp dụng tiêu chuẩn kiểm định khắt khe nhất thế giới, thực tế này chứng minh chất lượng xe là thật chứ không thể dùng hàng giả đội lốt mà lọt qua được.
+* VinFast đang tạo công ăn việc làm cho hơn 12.400 nhân viên cùng hàng nghìn tỷ đồng tiền thuế nộp ngân sách mỗi năm, đồng thời công khai triệu hồi gần 6.000 xe điện để khắc phục lỗi, thái độ trách nhiệm này khẳng định hãng kinh doanh thật chứ không lừa dối người tiêu dùng, còn pháp luật chỉ xử lý hành vi bịa đặt, vu khống chứ không ai bị bắt chỉ vì chê xe một cách trung thực.
+
 # 6. Về Quy hoạch Đô thị, Phát triển Hạ tầng và Đầu tư Công
 
 **Luận điệu:** Quy chụp "cán bộ húp, rút ruột các công trình" là bản chất của các dự án công; cho rằng công trình kém chất lượng là do ngân sách bị biển thủ.
