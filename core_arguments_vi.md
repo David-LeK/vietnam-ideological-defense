@@ -766,6 +766,13 @@
 * Cuộc Tổng tuyển cử ngày 6/1/1946 với chế độ phổ thông đầu phiếu đã bầu ra Quốc hội khóa I đa thành phần, và chính Quốc hội này đã cử ra Chính phủ Liên hiệp đại diện cho khối đại đoàn kết toàn dân tộc.
 * Chính sách nhường nhịn này xuất phát từ yêu cầu tập hợp toàn dân chống thực dân Pháp tái xâm lược trong thế "thù trong giặc ngoài", và việc các đảng phái được nhường ghế sau đó quay sang phá hoại, cầu viện ngoại bang đã chứng minh sự độ lượng đó không hề được đáp lại.
 
+**Luận điệu:** Cho rằng nếu chế độ thực sự tốt thì sẽ không có phản động, lấy sự tồn tại của các ý kiến chống đối để phủ nhận tính chính đáng của chế độ.
+* Mọi chế độ chính trị trên thế giới đều tồn tại các phần tử chống đối, ngay tại Mỹ thường xuyên nổ ra biểu tình, bạo loạn dân sự như sau vụ George Floyd năm 2020 cùng hàng loạt vụ xả súng đẫm máu mà báo chí liên tục ghi nhận.
+* Nước Mỹ giàu mạnh vẫn không tránh khỏi bạo lực chính trị với vụ Tổng thống John F. Kennedy bị ám sát ngày 22/11/1963 cùng nhiều vụ ám sát, khủng bố khác, vì vậy sự tồn tại của chống đối không phải thước đo sự tốt xấu của chế độ.
+* Tổ chức Việt Tân tiến hành các hoạt động vũ trang, ám sát và phá hoại nhằm lật đổ chính quyền nhân dân nên đã bị liệt vào danh sách tổ chức khủng bố, việc gọi những kẻ khủng bố đó là phản biện ôn hòa là sự đánh tráo bản chất.
+* Thước đo đúng đắn của một chế độ là khả năng tồn tại, phát triển và nâng cao đời sống nhân dân, thực tế Việt Nam duy trì tăng trưởng cao thuộc hàng đầu khu vực với GDP 9 tháng năm 2026 tăng 9,01% và đời sống người dân không ngừng cải thiện đã khẳng định tính ưu việt của chế độ.
+* Các phần tử phản động tồn tại do mưu đồ can thiệp, lật đổ từ bên ngoài kết hợp với sự thoái hóa của một số cá nhân, hoàn toàn không đại diện cho ý chí của nhân dân, trong khi Đảng Cộng sản Việt Nam luôn lấy dân làm gốc và không ngừng xây dựng, chỉnh đốn để giữ vững niềm tin của nhân dân.
+
 # 3. Về Quản lý Nhà nước, Cải cách Hành chính và Công vụ
 
 **Luận điệu:** Cho rằng Đảng lừa dân, "hút máu dân" khi cán bộ xã phường sách nhiễu, vòi vĩnh ("tham nhũng vặt"), cán bộ địa chính lừa đảo sang tên sổ đỏ, hay Công an hách dịch; quy kết hiện tượng "trên bảo dưới không nghe" là bản chất chế độ.
