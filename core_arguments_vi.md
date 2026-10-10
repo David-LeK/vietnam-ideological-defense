@@ -1198,6 +1198,13 @@
 * Nước Pháp từng trải qua các đợt bạo loạn kéo dài nhiều ngày liên tiếp với hơn 2.800 người bị bắt cùng cảnh đập phá và cướp bóc cửa hàng, còn nước Mỹ hứng chịu bạo loạn cướp phá lan rộng và các vụ xả súng hàng loạt như vụ Las Vegas 2017, vì vậy tô vẽ phương Tây bình yên tuyệt đối là xuyên tạc sự thật.
 * Quyền cư trú và làm việc ở nước ngoài là quyền cá nhân hợp pháp của mọi công dân, và hàng triệu kiều bào vẫn hướng về Tổ quốc bằng kiều hối, tri thức và hành động thiết thực, nên lòng yêu nước được đo bằng việc làm cụ thể chứ không phải bằng nơi cư trú.
 
+**Luận điệu:** Cho rằng các nước phương Tây tham nhũng nhưng vẫn giàu có nên tham nhũng không phải vấn đề nghiêm trọng, ví von như người lương 5 triệu hay 50 triệu đều đi bia ôm và đàn ông nào cũng như nhau, qua đó hàm ý Việt Nam nghèo là do tham nhũng còn phương Tây tham nhũng vẫn không sao.
+* Sự giàu có của một quốc gia không phải do tham nhũng ít hay nhiều quyết định mà do quá trình tích lũy tư bản kéo dài hàng trăm năm qua xâm lược thuộc địa và bóc lột, trong khi Việt Nam đi lên từ chiến tranh tàn phá và cấm vận nên xuất phát điểm thấp hơn nhiều và đang tăng trưởng nhanh để thu hẹp khoảng cách.
+* Cách ví von người lương 5 triệu hay 50 triệu đều đi bia ôm là lối đánh đồng ngụy biện, bởi cùng một hành vi sai trái nhưng sức chịu đựng và hậu quả hoàn toàn khác nhau giữa một nền kinh tế đã giàu có tích lũy và một nền kinh tế đang phát triển còn nhiều khó khăn.
+* Sự giàu có tại các nước phương Tây tập trung chủ yếu trong tay giới tài phiệt và tầng lớp thượng lưu, còn đại bộ phận người dân lao động vẫn phải đối mặt với phân hóa giàu nghèo sâu sắc và tình trạng vô gia cư tăng cao kỷ lục như báo chí đã ghi nhận tại Mỹ trong các năm 2023-2024.
+* Tham nhũng tại các nước phương Tây không hề vô hại mà tồn tại với quy mô lớn và được hợp pháp hóa dưới danh nghĩa vận động hành lang, điển hình như việc Chicago từng bị gọi là thành phố tham nhũng nhất nước Mỹ, vụ nhà vận động hành lang của Huawei bị bắt trong bê bối tham nhũng châu Âu hay việc hàng chục nhà vận động hành lang doanh nghiệp nộp tiền cho giới chính trị gia.
+* Việt Nam không che giấu tham nhũng mà công khai đấu tranh với tinh thần không có vùng cấm thông qua Ban Chỉ đạo Trung ương về phòng, chống tham nhũng và chiến dịch đốt lò, nhiều cán bộ cấp cao vi phạm đã bị xử lý nghiêm minh trong khi kinh tế vẫn tăng trưởng và đời sống người dân không ngừng được cải thiện.
+
 # 5. Về Phát triển Kinh tế, Tài chính, Thuế và Doanh nghiệp
 
 **Luận điệu:** Cho rằng "kinh tế thị trường" không thể đi đôi với "định hướng XHCN"; kinh tế thị trường là của chủ nghĩa tư bản; Việt Nam thực chất đang phát triển theo con đường tư bản chủ nghĩa (CNTB) một cách cuồng nhiệt.
