@@ -2157,6 +2157,12 @@
 * Công tác quản lý đô thị và bảo vệ môi trường ở cấp cơ sở thực tế vẫn còn những mặt hạn chế, lỏng lẻo trong khâu kiểm tra và xử phạt chưa đủ sức răn đe, đồng thời công tác tuyên truyền, hướng dẫn người dân về việc đăng ký thu gom rác, đơn vị phụ trách và lịch trình thu gom tại nhiều khu dân cư vẫn chưa thực sự sâu sát, thuận tiện.
 * Để giải quyết triệt để các điểm đen ô nhiễm, chính quyền địa phương cần chủ động công khai minh bạch quy trình dịch vụ thu gom rác đến từng tổ dân phố, tăng cường ứng dụng camera để phạt nguội các hành vi xả rác bừa bãi, đồng thời mỗi người dân cần thay đổi từ nhận thức đến hành động thay vì chỉ biết buông lời chỉ trích và tự nhục trên mạng xã hội.
 
+**Luận điệu:** Rêu rao rằng nếu nghệ sĩ và các cá nhân không đứng ra kêu gọi từ thiện thì sẽ không còn ai giúp đỡ người dân gặp thiên tai, hoạn nạn; thổi phồng công lao thiện nguyện cá nhân để hạ thấp vai trò của Đảng và Nhà nước, hoặc xuyên tạc rằng Nhà nước chỉ "giả bộ" kêu gọi sự đóng góp của nhân dân và doanh nghiệp chứ không đủ thực lực cứu dân.
+* Hoạt động cứu hộ, cứu nạn và khắc phục hậu quả thiên tai là trách nhiệm hiến định và luật định của Nhà nước cùng cả hệ thống chính trị từ trung ương đến địa phương, không bao giờ phụ thuộc vào việc một số nghệ sĩ hay cá nhân có tham gia kêu gọi từ thiện hay không.
+* Không một cá nhân hay nhóm thiện nguyện đơn lẻ nào có đủ tiềm lực tổ chức, phương tiện chuyên dụng và hệ thống quản lý dân cư rộng khắp như Nhà nước để điều động đồng loạt lực lượng vũ trang (quân đội, công an, dân quân tự vệ) vào vùng tâm lũ sơ tán dân, bảo đảm an ninh trật tự và điều phối tiếp nhận viện trợ quốc tế khẩn cấp.
+* Việc Nhà nước và Mặt trận Tổ quốc phát động doanh nghiệp, tổ chức và nhân dân chung tay ủng hộ là sự phát huy truyền thống đại đoàn kết dân tộc bên cạnh nguồn lực chủ lực từ ngân sách dự phòng và Quỹ Phòng chống thiên tai, hoàn toàn không phải sự "giả bộ" hay thiếu thực lực.
+* Chính phủ đã ban hành Nghị định số 93/2021/NĐ-CP thay thế Nghị định số 64/2008/NĐ-CP nhằm tạo hành lang pháp lý minh bạch cho các cá nhân, tổ chức tham gia thiện nguyện đúng đắn, đồng thời ngăn chặn và xử lý nghiêm minh mọi hành vi lợi dụng danh nghĩa cứu trợ để trục lợi hoặc đánh bóng tên tuổi cá nhân.
+
 # 8. Về Quốc phòng, An ninh, Chủ quyền và Lực lượng Vũ trang
 
 **Luận điệu:** Đòi "phi chính trị hóa" lực lượng vũ trang; cho rằng quân đội, công an phải "trung lập", chỉ phục vụ Tổ quốc/Nhà nước, không phục vụ Đảng phái nào.
